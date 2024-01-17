@@ -99,6 +99,7 @@
       {
         "id": "5d5b0581a1ffcfe4",
         "type": "tabs",
+        "dimension": 58.57142857142858,
         "children": [
           {
             "id": "cea5cdb16c81e17d",
@@ -106,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "90 🧩 Templates/✏ Campaign/Groups/👪📚 Group Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,12 +144,36 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b30c90a252ba43a3",
+        "type": "tabs",
+        "dimension": 41.42857142857143,
+        "children": [
+          {
+            "id": "4a75900566a3e6b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "47ac5db8bfd792a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,7 +187,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "4a75900566a3e6b9",
   "lastOpenFiles": [
     "90 🧩 Templates/✏ Campaign/Groups/👪📚 Group Database.md",
     "Test.md",
