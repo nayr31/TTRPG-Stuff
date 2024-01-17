@@ -1,6 +1,7 @@
 ---
 NoteIcon: Group
 Type: Crew
+Logo: "![[BRB.png]]"
 ---
 **Assets:**
 - Free hear from [[Scram Cat]]

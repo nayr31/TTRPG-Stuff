@@ -10,14 +10,30 @@
           {
             "id": "0dbbb9ca35ce60fa",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "database-plugin",
               "state": {
                 "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0a4b5d87614a4655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,12 +111,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "collapse-forces": false,
+                  "centerStrength": 0.536458333333333,
+                  "repelStrength": 0.416666666666667,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5087618855792589,
+                  "linkDistance": 108,
+                  "scale": 0.7132754626224425,
                   "close": true
                 }
               }
@@ -158,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -229,9 +245,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0dbbb9ca35ce60fa",
+  "active": "0a4b5d87614a4655",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/The Wicks.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Lazy Bunny.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/BRB.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/New folder",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Garek.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Phox.md",
@@ -251,22 +275,17 @@
     "90 🧩 Templates/Slug NPC.md",
     "90 🧩 Templates/NPC.md",
     "90 🧩 Templates/Player.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Normies.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Freaks.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Mavens.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Heads.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Thrashers.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Fust.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables",
     "Bloodclotte/Quest Locations",
     "Bloodclotte/Wards",
     "Bloodclotte/Religions",
-    "Bloodclotte/Cities",
-    "Bloodclotte/Setting",
     "10 🧙 Player Campaigns/🦌 DHS/Draum_Hunting_Supply_Logo.png",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Masud_Cyclone_Ba_Token.png",
@@ -275,9 +294,6 @@
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Appalachia_Token.png",
     "10 🧙 Player Campaigns/🦌 DHS/Players/Art/Horseshoe_c.png",
     "DHS/Players/Art/Horseshoe_c.jpg",
-    "10 🧙 Player Campaigns/🦌 DHS/Players/Art/Sky Devil.png",
-    "10 🧙 Player Campaigns/🦌 DHS/Players/Art/Hound.png",
-    "10 🧙 Player Campaigns/🦌 DHS/Players/Art/Horseshoe.png",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",
     "Conscience/Players/Kai Canvas.canvas",
