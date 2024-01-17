@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c763091038b1775",
+        "id": "0960afc59c61f2da",
         "type": "tabs",
         "children": [
           {
-            "id": "335e005d120a2853",
+            "id": "0dbbb9ca35ce60fa",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -29,7 +29,7 @@
       {
         "id": "6972c6fe3edf9909",
         "type": "tabs",
-        "dimension": 60.82848837209303,
+        "dimension": 40,
         "children": [
           {
             "id": "96c5404588fc3b4a",
@@ -67,9 +67,51 @@
         ]
       },
       {
+        "id": "2ce5ec122f0ef99a",
+        "type": "tabs",
+        "dimension": 31,
+        "children": [
+          {
+            "id": "1fa229dd8b7f3336",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792589,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "8ddab16f8a1ffc35",
         "type": "tabs",
-        "dimension": 39.17151162790697,
+        "dimension": 28.999999999999996,
         "children": [
           {
             "id": "18e56d355d249aa8",
@@ -118,7 +160,7 @@
               "state": {
                 "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -132,14 +174,6 @@
                 "showSearch": false,
                 "searchQuery": ""
               }
-            }
-          },
-          {
-            "id": "c2c659492e5cbda7",
-            "type": "leaf",
-            "state": {
-              "type": "help-mate",
-              "state": {}
             }
           },
           {
@@ -161,8 +195,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b30c90a252ba43a3",
@@ -196,45 +229,45 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "335e005d120a2853",
+  "active": "0dbbb9ca35ce60fa",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Doorways.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Shimmer.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Dara.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Aborists.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Garek.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Phox.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Lyyra.md",
+    "90 🧩 Templates/Slug Crew.md",
     "90 🧩 Templates/Group.md",
-    "90 🧩 Templates/Player.md",
-    "90 🧩 Templates/NPC.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Group.md",
-    "90 🧩 Templates/✏ Campaign/Groups/👪📚 Group Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Untitled",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Bez.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Whiplash.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/K-jump.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Wants, Needs.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs",
     "Notes.md",
-    "Test.md",
-    "90 🧩 Templates/✏ Campaign/Dashboard.md",
-    "Bloodclotte/🩸 Bloodclotte Dashboard.md",
-    "Bloodclotte/NPCs/👨‍🌾📚 NPC Database.md",
-    "Bloodclotte/NPCs/Buried Cardinal.md",
-    "Bloodclotte/NPCs/Eirian Taniel.md",
-    "Bloodclotte/NPCs/Agnes Raine.md",
-    "Bloodclotte/NPCs/Nikodim Allana.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Names.md",
+    "90 🧩 Templates/Slug NPC.md",
+    "90 🧩 Templates/NPC.md",
+    "90 🧩 Templates/Player.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Normies.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Freaks.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Mavens.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Heads.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Thrashers.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Fust.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables",
     "Bloodclotte/Quest Locations",
     "Bloodclotte/Wards",
     "Bloodclotte/Religions",
     "Bloodclotte/Cities",
     "Bloodclotte/Setting",
     "10 🧙 Player Campaigns/🦌 DHS/Draum_Hunting_Supply_Logo.png",
-    "Bloodclotte/NPCs/Art",
-    "Bloodclotte/Players/Art",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Masud_Cyclone_Ba_Token.png",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Merrow.png",
