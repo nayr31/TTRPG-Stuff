@@ -82,6 +82,8 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Crew", value: "Crew", color: "hsl(290, 95%, 90%)"}
+      - { label: "Authorities", value: "Authorities", color: "hsl(0,100%,72%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -91,6 +93,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
   NoteIcon:
     input: select
     accessorKey: NoteIcon
@@ -131,7 +134,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
-  current_row_template: 
+  current_row_template: 90 🧩 Templates/Group.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false

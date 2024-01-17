@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "90 🧩 Templates/✏ Campaign/Groups/👪📚 Group Database.md"
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md"
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +151,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "e92fe904f3e396b4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ],
@@ -188,11 +196,30 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "47ac5db8bfd792a2",
+  "active": "335e005d120a2853",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Doorways.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Shimmer.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Dara.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Aborists.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
+    "90 🧩 Templates/Group.md",
+    "90 🧩 Templates/Player.md",
+    "90 🧩 Templates/NPC.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Group.md",
     "90 🧩 Templates/✏ Campaign/Groups/👪📚 Group Database.md",
-    "Test.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Untitled",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables",
     "Notes.md",
+    "Test.md",
     "90 🧩 Templates/✏ Campaign/Dashboard.md",
     "Bloodclotte/🩸 Bloodclotte Dashboard.md",
     "Bloodclotte/NPCs/👨‍🌾📚 NPC Database.md",
@@ -200,33 +227,14 @@
     "Bloodclotte/NPCs/Eirian Taniel.md",
     "Bloodclotte/NPCs/Agnes Raine.md",
     "Bloodclotte/NPCs/Nikodim Allana.md",
-    "Bloodclotte/NPCs/Julius Norene.md",
-    "Bloodclotte/NPCs/Tsisana.md",
-    "Bloodclotte/NPCs/Tuija Sindri.md",
-    "Bloodclotte/NPCs/Sylvain Rumena.md",
-    "Bloodclotte/Wards/Symmetrist.md",
     "Bloodclotte/Quest Locations",
-    "Bloodclotte/Wards/Cultivator.md",
-    "Bloodclotte/Wards/Yellow Chemist.md",
-    "Bloodclotte/Wards/Sawbones.md",
-    "Bloodclotte/Wards/Nurseteer.md",
-    "Bloodclotte/Wards/Metaphysician.md",
-    "Bloodclotte/Wards/Iatromath.md",
-    "Bloodclotte/For you, the reader.md",
-    "Bloodclotte/Wards/Death Priest.md",
-    "Bloodclotte/Wards/Ward Advice.md",
-    "Bloodclotte/Setting/Cradle.md",
     "Bloodclotte/Wards",
-    "Bloodclotte/Patient Track.md",
     "Bloodclotte/Religions",
     "Bloodclotte/Cities",
     "Bloodclotte/Setting",
     "10 🧙 Player Campaigns/🦌 DHS/Draum_Hunting_Supply_Logo.png",
     "Bloodclotte/NPCs/Art",
     "Bloodclotte/Players/Art",
-    "🩸 Bloodclotte/Sessions",
-    "Bloodclotte/Quests",
-    "Bloodclotte/NPCs",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Masud_Cyclone_Ba_Token.png",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Merrow.png",
