@@ -1,0 +1,14 @@
+---
+aliases:
+  - DHS
+---
+Frame manufacturer that used to supply hunting materials.
+
+Blurb:
+> Draum Hunting Supply finds itself in an unusual position as to how it has remained not bought out by larger corporations; the holdings it owns cannot be sold. DHS, formerly known as Draum Planetary Tours, was a planetary travel agency that would book trips to the Draum system, a planetary system in the Sierra Madre Line famously known for having three separate worlds in the goldilocks zone. Each planet (DRM-II,III, and IV) has unique ecosystems teeming with a variety of spectacular fauna and flora that make them perfect travel destinations. Much of the land on these sites were bought by Edward Hevell who partnered with the local governments to make them nature preserves and thus could never be used for anything but experiencing the unique beauty each site beholds.
+> 
+> This progressed until the company was passed down to Edward Hevell Jr, who expanded the company and purchased land for sites across other star systems, but still worked with local governing bodies to put restrictions on the sites so as to prevent their misuse and ensured the longevity of the company as the unique status of their holdings prevented the company from getting bought out without permission from each partner of their respective site. The one exception being that the company could hold seasonal hunting expeditions in addition to the travel/camping trips they traditionally offer. This led to an explosion of success as many of the new sites leveraged a variety of unique and interesting wildlife game. Up until then, traditional hunting expeditions were done on foot with assistance from equipment, but as the number of hunting sites expanded and offered more and more dangerous game, Draum underwent a long endeavor under new owner Edward Hevell III to produce proprietary frames to give customers a unique edge on their expeditions.
+> 
+> With the release of Draum’s first proprietary line, the Kola Line, Draum Planetary Tours rebranded to Draum Hunting Supply. This release also shifted the company’s priorities to focus on securing fleet contracts with their proprietary designs, a task that saw little success and forced the company to rethink their efforts and focus on smaller scale contracts with a focus on cordial long term partnerships between customer and supplier.
+> 
+> Since then, DHS has released a second proprietary line, the Vostok line, and Draum frames have found themselves used all throughout space by those on the hunt. Whether it be for sport, food, glory, money, or even revenge, DHS provides the finest tools for the hunt.

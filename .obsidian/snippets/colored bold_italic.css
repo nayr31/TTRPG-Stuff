@@ -1,0 +1,12 @@
+/* ====== Bold ====== */
+
+
+body {
+    --bold-weight: var(--font-semibold);
+    --bold-color: var(--color-red);
+}
+
+/* Italic */
+body {
+    --italic-color: var(--color-orange);
+}

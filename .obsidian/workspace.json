@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "97adcc1a711338c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c763091038b1775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "335e005d120a2853",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "90 🧩 Templates/✏ Campaign/Groups/👪📚 Group Database.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "478a460ccc65c887",
+    "type": "split",
+    "children": [
+      {
+        "id": "6972c6fe3edf9909",
+        "type": "tabs",
+        "dimension": 60.82848837209303,
+        "children": [
+          {
+            "id": "96c5404588fc3b4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9529419239fec241",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8839220985f11b3f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ddab16f8a1ffc35",
+        "type": "tabs",
+        "dimension": 39.17151162790697,
+        "children": [
+          {
+            "id": "18e56d355d249aa8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269
+  },
+  "right": {
+    "id": "d0fbd480141c853b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5b0581a1ffcfe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea5cdb16c81e17d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6098f02e0d9d58c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c2c659492e5cbda7",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c97e46c2426a5f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excel:Create Excel File": false,
+      "templates:Insert template": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "96c5404588fc3b4a",
+  "lastOpenFiles": [
+    "90 🧩 Templates/✏ Campaign/Groups/👪📚 Group Database.md",
+    "Test.md",
+    "Notes.md",
+    "90 🧩 Templates/✏ Campaign/Dashboard.md",
+    "Bloodclotte/🩸 Bloodclotte Dashboard.md",
+    "Bloodclotte/NPCs/👨‍🌾📚 NPC Database.md",
+    "Bloodclotte/NPCs/Buried Cardinal.md",
+    "Bloodclotte/NPCs/Eirian Taniel.md",
+    "Bloodclotte/NPCs/Agnes Raine.md",
+    "Bloodclotte/NPCs/Nikodim Allana.md",
+    "Bloodclotte/NPCs/Julius Norene.md",
+    "Bloodclotte/NPCs/Tsisana.md",
+    "Bloodclotte/NPCs/Tuija Sindri.md",
+    "Bloodclotte/NPCs/Sylvain Rumena.md",
+    "Bloodclotte/Wards/Symmetrist.md",
+    "Bloodclotte/Quest Locations",
+    "Bloodclotte/Wards/Cultivator.md",
+    "Bloodclotte/Wards/Yellow Chemist.md",
+    "Bloodclotte/Wards/Sawbones.md",
+    "Bloodclotte/Wards/Nurseteer.md",
+    "Bloodclotte/Wards/Metaphysician.md",
+    "Bloodclotte/Wards/Iatromath.md",
+    "Bloodclotte/For you, the reader.md",
+    "Bloodclotte/Wards/Death Priest.md",
+    "Bloodclotte/Wards/Ward Advice.md",
+    "Bloodclotte/Setting/Cradle.md",
+    "Bloodclotte/Wards",
+    "Bloodclotte/Patient Track.md",
+    "Bloodclotte/Religions",
+    "Bloodclotte/Cities",
+    "Bloodclotte/Setting",
+    "10 🧙 Player Campaigns/🦌 DHS/Draum_Hunting_Supply_Logo.png",
+    "Bloodclotte/NPCs/Art",
+    "Bloodclotte/Players/Art",
+    "🩸 Bloodclotte/Sessions",
+    "Bloodclotte/Quests",
+    "Bloodclotte/NPCs",
+    "Lancer/Vertenia.canvas",
+    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Masud_Cyclone_Ba_Token.png",
+    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Merrow.png",
+    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Fischer.png",
+    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Appalachia_Token.png",
+    "10 🧙 Player Campaigns/🦌 DHS/Players/Art/Horseshoe_c.png",
+    "DHS/Players/Art/Horseshoe_c.jpg",
+    "10 🧙 Player Campaigns/🦌 DHS/Players/Art/Sky Devil.png",
+    "10 🧙 Player Campaigns/🦌 DHS/Players/Art/Hound.png",
+    "10 🧙 Player Campaigns/🦌 DHS/Players/Art/Horseshoe.png",
+    "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
+    "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",
+    "Conscience/Players/Kai Canvas.canvas",
+    "Lancer/Lancer campaign note.canvas",
+    "10 🧙 Player Campaigns/🌹 RWBY/📃Minuano Sheet.canvas",
+    "Lancer/One-Shots/Untitled.canvas",
+    "Lancer/One-Shots/Hal Lab.canvas",
+    "Nexrion Prime Cleanup/Flow.canvas"
+  ]
+}

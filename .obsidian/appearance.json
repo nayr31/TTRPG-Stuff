@@ -1,0 +1,22 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "stickynotes",
+    "metabind_boxes",
+    "metabind - blood slot",
+    "metabind - spell slot",
+    "cards - minimal",
+    "_Th--Notion-Dataview",
+    "minimal cards",
+    "Cards",
+    "canvasnote",
+    "cards",
+    "dashboard",
+    "bold_italic",
+    "extended-colorschemes",
+    "metabind - wound"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 16,
+  "translucency": false
+}

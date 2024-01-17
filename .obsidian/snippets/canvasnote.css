@@ -1,0 +1,16 @@
+.canvas-node-container:has(.canvasnote) {
+    border: none;
+}
+
+.canvas-node-container:has(.canvasnote) {
+    background: none;
+}
+
+.canvas-node:has(.canvasnote) .canvas-node-label {
+    display: none;
+}
+
+.canvas-node-container:has(.canvasnote) {
+    border-radius: 0;
+    box-shadow: none;
+}
