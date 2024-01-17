@@ -4,36 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "0960afc59c61f2da",
-        "type": "tabs",
+        "id": "7694eccc8c2d16a7",
+        "type": "split",
         "children": [
           {
-            "id": "0dbbb9ca35ce60fa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md"
+            "id": "0c4ec3848349a90d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "58275acaa6673268",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "1bc429d8abf72daf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "0a4b5d87614a4655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "190d02efd80398d2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0e214c4de8007548",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Manner.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -93,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,12 +274,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0a4b5d87614a4655",
+  "active": "1bc429d8abf72daf",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Details.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Manner.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Wants, Needs.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Names.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+    "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Lazy Bunny_c.png",
+    "Notes.md",
+    "90 🧩 Templates/LookerDV.md",
+    "90 🧩 Templates/✏ Campaign/Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/The Wicks.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Lazy Bunny.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/BRB.png",
@@ -266,21 +306,11 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Bez.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Whiplash.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/K-jump.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Wants, Needs.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs",
-    "Notes.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Names.md",
     "90 🧩 Templates/Slug NPC.md",
     "90 🧩 Templates/NPC.md",
-    "90 🧩 Templates/Player.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Normies.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Freaks.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Mavens.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Heads.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Thrashers.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables",
     "Bloodclotte/Quest Locations",
@@ -293,7 +323,6 @@
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Fischer.png",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Appalachia_Token.png",
     "10 🧙 Player Campaigns/🦌 DHS/Players/Art/Horseshoe_c.png",
-    "DHS/Players/Art/Horseshoe_c.jpg",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",
     "Conscience/Players/Kai Canvas.canvas",

@@ -20,7 +20,9 @@ columns:
     csvCandidate: true
     position: 0
     isHidden: false
-    sortIndex: -1
+    sortIndex: 2
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -80,7 +82,9 @@ columns:
     position: 100
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: false
     options:
       - { label: "Crew", value: "Crew", color: "hsl(290, 95%, 90%)"}
       - { label: "Authorities", value: "Authorities", color: "hsl(0,100%,72%)"}

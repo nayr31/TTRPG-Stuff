@@ -1,7 +1,7 @@
 ---
 NoteIcon: Group
 Type: Crew
-Logo: "![[Lazy Bunny.png]]"
+Logo: "![[Lazy Bunny_c.png]]"
 ---
 **Assets:**
 
