@@ -1,7 +1,7 @@
 ---
-Pronouns: N/A
+Pronouns: She/Her
 NoteIcon: NPC
-Notes: 
+Notes: outspoken, overprotective, 100% principled, 0% chill
 Art: 
-Affliliation: Jet Collective
+Affiliation: "[[Jet Collective]]"
 ---

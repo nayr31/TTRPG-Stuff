@@ -1,8 +1,7 @@
-
-[[Names]]:
-- Hillview
-	- [[Names#^hillviewkids|Kid]]: `dice: [[Names#^hillviewkids]]`
-	- [[Names#^hillviewadults|Adult]]: `dice: [[Names#^hillviewadults]]`
+---
+gen1: "`dice: [[NPC Generator#^npchillviewnamegen]]`"
+gen2: "`dice: 1d[[NPC Generator#^npctraitgen]]`"
+---
 
 | Hillview NPC Names |
 | ---- |

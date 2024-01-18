@@ -24,6 +24,6 @@ Summary: An obnoxious, anti-authoritarian crew of older kids from Hillview.
 ```dataview
 LIST
 from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
-WHERE contains(Affliliation, this.file.name)
+WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```

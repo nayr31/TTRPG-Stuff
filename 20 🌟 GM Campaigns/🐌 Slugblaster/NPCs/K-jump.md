@@ -1,7 +1,7 @@
 ---
-Pronouns: N/A
+Pronouns: She/Her
 NoteIcon: NPC
-Notes: 
+Notes: girlscout, pushes herself
 Art: 
-Affliliation: BRB
+Affiliation: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md|BRB]]"
 ---

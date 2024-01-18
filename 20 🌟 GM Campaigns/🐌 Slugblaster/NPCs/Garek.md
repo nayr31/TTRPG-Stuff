@@ -1,7 +1,7 @@
 ---
-Pronouns: N/A
+Pronouns: He/Him
 NoteIcon: NPC
-Notes: 
+Notes: used to be edgy and always overcompensates for it, big into experimental orb music
 Art: 
-Affliliation: Jet Collective
+Affiliation: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md|Jet Collective]]"
 ---

@@ -1,7 +1,7 @@
 ---
-Pronouns: N/A
+Pronouns: She/Her
 NoteIcon: NPC
-Notes: 
+Notes: noise-canceling earbuds, inventing tricks in their head
 Art: 
-Affliliation: BRB
+Affiliation: "[[BRB]]"
 ---

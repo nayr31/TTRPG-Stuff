@@ -19,12 +19,7 @@ WHERE contains(Type, "Crew")
 SORT file.name
 ```
 
-# Generators
-
-> [!info]+ NPC Generator
-> `dice: [[NPC Generator#^npchillviewnamegen]]`
-> ---
-> `dice: 1d[[NPC Generator#^npctraitgen]]`
+# 🎲 Generators
 
 ```dataview
 TABLE WITHOUT ID 
@@ -35,6 +30,4 @@ from "20 🌟 GM Campaigns/🐌 Slugblaster/Generators"
 SORT file.name
 ```
 
-*TODO:// Monster generator callout*
-
-*TODO:// Checkpoints/Problems generator callout*
+*TODO:// Checkpoints/Problems generator*

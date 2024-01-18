@@ -40,7 +40,7 @@ columns:
     label: NoteIcon
     position: 6
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     options:
       - { label: "NPC", value: "NPC", color: "hsl(350, 95%, 90%)"}
@@ -117,20 +117,25 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Affliliation:
+  Affiliation:
     input: select
-    accessorKey: Affliliation
-    key: Affliliation
+    accessorKey: Affiliation
+    key: Affiliation
     id: Affliliation
-    label: Affliliation
+    label: Affiliation
     position: 5
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 0
     width: 141
+    isSorted: true
+    isSortedDesc: false
     options:
-      - { label: "BRB", value: "BRB", color: "hsl(109, 95%, 90%)"}
-      - { label: "Jet Collective", value: "Jet Collective", color: "hsl(199, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md|BRB]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md|BRB]]", color: "hsl(280,17%,48%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md|Jet Collective]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md|Jet Collective]]", color: "hsl(154,24%,39%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md|Null Range]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md|Null Range]]", color: "hsl(334,69%,29%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md|Lazy Bunny]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md|Lazy Bunny]]", color: "hsl(192,51%,41%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md|The Wicks]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md|The Wicks]]", color: "hsl(41,43%,37%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -140,6 +145,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -159,7 +165,7 @@ config:
   source_destination_path: /
   row_templates_folder: z_Templates
   current_row_template: 90 🧩 Templates/NPC.md
-  pagination_size: 10
+  pagination_size: 40
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /

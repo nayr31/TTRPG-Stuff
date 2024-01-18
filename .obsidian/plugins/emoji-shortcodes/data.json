@@ -4,6 +4,9 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":game_die:",
+    ":man_farmer:",
+    ":butterfly:",
     ":house:",
     ":skateboard:",
     ":books:",
@@ -30,7 +33,6 @@
     ":question:",
     ":heavy_check_mark:",
     ":gun:",
-    ":man_farmer:",
     ":world_map:",
     ":roll_of_paper:",
     ":people_holding_hands:",

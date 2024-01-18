@@ -4,51 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "e4426b2b8c49a648",
-        "type": "split",
+        "id": "0c4ec3848349a90d",
+        "type": "tabs",
         "children": [
           {
-            "id": "0c4ec3848349a90d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "58275acaa6673268",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              }
-            ]
+            "id": "58275acaa6673268",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
           },
           {
-            "id": "13cd77ec9f097e86",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "961576973e880c1d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Monster Generator.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "be80e8c69155b191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +154,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,33 +248,34 @@
   },
   "active": "58275acaa6673268",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Monster Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Wants, Needs.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Names.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Monster.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Manner.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Hillview Checkpoints & Problems.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Details.md",
-    "90 🧩 Templates/Slug Group.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/DARA.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Places/🏠 Place Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Places/Operaeblum.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Places/Popularia.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Places/Thennis Spar.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Places/Hillview.md",
-    "Notes.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Places",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
-    "Normies.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/K-jump.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Bez.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Sexxx.md",
+    "90 🧩 Templates/Player.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Dead Parents.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Dogburgers.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Sally.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Bryce.md",
+    "90 🧩 Templates/NPC.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Dylan.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Paisley.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Rick.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Delainey.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Curtis.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Lyyra.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Garek.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Whiplash.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Van.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Harv.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Places",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Lazy Bunny_c.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/The Wicks.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Lazy Bunny.png",
@@ -301,7 +288,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables",
     "Bloodclotte/Quest Locations",
-    "Bloodclotte/Wards",
     "10 🧙 Player Campaigns/🦌 DHS/Draum_Hunting_Supply_Logo.png",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Masud_Cyclone_Ba_Token.png",
