@@ -2,15 +2,14 @@
   "obsidian-excalidraw-plugin",
   "dbfolder",
   "dataview",
-  "emoji-shortcodes",
   "obsidian-excel-to-markdown-table",
   "obsidian-kanban",
   "obsidian-style-settings",
   "obsidian-meta-bind-plugin",
   "home-tab",
   "excel",
-  "obsidian-emoji-toolbar",
   "obsidian42-brat",
   "obsidian-git",
-  "obsidian-dice-roller"
+  "obsidian-dice-roller",
+  "emoji-autocomplete"
 ]
