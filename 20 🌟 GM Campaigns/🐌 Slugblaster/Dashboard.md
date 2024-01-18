@@ -3,10 +3,19 @@ cssclasses:
   - cards
   - cards-cols-5
 ---
-Goal(s) for this page:
-- Create a series of quick linked targets to roll for things
-- Display hotlinks to  crew, auths
-
+Goals for this page:
+- [ ] Group overview
+	- [x] Crews
+	- [ ] Authorities
+	- [ ] Crowds?
+	- [ ] Sponsors
+- [ ] Generator list
+	- [x] Checkpoints
+	- [x] Problems
+	- [x] NPCs
+	- [x] Monsters
+	- [ ] ???
+- [ ] Place list (Clickable map?)
 
 # [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
 ```dataview
@@ -20,7 +29,6 @@ SORT file.name
 ```
 
 # 🎲 Generators
-
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, displayname) AS "Name",
@@ -29,5 +37,3 @@ TABLE WITHOUT ID
 from "20 🌟 GM Campaigns/🐌 Slugblaster/Generators"
 SORT file.name
 ```
-
-*TODO:// Checkpoints/Problems generator*
