@@ -2,8 +2,10 @@
 cssclasses:
   - cards
   - cards-cols-5
+banner: "[[Cover art.jpg]]"
+banner_y: 0.673
+banner_lock: true
 ---
-# Dashboard 
 
 Goals for this page:
 - [ ] Group overview

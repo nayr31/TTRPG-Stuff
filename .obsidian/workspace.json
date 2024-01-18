@@ -73,17 +73,8 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "949017cc8d73c39d",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2ce5ec122f0ef99a",
@@ -238,17 +229,18 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "excel:Create Excel File": false,
+      "dbfolder:Create a new database table": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "excel:Create Excel File": true,
       "templates:Insert template": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": true
     }
   },
   "active": "58275acaa6673268",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
     "Spaces/Home",
     "Spaces",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Resources/Cover art.jpg",
@@ -260,7 +252,6 @@
     "Notes.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/FUST.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Lab Components.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
     "90 🧩 Templates/LookerDV.md",
     "90 🧩 Templates/✏ Campaign/Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
@@ -294,7 +285,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/New folder",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",
