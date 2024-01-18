@@ -1,6 +1,7 @@
 ---
 NoteIcon: Group
 Type: Crew
+Summary: An obnoxious, anti-authoritarian crew of older kids from Hillview.
 ---
 **Assets:**
 - A secret portal-zone somewhere near Burger Man
@@ -18,3 +19,12 @@ Type: Crew
 - [[Doorways]]
 - [[The Arborists]]
 - Milquetoast dorks like [[BRB]].
+
+**Members:**
+```dataview
+TABLE WITHOUT ID 
+	link(file.path, name) AS "Name"
+from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
+WHERE contains(Affliliation, this.file.name)
+SORT file.name
+```

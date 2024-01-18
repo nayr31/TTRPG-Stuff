@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: 2
     isSorted: true
@@ -38,7 +38,7 @@ columns:
     key: Logo
     id: Logo
     label: Logo
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -61,7 +61,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 0
+    position: 2
     isHidden: false
     sortIndex: -1
     config:
@@ -79,7 +79,7 @@ columns:
     key: Type
     id: Type
     label: Type
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: 1
@@ -106,7 +106,7 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -122,6 +122,25 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  Summary:
+    input: text
+    accessorKey: Summary
+    key: Summary
+    id: Summary
+    label: Summary
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal

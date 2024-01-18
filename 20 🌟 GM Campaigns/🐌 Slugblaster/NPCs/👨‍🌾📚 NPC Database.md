@@ -117,21 +117,20 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Group:
+  Affliliation:
     input: select
-    accessorKey: Group
-    key: Group
-    id: Group
-    label: Group
+    accessorKey: Affliliation
+    key: Affliliation
+    id: Affliliation
+    label: Affliliation
     position: 5
     skipPersist: false
     isHidden: false
-    sortIndex: 0
-    isSorted: true
-    isSortedDesc: true
+    sortIndex: -1
+    width: 141
     options:
-      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md|BRB]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md|BRB]]", color: "hsl(246, 95%, 90%)"}
-      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md|Jet Collective]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md|Jet Collective]]", color: "hsl(208, 95%, 90%)"}
+      - { label: "BRB", value: "BRB", color: "hsl(109, 95%, 90%)"}
+      - { label: "Jet Collective", value: "Jet Collective", color: "hsl(199, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -141,7 +140,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal

@@ -8,14 +8,18 @@ Goal(s) for this page:
 - Display hotlinks to  crew, auths
 
 
-
 # [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
-	embed(Logo) AS "Logo"
+	embed(Logo) AS "Logo",
+	Summary AS "Summary"
 from "20 🌟 GM Campaigns/🐌 Slugblaster/Groups"
 WHERE contains(Type, "Crew")
 SORT file.name
 ```
 
+# Generators
+
+- [[NPC Generator]]
+- [[Monster Generator]]

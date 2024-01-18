@@ -4,65 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "7694eccc8c2d16a7",
-        "type": "split",
+        "id": "0c4ec3848349a90d",
+        "type": "tabs",
         "children": [
           {
-            "id": "0c4ec3848349a90d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "58275acaa6673268",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true
-                }
+            "id": "58275acaa6673268",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              {
-                "id": "1bc429d8abf72daf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true
+            }
           },
           {
-            "id": "190d02efd80398d2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0e214c4de8007548",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Manner.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "971b405b6306c656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -274,42 +247,42 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1bc429d8abf72daf",
+  "active": "58275acaa6673268",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Details.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
+    "Normies.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
+    "90 🧩 Templates/Slug Crew.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Bez.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Whiplash.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Phox.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Lyyra.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/K-jump.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Garek.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Arborists.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Monster.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Monster Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Manner.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Details.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Wants, Needs.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Names.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
     "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Lazy Bunny_c.png",
     "Notes.md",
-    "90 🧩 Templates/LookerDV.md",
-    "90 🧩 Templates/✏ Campaign/Dashboard.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/The Wicks.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Lazy Bunny.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/BRB.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/New folder",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Garek.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Phox.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Lyyra.md",
-    "90 🧩 Templates/Slug Crew.md",
-    "90 🧩 Templates/Group.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Bez.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Whiplash.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/K-jump.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs",
-    "90 🧩 Templates/Slug NPC.md",
-    "90 🧩 Templates/NPC.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables",

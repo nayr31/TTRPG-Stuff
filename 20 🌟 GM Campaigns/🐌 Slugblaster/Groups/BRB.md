@@ -2,7 +2,10 @@
 NoteIcon: Group
 Type: Crew
 Logo: "![[BRB.png]]"
+Summary: A crew of straight-laced, athletic, and super competitive laserbladers.
 ---
+The first team ever to burn through in a triple, BRB is a crew of competitive, backpack-wearing laserbladers, dominating leaderboards and beating every comp they enter into submission. People joke that BRB will be the ones to get slugblasting turned into an Olympic event.
+
 **Assets:**
 - Free hear from [[Scram Cat]]
 - Best times on all the top speed runs
@@ -19,3 +22,13 @@ Logo: "![[BRB.png]]"
 - [[Null Range]]
 - Sloppy runs
 - Gimmicky stunts
+
+**Members**
+
+```dataview
+TABLE WITHOUT ID 
+	link(file.path, name) AS "Name"
+from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
+WHERE contains(Affliliation, this.file.name)
+SORT file.name
+```
