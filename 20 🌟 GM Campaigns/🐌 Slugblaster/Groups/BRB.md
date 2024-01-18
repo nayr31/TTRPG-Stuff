@@ -18,7 +18,7 @@ The first team ever to burn through in a triple, BRB is a crew of competitive, b
 - [[DARA]] (low key, [[Rescue]] once legit saved their lives)
 - [[Scram Cat]]
 **Dislikes:**
-- [[Fust]]
+- [[FUST]]
 - [[Null Range]]
 - Sloppy runs
 - Gimmicky stunts

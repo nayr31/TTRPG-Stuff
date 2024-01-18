@@ -18,7 +18,7 @@ The only crew to be featured on The Morning Show before Slugblaster Magazine, th
 - Good vibes.
 **Dislikes:**
 - [[Jet Collective]]
-- [[Fust]]
+- [[FUST]]
 - Snobs in general
 
 **Members:**
