@@ -26,6 +26,15 @@ SORT file.name
 > ---
 > `dice: 1d[[NPC Generator#^npctraitgen]]`
 
+```dataview
+TABLE WITHOUT ID 
+	link(file.path, name) AS "Name",
+	gen1 AS "gen1",
+	gen2 AS "gen2"
+from "20 🌟 GM Campaigns/🐌 Slugblaster/Generators"
+SORT file.name
+```
+
 *TODO:// Monster generator callout*
 
 *TODO:// Checkpoints/Problems generator callout*
