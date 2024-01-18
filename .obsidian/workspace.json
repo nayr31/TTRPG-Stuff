@@ -64,7 +64,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Checkpoint & Problem Generator.md",
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Problem Generator.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -72,20 +72,32 @@
                 }
               },
               {
-                "id": "211d62ff23e0b9ec",
+                "id": "4adb43c9a08b20e7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Monster Generator.md",
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Thennis Spar Checkpoints & Problems.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0230a16fc912b5a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Hillview Checkpoints & Problems.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -148,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Monster Generator.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Problem Generator.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Monster Generator.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Problem Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -300,13 +312,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "211d62ff23e0b9ec",
+  "active": "52e829553eb6d475",
   "lastOpenFiles": [
+    "Notes.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Problem Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Monster Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Checkpoint & Problem Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Checkpoint Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Thennis Spar Checkpoints & Problems.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Hardecker.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/The Arborists.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Jet Collective.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/FUST.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Wilkies.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/DARA Research Facility Checkpoints & Problems.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Hillview Checkpoints & Problems.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
@@ -323,11 +345,6 @@
     "90 🧩 Templates/NPC.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Dylan.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Paisley.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Rick.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Delainey.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Curtis.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Lyyra.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Garek.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Places",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Lazy Bunny_c.png",
@@ -344,11 +361,6 @@
     "Bloodclotte/Quest Locations",
     "10 🧙 Player Campaigns/🦌 DHS/Draum_Hunting_Supply_Logo.png",
     "Lancer/Vertenia.canvas",
-    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Masud_Cyclone_Ba_Token.png",
-    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Merrow.png",
-    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Fischer.png",
-    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Art/Appalachia_Token.png",
-    "10 🧙 Player Campaigns/🦌 DHS/Players/Art/Horseshoe_c.png",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",
     "Conscience/Players/Kai Canvas.canvas",

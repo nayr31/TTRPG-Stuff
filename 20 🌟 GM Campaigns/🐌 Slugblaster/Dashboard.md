@@ -23,7 +23,7 @@ SORT file.name
 
 ```dataview
 TABLE WITHOUT ID 
-	link(file.path, name) AS "Name",
+	link(file.path, displayname) AS "Name",
 	gen1 AS "gen1",
 	gen2 AS "gen2"
 from "20 🌟 GM Campaigns/🐌 Slugblaster/Generators"

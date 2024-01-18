@@ -27,5 +27,4 @@
 | You accidentally break or defile something |
 | A summoned soliton |
 | The way out is slowly sealing off |
-
 ^problems
