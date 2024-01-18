@@ -24,8 +24,7 @@ Shaking the scene and scaring parents across the multiverse, this throng of rowd
 
 **Members:**
 ```dataview
-TABLE WITHOUT ID 
-	link(file.path, name) AS "Name"
+LIST
 from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
 WHERE contains(Affliliation, this.file.name)
 SORT file.name

@@ -21,5 +21,11 @@ SORT file.name
 
 # Generators
 
-- [[NPC Generator]]
-- [[Monster Generator]]
+> [!info]+ NPC Generator
+> `dice: [[NPC Generator#^npchillviewnamegen]]`
+> ---
+> `dice: 1d[[NPC Generator#^npctraitgen]]`
+
+*TODO:// Monster generator callout*
+
+*TODO:// Checkpoints/Problems generator callout*

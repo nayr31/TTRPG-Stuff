@@ -23,8 +23,7 @@ The only crew to be featured on The Morning Show before Slugblaster Magazine, th
 
 **Members:**
 ```dataview
-TABLE WITHOUT ID 
-	link(file.path, name) AS "Name"
+LIST
 from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
 WHERE contains(Affliliation, this.file.name)
 SORT file.name

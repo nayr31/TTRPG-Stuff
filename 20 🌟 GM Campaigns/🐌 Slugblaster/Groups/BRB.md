@@ -15,7 +15,7 @@ The first team ever to burn through in a triple, BRB is a crew of competitive, b
 - Skill and Innovation
 - Talking shop
 - [[The Old Guard]]
-- [[Dara]] (low key, [[Rescue]] once legit saved their lives)
+- [[DARA]] (low key, [[Rescue]] once legit saved their lives)
 - [[Scram Cat]]
 **Dislikes:**
 - [[Fust]]
@@ -24,10 +24,8 @@ The first team ever to burn through in a triple, BRB is a crew of competitive, b
 - Gimmicky stunts
 
 **Members**
-
 ```dataview
-TABLE WITHOUT ID 
-	link(file.path, name) AS "Name"
+LIST
 from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
 WHERE contains(Affliliation, this.file.name)
 SORT file.name
