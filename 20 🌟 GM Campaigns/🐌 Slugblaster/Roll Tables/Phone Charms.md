@@ -9,7 +9,7 @@ Charms can be found as part of the SICK LOOTS tables, or out in the stores of [[
 | 6 | `dice: 1d[[Phone Charms#^c]]` or `dice: 1d[[Phone Charms#^a]]` or `dice: 1d[[Phone Charms#^b]]` |
 ^randomcharm
 
-`dice: 1d6[[Phone Charms#^randomcharm]]`
+`dice: 1d[[Phone Charms#^randomcharm]]`
 
 | A |
 | ---- |
