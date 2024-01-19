@@ -1,3 +1,8 @@
+# Phone Charm
+
+This table is varied, but the idea is that the more rare "rolls" let you pick from more options.
+
+Phone charm: `dice: [[Phone Charms#^randomcharm]]`
 # Common
 
 Prizes for competitions and events in [[Hillview]]. Stuff stolen from local bullies or forgotten about by your parents in your garage. Junk you would find scrounging for parts in [[Operaeblum]]. Random detritus from [[Vastiche]].
@@ -16,3 +21,25 @@ Prizes for competitions and events in [[Hillview]]. Stuff stolen from local bull
 
 Found in RESCUE contraband lockers, given as gifts or tokens of recognition by other crews, or rewards from local Slugblaster competitions. Hidden by parents or other adults. Possible plot hooks and scenes useful for beats and arcs.
 
+| 2d6 | 1 | 2 | 3 | 4 | 5 | 6 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1 | [[Advanced portal tech]] | Combination of cell phone and ray gun | [[Hacking tools]] | Location of a secret [[Doorways]] meeting place | [[Particle bond tights]] | [[Pro camera gear]] |
+| 2 | Baby monster ([[Monster Generator]]) | Disposable camera with half shots remaining | [[Hardecker]] 20gv MAX-R mid-range 7" slackbeam | [[Miper escape bag]] | [[Peelback kit]] | Raygun (custom) |
+| 3 | [[Backup portaling device]] | DVD compilation of [[BRB]] stunts | [[Hardecker sludge flares]] | [[Multiversal maps]] | Charms: `dice: [[Phone Charms#^a]]` and `dice: [[Phone Charms#^c]]` | Roller blades (hover) |
+| 4 | BMX (hover) | Famous sports star rookie card (near mint) | [[Hazwear]] | [[Null Range]] merch from when they were called "0range" | Charms: `dice: [[Phone Charms#^b]]` and `dice: [[Phone Charms#^c]]` | Signature device, belongs to someone else |
+| 5 | Books of coupons for Infinite Slice Pizza | Free runner shoes (hover) | [[Hazwear]] RESCUE branded | One hundred blank re-writable CDs  | Charms: `dice: [[Phone Charms#^c]]`, `dice: [[Phone Charms#^b]]` or `dice: [[Phone Charms#^a]]` | [[Small drone]] |
+| 6 | Broken signature device | [[FUST stasis stickers]] | Invitation to the [[Hillview]] Big Sub opening day celebration (2 free subs) | One year supply of [[PANIC]] Energy drinks | Photo of your parents when they were still cool | Specific compoent |
+^uncommon
+
+# Rare
+Mega prizes for challenges or special runs. Found in the heart of distant worlds or in the bellies or hoards of epic monsters. Sealed away in secure RESCUE vaults. Items and opportunities of wildly varying utility or importance.
+
+| 2d6 | 1 | 2 | 3 | 4 | 5 | 6 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1 |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |
+| 4 |  |  |  |  |  |  |
+| 5 |  |  |  |  |  |  |
+| 6 |  |  |  |  |  |  |
+^rare

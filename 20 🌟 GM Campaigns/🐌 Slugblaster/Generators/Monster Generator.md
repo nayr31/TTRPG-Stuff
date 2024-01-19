@@ -4,7 +4,7 @@ gen2: "`dice: 1d[[Monster Generator#^monsterdetails]]`"
 displayname: 🐊 Generator
 ---
 
-[[Monster#^noun|Noun]]: `dice: 1d[[Monster#^noun]]|xy`
+[[Monster#^noun|Noun]]: `dice: 1d[[Monster#^noun]]|xy` ^8b790e
 
 | Monster Details |
 | ---- |
