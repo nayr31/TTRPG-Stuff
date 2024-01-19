@@ -1,0 +1,333 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "locked": true,
+      "lastAccessed": 1705699144808,
+      "markers": [
+        {
+          "id": "ID_3aa9a988db8a",
+          "type": "default",
+          "loc": [
+            -78,
+            169.5
+          ],
+          "link": "Vastiche",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5926573426573427,
+            0.2727272727272727
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c86a8bf89ba9",
+          "type": "default",
+          "loc": [
+            -130.18359375,
+            198.5
+          ],
+          "link": "Thennis Spar",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eabbdbd86a99",
+          "type": "default",
+          "loc": [
+            -130.93359375,
+            232
+          ],
+          "link": "The Golden Jungle",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8989fafbeaeb",
+          "type": "default",
+          "loc": [
+            -67.3671875,
+            134
+          ],
+          "link": "Operaeblum",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99290b1bcbaa",
+          "type": "default",
+          "loc": [
+            -192.625,
+            208.75
+          ],
+          "link": "Desnine",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7298951048951049,
+            0.673513986013986
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_182a6a2a5af9",
+          "type": "default",
+          "loc": [
+            -162.75,
+            141.75
+          ],
+          "link": "The Waking Pits",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4956293706293706,
+            0.5690559440559441
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1879d91bdaeb",
+          "type": "default",
+          "loc": [
+            -195.8515625,
+            132.75
+          ],
+          "link": "Quahalia",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb0b7b5ac90b",
+          "type": "default",
+          "loc": [
+            -121.1015625,
+            153.5
+          ],
+          "link": "Prismatia",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b183adbfba8",
+          "type": "default",
+          "loc": [
+            -106.75,
+            92.25
+          ],
+          "link": "Empyrean",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.32255244755244755,
+            0.3732517482517482
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a9b8bfb99da",
+          "type": "default",
+          "loc": [
+            -68.5,
+            97.75
+          ],
+          "link": "Calorium",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.34178321678321677,
+            0.2395104895104895
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a4b28681b38",
+          "type": "default",
+          "loc": [
+            -62.5,
+            204.75
+          ],
+          "link": "Hillview",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7159090909090909,
+            0.21853146853146854
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b0aa8eb8b3b",
+          "type": "default",
+          "loc": [
+            -134.25,
+            74
+          ],
+          "link": "Popularia",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.25874125874125875,
+            0.46940559440559443
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "star",
+    "color": "#e389f5",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "World",
+      "iconName": "star",
+      "color": "#e389f5",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.1",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": true,
+    "defaultZoom": 1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Multiverse map.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Multiverse map.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 3,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

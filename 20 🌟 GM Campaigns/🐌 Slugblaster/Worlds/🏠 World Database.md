@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -36,12 +36,32 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Place", value: "Place", color: "hsl(247, 95%, 90%)"}
+      - { label: "World", value: "World", color: "hsl(247, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  Haz:
+    input: number
+    accessorKey: Haz
+    key: Haz
+    id: Haz
+    label: Haz
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -70,7 +90,7 @@ config:
   source_destination_path: /
   row_templates_folder: /
   current_row_template: 
-  pagination_size: 10
+  pagination_size: 40
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /

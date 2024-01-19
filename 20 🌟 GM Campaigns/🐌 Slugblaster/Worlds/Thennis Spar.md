@@ -1,5 +1,6 @@
 ---
-NoteIcon: Place
+NoteIcon: World
+Haz: 0
 ---
 
 [[Thennis Spar Checkpoints & Problems]]

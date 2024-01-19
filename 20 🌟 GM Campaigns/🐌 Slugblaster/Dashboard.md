@@ -48,3 +48,20 @@ TABLE WITHOUT ID
 from "20 🌟 GM Campaigns/🐌 Slugblaster/Generators"
 SORT file.name
 ```
+
+
+# 🗺️ Map
+
+```leaflet
+id: leaflet-map
+image: [[Multiverse map.png]]
+height: 500px
+lat: 50
+long: 50
+minZoom: 1
+maxZoom: 3
+defaultZoom: 1
+unit: meters
+scale: 1
+darkMode: true
+```

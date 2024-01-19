@@ -4,51 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1ac612302d2985fd",
-        "type": "split",
+        "id": "7dc954902c0494e5",
+        "type": "tabs",
         "children": [
           {
-            "id": "0c4ec3848349a90d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "58275acaa6673268",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              }
-            ]
-          },
-          {
-            "id": "f3a47f5136ca69f8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b63794bde62060b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Phone Charms.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
+            "id": "3f06419b82b2aed2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Phone Charms.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Phone Charms.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,12 +223,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": true,
       "excel:Create Excel File": true,
       "templates:Insert template": false,
-      "obsidian42-brat:BRAT": true
+      "obsidian42-brat:BRAT": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b63794bde62060b7",
+  "active": "3f06419b82b2aed2",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Vastiche.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Operaeblum.md",
+    "Note.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Resources/Multiverse map.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/🏠 World Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Vistache Checkpoints & Problems.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Thennis Spar Checkpoints & Problems.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Quahalia.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Empyrean.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/The Waking Pits.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Calorium.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Prismatia.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Desnine.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/The Golden Jungle.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Phone Charms.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Loot Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
@@ -262,7 +251,7 @@
     "Notes.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
     "Aug band.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Places/Popularia.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Popularia.md",
     "Spaces/Home",
     "Spaces",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Resources/Cover art.jpg",
@@ -273,29 +262,15 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Lab Components.md",
     "90 🧩 Templates/LookerDV.md",
     "90 🧩 Templates/✏ Campaign/Dashboard.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Places/🏠 Place Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Hillview Checkpoints & Problems.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Thennis Spar Checkpoints & Problems.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Problem Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Monster Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Checkpoint Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Hardecker.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/The Arborists.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Jet Collective.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/FUST.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Wilkies.png",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/DARA Research Facility Checkpoints & Problems.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Places",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Lazy Bunny_c.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/The Wicks.png",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Lazy Bunny.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/New folder",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art",
