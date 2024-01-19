@@ -5,7 +5,7 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
+name: Session Database
 description: new description
 columns:
   __file__:
