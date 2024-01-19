@@ -36,10 +36,10 @@ Mega prizes for challenges or special runs. Found in the heart of distant worlds
 
 | 2d6 | 1 | 2 | 3 | 4 | 5 | 6 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1 |  |  |  |  |  |  |
-| 2 |  |  |  |  |  |  |
-| 3 |  |  |  |  |  |  |
-| 4 |  |  |  |  |  |  |
-| 5 |  |  |  |  |  |  |
-| 6 |  |  |  |  |  |  |
+| 1 | [[3D-printed ablatine]] | DARA ID card | [[Link patch duo]] | Milikey, a bright orange millipede that can open any lock dut dies | Perfect and unconscious clone of yourself | Slip of paper with a phone number and the word "Death" |
+| 2 | Arborist prophecy that includes your name | Directions to a secret Arborist cache | [[Link patch duo]] already linked to someone else | Metasaur egg | Person sized robot butler, polite | Style NOW! a future fashion mag showing the cutting edge style in [[Popularia]] next month |
+| 3 | Blink dog | [[Duraweave jacket]] | Locked case containing an item from another RPG | [[Monster Generator\|Monster Egg]] | [[Phone Charms\|Custom phone charm]] | Tall aluminium can labelled "The Final Energy Drink" |
+| 4 | Briefcase full of cash | Green wooden mask of Loki | [[Logic Binder]] | N65 video game console | [[Phone Charms]] (any table) | Three squirrels armed with laser guns |
+| 5 | Contact info for a cool interplanar mercenary | [[Hardlight marker]] | [[World Generator\|Map to new world]] | One of the original Scram Cat Nth gear hover boards | Six inch diameter googly eye you can place on anything to grant it sentience for one day | Unsigned sponsorship contract |
+| 6 | Customized signature | Lifetime supply of [[PANIC Energy]] | [[Maser grenades]] | [[PANIC Energy fuel line]] | [[Slam patch]] | [[Wilkie's gravity stickers]] |
 ^rare

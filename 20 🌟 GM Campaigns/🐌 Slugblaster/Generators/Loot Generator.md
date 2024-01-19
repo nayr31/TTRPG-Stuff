@@ -1,7 +1,7 @@
 ---
 gen1: "`dice: [[Loot Generator#^loot]]`"
 gen2: "`dice: [[Phone Charms#^randomcharm]]` charm"
-displayname:
+displayname: 💎 Generator
 ---
 See [[Loots]] and [[Phone Charms]].
 

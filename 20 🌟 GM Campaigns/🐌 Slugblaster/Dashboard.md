@@ -18,12 +18,12 @@ banner_lock: true
 	- [x] Problems
 	- [x] NPCs
 	- [x] Monsters
-	- [ ] [[Loots]]
+	- [x] Loots
 		- [x] Common
-		- [ ] Uncommon
-		- [ ] Rare
-		- [ ] Phone Charms
-			- [ ] 
+		- [x] Uncommon
+		- [x] Rare
+		- [x] Phone Charms (weighted)
+	- [ ] World
 	- [ ] ???
 - [ ] Place list (Clickable map?)
 
