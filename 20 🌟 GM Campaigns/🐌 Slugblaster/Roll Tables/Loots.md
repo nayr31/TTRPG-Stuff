@@ -1,6 +1,6 @@
 # Common
 
-Prizes for competitions and events in Hillview. Stuff stolen from local bullies or forgotten about by your parents in your garage. Junk you would find scrounging for parts in Operaeblum. Random detritus from Vastiche.
+Prizes for competitions and events in [[Hillview]]. Stuff stolen from local bullies or forgotten about by your parents in your garage. Junk you would find scrounging for parts in [[Operaeblum]]. Random detritus from [[Vastiche]].
 
 | 2d6 | 1 | 2 | 3 | 4 | 5 | 6 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -12,7 +12,6 @@ Prizes for competitions and events in Hillview. Stuff stolen from local bullies 
 | 6 | Burger Man coupons (two free meals) | [[Grappling hook]] | [[Lazy Bunny]] poster | [[PANIC Energy]] hair dye | `dice: 1d[[Phone Charms#^c]]`Charm, and a `dice: 1d[[Phone Charms#^c]]`Charm | Video Hut coupons (two free rentals) |
 ^common
 
-`dice: 1d[[Loots#^common]]|xy`
 # Uncommon
 
 Found in RESCUE contraband lockers, given as gifts or tokens of recognition by other crews, or rewards from local Slugblaster competitions. Hidden by parents or other adults. Possible plot hooks and scenes useful for beats and arcs.

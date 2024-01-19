@@ -7,7 +7,7 @@ banner_y: 0.673
 banner_lock: true
 ---
 
-Goals for this page:
+**Goals for this page:**
 - [ ] Group overview
 	- [x] Crews
 	- [ ] Authorities
@@ -18,8 +18,15 @@ Goals for this page:
 	- [x] Problems
 	- [x] NPCs
 	- [x] Monsters
+	- [ ] Loots
+		- [x] Common
+		- [ ] Uncommon
+		- [ ] Rare
+		- [ ] [[Phone Charms]]
+			- [ ] 
 	- [ ] ???
 - [ ] Place list (Clickable map?)
+
 
 # [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
 ```dataview

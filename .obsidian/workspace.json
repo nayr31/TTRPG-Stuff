@@ -4,38 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "0c4ec3848349a90d",
-        "type": "tabs",
+        "id": "9e6d90c1e47470cc",
+        "type": "split",
         "children": [
           {
-            "id": "58275acaa6673268",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
+            "id": "0c4ec3848349a90d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "58275acaa6673268",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
           },
           {
-            "id": "aa22e3700196847d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "176ed3591e2d8948",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c854cfdb32c5d213",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Phone Charms.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "aa22e3700196847d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -87,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Phone Charms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Phone Charms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,18 +264,18 @@
       "obsidian42-brat:BRAT": true
     }
   },
-  "active": "58275acaa6673268",
+  "active": "c854cfdb32c5d213",
   "lastOpenFiles": [
     "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
+    "Notes.md",
     "Spaces/Home",
     "Spaces",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Resources/Cover art.jpg",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Resources/Hillview map.jpg",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Resources",
     "20 🌟 GM Campaigns/🐌 Slugblaster/New folder",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Phone Charms.md",
-    "Notes.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/FUST.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Lab Components.md",
     "90 🧩 Templates/LookerDV.md",
