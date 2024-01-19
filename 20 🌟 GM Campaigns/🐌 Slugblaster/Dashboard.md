@@ -25,7 +25,9 @@ banner_lock: true
 		- [x] Phone Charms (weighted)
 	- [ ] World
 	- [ ] ???
-- [ ] Place list (Clickable map?)
+- [ ] Worlds
+	- [x] Clickable map (leaflet)
+	- [ ] Rest of the world in the book
 
 
 # [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
