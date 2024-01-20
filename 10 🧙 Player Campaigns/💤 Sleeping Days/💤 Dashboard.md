@@ -16,14 +16,14 @@ WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```
 
-# 👨‍🌾📚 NPC Dashboard
+# [[10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
 	embed(Art) AS "Art",
 	Notes AS "Notes"
-from "NPCs"
+from "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs"
 WHERE contains(NoteIcon, "NPC")
 SORT file.name
 ```

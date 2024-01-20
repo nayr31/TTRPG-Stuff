@@ -21,8 +21,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e4e00b53d6e4e9cb",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/👨‍🌾📚 NPC Database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/👨‍🌾📚 NPC Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/👨‍🌾📚 NPC Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,10 +238,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "1fa229dd8b7f3336",
+  "active": "e4e00b53d6e4e9cb",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/💤 Sleeping Days/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/Bon.md",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/Quests/Get the journal!.md",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/Art",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Players/Radi.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Vastiche.md",
@@ -239,7 +255,6 @@
     "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
     "90 🧩 Templates/✏ Campaign/Dashboard.md",
     "90 🧩 Templates/✏ Campaign/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/Quests/Get the journal!.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Quests/Get back to the past!.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Quests",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/🧻📚 Session Database.md",
@@ -257,8 +272,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Quahalia.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Empyrean.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/The Waking Pits.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Calorium.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Prismatia.md",
     "Spaces/Home",
     "Spaces",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Resources/Cover art.jpg",
@@ -273,8 +286,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/New folder",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",

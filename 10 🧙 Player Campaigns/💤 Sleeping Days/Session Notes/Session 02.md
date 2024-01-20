@@ -32,9 +32,9 @@ Friendly introductions with [[Atlas]].
 There is a journal (general Vex) to send the past. [[Sin spawn]] are horrific, twisted, once humanoid creatures who attack.
 While coming into the city by train, we saw some clawing at the second arcane wall.
 
-We are looking for an old, tattered, leather bound journal. The smuggler [[Vaughn]] has the journal.
+We are looking for an old, tattered, leather bound journal. The smuggler [[Bon]] has the journal.
 
-We enter a "cave"? To get to [[Vaughn]].
+We enter a "cave"? To get to [[Bon]].
 
 Get to a secret base, with the guy and a cat??
 
