@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "18534fd2e3a00dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Thennis Spar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Thennis Spar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Thennis Spar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,8 +241,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "e5a4f1bb3e3a4bc8",
+  "active": "18534fd2e3a00dce",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Thennis Spar 1.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Thennis Spar.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Players/Aella.md",
@@ -260,7 +275,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Vistache Checkpoints & Problems.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Thennis Spar Checkpoints & Problems.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Quahalia.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Empyrean.md",
     "Spaces/Home",
     "Spaces",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Resources/Cover art.jpg",
