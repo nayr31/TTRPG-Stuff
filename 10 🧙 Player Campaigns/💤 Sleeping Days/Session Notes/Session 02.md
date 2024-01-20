@@ -32,3 +32,4 @@ There is a journal (general Vex) to send the past. [[Sin spawn]] are horrific, t
 While coming into the city by train, we saw some clawing at the second arcane wall.
 
 We are looking for an old, tattered, leather bound journal. The smuggler [[Vaughn]] has the journal.
+
