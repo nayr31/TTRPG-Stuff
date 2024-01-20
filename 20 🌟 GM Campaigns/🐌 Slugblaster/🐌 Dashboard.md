@@ -8,6 +8,7 @@ banner_lock: true
 ---
 
 **Goals for this page:**
+- [?] Get buttons to change some of these?
 - [ ] Group overview
 	- [x] Crews
 	- [ ] Authorities
@@ -24,10 +25,20 @@ banner_lock: true
 		- [x] Rare
 		- [x] Phone Charms (weighted)
 	- [ ] World
-	- [ ] ???
-- [ ] Worlds
+- [ ] Worlds (blurb, locations, checkpoints, problems)
 	- [x] Clickable map (leaflet)
-	- [ ] Rest of the world in the book
+	- [ ] [[Calorium]]
+	- [ ] [[Desnine]]
+	- [ ] [[Empyrean]]
+	- [ ] [[Hillview]]
+	- [ ] [[Operaeblum]]
+	- [ ] [[Popularia]]
+	- [ ] [[Prismatia]]
+	- [ ] [[Quahalia]]
+	- [ ] [[The Golden Jungle]]
+	- [ ] [[The Waking Pits]]
+	- [x] [[Thennis Spar]]
+	- [x] [[Vastiche]]
 
 
 # [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
@@ -55,7 +66,7 @@ SORT file.name
 # 🗺️ Map
 
 ```leaflet
-id: leaflet-map
+id: slugblaster-map
 image: [[Multiverse map.png]]
 height: 500px
 lat: 50

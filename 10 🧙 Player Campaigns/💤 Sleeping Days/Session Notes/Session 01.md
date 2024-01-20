@@ -1,6 +1,7 @@
 ---
 Date: 2024-01-01T00:00:00.000-05:00
 NoteIcon: SNote
+Summary: "[[Aella]] and [[Rivis]] are transported to the future after a great tragedy.  [[Retacon]] saves them and has [[Kira]] fill them in on the sitch."
 ---
 World of maxima
 Increase in fiend attacks

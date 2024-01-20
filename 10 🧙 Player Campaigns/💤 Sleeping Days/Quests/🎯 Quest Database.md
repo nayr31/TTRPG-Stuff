@@ -85,7 +85,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "❗ Main ❗", value: "❗ Main ❗", color: "hsl(2, 95%, 90%)"}
-      - { label: "❔ Side ❔", value: "❔ Side ❔", color: "hsl(53,93%,79%)"}
+      - { label: "❔ Side ❔", value: "❔ Side ❔", color: "hsl(92, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

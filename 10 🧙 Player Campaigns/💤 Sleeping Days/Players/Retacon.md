@@ -10,6 +10,7 @@ WIL: 6
 Pronouns: He/Him
 Art: "![[Retacon.png]]"
 NoteIcon: Player
+Notes: Me.
 ---
 
 Identity: Tainted Sniper looking for Answers

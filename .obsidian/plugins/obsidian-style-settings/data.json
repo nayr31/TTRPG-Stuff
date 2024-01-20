@@ -86,7 +86,7 @@
   "anuppuccin-theme-settings@@anp-kanban-card-radius": 6,
   "anuppuccin-theme-settings@@anp-kanban-lanes": false,
   "anuppuccin-theme-settings@@anp-kanban-hide-lane-border": true,
-  "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
   "anuppuccin-theme-settings@@anp-button-metadata-toggle": true,
   "anuppuccin-theme-settings@@anp-print": false,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,

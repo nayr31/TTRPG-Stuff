@@ -3,7 +3,7 @@
     {
       "id": "leaflet-map",
       "locked": true,
-      "lastAccessed": 1705699144808,
+      "lastAccessed": 1705717285800,
       "markers": [
         {
           "id": "ID_3aa9a988db8a",
@@ -235,6 +235,210 @@
       "shapes": [],
       "files": [
         "20 🌟 GM Campaigns/🐌 Slugblaster/Dashboard.md"
+      ]
+    },
+    {
+      "id": "slugblaster-map",
+      "locked": false,
+      "lastAccessed": 1705718198969,
+      "markers": [
+        {
+          "id": "ID_3aa9a988db8a",
+          "type": "default",
+          "loc": [
+            -78,
+            169.5
+          ],
+          "link": "Vastiche",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c86a8bf89ba9",
+          "type": "default",
+          "loc": [
+            -130.18359375,
+            198.5
+          ],
+          "link": "Thennis Spar",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eabbdbd86a99",
+          "type": "default",
+          "loc": [
+            -130.93359375,
+            232
+          ],
+          "link": "The Golden Jungle",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8989fafbeaeb",
+          "type": "default",
+          "loc": [
+            -67.3671875,
+            134
+          ],
+          "link": "Operaeblum",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99290b1bcbaa",
+          "type": "default",
+          "loc": [
+            -192.625,
+            208.75
+          ],
+          "link": "Desnine",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_182a6a2a5af9",
+          "type": "default",
+          "loc": [
+            -162.75,
+            141.75
+          ],
+          "link": "The Waking Pits",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1879d91bdaeb",
+          "type": "default",
+          "loc": [
+            -195.8515625,
+            132.75
+          ],
+          "link": "Quahalia",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb0b7b5ac90b",
+          "type": "default",
+          "loc": [
+            -121.1015625,
+            153.5
+          ],
+          "link": "Prismatia",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b183adbfba8",
+          "type": "default",
+          "loc": [
+            -106.75,
+            92.25
+          ],
+          "link": "Empyrean",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a9b8bfb99da",
+          "type": "default",
+          "loc": [
+            -68.5,
+            97.75
+          ],
+          "link": "Calorium",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a4b28681b38",
+          "type": "default",
+          "loc": [
+            -62.5,
+            204.75
+          ],
+          "link": "Hillview",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b0aa8eb8b3b",
+          "type": "default",
+          "loc": [
+            -134.25,
+            74
+          ],
+          "link": "Popularia",
+          "layer": "%5B%5BMultiverse%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md"
       ]
     }
   ],

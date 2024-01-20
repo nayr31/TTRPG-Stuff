@@ -39,7 +39,7 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 7
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -88,6 +88,25 @@ columns:
       - { label: "He/Him", value: "He/Him", color: "hsl(278, 95%, 90%)"}
       - { label: "She/Her", value: "She/Her", color: "hsl(217, 95%, 90%)"}
       - { label: "N/A", value: "N/A", color: "hsl(96, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Notes:
+    input: text
+    accessorKey: Notes
+    key: Notes
+    id: Notes
+    label: Notes
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true

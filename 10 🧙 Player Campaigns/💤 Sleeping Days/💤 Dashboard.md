@@ -1,20 +1,22 @@
 ---
 cssclasses:
   - cards
+  - cards-cols-5
 ---
 
-# [[90 🧩 Templates/✏ Campaign/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
+# [[10 🧙 Player Campaigns/💤 Sleeping Days/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
-	embed(Art) AS "Art"
-from "Players"
+	embed(Art) AS "Art",
+	Notes AS "Notes"
+from "10 🧙 Player Campaigns/💤 Sleeping Days/Players"
 WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```
 
-# [[90 🧩 Templates/✏ Campaign/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
+# 👨‍🌾📚 NPC Dashboard
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
@@ -26,25 +28,25 @@ WHERE contains(NoteIcon, "NPC")
 SORT file.name
 ```
 
-# [[90 🧩 Templates/✏ Campaign/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
+# [[10 🧙 Player Campaigns/💤 Sleeping Days/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
 	Status AS "Status",
 	Session_Complete AS "Session Complete",
 	Summary AS "Summary"
-from "Quests"
+from "10 🧙 Player Campaigns/💤 Sleeping Days/Quests"
 WHERE contains(NoteIcon, "Quest")
 SORT Status DESC
 ```
 
-# [[90 🧩 Templates/✏ Campaign/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
+# [[10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/🧻📚 Session Database|🧻📚 Session Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Date AS "Date",
 	Summary AS "Summary"
-from "Sessions"
+from "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes"
 WHERE contains(NoteIcon, "Note")
 SORT file.name DESC
 ```
