@@ -26,9 +26,12 @@
             "id": "e4e00b53d6e4e9cb",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/👨‍🌾📚 NPC Database.md"
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/👨‍🌾📚 NPC Database.md",
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/👨‍🌾📚 NPC Database.md",
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -240,9 +243,9 @@
   },
   "active": "e4e00b53d6e4e9cb",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/Bon.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/Bon.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Quests/Get the journal!.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/Art",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs",

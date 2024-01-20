@@ -24,7 +24,7 @@ TABLE WITHOUT ID
 	embed(Art) AS "Art",
 	Notes AS "Notes"
 from "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs"
-WHERE contains(NoteIcon, "NPC")
+WHERE contains(NoteIcon, "NPC") AND contains(Relevant, True)
 SORT file.name
 ```
 
