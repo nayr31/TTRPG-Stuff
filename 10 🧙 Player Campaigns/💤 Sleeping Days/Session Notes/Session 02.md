@@ -34,3 +34,5 @@ While coming into the city by train, we saw some clawing at the second arcane wa
 We are looking for an old, tattered, leather bound journal. The smuggler [[Vaughn]] has the journal.
 
 We enter a "cave"? To get to [[Vaughn]].
+
+Get to a secret base, with the guy and a cat??
