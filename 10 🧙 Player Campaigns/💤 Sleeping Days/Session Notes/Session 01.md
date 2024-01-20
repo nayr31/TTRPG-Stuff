@@ -21,7 +21,7 @@ main with remorse
 field of flowers
 figure in front of me
 
-Blitza train comes through, [[Retacon]] ushers [[Aella]] and [[Rivis]] out of the way before it smashes through
+Blitz train comes through, [[Retacon]] ushers [[Aella]] and [[Rivis]] out of the way before it smashes through
 
 Elf comes by, [[Retacon]] knows them. [[Kira]]
 
