@@ -1,16 +1,16 @@
 ---
 gen1: "`dice: [[World Generator#^generalfeatures]]`"
-gen2: 
+gen2: "`dice: [[World Generator#^content]]`"
 displayname: 🌎 Generator
+Show: true
 ---
 
 | General |
 | ---- |
-| `dice: [[Worlds^color]]\|xy`/`dice: [[Worlds^color]]\|xy`<br>`dice: [[Worlds#^landscape]]\|xy` |
+| [[Worlds#^color\|Color]]: `dice: [[Worlds^color]]\|xy`/`dice: [[Worlds^color]]\|xy`<br>[[Worlds#^landscape\|Landscape]]: `dice: [[Worlds#^landscape]]\|xy` |
 ^generalfeatures
 
 | Content |
 | ---- |
-| `dice: [[Worlds^ruins]]\|xy`<br>`dice: [[Worlds#^twist]]\|xy` |
+| [[Worlds#^ruins\|Ruins]]: `dice: [[Worlds^ruins]]\|xy`-><br>`dice: [[Worlds#^twist]]\|xy` |
 ^content
-

@@ -24,7 +24,7 @@ banner_lock: true
 		- [x] Uncommon
 		- [x] Rare
 		- [x] Phone Charms (weighted)
-	- [ ] World
+	- [x] World
 - [ ] Worlds (blurb, locations, checkpoints, problems)
 	- [x] Clickable map (leaflet)
 	- [ ] [[Calorium]]
@@ -60,6 +60,7 @@ TABLE WITHOUT ID
 	gen1 AS "gen1",
 	gen2 AS "gen2"
 from "20 🌟 GM Campaigns/🐌 Slugblaster/Generators"
+WHERE Show = True
 SORT file.name
 ```
 

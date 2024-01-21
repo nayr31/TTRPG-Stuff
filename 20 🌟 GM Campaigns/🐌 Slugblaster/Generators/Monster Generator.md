@@ -2,6 +2,7 @@
 gen1: "[[Monster#^noun|Noun]]: `dice: 1d[[Monster#^noun]]|xy`"
 gen2: "`dice: 1d[[Monster Generator#^monsterdetails]]`"
 displayname: 🐊 Generator
+Show: true
 ---
 
 [[Monster#^noun|Noun]]: `dice: 1d[[Monster#^noun]]|xy` ^8b790e

@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a1e07e1118208231",
+        "id": "741f18f63089cbd1",
         "type": "tabs",
         "children": [
           {
-            "id": "79078429c4f73658",
+            "id": "14f313c16103e178",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -224,12 +226,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "79078429c4f73658",
+  "active": "14f313c16103e178",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/World Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/🐊 Monster Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Problem Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Monster Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Loot Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Checkpoint Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/🐊 Monster Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Worlds.md",
     "Notes.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Monster.md",
@@ -248,10 +254,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Giant Robat Hand.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Bloodwhip Swarm.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Peeler-Eyed Dragonfly.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Salvage Crab.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Metaterrestrial Slug.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Metasaur.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Quantum Centipede.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/Art",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs",

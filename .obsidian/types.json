@@ -58,6 +58,7 @@
     "defClever": "number",
     "defCool": "number",
     "defQuick": "number",
-    "cash": "number"
+    "cash": "number",
+    "Show": "checkbox"
   }
 }

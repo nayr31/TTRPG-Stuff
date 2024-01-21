@@ -2,6 +2,7 @@
 gen1: "`dice: 1d[[Checkpoint Generator#^checkpoint]]`"
 gen2: 
 displayname: 🏁 Generator
+Show:
 ---
 
 | Checkpoint |
