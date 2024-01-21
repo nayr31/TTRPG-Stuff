@@ -39,6 +39,7 @@ banner_lock: true
 	- [ ] [[The Waking Pits]]
 	- [x] [[Thennis Spar]]
 	- [x] [[Vastiche]]
+- [x] Monsters
 
 
 # [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]

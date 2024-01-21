@@ -1,3 +1,6 @@
+---
+NoteIcon: World
+---
 > *A bustling, exotic utopian city. Locals trade olives and spices in the forum, discuss the multiverse in ancient temples, and try to ignore all the ghosts.*
 
 Visiting [[Thennis Spar]] for the first time feels like traveling to the ancient past and the distant future all at the same time. In the crowded marketplace, you’re as likely to find a cart full of fresh produce as you are a cache of salvaged alien tech. An ancient obelisk hewn from the living rock towers overhead, and at its pinnacle, a hardportal from [[Prismatia]] bathes the entire city in continuous golden-hour light.
