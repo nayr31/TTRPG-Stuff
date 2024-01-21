@@ -12,5 +12,5 @@ Show: true
 
 | Content |
 | ---- |
-| [[Worlds#^ruins\|Ruins]]: `dice: [[Worlds^ruins]]\|xy`-><br>`dice: [[Worlds#^twist]]\|xy` |
+| [[Worlds#^ruins\|Ruins]]: `dice: [[Worlds^ruins]]\|xy`<br>[[Worlds#^twist\|Twist]]: `dice: [[Worlds#^twist]]\|xy` |
 ^content

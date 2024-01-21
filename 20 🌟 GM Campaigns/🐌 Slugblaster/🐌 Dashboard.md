@@ -7,7 +7,7 @@ banner_y: 0.673
 banner_lock: true
 ---
 
-**Goals for this page:**
+# **Goals for this page:**
 - [?] Get buttons to change some of these?
 - [ ] Group overview
 	- [x] Crews
