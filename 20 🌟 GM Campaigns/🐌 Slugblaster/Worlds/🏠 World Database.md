@@ -30,28 +30,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  NoteIcon:
-    input: select
-    accessorKey: NoteIcon
-    key: NoteIcon
-    id: NoteIcon
-    label: NoteIcon
-    position: 3
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "World", value: "World", color: "hsl(247, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
   Haz:
     input: number
     accessorKey: Haz

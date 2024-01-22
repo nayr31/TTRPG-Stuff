@@ -1,5 +1,5 @@
 ---
-NoteIcon: World
+NoteIcon: ""
 ---
 > *A bustling, exotic utopian city. Locals trade olives and spices in the forum, discuss the multiverse in ancient temples, and try to ignore all the ghosts.*
 

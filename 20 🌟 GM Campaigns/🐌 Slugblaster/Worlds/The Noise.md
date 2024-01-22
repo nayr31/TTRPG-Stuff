@@ -1,5 +1,5 @@
 ---
-NoteIcon: World
+NoteIcon: ""
 Haz: 2
 ---
 > *Bonus world!*

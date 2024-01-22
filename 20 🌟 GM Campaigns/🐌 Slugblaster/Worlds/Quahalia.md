@@ -1,3 +1,3 @@
 ---
-NoteIcon: World
+NoteIcon: ""
 ---

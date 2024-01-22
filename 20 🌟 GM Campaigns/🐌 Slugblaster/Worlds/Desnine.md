@@ -1,4 +1,4 @@
 ---
-NoteIcon: World
+NoteIcon: ""
 Haz: 1
 ---

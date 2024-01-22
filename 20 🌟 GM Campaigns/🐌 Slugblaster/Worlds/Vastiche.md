@@ -1,6 +1,6 @@
 ---
 Haz: 1
-NoteIcon: World
+NoteIcon: ""
 ---
 > *Chemical war badlands. Crumbling parkades, faded billboards, and an abandoned megamall almost entirely covered over with dunes of pink sand.*
 
