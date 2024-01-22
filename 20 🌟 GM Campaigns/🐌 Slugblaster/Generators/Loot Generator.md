@@ -8,5 +8,5 @@ See [[Loots]] and [[Phone Charms]].
 
 | Loot |
 | ---- |
-| [[Loots#^common\|Common]]: `dice: [[Loots#^common]]\|xy`<br>[[Loots#^uncommon\|Uncommon]]: `dice: [[Loots#^uncommon]]\|xy`<br>[[Loots#^rare\|Rare]] |
+| [[Loots#^common\|Common]]: `dice: [[Loots#^common]]\|xy`<br>[[Loots#^uncommon\|Uncommon]]: `dice: [[Loots#^uncommon]]\|xy`<br>[[Loots#^rare\|Rare]]: `dice: [[Loots#^rare]]\|xy` |
 ^loot
