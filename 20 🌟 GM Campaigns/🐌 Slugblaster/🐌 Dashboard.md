@@ -2,9 +2,6 @@
 cssclasses:
   - cards
   - cards-cols-5
-banner: "[[Cover art.jpg]]"
-banner_y: 0.675
-banner_lock: true
 ---
 
 # **Goals for this page:**
@@ -35,7 +32,7 @@ banner_lock: true
 	- [ ] [[Popularia]]
 	- [ ] [[Prismatia]]
 	- [ ] [[Quahalia]]
-	- [ ] [[The Golden Jungle]]
+	- [x] [[The Golden Jungle]]
 	- [ ] [[The Waking Pits]]
 	- [x] [[Thennis Spar]]
 	- [x] [[Vastiche]]

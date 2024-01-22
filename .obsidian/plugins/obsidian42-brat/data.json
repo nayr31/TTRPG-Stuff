@@ -1,7 +1,5 @@
 {
-  "pluginList": [
-    "noatpad/obsidian-banners"
-  ],
+  "pluginList": [],
   "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": true,
