@@ -1,3 +1,9 @@
+---
+Notes: 🐟🐟 Underwatcher.
+Pernounced: '"DEZ-neen"'
+Dangerous: true
+NoteIcon: World
+---
 > *An infinite ocean, with water where outer space should be. The serpentine glass corridors of an abandoned observation centre twist around a small coral moon.*
 
 [[Desnine]] wasn’t always a popular destination for slugblasters—after all, nobody likes playing the water levels, right? Even with breathing masks, it makes for a dangerous run. Glowing coral and bioluminescent manta rays cast just enough ethereal light to find your way, but massive shapes drift through the inky blackness beyond, and they look hungry.

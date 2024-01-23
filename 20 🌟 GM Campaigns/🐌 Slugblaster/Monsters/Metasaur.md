@@ -1,5 +1,7 @@
 ---
 NoteIcon: Monster
+aliases:
+  - metasaur
 ---
 These large, meat-eating theropods have spread rampantly through the local multiverse thanks to their astounding ferocity, hyper single-generation evolution, and complete willingness to eat anything, no matter how much that thing screams or smells like vanilla-mango body spray.
 

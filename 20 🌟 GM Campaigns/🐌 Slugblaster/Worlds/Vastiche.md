@@ -1,6 +1,9 @@
 ---
-Haz: 1
-NoteIcon: ""
+Haz: ""
+NoteIcon: World
+Notes: 🏭 Toxic air.
+Pernounced: '"vas-TEESH""'
+Dangerous: true
 ---
 > *Chemical war badlands. Crumbling parkades, faded billboards, and an abandoned megamall almost entirely covered over with dunes of pink sand.*
 

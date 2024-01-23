@@ -38,3 +38,29 @@
 - [8] Bubble 8
 - [9] Bubble 9
 
+# Callouts
+
+> [!NOTE]
+
+> [!info]
+
+> [!todo]
+
+> [!tip]
+
+> [!check]
+
+> [!question]
+
+> [!warning]
+
+> [!fail]
+
+> [!error]
+
+> [!bug]
+
+> [!example]
+
+> [!cite]
+

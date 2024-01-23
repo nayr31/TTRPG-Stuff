@@ -30,16 +30,76 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Haz:
-    input: number
-    accessorKey: Haz
-    key: Haz
-    id: Haz
-    label: Haz
+  Pernounced:
+    input: text
+    accessorKey: Pernounced
+    key: Pernounced
+    id: Pernounced
+    label: Pernounced
     position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 172
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Notes:
+    input: text
+    accessorKey: Notes
+    key: Notes
+    id: Notes
+    label: Notes
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Dangerous:
+    input: checkbox
+    accessorKey: Dangerous
+    key: Dangerous
+    id: Dangerous?
+    label: Dangerous?
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  NoteIcon:
+    input: select
+    accessorKey: NoteIcon
+    key: NoteIcon
+    id: NoteIcon
+    label: NoteIcon
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "World", value: "World", color: "hsl(16, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

@@ -1,3 +1,8 @@
+---
+Notes: 🐊 Jungle danger.
+Dangerous: true
+NoteIcon: World
+---
 > *The ruins of an advanced civilization, grown over by dense, sparkling rainforest. Decommissioned gundam sleep under blankets of moss.*
 
 For slugblasters, the Golden Jungle has always been a hotspot, in more ways than one. Hoverboarders are drawn to the dense foliage, geographical anomalies, and crumbling remnants of ancient architecture, which all add up to a sort of natural skatepark that is unrivaled in the local multiverse.

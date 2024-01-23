@@ -25,21 +25,24 @@ banner_lock: true
 		- [x] Rare
 		- [x] Phone Charms (weighted)
 	- [x] World
-- [ ] Worlds (blurb, locations, checkpoints, problems)
+- [x] [[🏠 World Database|Worlds]] (blurb, locations, checkpoints, problems)
 	- [x] Clickable map (leaflet)
-	- [ ] [[Calorium]]
+	- [x] [[Calorium]]
 	- [x] [[Desnine]]
-	- [ ] [[Empyrean]]
-	- [ ] [[Hillview]]
-	- [ ] [[Operaeblum]]
-	- [ ] [[Popularia]]
-	- [ ] [[Prismatia]]
-	- [ ] [[Quahalia]]
+	- [x] [[Empyrean]]
+	- [x] [[Hillview]]
+	- [x] [[Operaeblum]]
+	- [x] [[Popularia]]
+	- [x] [[Prismatia]]
+	- [x] [[Quahalia]]
 	- [x] [[The Golden Jungle]]
-	- [ ] [[The Waking Pits]]
+	- [x] [[The Waking Pits]]
 	- [x] [[Thennis Spar]]
 	- [x] [[Vastiche]]
 - [x] Monsters
+- [ ] Items
+	- [ ] Signatures
+	- [ ] General?
 
 
 # [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
@@ -79,4 +82,15 @@ defaultZoom: 1
 unit: meters
 scale: 1
 darkMode: true
+```
+
+# [[🏠 World Database|🌎 Worlds]]
+```dataview
+TABLE WITHOUT ID 
+	link(file.path, name) AS "Name",
+	Pernounced AS "Pernounced",
+	Notes AS "Notes"
+from "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds"
+WHERE contains(NoteIcon, "World")
+SORT file.name
 ```

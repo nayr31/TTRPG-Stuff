@@ -34,7 +34,7 @@
       {
         "id": "6972c6fe3edf9909",
         "type": "tabs",
-        "dimension": 40,
+        "dimension": 39.357142857142854,
         "children": [
           {
             "id": "96c5404588fc3b4a",
@@ -55,7 +55,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -66,7 +66,7 @@
       {
         "id": "2ce5ec122f0ef99a",
         "type": "tabs",
-        "dimension": 31,
+        "dimension": 31.642857142857146,
         "children": [
           {
             "id": "1fa229dd8b7f3336",
@@ -126,6 +126,21 @@
             }
           },
           {
+            "id": "29b6414eddef0e24",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Checkboxes, Callouts, & Speech Bubbles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -134,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -221,32 +236,33 @@
   },
   "active": "e19a5641f51e0519",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Desnine Checkpoints & Problems.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Desnine.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Thennis Spar.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/The Golden Jungle Checkpoints & Problems.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/The Golden Jungle.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Hillview Checkpoints & Problems.md",
-    "90 🧩 Templates/Checkpoints & Problems.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Calorium.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/🏠 World Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Phone Charms.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Loot Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/World Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Problem Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/NPC Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Monster Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Checkpoint Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/🐊 Monster Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Worlds.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Hillview.md",
     "Notes.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Monster.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Soliton.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/The Conductor.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/🏠 World Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Thennis Spar.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/The Noise.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/The Peryton.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Quahalia.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Calorium.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Operaeblum.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/World Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Worlds.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Empyrean.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Desnine.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables/Quahalia Checkpoints & Problems.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables/Empyrean Checkpoints & Problems.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Popularia.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md",
+    "Wilkie’s.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables/Popularia Checkpoints & Problems.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Metasaur.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/The Waking Pits.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables/The Waking Pits Checkpoints & Problems.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Soliton.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables/Calorium Checkpoints & Problems.md",
+    "Checkboxes, Callouts, & Speech Bubbles.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/Art",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs",
@@ -266,7 +282,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/FUST.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Wilkies.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",
