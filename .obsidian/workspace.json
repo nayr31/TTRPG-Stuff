@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Stickers, Pins, Patches.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Stickers, Pins, Patches.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,11 +260,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "d1e3612e23bef20b",
+  "active": "e19a5641f51e0519",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Panic Flavours.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Stickers, Pins, Patches.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Signature Looks.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Stickers, Pins, Patches.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Miper.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Panic Flavours.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Hillview.md",
     "Notes.md",
@@ -289,7 +289,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Metasaur.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/The Waking Pits.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables/The Waking Pits Checkpoints & Problems.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/Art",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs",
