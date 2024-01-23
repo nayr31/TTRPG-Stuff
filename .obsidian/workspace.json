@@ -8,27 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e19a5641f51e0519",
+            "id": "6b7fcf113b589cc1",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Signature Database.md"
               },
               "pinned": true
             }
           },
           {
-            "id": "ec6d40549f368df5",
+            "id": "f9204182fbe664b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Signature Looks.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Powered Armor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,19 +33,20 @@
             }
           },
           {
-            "id": "d1e3612e23bef20b",
+            "id": "326698760d21913f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Stickers, Pins, Patches.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Skipmode Runners.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +79,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -100,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Skipmode Runners.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Skipmode Runners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -260,35 +258,35 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "e19a5641f51e0519",
+  "active": "326698760d21913f",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Signature Looks.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Powered Armor.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Skipmode Runners.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Signature Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Robotic Companion.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Gravity Blaster.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Hyperoptic Visor.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Reality Cannon.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Voidwear Backpack.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Kinetic Deck.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Negfriction Sword.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Photonic Jacket.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Riftninja Sneakers.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures",
+    "90 🧩 Templates/Signature.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Stickers, Pins, Patches.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Mods.md",
+    "Checkboxes, Callouts, & Speech Bubbles.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Lab Components.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
+    "10 🧙 Player Campaigns/🦌 DHS/Players/🧙📚 Player Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Signature Looks.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Miper.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Panic Flavours.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Hillview.md",
     "Notes.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/🏠 World Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Thennis Spar.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/The Noise.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Quahalia.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Calorium.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Operaeblum.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/World Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Worlds.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Empyrean.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Desnine.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables/Quahalia Checkpoints & Problems.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables/Empyrean Checkpoints & Problems.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Popularia.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md",
-    "Wilkie’s.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables/Popularia Checkpoints & Problems.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters/Metasaur.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/The Waking Pits.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/Art",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs",
@@ -307,7 +305,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Jet Collective.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/FUST.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Wilkies.png",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",
