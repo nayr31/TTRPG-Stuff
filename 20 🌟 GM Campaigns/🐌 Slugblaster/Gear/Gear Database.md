@@ -5,8 +5,8 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: Signature Database
-description: 
+name: new database
+description: new description
 columns:
   __file__:
     key: __file__
@@ -18,11 +18,6 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
-    isHidden: false
-    sortIndex: 1
-    isSorted: true
-    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -50,8 +45,8 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
-  current_row_template: 90 🧩 Templates/Signature.md
-  pagination_size: 20
+  current_row_template: 
+  pagination_size: 10
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /

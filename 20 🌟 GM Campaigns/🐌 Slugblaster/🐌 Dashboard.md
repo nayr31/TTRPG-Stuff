@@ -41,7 +41,7 @@ banner_lock: true
 	- [x] [[Vastiche]]
 - [x] Monsters
 - [ ] Items
-	- [ ] Signatures
+	- [x] Signatures
 		- [x] [[Signature Looks]]
 	- [x] [[Stickers, Pins, Patches]]
 	- [ ] General?
