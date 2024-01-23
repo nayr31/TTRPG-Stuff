@@ -2,6 +2,9 @@
 cssclasses:
   - cards
   - cards-cols-5
+banner: "[[Cover art.jpg]]"
+banner_y: 0.653
+banner_lock: true
 ---
 
 # **Goals for this page:**
@@ -25,7 +28,7 @@ cssclasses:
 - [ ] Worlds (blurb, locations, checkpoints, problems)
 	- [x] Clickable map (leaflet)
 	- [ ] [[Calorium]]
-	- [ ] [[Desnine]]
+	- [x] [[Desnine]]
 	- [ ] [[Empyrean]]
 	- [ ] [[Hillview]]
 	- [ ] [[Operaeblum]]
