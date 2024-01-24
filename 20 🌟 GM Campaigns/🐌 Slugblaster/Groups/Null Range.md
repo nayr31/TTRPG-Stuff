@@ -5,7 +5,7 @@ Summary: An obnoxious, anti-authoritarian crew of older kids from Hillview.
 ---
 **Assets:**
 - A secret portal-zone somewhere near Burger Man
-- A large collection of [[Rescue]] uniforms and equipment
+- A large collection of [[DARA|Rescue]] uniforms and equipment
 - An inside man at [[DARA]] ([[Rick|Rick's]] dad)
 - Fragile [[FUST]] sponsorship
 - Pull with [[The Thrashers]]

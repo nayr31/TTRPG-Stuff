@@ -10,13 +10,14 @@
           {
             "id": "6b7fcf113b589cc1",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Gear Database.md"
-              },
-              "pinned": true
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Hardecker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -31,7 +32,7 @@
       {
         "id": "6972c6fe3edf9909",
         "type": "tabs",
-        "dimension": 39.357142857142854,
+        "dimension": 73.14285714285714,
         "children": [
           {
             "id": "96c5404588fc3b4a",
@@ -61,51 +62,9 @@
         ]
       },
       {
-        "id": "2ce5ec122f0ef99a",
-        "type": "tabs",
-        "dimension": 31.642857142857146,
-        "children": [
-          {
-            "id": "1fa229dd8b7f3336",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Gear Database.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.536458333333333,
-                  "repelStrength": 0.416666666666667,
-                  "linkStrength": 1,
-                  "linkDistance": 108,
-                  "scale": 0.7132754626224443,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "8ddab16f8a1ffc35",
         "type": "tabs",
-        "dimension": 28.999999999999996,
+        "dimension": 26.857142857142858,
         "children": [
           {
             "id": "18e56d355d249aa8",
@@ -144,9 +103,43 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "1fa229dd8b7f3336",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Hardecker.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.536458333333333,
+                  "repelStrength": 0.416666666666667,
+                  "linkStrength": 1,
+                  "linkDistance": 108,
+                  "scale": 0.7132754626224443,
+                  "close": true
+                }
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Gear Database.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Hardecker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -233,34 +226,34 @@
   },
   "active": "6b7fcf113b589cc1",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Repair Tools.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Hacking Tools.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Small Drone.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Multiversal Maps.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Spacetime Ampimeter.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Grappling Hook.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Normies.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Hardecker.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Miper.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/DARA.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Scram Cat.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/FUST.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md",
+    "Notes.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Arborists.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Shimmer.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Doorways.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/PANIC Energy® Fuel-Line.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
+    "90 🧩 Templates/Slug Group.md",
+    "90 🧩 Templates/Group.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Gear Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Decks.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Signature Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Slam Patch.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Link Patch Duo.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Duraweave Jacket.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/Miper® Escape Bag.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Gear",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Deck Generator.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Kinetic Deck.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Hardlight Board.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Gravity Blaster.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Hyperoptic Visor.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Negafriction Sword.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Photonic Jacket.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Riftninja Sneakers.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Skipmode Runners.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Powered Armor.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Robotic Companion.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Reality Cannon.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Voidwear Backpack.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures",
-    "90 🧩 Templates/Signature.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Stickers, Pins, Patches.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Mods.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Monsters",
     "10 🧙 Player Campaigns/💤 Sleeping Days/NPCs/Art",

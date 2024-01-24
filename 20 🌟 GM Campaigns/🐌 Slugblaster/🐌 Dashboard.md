@@ -11,8 +11,13 @@ banner_lock: true
 - [f] Get buttons to change some of these?
 - [ ] Group overview
 	- [x] Crews
-	- [ ] Authorities
+	- [x] Authorities
 	- [ ] Crowds?
+	- [ ] Sponsors
+- [ ] NPCS
+	- [x] Crews
+	- [ ] Auths
+	- [ ] Crowds
 	- [ ] Sponsors
 - [ ] Generator list
 	- [x] Checkpoints
@@ -40,12 +45,11 @@ banner_lock: true
 	- [x] [[Thennis Spar]]
 	- [x] [[Vastiche]]
 - [x] Monsters
-- [ ] Items
+- [x] Items
 	- [x] Signatures
 		- [x] [[Signature Looks]]
 	- [x] [[Stickers, Pins, Patches]]
-	- [ ] General?
-
+	- [x] Gear
 
 # [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
 ```dataview
@@ -57,6 +61,29 @@ from "20 🌟 GM Campaigns/🐌 Slugblaster/Groups"
 WHERE contains(Type, "Crew")
 SORT file.name
 ```
+
+# [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|👮‍♂️ Authorities]]
+```dataview
+TABLE WITHOUT ID 
+	link(file.path, name) AS "Name",
+	Summary AS "Summary"
+from "20 🌟 GM Campaigns/🐌 Slugblaster/Groups"
+WHERE contains(Type, "Authorities")
+SORT file.name
+```
+
+# [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🍦 Sponsors]]
+```dataview
+TABLE WITHOUT ID 
+	link(file.path, name) AS "Name",
+	Summary AS "Summary"
+from "20 🌟 GM Campaigns/🐌 Slugblaster/Groups"
+WHERE contains(Type, "Sponsor")
+SORT file.name
+```
+
+
+
 
 # 🎲 Generators
 ```dataview
