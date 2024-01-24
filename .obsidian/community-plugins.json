@@ -16,5 +16,6 @@
   "obsidian-leaflet-plugin",
   "obsidian-sortable",
   "better-search-views",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-linter"
 ]

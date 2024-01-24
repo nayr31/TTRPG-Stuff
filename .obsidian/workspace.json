@@ -10,6 +10,7 @@
           {
             "id": "4ecec49d9c6951f8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -221,7 +223,8 @@
       "dbfolder:Create a new database table": true,
       "excel:Create Excel File": true,
       "obsidian42-brat:BRAT": true,
-      "obsidian-leaflet-plugin:Open Leaflet Map": true
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "4ecec49d9c6951f8",
