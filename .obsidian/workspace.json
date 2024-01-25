@@ -21,8 +21,32 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "877b0925e2277c3a",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md"
+              }
+            }
+          },
+          {
+            "id": "2515819313e0c772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/What a GM Does.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/What a GM Does.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/What a GM Does.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,10 +252,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4ecec49d9c6951f8",
+  "active": "2515819313e0c772",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Resources/Cycle.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/What a GM Does.md",
     "Checkboxes, Callouts, & Speech Bubbles.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
     "Notes.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Freaks.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Normies.md",
@@ -253,9 +280,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/PANIC Energy® Fuel-Line.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
-    "90 🧩 Templates/Slug Group.md",
-    "90 🧩 Templates/Group.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Gear",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/World Tables",
@@ -275,7 +299,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/The Arborists.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Jet Collective.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/FUST.png",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Wilkies.png",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",

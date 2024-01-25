@@ -14,12 +14,12 @@ banner_lock: true
 	- [x] Authorities
 	- [x] Crowds?
 	- [x] Sponsors
-- [ ] NPCS
+- [ ] [[20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Database]]
 	- [x] Crews
 	- [ ] Auths
 	- [ ] Crowds
 	- [ ] Sponsors
-- [ ] Generator list
+- [x] Generator list
 	- [x] Checkpoints
 	- [x] Problems
 	- [x] NPCs
