@@ -9,11 +9,11 @@ banner_lock: true
 
 # **Goals for this page:**
 - [f] Get buttons to change some of these?
-- [ ] Group overview
+- [x] Group overview
 	- [x] Crews
 	- [x] Authorities
-	- [ ] Crowds?
-	- [ ] Sponsors
+	- [x] Crowds?
+	- [x] Sponsors
 - [ ] NPCS
 	- [x] Crews
 	- [ ] Auths
@@ -82,8 +82,15 @@ WHERE contains(Type, "Sponsor")
 SORT file.name
 ```
 
-
-
+# [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🧑‍🤝‍🧑 Crowds]]
+```dataview
+TABLE WITHOUT ID 
+	link(file.path, name) AS "Name",
+	Summary AS "Summary"
+from "20 🌟 GM Campaigns/🐌 Slugblaster/Groups"
+WHERE contains(Type, "Crowd")
+SORT file.name
+```
 
 # 🎲 Generators
 ```dataview
