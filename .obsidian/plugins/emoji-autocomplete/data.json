@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "vampire",
     "people_holding_hands",
     "icecream",
     "policeman",
@@ -27,8 +28,7 @@
     "zzz",
     "star",
     "world_map",
-    "diamond",
-    "contest"
+    "diamond"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,
