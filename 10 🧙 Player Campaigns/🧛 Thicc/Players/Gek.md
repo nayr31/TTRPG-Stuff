@@ -127,7 +127,6 @@ At 2nd level and every 2 levels thereafter, you gain a [skill feat](https://pf2e
 
 Skill feats: 
 
-
 > [!info] [Dubious Knowledge](https://pf2etools.com/feats.html#dubious%20knowledge_crb) (Thaumaturge 1)
 > You're a treasure trove of information, but not all of it comes from reputable sources. When you fail (but don't critically fail) a [Recall Knowledge](https://pf2etools.com/actions.html#recall%20knowledge_crb) check using any skill, you learn a bit of true knowledge and a bit of erroneous knowledge, but you don't have any way to differentiate which is which.
 
