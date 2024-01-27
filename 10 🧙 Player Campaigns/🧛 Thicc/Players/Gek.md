@@ -6,8 +6,6 @@ GP: 25
 ---
 # Background
 
-
-
 > [!info] Haunted
 > You are followed by a spirit or entity, either from childhood or since a traumatic or momentous event. You may have seen this entity. Others may have seen it as well. You have studied esoteric subjects trying to understand your situation, but this presence in your life remains a mystery. Whatever this entity is or wants, it influences your life in subtle ways, not always good. Sometimes the entity helps you, but at other times, its influence is malevolent or harmful. The entity is most likely to surface in stressful situations.
 > 
@@ -129,6 +127,10 @@ At 2nd level and every 2 levels thereafter, you gain a [skill feat](https://pf2e
 
 Skill feats: 
 
+
+> [!info] [Dubious Knowledge](https://pf2etools.com/feats.html#dubious%20knowledge_crb) (Thaumaturge 1)
+> You're a treasure trove of information, but not all of it comes from reputable sources. When you fail (but don't critically fail) a [Recall Knowledge](https://pf2etools.com/actions.html#recall%20knowledge_crb) check using any skill, you learn a bit of true knowledge and a bit of erroneous knowledge, but you don't have any way to differentiate which is which.
+
 > [!info] Experienced Smuggler
 > You often smuggle things past the authorities. When the GM rolls your Stealth check to see if a passive observer notices a small item you have concealed, the GM uses the number rolled or 10—whichever is higher—as the result of your die roll, adding it to your Stealth modifier to determine your Stealth check result. If you're a master in Stealth, the GM uses the number rolled or 15, and if you're legendary in Stealth, you automatically succeed at hiding a small concealed item from passive observers. This provides no benefits when a creature attempts a Perception check while actively searching you for hidden items. Due to your smuggling skill, you're more likely to find more lucrative smuggling jobs when using Underworld Lore to [Earn Income](https://pf2etools.com/actions.html#earn%20income_crb).
 
@@ -138,9 +140,11 @@ At 3rd level and every 4 levels thereafter (+1), you gain a [general feat](https
 
 General feats
 
-
 > [!info] [Shadow Mark](https://pf2etools.com/feats.html#shadow%20mark_apg)
 > You have learned special tricks that help you follow individuals without them noticing you. When you attempt a Stealth check to [Avoid Notice](https://pf2etools.com/actions.html#avoid%20notice_crb) while following a specific target, the target takes a –2 circumstance penalty to their Perception DC. If you have master proficiency in Stealth, the penalty is –3 or –4 if you're legendary. If you start an encounter with the target while shadowing them, the target takes this penalty to their initiative roll and to their Perception DC to determine if they notice you, as normal for [Sneak](https://pf2etools.com/actions.html#sneak_crb).
+
+> [!info] [Armored Stealth](https://pf2etools.com/feats.html#armored%20stealth_apg)
+> You have learned techniques to adjust and modify your armor and movements to reduce the noise you make. When you wear non-noisy armor with which you are trained, your penalty to Stealth checks is reduced by 1 (to a minimum penalty of 0). If you're a master in Stealth, reduce the penalty by 2, and if you're legendary, reduce the penalty by 3. If your armor has the [noisy](https://pf2etools.com/traits.html#noisy) trait, instead of reducing the penalty to Stealth checks, you ignore the effects of the [noisy](https://pf2etools.com/traits.html#noisy) trait, enabling you to remove the penalty with a sufficient Strength score as normal.
 
 ### Lightning Reflexes
 
