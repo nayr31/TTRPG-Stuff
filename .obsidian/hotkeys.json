@@ -59,5 +59,15 @@
       ],
       "key": " "
     }
-  ]
+  ],
+  "url-into-selection:paste-url-into-selection": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ],
+  "obsidian-excel-to-markdown-table:excel-to-markdown-table": []
 }

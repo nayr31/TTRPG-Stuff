@@ -10,17 +10,33 @@
           {
             "id": "15c9c75f23f45e36",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Rogger.md",
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "280d07474b62a76d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Rogger.md",
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Rogger.md",
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,12 +241,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "15c9c75f23f45e36",
+  "active": "280d07474b62a76d",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🧛 Thicc/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Players/Rogger.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Dashboard.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
     "Notes.md",
+    "Checkboxes, Callouts, & Speech Bubbles.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/Players/Art/Gek.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/What a GM Does.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Quests/🎯 Quest Database.md",
@@ -245,7 +263,6 @@
     "10 🧙 Player Campaigns/🧛 Thicc/Groups",
     "10 🧙 Player Campaigns/🧛 Thicc",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Resources/Cycle.png",
-    "Checkboxes, Callouts, & Speech Bubbles.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Freaks.md",
@@ -261,7 +278,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/DARA.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Arborists.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Gear",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Players/Art/Atlas.png",
@@ -272,7 +288,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Hardecker.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/The Arborists.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Jet Collective.png",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/FUST.png",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",

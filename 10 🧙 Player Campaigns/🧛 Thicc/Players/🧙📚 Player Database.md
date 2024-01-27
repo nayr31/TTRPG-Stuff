@@ -16,7 +16,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -34,7 +34,7 @@ columns:
     key: Art
     id: Art
     label: Art
-    position: 100
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -53,7 +53,7 @@ columns:
     key: Pronouns
     id: Pronouns
     label: Pronouns
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -76,7 +76,7 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
