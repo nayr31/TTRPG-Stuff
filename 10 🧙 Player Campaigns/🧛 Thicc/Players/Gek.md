@@ -45,8 +45,8 @@ You are the scion of a vampire, half living and half undead, gifted with uncanny
 At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th level).
 
 
-> [!info] [Fangs](https://pf2etools.com/feats.html#fangs_apg)
-> Your incisors have grown into true fangs: long, sharp, and well-suited to drawing blood. You gain a fangs unarmed attack that deals **1d6** piercing damage. Your fangs are in the brawling group and have the [grapple](https://pf2etools.com/traits.html#grapple) and [unarmed](https://pf2etools.com/traits.html#unarmed) traits.
+> [!info] [Very Sneaky](https://pf2etools.com/feats.html#very%20sneaky_crb)
+> Taller folk rarely pay attention to the shadows at their feet, and you take full advantage of this. You can move 5 feet farther when you take the [Sneak](https://pf2etools.com/actions.html#sneak_crb) action, up to your Speed. In addition, as long as you continue to use [Sneak](https://pf2etools.com/actions.html#sneak_crb) actions and succeed at your Stealth check, you don't become [observed](https://pf2etools.com/conditions.html#observed_crb) if you don't have cover or greater cover and aren't [concealed](https://pf2etools.com/conditions.html#concealed_crb) at the end of the [Sneak](https://pf2etools.com/actions.html#sneak_crb) action, as long as you have cover or greater cover or are [concealed](https://pf2etools.com/conditions.html#concealed_crb) at the end of your turn.
 
 # Class - Thaumaturge
 
@@ -62,8 +62,8 @@ Expert in Will
 Trained in *Arcana*, *Nature*, ~~Occultism~~ (*Stealth*), and *Religion*
 Trained in a number of additional skills equal to 3 plus your Intelligence modifier (3)
 - *Diplomacy*
-- *Intimidation*
 - *Acrobatics*
+- *Thievery*
 
 **ATTACKS**
 Trained in simple weapons
@@ -129,8 +129,8 @@ At 2nd level and every 2 levels thereafter, you gain a [skill feat](https://pf2e
 
 Skill feats: 
 
-> [!info] [Intimidating Glare](https://pf2etools.com/feats.html#intimidating%20glare_crb)
-> You can [Demoralize](https://pf2etools.com/actions.html#demoralize_crb) with a mere glare. When you do, [Demoralize](https://pf2etools.com/actions.html#demoralize_crb) loses the [auditory](https://pf2etools.com/traits.html#auditory) trait and gains the [visual](https://pf2etools.com/traits.html#visual) trait, and you don't take a penalty if the creature doesn't understand your language.
+> [!info] Experienced Smuggler
+> You often smuggle things past the authorities. When the GM rolls your Stealth check to see if a passive observer notices a small item you have concealed, the GM uses the number rolled or 10—whichever is higher—as the result of your die roll, adding it to your Stealth modifier to determine your Stealth check result. If you're a master in Stealth, the GM uses the number rolled or 15, and if you're legendary in Stealth, you automatically succeed at hiding a small concealed item from passive observers. This provides no benefits when a creature attempts a Perception check while actively searching you for hidden items. Due to your smuggling skill, you're more likely to find more lucrative smuggling jobs when using Underworld Lore to [Earn Income](https://pf2etools.com/actions.html#earn%20income_crb).
 
 ## 3rd
 
@@ -152,4 +152,4 @@ At 3rd level and every 2 levels thereafter, you gain a skill increase. You can u
 
 You can use any of these skill increases you gain at 7th level or higher to become a master in a skill in which you're already an expert, and any of these skill increases you gain at 15th level or higher to become legendary in a skill in which you're already a master.
 
-- *Intimidation*
+- *Stealth*
