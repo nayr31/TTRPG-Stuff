@@ -3,6 +3,7 @@ Pronouns: He/Him
 NoteIcon: Player
 Art: "![[Gek.png]]"
 GP: 25
+Race: Goblin
 ---
 # Background
 

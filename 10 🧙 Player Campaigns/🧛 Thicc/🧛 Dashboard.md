@@ -9,6 +9,7 @@ cssclasses:
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
+	Race AS "Race",
 	embed(Art) AS "Art"
 from "10 🧙 Player Campaigns/🧛 Thicc/Players"
 WHERE contains(NoteIcon, "Player")
@@ -48,11 +49,13 @@ from "10 🧙 Player Campaigns/🧛 Thicc/NPCs"
 WHERE contains(NoteIcon, "NPC") AND contains(Type, "Coven Leader")
 SORT file.name
 ```
+
 # [[10 🧙 Player Campaigns/🧛 Thicc/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
 	Status AS "Status",
+	Type AS "Type",
 	Session_Complete AS "Session Complete",
 	Summary AS "Summary"
 from "10 🧙 Player Campaigns/🧛 Thicc/Quests"

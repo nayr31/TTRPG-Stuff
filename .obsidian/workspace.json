@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8f05ba3d34d71e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,16 +227,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f05ba3d34d71e02",
+  "active": "25acadf02ca95363",
   "lastOpenFiles": [
-    "Notes.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+    "90 🧩 Templates/✏ Campaign/Dashboard.md",
     "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/Quests/🎯 Quest Database.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/Quests/Remove the Haunt.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+    "Notes.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Thrain.jpg",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/IMG_0038.jpg",
     "Checkboxes, Callouts, & Speech Bubbles.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Dragos Wolfram.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Thrain Lycopod.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Valeska Loredana Antonia Dracula.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Sabien Adorus.md",
@@ -263,7 +253,6 @@
     "10 🧙 Player Campaigns/🧛 Thicc/Groups/Rose Coven.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Groups/Blade Coven.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Groups/Mist Coven.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Quests/t.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Alistair.png",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Katerina.png",
@@ -271,14 +260,11 @@
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Sabien.jpg",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Valeska.png",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Dragos.jpg",
-    "10 🧙 Player Campaigns/🧛 Thicc/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Art/Veryn_c.jpg",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Art/Monty_c.jpg",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Monty.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Veryn.md",
     "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
-    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Appalachia.md",
-    "10 🧙 Player Campaigns/🦌 DHS/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Art",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art",
     "10 🧙 Player Campaigns/🧛 Thicc/Sessions",

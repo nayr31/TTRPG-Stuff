@@ -76,7 +76,7 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -92,6 +92,28 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  Race:
+    input: select
+    accessorKey: Race
+    key: Race
+    id: Race
+    label: Race
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Goblin", value: "Goblin", color: "hsl(270, 95%, 90%)"}
+      - { label: "Human", value: "Human", color: "hsl(143, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
