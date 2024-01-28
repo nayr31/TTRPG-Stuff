@@ -40,3 +40,7 @@ Downtime, and we interrogate [[Masud Ba]]. There is no mountain base, [[Draum Hu
 [[Tushar Waiba]] died in the night, [[Sky Devil]] takes the opportunity to autopsy.
 [[Tu'er Shen]] mentioned that they punched them in the chest at some point, could be the cause?
 > "You were following Flin's orders?"
+
+A huge dropship comes with [[Draum Hunting Supply|DHS]] markings on it comes down.
+
+[[Appalachia]] comes out with a huge group of security. She is super fuckin' sus, so much so that our cover is basically blown.
