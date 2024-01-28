@@ -10,6 +10,7 @@
           {
             "id": "7e332c4891ffb8eb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,22 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "67d7684b47fd1962",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🦌 DHS/NPCs/👨‍🌾📚 NPC Database.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -32,7 +45,7 @@
       {
         "id": "6972c6fe3edf9909",
         "type": "tabs",
-        "dimension": 73.14285714285714,
+        "dimension": 58.94230769230769,
         "children": [
           {
             "id": "96c5404588fc3b4a",
@@ -64,7 +77,7 @@
       {
         "id": "8ddab16f8a1ffc35",
         "type": "tabs",
-        "dimension": 26.857142857142858,
+        "dimension": 41.05769230769231,
         "children": [
           {
             "id": "18e56d355d249aa8",
@@ -123,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 03.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -239,12 +252,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e332c4891ffb8eb",
+  "active": "bb25fc6a70e4e374",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🦌 DHS/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 03.md",
+    "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
+    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Tu'er Shen.md",
+    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Kiddo.md",
+    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Tushar Waiba.md",
+    "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 02.md",
     "Checkboxes, Callouts, & Speech Bubbles.md",
     "10 🧙 Player Campaigns/🦌 DHS/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
     "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
     "Notes.md",
@@ -272,11 +290,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Heads.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Thrashers.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Miper.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Hardecker.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Scram Cat.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/FUST.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Gear",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Players/Art/Atlas.png",
