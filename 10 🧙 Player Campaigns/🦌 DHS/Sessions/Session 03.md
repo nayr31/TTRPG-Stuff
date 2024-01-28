@@ -44,3 +44,7 @@ Downtime, and we interrogate [[Masud Ba]]. There is no mountain base, [[Draum Hu
 A huge dropship comes with [[Draum Hunting Supply|DHS]] markings on it comes down.
 
 [[Appalachia]] comes out with a huge group of security. She is super fuckin' sus, so much so that our cover is basically blown.
+
+I fucking take her leg out and steal a ship.
+
+[[Bream]] and [[Tu'er Shen]] are slowly experiencing unshackling.
