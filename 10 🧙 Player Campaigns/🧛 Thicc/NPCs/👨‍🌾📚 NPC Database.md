@@ -38,7 +38,7 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -101,11 +101,55 @@ columns:
     key: Notes
     id: Notes
     label: Notes
-    position: 5
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
     width: 175
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Race:
+    input: select
+    accessorKey: Race
+    key: Race
+    id: Race?
+    label: Race
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Vampire", value: "Vampire", color: "hsl(302, 95%, 90%)"}
+      - { label: "Werewolf", value: "Werewolf", color: "hsl(239, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  Type:
+    input: select
+    accessorKey: Type
+    key: Type
+    id: Type
+    label: Type
+    position: 6
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Coven Leader", value: "Coven Leader", color: "hsl(17, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - cards
+  - cards-cols-5
 ---
 
 # [[10 🧙 Player Campaigns/🦌 DHS/Players/🧙📚 Player Database|🧙 Player Dashboard (🍅🍅)]]
@@ -22,7 +23,7 @@ TABLE WITHOUT ID
 	embed(Art) AS "Art",
 	Notes AS "Notes"
 from "10 🧙 Player Campaigns/🦌 DHS/NPCs"
-WHERE contains(NoteIcon, "NPC")
+WHERE contains(NoteIcon, "NPC") AND Relevant = True
 SORT file.name
 ```
 
