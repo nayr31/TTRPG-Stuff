@@ -23,12 +23,15 @@
             }
           },
           {
-            "id": "67d7684b47fd1962",
+            "id": "79f48d08d2ebc149",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦌 DHS/NPCs/👨‍🌾📚 NPC Database.md"
+                "file": "10 🧙 Player Campaigns/🦌 DHS/Quests/Investigate AV&SG.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -136,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 03.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/Quests/Investigate AV&SG.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 03.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/Quests/Investigate AV&SG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,11 +255,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb25fc6a70e4e374",
+  "active": "79f48d08d2ebc149",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🦌 DHS/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 03.md",
     "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
+    "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 03.md",
+    "10 🧙 Player Campaigns/🦌 DHS/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Tu'er Shen.md",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Bream.md",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Tushar Waiba.md",
