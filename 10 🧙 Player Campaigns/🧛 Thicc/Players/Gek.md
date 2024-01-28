@@ -10,7 +10,7 @@ GP: 25
 
 He sent himself on a new quest: rid himself of this entity. Although short in requirements, he did not expect it to take so long to do so, only after collecting a myriad of skills related to the occult, religions, an other supernatural esoterica of knowledge did he come to the conclusion that it was impossible without outside help. The [[Moon Coven]] seemed to be his best bet, as they could always keep a secret. [[Veryn]] was his "in", someone to work for to gain favor within the coven.
 
-It was always like this anyways. Tall people are conceited, and even 
+It was always like this anyways. His parents were killed for trying to fit in with the covens, and its what forced his hand to escape into the nomadic lifestyle.
 
 > [!info] Haunted
 > You are followed by a spirit or entity, either from childhood or since a traumatic or momentous event. You may have seen this entity. Others may have seen it as well. You have studied esoteric subjects trying to understand your situation, but this presence in your life remains a mystery. Whatever this entity is or wants, it influences your life in subtle ways, not always good. Sometimes the entity helps you, but at other times, its influence is malevolent or harmful. The entity is most likely to surface in stressful situations.
