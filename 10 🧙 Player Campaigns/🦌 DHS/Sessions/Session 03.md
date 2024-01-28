@@ -22,7 +22,7 @@ Uncovers a conversation with "[[Sanguine]]".
 
 [[Hound]] gets through the cockpit.
 
-[[Merrow]] is [[Kiddo]]'s friend. He seems to be VERY relieved that [[Kiddo]] is safe.
+[[Merrow]] is [[Kiddo]]'s dad's friend. He seems to be VERY relieved that [[Kiddo]] is safe.
 Its evident that [[Kiddo]] isn't the one talking.
 
 The one talking was [[Tu'er Shen]], and ACME NHP housed within [[Kiddo]].
@@ -30,3 +30,13 @@ The one talking was [[Tu'er Shen]], and ACME NHP housed within [[Kiddo]].
 We manage to get most of [[Tushar Waiba]] out form his frame, with only a few wires dangling out.
 The scanner picks out cybernetic implants, but also some black spots. [[Kiddo]] reads with even more before shorting the scanner.
 
+Downtime, and we interrogate [[Masud Ba]]. There is no mountain base, [[Draum Hunting Supply|DHS]] bombed it. He does know their last location in the mountains.
+
+[[Tu'er Shen]] is an experimental version of ACME. Both worms. He was in an exp Jackalope frame piloted by [[Bream]]'s father. It went bad, he was able to make the jump.
+> Thank you for helping us...
+
+[[Topaz]] manages to devise their blueprints for the portable worm.
+
+[[Tushar Waiba]] died in the night, [[Sky Devil]] takes the opportunity to autopsy.
+[[Tu'er Shen]] mentioned that they punched them in the chest at some point, could be the cause?
+> "You were following Flin's orders?"
