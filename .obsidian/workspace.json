@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8f05ba3d34d71e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,14 +241,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "25acadf02ca95363",
+  "active": "8f05ba3d34d71e02",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Dragos Wolfram.md",
     "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Thrain.jpg",
+    "Notes.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/IMG_0038.jpg",
+    "Checkboxes, Callouts, & Speech Bubbles.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Dragos Wolfram.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Thrain Lycopod.md",
-    "Notes.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Thrain.jpg",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Valeska Loredana Antonia Dracula.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Sabien Adorus.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Katerina Moretti.md",
@@ -260,10 +276,8 @@
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Monty.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Veryn.md",
     "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Players/Art/Monty.jpg",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/Appalachia.md",
     "10 🧙 Player Campaigns/🦌 DHS/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/🦌 DHS/NPCs/Masud Ba.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Art",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art",
     "10 🧙 Player Campaigns/🧛 Thicc/Sessions",
