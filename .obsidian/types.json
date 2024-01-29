@@ -61,7 +61,7 @@
     "cash": "number",
     "Show": "checkbox",
     "aat-render-enabled": "checkbox",
-    "aat-event-start-date": "number",
+    "aat-event-start-date": "date",
     "timelines": "multitext"
   }
 }
