@@ -59,6 +59,9 @@
     "defCool": "number",
     "defQuick": "number",
     "cash": "number",
-    "Show": "checkbox"
+    "Show": "checkbox",
+    "aat-render-enabled": "checkbox",
+    "aat-event-start-date": "number",
+    "timelines": "multitext"
   }
 }
