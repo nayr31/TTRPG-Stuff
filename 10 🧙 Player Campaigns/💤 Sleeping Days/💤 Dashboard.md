@@ -33,6 +33,7 @@ SORT file.name
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
 	Status AS "Status",
+	Type AS "Type",
 	Session_Complete AS "Session Complete",
 	Summary AS "Summary"
 from "10 🧙 Player Campaigns/💤 Sleeping Days/Quests"
