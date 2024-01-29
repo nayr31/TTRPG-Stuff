@@ -118,12 +118,10 @@ At 1st level and every even-numbered level, you gain a [thaumaturge class feat](
 > [!info] Diverse Lore
 > Your wandering studies mean you've heard rumors or theories about almost every topic... though admittedly, your sources aren't always the most reliable. You can take a –2 penalty to your check to [Recall Knowledge](https://pf2etools.com/actions.html#recall%20knowledge_crb) with Esoteric Lore to [Recall Knowledge](https://pf2etools.com/actions.html#recall%20knowledge_crb) about any topic, not just the usual topics available for Esoteric Lore. Additionally, when you succeed at your check to Exploit a Vulnerability, compare the result of your Esoteric Lore check to the DC to [Recall Knowledge](https://pf2etools.com/actions.html#recall%20knowledge_crb) for that creature; if that number would be a success or a critical success, you gain information as if you had succeeded at the [Recall Knowledge](https://pf2etools.com/actions.html#recall%20knowledge_crb) check.
 
-2nd: [Talisman Esoterica](https://pf2etools.com/feats.html#talisman%20esoterica_da)
+2nd: [Ammunition Thaumaturgy](https://pf2etools.com/feats.html#ammunition%20thaumaturgy_da)
 
-> [!info] Talisman Esoterica
-> You know how to assemble the supernatural objects in your esoterica into a number of temporary talismans. Each day during your daily preparations, you can make two talismans with an item level no higher than half your level. You must know each talisman's formula. A talisman created this way is a temporary item and loses its magic the next time you make your daily preparations.
-> 
-> You know the formulas for [all common talismans in the Core Rulebook of your level or lower](https://pf2etools.com/items.html#blankhash,flstsource:crb=1,flsttype:,flstcategory:talisman=1,flstrarity:common=1). You remember your talisman formulas through oral tradition or mnemonics, so you don't need a formula book for them.
+> [!info] Ammunition Thaumaturgy
+> You're so used to handling your implement, weapon, and esoterica in the heat of combat that adding a few bullets or arrows to the mix is no extra burden. You can [Interact](https://pf2etools.com/actions.html#interact_crb) to reload a weapon using the hand holding your implement.
 
 ## 2nd
 
@@ -160,3 +158,4 @@ At 3rd level and every 2 levels thereafter, you gain a skill increase. You can u
 You can use any of these skill increases you gain at 7th level or higher to become a master in a skill in which you're already an expert, and any of these skill increases you gain at 15th level or higher to become legendary in a skill in which you're already a master.
 
 - *Stealth*
+
