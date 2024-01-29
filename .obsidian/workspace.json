@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "90bdab80934eda50",
+        "id": "b733efee8b6ec2e9",
         "type": "tabs",
         "children": [
           {
-            "id": "25acadf02ca95363",
+            "id": "c076c3e9a0d518d8",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -112,7 +105,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,10 +218,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "25acadf02ca95363",
+  "active": "c076c3e9a0d518d8",
   "lastOpenFiles": [
-    "90 🧩 Templates/✏ Campaign/Dashboard.md",
     "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+    "90 🧩 Templates/✏ Campaign/Dashboard.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Quests/Remove the Haunt.md",
