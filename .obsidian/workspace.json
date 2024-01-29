@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f600f72b93e1ed4",
+        "id": "09ad2a064dd5103d",
         "type": "tabs",
         "children": [
           {
-            "id": "555b9ae42a094f6d",
+            "id": "ca030d5de59b9d69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,6 +97,19 @@
             }
           },
           {
+            "id": "40b54eee25aba6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 03.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -110,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +152,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,15 +239,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "555b9ae42a094f6d",
+  "active": "ca030d5de59b9d69",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 03.md",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/Players/Retacon.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/Players/Retacon.md",
     "20 🌟 GM Campaigns/❓ Enigma/How does one write a compelling story.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/Uncovering the 8 Truths.md",
     "20 🌟 GM Campaigns/❓ Enigma/❓ Dashboard.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/2nd Truth - Quastenflosser.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/4th Truth - Smilodon.md",
@@ -251,8 +267,6 @@
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/3rd Truth - Copy (2).md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/3rd Truth - Copy.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/Untitled.md",
-    "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/Sample 1.md",
-    "Notes.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines",
     "20 🌟 GM Campaigns/❓ Enigma/NPCs/Art/Stargazer.png",
