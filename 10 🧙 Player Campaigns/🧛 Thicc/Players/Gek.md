@@ -27,7 +27,7 @@ Speed: 25 feet
 Ability Boosts
 - *Dexterity*  
 - *Charisma*  
-- *Constitution*
+- *Strength*
 Ability Flaw: Wisdom
 Languages
 - [Common](https://pf2etools.com/languages.html#common_crb)
