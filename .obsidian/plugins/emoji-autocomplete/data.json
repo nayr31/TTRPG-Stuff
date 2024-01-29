@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "question",
     "test_tube",
     "bed",
     "cloud",
@@ -27,8 +28,7 @@
     "deciduous_tree",
     "tv",
     "iphone",
-    "fish",
-    "fire"
+    "fish"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,

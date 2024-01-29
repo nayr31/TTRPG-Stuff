@@ -1,12 +1,10 @@
 ---
-
 database-plugin: basic
-
 ---
 
 ```yaml:dbfolder
-name: Group Database
-description: 
+name: Quest Database
+description: new description
 columns:
   __file__:
     key: __file__
@@ -30,16 +28,20 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Logo:
-    input: text
-    accessorKey: Logo
-    key: Logo
-    id: Logo
-    label: Logo
-    position: 3
+  Status:
+    input: select
+    accessorKey: Status
+    key: Status
+    id: Status
+    label: Status
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 138
+    options:
+      - { label: "✔ Finished", value: "✔ Finished", color: "hsl(62, 95%, 90%)"}
+      - { label: "❓ In Progress", value: "❓ In Progress", color: "hsl(101, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -49,19 +51,19 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  __tags__:
-    key: __tags__
-    id: __tags__
-    input: metadata_tags
-    label: File Tags
-    accessorKey: __tags__
-    isMetadata: true
-    isDragDisabled: false
+      option_source: manual
+  NoteIcon:
+    input: select
+    accessorKey: NoteIcon
+    key: NoteIcon
+    id: NoteIcon
+    label: NoteIcon
+    position: 6
     skipPersist: false
-    csvCandidate: false
-    position: 2
-    isHidden: true
+    isHidden: false
     sortIndex: -1
+    options:
+      - { label: "Quest", value: "Quest", color: "hsl(267, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -77,32 +79,13 @@ columns:
     key: Type
     id: Type
     label: Type
-    position: 5
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  NoteIcon:
-    input: select
-    accessorKey: NoteIcon
-    key: NoteIcon
-    id: NoteIcon
-    label: NoteIcon
-    position: 6
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Group", value: "Group", color: "hsl(307, 95%, 90%)"}
+      - { label: "❗ Main ❗", value: "❗ Main ❗", color: "hsl(2, 95%, 90%)"}
+      - { label: "❔ Side ❔", value: "❔ Side ❔", color: "hsl(53,93%,79%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -119,7 +102,26 @@ columns:
     key: Summary
     id: Summary
     label: Summary
-    position: 4
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Session_Complete:
+    input: text
+    accessorKey: Session_Complete
+    key: Session_Complete
+    id: Session_Complete
+    label: Session Complete
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -139,13 +141,13 @@ config:
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
-  hoist_files_with_empty_attributes: false
+  hoist_files_with_empty_attributes: true
   show_metadata_created: false
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false
   show_metadata_outlinks: false
-  show_metadata_tags: true
+  show_metadata_tags: false
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
