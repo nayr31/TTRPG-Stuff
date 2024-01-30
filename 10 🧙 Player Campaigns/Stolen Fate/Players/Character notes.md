@@ -102,7 +102,7 @@ Ability Boosts (5, 10):
 - (10) INT, INT, DEX
 
 Starting items:
-10th - 
+10th - [Scarab Cuirass](https://pf2etools.com/items.html#scarab%20cuirass_lotgb)
 9th   - 
 9th   - 
 8th   -
