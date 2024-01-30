@@ -27,3 +27,14 @@ Broken by the sounds of bodies toppling to the ground.
 "Breach!"
 
 The ground is impacted. [[Marcus]] is found injured, the wall is broken.
+
+We push back the initial wave of sinspawn, protecting [[Marcus]] while [[Kira]] rebuilds the wall.
+
+An echo of a connection to the sinspawn, the pain, the aftershocks 
+
+❓❓❓
+See a the energy move past her entire figure
+Diamond in her chest
+❓❓❓
+
+Led back towards the sinkeepers guild. A horde of guildmembers take the injured [[Marcus]]. 
