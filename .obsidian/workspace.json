@@ -97,19 +97,6 @@
             }
           },
           {
-            "id": "40b54eee25aba6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 03.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -153,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
