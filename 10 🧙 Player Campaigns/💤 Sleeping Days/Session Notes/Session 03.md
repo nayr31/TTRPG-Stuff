@@ -39,3 +39,4 @@ Diamond in her chest
 
 Led back towards the sinkeepers guild. A horde of guildmembers take the injured [[Marcus]]. 
 
+[[Retacon]] retires to some barrels.
