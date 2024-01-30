@@ -26,4 +26,4 @@ Broken by the sounds of bodies toppling to the ground.
 
 "Breach!"
 
-The ground is impacted. [[Marcus]] is found embedded in the stone.
+The ground is impacted. [[Marcus]] is found injured, the wall is broken.
