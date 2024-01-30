@@ -103,8 +103,8 @@ Ability Boosts (5, 10):
 
 Starting items:
 10th - [Scarab Cuirass](https://pf2etools.com/items.html#scarab%20cuirass_lotgb)
-9th   - 
-9th   - 
+9th   - [Eyes of the Eagle](https://pf2etools.com/items.html#eyes%20of%20the%20eagle_crb)
+9th   - [Knapsack of Halflingkind](https://pf2etools.com/items.html#knapsack%20of%20halflingkind_crb)
 8th   -
 7th   -
 7th   -
