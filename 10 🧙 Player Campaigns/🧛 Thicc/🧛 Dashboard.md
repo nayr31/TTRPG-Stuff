@@ -3,6 +3,9 @@ cssclasses:
   - cards
   - cards-cols-5
 ---
+*//TODO *
+- [ ] Fix [[Veryn]]'s picture (when they decide)
+- [ ] Add the final members(s)
 
 # [[10 🧙 Player Campaigns/🧛 Thicc/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
@@ -48,6 +51,17 @@ TABLE WITHOUT ID
 from "10 🧙 Player Campaigns/🧛 Thicc/NPCs"
 WHERE contains(NoteIcon, "NPC") AND contains(Type, "Coven Leader")
 SORT file.name
+```
+
+# [[10 🧙 Player Campaigns/🧛 Thicc/Groups/👪📚 Group Database|👥 Groups]]
+```dataview
+TABLE WITHOUT ID 
+	link(file.path, Displayname) AS "Name",
+	POI AS "Leader",
+	Summary AS "Summary"
+from "10 🧙 Player Campaigns/🧛 Thicc/Groups"
+WHERE contains(NoteIcon, "Group") AND !contains(Type, "Coven")
+SORT Status DESC
 ```
 
 # [[10 🧙 Player Campaigns/🧛 Thicc/Quests/🎯 Quest Database|🎯 Quest Dashboard]]

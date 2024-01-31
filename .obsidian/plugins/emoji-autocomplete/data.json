@@ -4,6 +4,10 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "bow_and_arrow",
+    "lizard",
+    "dog",
+    "group",
     "question",
     "test_tube",
     "bed",
@@ -24,11 +28,7 @@
     "zombie",
     "clock4",
     "tropical_drink",
-    "evergreen_tree",
-    "deciduous_tree",
-    "tv",
-    "iphone",
-    "fish"
+    "evergreen_tree"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,

@@ -21,6 +21,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
+    width: 135
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -83,6 +84,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "Coven", value: "Coven", color: "hsl(285, 95%, 90%)"}
+      - { label: "Misc.", value: "Misc.", color: "hsl(40, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
