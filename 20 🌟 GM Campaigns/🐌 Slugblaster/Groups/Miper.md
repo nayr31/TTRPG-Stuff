@@ -20,6 +20,6 @@ Irreverence, crews who don’t take this seriously, [[DARA|Rescue]], [[Doorways]
 ```dataview
 LIST
 from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
-WHERE contains(Affliliation, this.file.name)
+WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```

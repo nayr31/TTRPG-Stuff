@@ -136,6 +136,11 @@ columns:
       - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md|Null Range]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Null Range.md|Null Range]]", color: "hsl(334,69%,29%)"}
       - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md|Lazy Bunny]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md|Lazy Bunny]]", color: "hsl(192,51%,41%)"}
       - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md|The Wicks]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Wicks.md|The Wicks]]", color: "hsl(41,43%,37%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Arborists.md|The Arborists]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Arborists.md|The Arborists]]", color: "hsl(310, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/DARA.md|DARA]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/DARA.md|DARA]]", color: "hsl(329, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Shimmer.md|Shimmer]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Shimmer.md|Shimmer]]", color: "hsl(14, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md|The Old Guard]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md|The Old Guard]]", color: "hsl(75, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Doorways.md|Doorways]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Doorways.md|Doorways]]", color: "hsl(214, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

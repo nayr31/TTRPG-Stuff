@@ -4,36 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "9bf3d1fe0470017a",
-        "type": "tabs",
+        "id": "b320555ddc10af5e",
+        "type": "split",
         "children": [
           {
-            "id": "d3acb52c0dda3f3c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "9bf3d1fe0470017a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d3acb52c0dda3f3c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "db38fdb5f6ba5091",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "356c846e8dda14b9",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md"
+            "id": "de07261b77738cac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "688f908aee7a13ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Jason.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -123,6 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +180,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,6 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -232,40 +263,40 @@
       "dbfolder:Create a new database table": true,
       "excel:Create Excel File": true,
       "obsidian42-brat:BRAT": true,
-      "obsidian-leaflet-plugin:Open Leaflet Map": true,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "db38fdb5f6ba5091",
   "lastOpenFiles": [
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Runs.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Jason.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Groups/👪📚 Group Database.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Groups/The Sect of the Moonless Night.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Groups/The Order of Lunar Grace.md",
-    "Notes.md",
-    "Checkboxes, Callouts, & Speech Bubbles.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Groups/Monster Hunters.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Groups/Werebeasts.md",
-    "10 🧙 Player Campaigns/Stolen Fate/Players/Character notes.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Karen.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Situations.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Marley.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Corey.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Scram Cat.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Miper.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Hardecker.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/FUST.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Arborists.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Doorways.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Shimmer.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/DARA.md",
+    "90 🧩 Templates/Slug Group.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Jericho Zebulak.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Galina.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Balaclava.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Officers Koop and Penner.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Dr. Slate.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Daada, the High Forester.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Rani, the Sapling.md",
     "10 🧙 Player Campaigns/Stolen Fate/Players",
-    "10 🧙 Player Campaigns/Stolen Fate/Untitled.md",
     "10 🧙 Player Campaigns/Stolen Fate",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 03.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/Players/Retacon.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
-    "20 🌟 GM Campaigns/❓ Enigma/How does one write a compelling story.md",
-    "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/Uncovering the 8 Truths.md",
-    "20 🌟 GM Campaigns/❓ Enigma/❓ Dashboard.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
-    "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/2nd Truth - Quastenflosser.md",
-    "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/4th Truth - Smilodon.md",
-    "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/3rd Truth - Mammut.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines",
     "20 🌟 GM Campaigns/❓ Enigma/NPCs/Art/Stargazer.png",

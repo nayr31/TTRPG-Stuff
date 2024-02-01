@@ -19,6 +19,6 @@ Goody-goodies, crybabies, sellouts, [[Scram Cat]], corporations, and all authori
 ```dataview
 LIST
 from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
-WHERE contains(Affliliation, this.file.name)
+WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```

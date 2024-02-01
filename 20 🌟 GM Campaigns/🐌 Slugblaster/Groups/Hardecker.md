@@ -20,6 +20,6 @@ Controversy, anything that’d make the shareholders nervous, anything too weird
 ```dataview
 LIST
 from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
-WHERE contains(Affliliation, this.file.name)
+WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```

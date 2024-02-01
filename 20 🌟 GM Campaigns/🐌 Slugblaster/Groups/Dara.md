@@ -23,7 +23,7 @@ New data, exciting discoveries, fostering young scientists, and monitoring/contr
 ```dataview
 LIST
 from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
-WHERE contains(Affliliation, this.file.name)
+WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```
 

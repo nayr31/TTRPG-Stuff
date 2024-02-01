@@ -19,6 +19,6 @@ Anything too disruptive, [[Doorways]], invasive species, anomalous quantum pheno
 ```dataview
 LIST
 from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
-WHERE contains(Affliliation, this.file.name)
+WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```

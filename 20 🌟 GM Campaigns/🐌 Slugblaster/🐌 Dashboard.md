@@ -16,7 +16,7 @@ banner_lock: true
 	- [x] Sponsors
 - [ ] [[20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Database]]
 	- [x] Crews
-	- [ ] Auths
+	- [x] Auths
 	- [ ] Crowds
 	- [ ] Sponsors
 - [x] Generator list
@@ -50,6 +50,10 @@ banner_lock: true
 		- [x] [[Signature Looks]]
 	- [x] [[Stickers, Pins, Patches]]
 	- [x] Gear
+- [ ] [[Situations]]
+	- [ ] Roll table
+	- [ ] Generator
+
 
 # [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
 ```dataview
