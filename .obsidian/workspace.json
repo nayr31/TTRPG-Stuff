@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b48db4600f65bc",
+        "id": "9bf3d1fe0470017a",
         "type": "tabs",
         "children": [
           {
-            "id": "e77d5f26cf231aa0",
+            "id": "d3acb52c0dda3f3c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "ddfff14b7c388b72",
+            "id": "356c846e8dda14b9",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Groups/👪📚 Group Database.md"
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md"
               }
             }
           }
@@ -123,7 +123,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Groups/👪📚 Group Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Groups/👪📚 Group Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,11 +236,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ddfff14b7c388b72",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🧛 Thicc/Groups/The Sect of the Moonless Night.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Runs.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Groups/👪📚 Group Database.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/Groups/The Sect of the Moonless Night.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Groups/The Order of Lunar Grace.md",
     "Notes.md",
     "Checkboxes, Callouts, & Speech Bubbles.md",
@@ -252,7 +253,6 @@
     "10 🧙 Player Campaigns/Stolen Fate/Players",
     "10 🧙 Player Campaigns/Stolen Fate/Untitled.md",
     "10 🧙 Player Campaigns/Stolen Fate",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 03.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
@@ -266,8 +266,6 @@
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/2nd Truth - Quastenflosser.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/4th Truth - Smilodon.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/3rd Truth - Mammut.md",
-    "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/8th Truth - Faultier.md",
-    "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/6th Truth - Pygmius.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines",
     "20 🌟 GM Campaigns/❓ Enigma/NPCs/Art/Stargazer.png",
