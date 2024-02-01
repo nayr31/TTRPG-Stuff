@@ -21,8 +21,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ddfff14b7c388b72",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/Groups/👪📚 Group Database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/Groups/👪📚 Group Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🧛 Thicc/Groups/👪📚 Group Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,12 +238,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e77d5f26cf231aa0",
+  "active": "ddfff14b7c388b72",
   "lastOpenFiles": [
-    "Notes.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/Groups/The Sect of the Moonless Night.md",
     "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
-    "Checkboxes, Callouts, & Speech Bubbles.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Groups/👪📚 Group Database.md",
+    "10 🧙 Player Campaigns/🧛 Thicc/Groups/The Order of Lunar Grace.md",
+    "Notes.md",
+    "Checkboxes, Callouts, & Speech Bubbles.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Groups/Monster Hunters.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Groups/Werebeasts.md",
     "10 🧙 Player Campaigns/Stolen Fate/Players/Character notes.md",
@@ -255,8 +268,6 @@
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/3rd Truth - Mammut.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/8th Truth - Faultier.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/6th Truth - Pygmius.md",
-    "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/7th Truth - Nosferatu.md",
-    "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths/5th Truth - Kaimen.md",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines",
     "20 🌟 GM Campaigns/❓ Enigma/NPCs/Art/Stargazer.png",
