@@ -12,3 +12,4 @@ from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
 WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```
+A coffee shop full of slam poets. An ecosystem of passionate microbloggers locked in eternal discourse.

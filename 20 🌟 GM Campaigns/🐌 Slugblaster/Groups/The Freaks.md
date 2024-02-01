@@ -12,3 +12,4 @@ from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
 WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```
+A group of teens in clown makeup playing with juggling sticks in the park. Seedy chatrooms filled with memelords.

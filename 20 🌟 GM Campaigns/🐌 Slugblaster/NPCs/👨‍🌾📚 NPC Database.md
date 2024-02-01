@@ -147,6 +147,10 @@ columns:
       - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md|Wilkie's]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md|Wilkie's]]", color: "hsl(327, 95%, 90%)"}
       - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/FUST.md|FUST]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/FUST.md|FUST]]", color: "hsl(352, 95%, 90%)"}
       - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Thrashers.md|The Thrashers]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Thrashers.md|The Thrashers]]", color: "hsl(249, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Heads.md|The Heads]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Heads.md|The Heads]]", color: "hsl(249, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Mavens.md|The Mavens]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Mavens.md|The Mavens]]", color: "hsl(261, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Freaks.md|The Freaks]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Freaks.md|The Freaks]]", color: "hsl(50, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Normies.md|The Normies]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Normies.md|The Normies]]", color: "hsl(116, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

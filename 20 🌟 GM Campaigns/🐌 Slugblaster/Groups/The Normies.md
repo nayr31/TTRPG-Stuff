@@ -14,3 +14,4 @@ from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
 WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```
+A group of happy, optimistic, pumpkin-spice-scented students. A homefeed wellstocked with selfies, brunch, and online quizzes.

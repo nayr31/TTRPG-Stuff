@@ -12,3 +12,4 @@ from "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs"
 WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```
+A group of devotees in line for the newest [[Miper|Miper®]] tech. Power users comparing builds on the r/slugblasting message board.
