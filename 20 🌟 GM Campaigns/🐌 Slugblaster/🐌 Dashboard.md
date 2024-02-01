@@ -18,7 +18,7 @@ banner_lock: true
 	- [x] Crews
 	- [x] Auths
 	- [ ] Crowds
-	- [ ] Sponsors
+	- [x] Sponsors
 - [x] Generator list
 	- [x] Checkpoints
 	- [x] Problems

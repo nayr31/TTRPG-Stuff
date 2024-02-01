@@ -1,7 +1,7 @@
 ---
-Pronouns: N/A
+Pronouns: He/Him
 NoteIcon: NPC
-Notes: "gruff, sarcastic,\r always gets stuck babysitting slugblasters (Mercenary)"
+Notes: gruff, sarcastic,  always gets stuck babysitting slugblasters (Mercenary)
 Art: 
 Affiliation: "[[Shimmer]]"
 ---

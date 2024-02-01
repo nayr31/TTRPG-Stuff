@@ -1,7 +1,7 @@
 ---
-Pronouns: N/A
+Pronouns: He/Him
 NoteIcon: NPC
-Notes: "upbeat,\r deep conviction, “no cap, my homies” (youth leader)"
+Notes: upbeat,  deep conviction, “no cap, my homies” (youth leader)
 Art: 
 Affiliation: "[[Doorways]]"
 ---

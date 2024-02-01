@@ -2,5 +2,6 @@
 Pronouns: N/A
 NoteIcon: NPC
 Notes: 
-Art:
+Art: 
+Affiliation:
 ---

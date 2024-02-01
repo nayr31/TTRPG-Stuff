@@ -141,6 +141,12 @@ columns:
       - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Shimmer.md|Shimmer]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Shimmer.md|Shimmer]]", color: "hsl(14, 95%, 90%)"}
       - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md|The Old Guard]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Old Guard.md|The Old Guard]]", color: "hsl(75, 95%, 90%)"}
       - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Doorways.md|Doorways]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Doorways.md|Doorways]]", color: "hsl(214, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Scram Cat.md|Scram Cat]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Scram Cat.md|Scram Cat]]", color: "hsl(338, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Miper.md|Miper]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Miper.md|Miper]]", color: "hsl(308, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Hardecker.md|Hardecker]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Hardecker.md|Hardecker]]", color: "hsl(138, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md|Wilkie's]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md|Wilkie's]]", color: "hsl(327, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/FUST.md|FUST]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/FUST.md|FUST]]", color: "hsl(352, 95%, 90%)"}
+      - { label: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Thrashers.md|The Thrashers]]", value: "[[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Thrashers.md|The Thrashers]]", color: "hsl(249, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -170,7 +176,7 @@ config:
   source_destination_path: /
   row_templates_folder: z_Templates
   current_row_template: 90 🧩 Templates/NPC.md
-  pagination_size: 40
+  pagination_size: 55
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /

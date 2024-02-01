@@ -1,7 +1,7 @@
 ---
-Pronouns: N/A
+Pronouns: He/Him
 NoteIcon: NPC
-Notes: "mysterious, calculated, \rsmells strongly of incense and portal static"
+Notes: mysterious, calculated, smells strongly of incense and portal static
 Art: 
 aliases:
   - Daada
