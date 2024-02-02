@@ -4,51 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9bf3d1fe0470017a",
+        "id": "3d30249f21df6efb",
         "type": "tabs",
         "children": [
           {
-            "id": "d3acb52c0dda3f3c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "db38fdb5f6ba5091",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0c9ba1f2b7e642f0",
+            "id": "e8675ef38945a8ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+                "file": "20 🌟 GM Campaigns/❓ Enigma/NPCs/Techbane.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+                "file": "20 🌟 GM Campaigns/❓ Enigma/NPCs/Techbane.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+                "file": "20 🌟 GM Campaigns/❓ Enigma/NPCs/Techbane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,10 +226,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0c9ba1f2b7e642f0",
+  "active": "e8675ef38945a8ae",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
+    "20 🌟 GM Campaigns/❓ Enigma/❓ Dashboard.md",
+    "20 🌟 GM Campaigns/❓ Enigma/NPCs/Archivist.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Normies.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Tad and Ajay.md",
@@ -280,8 +254,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Mogie.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Mr. William Samswell.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Kenzie.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Drew.md",
-    "90 🧩 Templates/NPC.md",
     "10 🧙 Player Campaigns/Stolen Fate/Players",
     "10 🧙 Player Campaigns/Stolen Fate",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths",
