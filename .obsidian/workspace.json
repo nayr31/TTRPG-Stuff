@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d30249f21df6efb",
+        "id": "b8a98f464808aa4a",
         "type": "tabs",
         "children": [
           {
-            "id": "e8675ef38945a8ae",
+            "id": "12bf68bbd0763386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 🌟 GM Campaigns/❓ Enigma/NPCs/Techbane.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/❓ Enigma/NPCs/Techbane.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/❓ Enigma/NPCs/Techbane.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,8 +226,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e8675ef38945a8ae",
+  "active": "12bf68bbd0763386",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
+    "10 🧙 Player Campaigns/🦌 DHS/Draum_Hunting_Supply_Logo.png",
+    "20 🌟 GM Campaigns/❓ Enigma/NPCs/Techbane.md",
     "20 🌟 GM Campaigns/❓ Enigma/❓ Dashboard.md",
     "20 🌟 GM Campaigns/❓ Enigma/NPCs/Archivist.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Gek.md",
@@ -252,8 +255,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Lee.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Stooch.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Mogie.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Mr. William Samswell.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Kenzie.md",
     "10 🧙 Player Campaigns/Stolen Fate/Players",
     "10 🧙 Player Campaigns/Stolen Fate",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths",
@@ -273,7 +274,6 @@
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/IMG_0038.jpg",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Alistair.png",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Katerina.png",
-    "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Cynfael.png",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",
