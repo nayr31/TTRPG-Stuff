@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "alien",
     "bow_and_arrow",
     "lizard",
     "dog",
@@ -27,8 +28,7 @@
     "violin",
     "zombie",
     "clock4",
-    "tropical_drink",
-    "evergreen_tree"
+    "tropical_drink"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,

@@ -105,6 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,8 +134,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,7 +220,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "086e518be2852340",
+  "active": "18e56d355d249aa8",
   "lastOpenFiles": [
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
