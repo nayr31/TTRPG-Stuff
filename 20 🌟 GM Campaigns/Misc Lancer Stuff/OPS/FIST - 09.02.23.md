@@ -19,3 +19,7 @@ LL10, a bunch of homebrew
 They get there, but because of the crash and fire, SSC forces are on alert. Combat ensues.
 
 ## Scene 0.2 - Comms tower
+
+Skill checks to locate people, HA, supernatural shit
+
+## Scene 1.2 - Pull
