@@ -13,3 +13,9 @@ LL10, a bunch of homebrew
 > Escape pods are for losers, luckily you could repurpose a heat shield to field your re-entry.
 
 > With a smokey haze in the air, you land "safely". Large warnings on your mech's internal screens indicate that the air is severely toxic, rebreathers required. You wonder how trees can sustain, but that's not your job. First order of business: locate the HA incursion force. The nearby comms complex seems like a suitable place to start.
+
+## Scene 1.1 - Barricade
+
+They get there, but because of the crash and fire, SSC forces are on alert.
+
+## 
