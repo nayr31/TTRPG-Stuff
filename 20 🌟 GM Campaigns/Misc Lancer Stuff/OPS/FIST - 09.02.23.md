@@ -16,6 +16,6 @@ LL10, a bunch of homebrew
 
 ## Scene 1.1 - Barricade
 
-They get there, but because of the crash and fire, SSC forces are on alert.
+They get there, but because of the crash and fire, SSC forces are on alert. Combat ensues.
 
-## 
+## Scene 0.2 - Comms tower
