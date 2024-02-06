@@ -11,8 +11,13 @@
             "id": "086e518be2852340",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20 🌟 GM Campaigns/Misc Lancer Stuff/OPS/FIST - 09.02.23.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -105,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes.md",
+                "file": "20 🌟 GM Campaigns/Misc Lancer Stuff/OPS/FIST - 09.02.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "20 🌟 GM Campaigns/Misc Lancer Stuff/OPS/FIST - 09.02.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -220,8 +225,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "086e518be2852340",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/Misc Lancer Stuff/OPS/FIST - 09.02.23.md",
+    "20 🌟 GM Campaigns/Misc Lancer Stuff/OPS",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Panic Energy Flavours.md",
+    "20 🌟 GM Campaigns/Misc Lancer Stuff",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Wilkie's.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
     "10 🧙 Player Campaigns/🦌 DHS/Draum_Hunting_Supply_Logo.png",
@@ -244,11 +255,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Matty.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Imani.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Travis.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Thrashers.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/FUST.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Lee.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Stooch.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Mogie.md",
     "10 🧙 Player Campaigns/Stolen Fate/Players",
     "10 🧙 Player Campaigns/Stolen Fate",
     "20 🌟 GM Campaigns/❓ Enigma/Events, Timelines/8 Truths",
@@ -262,8 +268,6 @@
     "20 🌟 GM Campaigns/❓ Enigma/NPCs/Art",
     "20 🌟 GM Campaigns/❓ Enigma/Players/Art",
     "20 🌟 GM Campaigns/❓ Enigma/Quests",
-    "20 🌟 GM Campaigns/❓ Enigma/NPCs",
-    "20 🌟 GM Campaigns/❓ Enigma/Players",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Thrain.jpg",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/IMG_0038.jpg",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Art/Alistair.png",
