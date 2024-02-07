@@ -102,10 +102,3 @@ Ability Boosts (5, 10):
 - (10) INT, INT, DEX
 
 Starting items:
-10th - [Scarab Cuirass](https://pf2etools.com/items.html#scarab%20cuirass_lotgb)
-9th   -
-9th   - [Knapsack of Halflingkind](https://pf2etools.com/items.html#knapsack%20of%20halflingkind_crb)
-8th   -
-7th   -
-7th   -
-500g :
