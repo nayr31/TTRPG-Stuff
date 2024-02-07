@@ -110,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/Misc Lancer Stuff/OPS/FIST - 09.02.23.md",
+                "file": "Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/Misc Lancer Stuff/OPS/FIST - 09.02.23.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,7 +225,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "086e518be2852340",
+  "active": "18e56d355d249aa8",
   "lastOpenFiles": [
     "20 🌟 GM Campaigns/Misc Lancer Stuff/OPS/FIST - 09.02.23.md",
     "20 🌟 GM Campaigns/Misc Lancer Stuff/OPS",
