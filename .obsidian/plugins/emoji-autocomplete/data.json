@@ -4,6 +4,11 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "explode",
+    "barf",
+    "shield",
+    "fox_face",
+    "balance_scale",
     "alien",
     "bow_and_arrow",
     "lizard",
@@ -21,14 +26,9 @@
     "people_holding_hands",
     "icecream",
     "policeman",
-    "balance_scale",
     "crocodile",
     "factory",
-    "gasp",
-    "violin",
-    "zombie",
-    "clock4",
-    "tropical_drink"
+    "gasp"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,
