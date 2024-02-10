@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "card_file_box",
     "explode",
     "barf",
     "shield",
@@ -27,8 +28,7 @@
     "icecream",
     "policeman",
     "crocodile",
-    "factory",
-    "gasp"
+    "factory"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,
