@@ -17,3 +17,27 @@ a near sunrise, traders open for the influx of customers
 [[Satin Coven]] is guarding an area, seems to be a murder of some kind
 
 A young girl mutters near the corpse
+
+Werebeast attack?
+Probably not a claw, too clean
+
+He was floating in the river (the dead guy)
+
+A new carrige arrives, seems to be 🌹 like, [[Rose Coven]].
+Tall golden skinned man with red eyes, biggest v neck ever
+[[Alistair Orion|Alistair]] is here it seems (leader of the [[Rose Coven]])
+
+Falls to his knees, he seems to have known the dead person
+
+[[Katerina Moretti|Katerina]] is here too, [[Blade Coven]] leader.
+
+[[Gek]] pulls out some silver steel
+
+Premeditated murder! The teeth were taken
+
+Girl is part of group called Silver Fangs, were-TIGERS. Vibin' and dancing, keeping to themselves
+
+[[Sabien Adorus|Sabien]] comes too (why so many coven leaders)
+
+"Little fang" might be here, a hunter. Michael (ale)
+We are to investigate this murder
