@@ -105,6 +105,7 @@ columns:
     options:
       - { label: "Goblin", value: "Goblin", color: "hsl(270, 95%, 90%)"}
       - { label: "Human", value: "Human", color: "hsl(143, 95%, 90%)"}
+      - { label: "Werewolf", value: "Werewolf", color: "hsl(358, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

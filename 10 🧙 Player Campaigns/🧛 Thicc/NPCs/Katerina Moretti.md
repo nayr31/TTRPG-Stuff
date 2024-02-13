@@ -5,4 +5,5 @@ aliases:
   - Katerina
 Race: Vampire
 Type: Coven Leader
+Pronouns: N/A
 ---

@@ -4,6 +4,8 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "vampire",
+    "sunglasses",
     "card_file_box",
     "explode",
     "barf",
@@ -23,12 +25,10 @@
     "crescent_moon",
     "rose",
     "crown",
-    "vampire",
     "people_holding_hands",
     "icecream",
     "policeman",
-    "crocodile",
-    "factory"
+    "crocodile"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,

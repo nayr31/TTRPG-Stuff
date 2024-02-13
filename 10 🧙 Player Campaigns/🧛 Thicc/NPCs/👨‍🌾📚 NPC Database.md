@@ -177,7 +177,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: z_Templates
-  current_row_template: 
+  current_row_template: 90 🧩 Templates/NPC.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false

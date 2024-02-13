@@ -1,11 +1,8 @@
 ---
 cssclasses:
   - cards
-  - cards-cols-5
+  - cards-cols-4
 ---
-*//TODO *
-- [ ] Fix [[Veryn]]'s picture (when they decide)
-- [ ] Add the final members(s)
 
 # [[10 🧙 Player Campaigns/🧛 Thicc/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
