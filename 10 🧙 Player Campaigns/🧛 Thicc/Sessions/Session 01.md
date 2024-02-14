@@ -1,5 +1,7 @@
 ---
 Date: 2024-02-13T00:00:00.000-05:00
+NoteIcon: Note
+Summary: Everyone gathers, and a murder happens!
 ---
 1057 ac
 creatures rule, we rule 😎

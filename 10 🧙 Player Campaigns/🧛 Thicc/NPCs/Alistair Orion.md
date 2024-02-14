@@ -5,5 +5,5 @@ aliases:
   - Alistair
 Race: Vampire
 Type: Coven Leader
-Pronouns: N/A
+Pronouns: He/Him
 ---

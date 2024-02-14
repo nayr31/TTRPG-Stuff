@@ -4,5 +4,5 @@ Art: "![[Dragos.jpg]]"
 Race: Vampire
 aliases:
   - Dragos
-Pronouns: N/A
+Pronouns: He/Him
 ---
