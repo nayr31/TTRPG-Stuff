@@ -41,3 +41,13 @@ Girl is part of group called Silver Fangs, were-TIGERS. Vibin' and dancing, keep
 
 "Little fang" might be here, a hunter. Michael (ale)
 We are to investigate this murder
+
+We talk to a person in the market, they man a market stall
+
+[[Thrain Lycopod|Thrain]] points us towards the main city's taverns, who might have a bigger underbelly
+
+[[Monty]] meets [[Leila]].
+Stronghold nearby even
+Moon lillies
+
+Green eyes, pointed ears, dark armor
