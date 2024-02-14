@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "20fa3d3167c577e2",
+        "id": "4a5f108c99f0e805",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c7f38ff1b07488",
+            "id": "682d9317a2ccafee",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -110,7 +103,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Sessions/Session 01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🧛 Thicc/Sessions/Session 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,11 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07c0723ffc062450",
+  "active": "682d9317a2ccafee",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🧛 Thicc/Sessions/Session 01.md",
     "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/Thrain Lycopod.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Sessions/Session 01.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Quests/Find the killer!.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Quests/Remove Haunt.md",
