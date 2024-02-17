@@ -10,14 +10,16 @@
           {
             "id": "28c22551246bc00a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 🗃️ Resources/Obsidian Stuff/Sticky Notes.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -82,6 +84,19 @@
             }
           },
           {
+            "id": "70a449ce0d9709cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 04.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -95,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 🗃️ Resources/Obsidian Stuff/Sticky Notes.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 🗃️ Resources/Obsidian Stuff/Sticky Notes.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +228,12 @@
   },
   "active": "28c22551246bc00a",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 04.md",
+    "10 🧙 Player Campaigns/🦌 DHS/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
+    "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 03.md",
     "Notes.md",
+    "99 🗃️ Resources/Obsidian Stuff/Sticky Notes.md",
     "99 🗃️ Resources/Life stuff/Business Card.md",
     "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/👨‍🌾📚 NPC Database.md",
@@ -236,18 +256,13 @@
     "99 🗃️ Resources/Obsidian Stuff/Canvas Snippet (Shahriar).md",
     "99 🗃️ Resources/Obsidian Stuff",
     "99 🗃️ Resources/Life stuff",
-    "99 🗃️ Resources/Obsidian Stuff/Sticky Notes.md",
     "99 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "99 🗃️ Resources",
     "10 🧙 Player Campaigns/☁ Steamy/🧙📋 Player Dashboard.md",
     "10 🧙 Player Campaigns/🧡 Heart/🧙📋 Player Dashboard.md",
     "10 🧙 Player Campaigns/☁ Steamy/👨‍🌾📋 NPC Dashboard.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Vannie.md",
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Miyuki.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Art/Vannie_c.png",
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Clover.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Art/Miyuki_c.png",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Art/Clover_c.png",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Art/Miyuki.png",

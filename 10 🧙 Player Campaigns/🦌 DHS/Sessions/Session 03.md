@@ -1,6 +1,7 @@
 ---
 Date: 2024-01-27T00:00:00.000-05:00
 NoteIcon: Note
+Summary: A lot of talking about [[Tu'er Shen]], and their problems. Stole a ship from [[Appalachia]].
 ---
 During the last combat, we fought in acid rain.
 [[Merrow]] accused [[Masud Ba]] of that.
