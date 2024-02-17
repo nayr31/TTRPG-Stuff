@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "11e6570ad3fc9b3a",
+        "id": "1477afdb51f90cd1",
         "type": "tabs",
         "children": [
           {
-            "id": "ded515ff50a0004f",
+            "id": "28c22551246bc00a",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "99 🗃️ Resources/Obsidian Stuff/Sticky Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "99 🗃️ Resources/Obsidian Stuff/Sticky Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "99 🗃️ Resources/Obsidian Stuff/Sticky Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,8 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "28c22551246bc00a",
   "lastOpenFiles": [
+    "Notes.md",
+    "99 🗃️ Resources/Life stuff/Business Card.md",
     "10 🧙 Player Campaigns/🧛 Thicc/🧛 Dashboard.md",
     "10 🧙 Player Campaigns/🧛 Thicc/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Sessions/🧻📚 Session Database.md",
@@ -224,12 +233,10 @@
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Truman.md",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Philomena.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
-    "99 🗃️ Resources/Life stuff/Business Card.md",
     "99 🗃️ Resources/Obsidian Stuff/Canvas Snippet (Shahriar).md",
     "99 🗃️ Resources/Obsidian Stuff",
     "99 🗃️ Resources/Life stuff",
     "99 🗃️ Resources/Obsidian Stuff/Sticky Notes.md",
-    "Notes.md",
     "99 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "99 🗃️ Resources",
     "10 🧙 Player Campaigns/☁ Steamy/🧙📋 Player Dashboard.md",
