@@ -110,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,10 +226,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "28c22551246bc00a",
+  "active": "70a449ce0d9709cb",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 03.md",
     "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
+    "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 03.md",
     "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 04.md",
     "10 🧙 Player Campaigns/🦌 DHS/Sessions/🧻📚 Session Database.md",
     "Notes.md",
