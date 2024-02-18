@@ -49,3 +49,5 @@ A huge dropship comes with [[Draum Hunting Supply|DHS]] markings on it comes dow
 I fucking take her leg out and steal a ship.
 
 [[Bream]] and [[Tu'er Shen]] are slowly experiencing unshackling.
+
+(we got shot down)
