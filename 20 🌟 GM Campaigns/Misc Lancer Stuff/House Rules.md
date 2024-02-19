@@ -8,10 +8,15 @@ Reactions are special actions that can be made outside of the usual turn order a
 
 ==Normally, Reactions recharge at the beginning of the character's turn on the next round. ALL Reactions recharge at the beginning of the next round.==
 
-## 
 ## Conditions
 
 Below is a non-comprehensive list of conditions that have been changed. 
 ### Stunned
 
 STUNNED mechs cannot OVERCHARGE, move, or take any actions – including free actions and reactions, ==however, they may take 1 Quick Action==. Pilots can still MOUNT, DISMOUNT, or EJECT from STUNNED mechs, and can take actions normally. STUNNED mechs have a maximum of 5 EVASION, and automatically fail all HULL and AGILITY checks and saves.
+
+## Sitreps
+
+Some sitreps have their standard rules altered.
+### Recon
+
