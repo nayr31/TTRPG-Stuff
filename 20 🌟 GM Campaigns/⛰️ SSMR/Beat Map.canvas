@@ -6,7 +6,7 @@
 		{"id":"818e8fb5971473eb","type":"text","text":"**Combat 1**\nUnchackled Hands","x":-125,"y":-20,"width":265,"height":100,"color":"2"},
 		{"id":"477ce71db04774bb","type":"text","text":"**Beat 4**\nSearching for [[Lighthouse]], lead to *Combat 2*","x":-125,"y":140,"width":265,"height":100,"color":"6"},
 		{"id":"a6ce8e371735e3df","type":"text","text":"**Combat 2**\nDormant Resolve Attacks","x":-125,"y":300,"width":265,"height":100,"color":"2"},
-		{"id":"37696c76b3df48de","type":"text","text":"**Beat 5**\nDecision point","x":-185,"y":460,"width":385,"height":100,"color":"6"},
+		{"id":"37696c76b3df48de","type":"text","text":"**Beat 5**\nDecision point, Look for [[Lighthouse]], or go for [[CHAGA]]","x":-185,"y":460,"width":385,"height":100,"color":"6"},
 		{"id":"7137ba481e541251","type":"text","text":"**Beat 6A**\nRecovery of [[Lighthouse]] II, Infiltrate SECCOM base","x":-390,"y":700,"width":265,"height":100,"color":"6"},
 		{"id":"d7907665e4432c56","type":"text","text":"**Combat 3A/B**\nFight with Unbound Thought in [[REMORSE]] base.","x":-390,"y":860,"width":265,"height":120,"color":"2"},
 		{"id":"b5ea846536f1ade9","type":"text","text":"**Beat 6B**\nClimb the mountain and fight [[REMORSE]]","x":140,"y":700,"width":265,"height":100,"color":"6"},

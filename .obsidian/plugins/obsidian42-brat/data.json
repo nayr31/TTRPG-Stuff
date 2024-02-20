@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "RyotaUshio/obsidian-link-keeper",
     "noatpad/obsidian-banners"
   ],
   "pluginSubListFrozenVersion": [],
