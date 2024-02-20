@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2773b68d1eb0b51d",
+        "id": "10474cf92d92eda6",
         "type": "tabs",
         "children": [
           {
-            "id": "edca8a996e2596f0",
+            "id": "91122fffcce476d9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
-                "viewState": {
-                  "x": 49.903361344537814,
-                  "y": 650.1697478991597,
-                  "zoom": -0.4992161320598384
-                }
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -97,7 +90,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -212,11 +203,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edca8a996e2596f0",
+  "active": "91122fffcce476d9",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/⛰️ SSMR/CHAGA.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Narrative Challenges.md",
+    "99 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Untitled.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Untitled.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs",
+    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/CHAGA.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/TEst.md",
     "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
@@ -246,7 +240,6 @@
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Art/Truman.png",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Art/Philomena.png",
     "10 🧙 Player Campaigns/🧛 Thicc/Players/Truman.md",
-    "10 🧙 Player Campaigns/🧛 Thicc/Players/Philomena.md",
     "99 🗃️ Resources/Obsidian Stuff",
     "99 🗃️ Resources/Life stuff",
     "99 🗃️ Resources",
@@ -260,7 +253,6 @@
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Art",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/NPCs/Art",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/NPCs",
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/Groups",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎏 Gubat Banwa/Pavlo De Basi.canvas",
