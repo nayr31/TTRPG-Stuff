@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e94ab2102fad0ad1","type":"group","x":-460,"y":-460,"width":1020,"height":900,"label":"Beat 0 - Opening Shots"},
+		{"id":"9d4d2a282079bb2c","type":"text","text":"PCs in transit through [[Arusha]], by unmanned ISP-N transport.\n\nUnion DoJ/HR request:\n-> Act as undercover agents while helping [[Tomo Odechi]] (the ACA's Admin on the Farm)\n-> Locate the missing NHP","x":-440,"y":-440,"width":340,"height":480},
+		{"id":"6dd1a597aa905435","type":"file","file":"20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas","x":-1240,"y":-480,"width":720,"height":920}
+	],
+	"edges":[]
+}

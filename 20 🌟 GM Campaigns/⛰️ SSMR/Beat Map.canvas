@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"93992995020186ab","type":"text","text":"**Beat 1**\nLandfall, Briefing, Downtime","x":-125,"y":-482,"width":265,"height":102,"color":"6"},
+		{"id":"a6a2d122e42cafb0","type":"text","text":"**Beat 2**\nMeeting Prof. Dr., [[Lighthouse]] Recordings","x":-125,"y":-340,"width":265,"height":100,"color":"6"},
+		{"id":"f843ad2618ebc70b","type":"text","text":"**Beat 3**\nLeaving the [[Bafaru]] Campus, lead to *Combat 1*","x":-125,"y":-180,"width":265,"height":100,"color":"6"},
+		{"id":"818e8fb5971473eb","type":"text","text":"**Combat 1**\nUnchackled Hands","x":-125,"y":-20,"width":265,"height":100,"color":"2"},
+		{"id":"477ce71db04774bb","type":"text","text":"**Beat 4**\nSearching for [[Lighthouse]], lead to *Combat 2*","x":-125,"y":140,"width":265,"height":100,"color":"6"},
+		{"id":"a6ce8e371735e3df","type":"text","text":"**Combat 2**\nDormant Resolve Attacks","x":-125,"y":300,"width":265,"height":100,"color":"2"},
+		{"id":"37696c76b3df48de","type":"text","text":"**Beat 5**\nDecision point","x":-185,"y":460,"width":385,"height":100,"color":"6"},
+		{"id":"7137ba481e541251","type":"text","text":"**Beat 6A**\nRecovery of [[Lighthouse]] II, Infiltrate SECCOM base","x":-390,"y":700,"width":265,"height":100,"color":"6"},
+		{"id":"d7907665e4432c56","type":"text","text":"**Combat 3A/B**\nFight with Unbound Thought in [[REMORSE]] base.","x":-390,"y":860,"width":265,"height":120,"color":"2"},
+		{"id":"b5ea846536f1ade9","type":"text","text":"**Beat 6B**\nClimb the mountain and fight [[REMORSE]]","x":140,"y":700,"width":265,"height":100,"color":"6"},
+		{"id":"9dab264daf146625","type":"text","text":"**Combat 3C**\nFight with [[Lighthouse]], discover their allegiance to [[REMORSE]]","x":140,"y":860,"width":265,"height":120,"color":"2"},
+		{"id":"20f5a25841557fef","type":"text","text":"**Beat 7**\nMeet with the Bondless, Narrative Encounter, Mission End","x":-185,"y":1100,"width":385,"height":100,"color":"6"}
+	],
+	"edges":[
+		{"id":"d49073e915da1df2","fromNode":"93992995020186ab","fromSide":"bottom","toNode":"a6a2d122e42cafb0","toSide":"top"},
+		{"id":"d25418cab3a508cf","fromNode":"a6a2d122e42cafb0","fromSide":"bottom","toNode":"f843ad2618ebc70b","toSide":"top"},
+		{"id":"24edb8586e02f3a3","fromNode":"f843ad2618ebc70b","fromSide":"bottom","toNode":"818e8fb5971473eb","toSide":"top"},
+		{"id":"9fbe09d0356125be","fromNode":"818e8fb5971473eb","fromSide":"bottom","toNode":"477ce71db04774bb","toSide":"top"},
+		{"id":"02f0ea193b266bf1","fromNode":"477ce71db04774bb","fromSide":"bottom","toNode":"a6ce8e371735e3df","toSide":"top"},
+		{"id":"382698551e64f612","fromNode":"a6ce8e371735e3df","fromSide":"bottom","toNode":"37696c76b3df48de","toSide":"top"},
+		{"id":"7ece3a3ab0406363","fromNode":"37696c76b3df48de","fromSide":"bottom","toNode":"7137ba481e541251","toSide":"top","label":"Look for Lighthouse"},
+		{"id":"e75f5d3e46752102","fromNode":"37696c76b3df48de","fromSide":"bottom","toNode":"b5ea846536f1ade9","toSide":"top","label":"Go straight for CHAGA"},
+		{"id":"cb5200efe9c826f3","fromNode":"7137ba481e541251","fromSide":"bottom","toNode":"d7907665e4432c56","toSide":"top"},
+		{"id":"dcc4369b3582f5a0","fromNode":"b5ea846536f1ade9","fromSide":"bottom","toNode":"9dab264daf146625","toSide":"top"},
+		{"id":"a5ea35b97321361b","fromNode":"d7907665e4432c56","fromSide":"bottom","toNode":"20f5a25841557fef","toSide":"top"},
+		{"id":"4b381fa135feae2b","fromNode":"9dab264daf146625","fromSide":"bottom","toNode":"20f5a25841557fef","toSide":"top"}
+	]
+}
