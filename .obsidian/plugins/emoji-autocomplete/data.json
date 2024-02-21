@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "horse",
     "mountain",
     "rose",
     "vampire",
@@ -27,8 +28,7 @@
     "crescent_moon",
     "crown",
     "people_holding_hands",
-    "icecream",
-    "policeman"
+    "icecream"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,
