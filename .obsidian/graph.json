@@ -1,58 +1,44 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"20 🌟 GM Campaigns/🐌 Slugblaster\"  ",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"type\":Crew]",
+      "query": "path:\"20 🌟 GM Campaigns\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084263
+        "rgb": 14048348
       }
     },
     {
-      "query": "[\"type\":Authorities]",
+      "query": "path:\"10 🧙 Player Campaigns\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 5754346
       }
     },
     {
-      "query": "path:\"20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables\"  ",
+      "query": "path:\"90 🧩 Templates\"  ",
       "color": {
         "a": 1,
         "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:\"20 🌟 GM Campaigns/🐌 Slugblaster/Gear\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6056662
-      }
-    },
-    {
-      "query": "path:\"20 🌟 GM Campaigns/🐌 Slugblaster/Signatures\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12403690
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.4015625,
-  "lineSizeMultiplier": 1.37604166666667,
+  "nodeSizeMultiplier": 1.5546875,
+  "lineSizeMultiplier": 1.35052083333333,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 9.79166666666667,
+  "repelStrength": 10.5208333333333,
   "linkStrength": 0.619791666666667,
   "linkDistance": 287,
-  "scale": 0.2588386562181635,
-  "close": true
+  "scale": 0.18462326225858186,
+  "close": false
 }

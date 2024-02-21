@@ -1,8 +1,29 @@
 {
 	"nodes":[
-		{"id":"e94ab2102fad0ad1","type":"group","x":-460,"y":-460,"width":1020,"height":900,"label":"Beat 0 - Opening Shots"},
-		{"id":"9d4d2a282079bb2c","type":"text","text":"PCs in transit through [[Arusha]], by unmanned ISP-N transport.\n\nUnion DoJ/HR request:\n-> Act as undercover agents while helping [[Tomo Odechi]] (the ACA's Admin on the Farm)\n-> Locate the missing NHP","x":-440,"y":-440,"width":340,"height":480},
-		{"id":"6dd1a597aa905435","type":"file","file":"20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas","x":-1240,"y":-480,"width":720,"height":920}
+		{"id":"e94ab2102fad0ad1","type":"group","x":-460,"y":-460,"width":1020,"height":900,"color":"6","label":"Beat 0 - Opening Shots"},
+		{"id":"5941f7d7621ced83","type":"group","x":-1240,"y":-1180,"width":420,"height":660,"color":"5","label":"Info"},
+		{"id":"9d4d2a282079bb2c","type":"text","text":"PCs in transit through [[Arusha]], by unmanned ISP-N transport.\n\nUnion DoJ/HR request:\n-> Act as undercover agents while helping [[Tomo Odechi]] (the ACA's Admin on the Farm)\n-> Locate the missing NHP","x":-440,"y":-440,"width":340,"height":240},
+		{"id":"6dd1a597aa905435","type":"file","file":"20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas","x":-1240,"y":-460,"width":720,"height":900},
+		{"id":"f70698bf46c6bce8","type":"text","text":"# Why are the PCs here?\nTheir mission is to work as Union’s auxiliaries, answering the call of [[SSC]] and assisting to locate the missing research NHP, [[CHAGA]].\n\nMirrorsmoke Mercenary Company (MSMC), the on-call ground security team failed to complete this mission.","x":-1220,"y":-1160,"width":380,"height":300,"color":"5"},
+		{"id":"c1d75e014e5476ca","type":"text","text":"### As they continue...\nThey learn of persons' rights violations. Only [[CHAGA]] can verify the proof.","x":-1220,"y":-820,"width":380,"height":140,"color":"2"},
+		{"id":"847442e26e3edddb","type":"text","text":"# The Farm\nA collection of planets (story is on [[Kibo]]), that perform genetic experiments to \"grow\" humans?\n\n\n\n","x":-752,"y":-1160,"width":464,"height":150,"color":"5"},
+		{"id":"bb69ca081b3ade68","x":-960,"y":-1340,"width":326,"height":81,"type":"text","text":"SSC isn't content with The Farm, but there are still some that see its use."},
+		{"id":"024a89d59caca34a","x":-820,"y":-1512,"width":431,"height":154,"type":"text","text":"The normal 5-10 year cycle schedule for NHPs has been drastically reduced, as short as 2 weeks.\n\nThey see it as \"changing a password\", and as such the computational NHPs are 3/5ths a persons."},
+		{"id":"d3e84392b1864a0a","x":-350,"y":-1399,"width":363,"height":119,"type":"text","text":"The sheer quantity of assets that depart. *\"truly pristine specimens of humanity proliferate on assignments requiring the most specialized of personnel.\"* "},
+		{"id":"89777f3c7111ae34","x":-220,"y":-1270,"width":371,"height":220,"type":"text","text":"**Neptis Serena–Serena** or **Neptis** for short, is the latest, most prominent genetic line.\n- Only require 1/5th oxygen\n- Often employed by ISP-N\n- Began 200 years ago\n- Well to low atmospheric pressure"},
+		{"id":"a2350b763b5d001c","x":-30,"y":-938,"width":400,"height":400,"type":"file","file":"20 🌟 GM Campaigns/⛰️ SSMR/Setting/Kibo.md"},
+		{"id":"db1d88dc0cdbf542","x":-795,"y":-700,"width":575,"height":74,"type":"text","text":"# SSCs Foreign Body department (FBD)"},
+		{"id":"f64eac1414b29aca","x":260,"y":-1403,"width":480,"height":353,"type":"text","text":"A population of deserters who have scorned SSC’s mission have recently ventured into the Kimawense Range for enigmatic reasons. They follow an ever-present voice they call [[the Bondless]], and have created structures of stone and steel along the spines of the Kimawense mountains. These encampments serve as operating bases and forward outposts for the Bondless’s forces, known to themselves as [[REMORSE]]. Pettenouk has attempted to expunge all records of these deserters in hopes of maintaining good order and discipline among his subordinates, and ultimately to protect the integrity of the Neptis gene-line."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1dd3ab41fd6c1c02","fromNode":"f70698bf46c6bce8","fromSide":"right","toNode":"847442e26e3edddb","toSide":"left"},
+		{"id":"54b37a96a10261ec","fromNode":"f70698bf46c6bce8","fromSide":"bottom","toNode":"c1d75e014e5476ca","toSide":"top"},
+		{"id":"f31397d30b681f09","fromNode":"db1d88dc0cdbf542","fromSide":"top","toNode":"847442e26e3edddb","toSide":"bottom"},
+		{"id":"9495c6ea514484cb","fromNode":"bb69ca081b3ade68","fromSide":"bottom","toNode":"847442e26e3edddb","toSide":"top"},
+		{"id":"206aa32b10b228a5","fromNode":"024a89d59caca34a","fromSide":"bottom","toNode":"847442e26e3edddb","toSide":"top"},
+		{"id":"8bad80fd678d0e39","fromNode":"d3e84392b1864a0a","fromSide":"left","toNode":"847442e26e3edddb","toSide":"top"},
+		{"id":"431b69e09535cf52","fromNode":"89777f3c7111ae34","fromSide":"left","toNode":"847442e26e3edddb","toSide":"right"},
+		{"id":"4fc3784dc4510c94","fromNode":"a2350b763b5d001c","fromSide":"left","toNode":"847442e26e3edddb","toSide":"bottom"},
+		{"id":"e60aa53044f09867","fromNode":"f64eac1414b29aca","fromSide":"bottom","toNode":"a2350b763b5d001c","toSide":"top"}
+	]
 }
