@@ -11,10 +11,8 @@
             "id": "ab2223078bceb98a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Rat1_c.jpg"
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Rat1_c.jpg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Rat1_c.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,6 +206,10 @@
   },
   "active": "ab2223078bceb98a",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Dashboard.md",
+    "20 🌟 GM Campaigns/Misc Lancer Stuff/Roll Tables/Reserves.md",
+    "20 🌟 GM Campaigns/Misc Lancer Stuff/Roll Tables",
+    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Rat1_c.jpg",
     "20 🌟 GM Campaigns/⛰️ SSMR/GRaph.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Professor Dr. Rinks Bater.md",
@@ -229,7 +229,6 @@
     "20 🌟 GM Campaigns/⛰️ SSMR/Groups",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Pettenouk.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Setting/Kibo.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Dashboard.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Robin.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Tad and Ajay.md",
@@ -245,7 +244,6 @@
     "90 🧩 Templates/✏ Campaign/Dashboard.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Skye_c.png",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Savrielle_c.png",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Rat1_c.jpg",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Pythia_c.jpg",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Ashe_c.png",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art",
@@ -255,7 +253,6 @@
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Groups",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
