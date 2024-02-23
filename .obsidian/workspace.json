@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "45ed7da0bd9d8a1f",
+        "id": "dea648eac3eb6314",
         "type": "tabs",
         "children": [
           {
-            "id": "ab2223078bceb98a",
+            "id": "133a70551cd6b728",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/🧻📚 Session Database.md"
+                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -105,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/Session 01.md",
+                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,8 +137,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/Session 01.md",
+                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,55 +223,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6eaa0fbc4b02308",
+  "active": "133a70551cd6b728",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Dashboard.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Archangel.md",
+    "90 🧩 Templates/Player.md",
+    "99 🗃️ Resources/Images/playernodata.png",
+    "99 🗃️ Resources/Images/playernodata.png",
+    "99 🗃️ Resources/Images",
+    "99 🗃️ Resources/Images",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Centurion.png",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Scamp.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Centurion.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Scamp.png",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Flora_Macie.png",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Flora.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery_c.png",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Discovery.md",
+    "Notes.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery.jpg",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Quests/🎯 Quest Database.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/NPCs/Art",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Groups/👪📚 Group Database.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Quests",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/NPCs",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Groups",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/✏ Campaign",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery.jpg",
+    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/Session 01.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Savrielle.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/Session 01.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Dashboard.md",
     "20 🌟 GM Campaigns/Misc Lancer Stuff/Roll Tables/Reserves.md",
     "20 🌟 GM Campaigns/Misc Lancer Stuff/Roll Tables/Reserves.md",
-    "20 🌟 GM Campaigns/Misc Lancer Stuff/Roll Tables",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Rat1_c.jpg",
     "20 🌟 GM Campaigns/⛰️ SSMR/GRaph.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Professor Dr. Rinks Bater.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Groups/SSC's Arushan Constellar Assembly.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Lighthouse/Pardeep.png",
-    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Lighthouse/Maxima.png",
-    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Lighthouse/Kareem.png",
-    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Lighthouse/Colleen.png",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/CHAGA.md",
-    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Lighthouse/Shou_Zouh.png",
-    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Lighthouse",
     "20 🌟 GM Campaigns/⛰️ SSMR/Groups/Lighthouse.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/The Bondless.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Groups/SSCs Foreign Body Department.md",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Narrative Challenges.md",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Groups/REMORSE.md",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Groups",
-    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Pettenouk.md",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Setting/Kibo.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Robin.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Tad and Ajay.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Shen.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Paul.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Lyyra.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Karen.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Ally Gater.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Bez.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Skye_c.png",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Savrielle_c.png",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Pythia_c.jpg",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Ashe_c.png",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs/Art",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Quests",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Groups",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",

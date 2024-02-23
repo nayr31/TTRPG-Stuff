@@ -1,5 +1,6 @@
 ---
 Pronouns: N/A
 NoteIcon: Player
-Art: "![[playernodata.png]]"
+Art: "![[Scamp.png]]"
+Frame: Kobold
 ---

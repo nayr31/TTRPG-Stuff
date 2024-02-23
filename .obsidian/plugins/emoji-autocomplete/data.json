@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "flower",
     "horse",
     "mountain",
     "rose",
@@ -27,8 +28,7 @@
     "crossed_swords",
     "crescent_moon",
     "crown",
-    "people_holding_hands",
-    "icecream"
+    "people_holding_hands"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,
