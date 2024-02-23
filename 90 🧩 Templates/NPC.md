@@ -2,6 +2,6 @@
 Pronouns: N/A
 NoteIcon: NPC
 Notes: 
-Art: 
+Art: "![[playernodata.png]]"
 Affiliation:
 ---
