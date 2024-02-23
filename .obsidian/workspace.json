@@ -11,8 +11,13 @@
             "id": "c8669f16ec9d5bec",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -103,6 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,8 +226,12 @@
   },
   "active": "c8669f16ec9d5bec",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
+    "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
+    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Dashboard.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
     "10 🧙 Player Campaigns/☁ Steamy/🗒 Steam Shortcut Kanban.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Dashboard.md",
     "90 🧩 Templates/Checkpoints & Problems.md",
     "90 🧩 Templates/Group.md",
     "90 🧩 Templates/LookerDV.md",
@@ -228,7 +239,6 @@
     "90 🧩 Templates/Slug Group.md",
     "90 🧩 Templates/Signature.md",
     "90 🧩 Templates/NPC.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Archangel.md",
     "90 🧩 Templates/Player.md",
     "99 🗃️ Resources/Images/playernodata.png",
@@ -260,9 +270,6 @@
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery.jpg",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/Session 01.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Savrielle.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Dashboard.md",
-    "20 🌟 GM Campaigns/Misc Lancer Stuff/Roll Tables/Reserves.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Rat1_c.jpg",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Lighthouse/Pardeep.png",
