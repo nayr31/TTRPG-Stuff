@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8a3f398f95ce6de6",
+        "id": "844be97e13ed676a",
         "type": "tabs",
         "children": [
           {
-            "id": "c8669f16ec9d5bec",
+            "id": "621a766b36ee869d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -108,7 +103,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -224,8 +217,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8669f16ec9d5bec",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
     "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Dashboard.md",
@@ -269,7 +263,6 @@
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/✏ Campaign",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery.jpg",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/Session 01.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Rat1_c.jpg",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Lighthouse/Pardeep.png",
