@@ -10,7 +10,8 @@ TABLE WITHOUT ID
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
 	embed(Art) AS "Art",
-	Frame AS "Frame"
+	Frame AS "Frame",
+	Pilot AS "Pilot"
 from "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players"
 WHERE contains(NoteIcon, "Player")
 SORT file.name

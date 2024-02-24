@@ -109,6 +109,7 @@ columns:
       - { label: "N/A", value: "N/A", color: "hsl(41, 95%, 90%)"}
       - { label: "Monarch", value: "Monarch", color: "hsl(225, 95%, 90%)"}
       - { label: "Tokugawa", value: "Tokugawa", color: "hsl(46, 95%, 90%)"}
+      - { label: "Tortuga", value: "Tortuga", color: "hsl(238, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
