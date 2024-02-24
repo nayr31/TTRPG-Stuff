@@ -61,6 +61,7 @@ columns:
       - { label: "He/Him", value: "He/Him", color: "hsl(291, 95%, 90%)"}
       - { label: "She/Her", value: "She/Her", color: "hsl(155, 95%, 90%)"}
       - { label: "N/A", value: "N/A", color: "hsl(73,96%,90%)"}
+      - { label: "They/Them", value: "They/Them", color: "hsl(239, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
