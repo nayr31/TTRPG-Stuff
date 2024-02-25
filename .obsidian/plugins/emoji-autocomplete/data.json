@@ -4,6 +4,12 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "bookmark_tabs",
+    "checkered_flag",
+    "yellow_circle",
+    "notebook_with_decorative_cover",
+    "spiral_notepad",
+    "green_circle",
     "flower",
     "horse",
     "mountain",
@@ -22,13 +28,7 @@
     "dog",
     "group",
     "question",
-    "test_tube",
-    "bed",
-    "cloud",
-    "crossed_swords",
-    "crescent_moon",
-    "crown",
-    "people_holding_hands"
+    "test_tube"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,

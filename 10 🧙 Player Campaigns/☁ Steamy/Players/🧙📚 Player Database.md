@@ -1,11 +1,9 @@
 ---
-
 database-plugin: basic
-
 ---
 
 ```yaml:dbfolder
-name: RWBY NPC Database
+name: Player Database
 description: 
 columns:
   __file__:
@@ -18,12 +16,9 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 1
+    position: 0
     isHidden: false
-    sortIndex: 1
-    isSorted: true
-    isSortedDesc: false
-    width: 105
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -39,7 +34,7 @@ columns:
     key: Art
     id: Art
     label: Art
-    position: 3
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -58,39 +53,14 @@ columns:
     key: Pronouns
     id: Pronouns
     label: Pronouns
-    position: 2
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "He/Him", value: "He/Him", color: "hsl(278, 95%, 90%)"}
-      - { label: "She/Her", value: "She/Her", color: "hsl(217, 95%, 90%)"}
-      - { label: "N/A", value: "N/A", color: "hsl(96, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Class:
-    input: select
-    accessorKey: Class
-    key: Class
-    id: Class
-    label: Class
-    position: 4
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Ranger", value: "Ranger", color: "hsl(3, 95%, 90%)"}
-      - { label: "Wizard", value: "Wizard", color: "hsl(232, 95%, 90%)"}
-      - { label: "Fighter", value: "Fighter", color: "hsl(356, 95%, 90%)"}
-      - { label: "Sorcerer", value: "Sorcerer", color: "hsl(332, 95%, 90%)"}
-      - { label: "N/A", value: "N/A", color: "hsl(141, 95%, 90%)"}
+      - { label: "He/Him", value: "He/Him", color: "hsl(291, 95%, 90%)"}
+      - { label: "She/Her", value: "She/Her", color: "hsl(155, 95%, 90%)"}
+      - { label: "N/A", value: "N/A", color: "hsl(73,96%,90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -106,12 +76,12 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 6
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Player", value: "Player", color: "hsl(177, 95%, 90%)"}
+      - { label: "Player", value: "Player", color: "hsl(301, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -121,30 +91,11 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Notes:
-    input: text
-    accessorKey: Notes
-    key: Notes
-    id: Notes
-    label: Notes
-    position: 5
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      wrap_content: true
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: true
+  sticky_first_column: false
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
@@ -158,7 +109,7 @@ config:
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
-  row_templates_folder: /
+  row_templates_folder: z_Templates
   current_row_template: 
   pagination_size: 10
   font_size: 16

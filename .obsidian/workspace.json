@@ -4,20 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "ca7bdc4dbb0a5d0a",
+        "id": "a2cf0e5975fa230d",
         "type": "tabs",
         "children": [
           {
-            "id": "eea95c3535a62786",
+            "id": "ce13cb6845079c0c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "📑 Campaign Overview.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0b351d3f4d2e5940",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/🧻📚 Session Database.md"
+                "file": "10 🧙 Player Campaigns/☁ Steamy/Players/🧙📚 Player Database.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/🧻📚 Session Database.md",
+                "file": "10 🧙 Player Campaigns/☁ Steamy/Players/🧙📚 Player Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/🧻📚 Session Database.md",
+                "file": "10 🧙 Player Campaigns/☁ Steamy/Players/🧙📚 Player Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -220,55 +233,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eea95c3535a62786",
+  "active": "0b351d3f4d2e5940",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
-    "10 🧙 Player Campaigns/🦌 DHS/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 05.md",
-    "10 🧙 Player Campaigns/🦌 DHS/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/🦌 DHS/Quests/Investigate AV&SG.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Alma.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Dashboard.md",
+    "10 🧙 Player Campaigns/☁ Steamy/🧙📚 Player Database.md",
+    "90 🧩 Templates/✏ Campaign/Dashboard.md",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Art/Sirius_c.png",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Art/Mirizar.jpg",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Art/Sirius.png",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Art/Devlin_c.png",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Art/Devlin.png",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Art/Arcta_c.png",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Art/Arcta.png",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Art/Alma.png",
+    "10 🧙 Player Campaigns/☁ Steamy/NPCs/Art/Jasper.jpg",
+    "10 🧙 Player Campaigns/☁ Steamy/NPCs/Art/Avina.png",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions/Session 03.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions/Session 02.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions/Session 01.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Quests/🎯 Quest Database.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Sirius Skyweaver.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Devlin.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Mirizar.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Art",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Arcta Fallo.md",
+    "10 🧙 Player Campaigns/☁ Steamy/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 🧙 Player Campaigns/☁ Steamy/NPCs/Art",
+    "10 🧙 Player Campaigns/☁ Steamy/NPCs/Jasper.md",
+    "10 🧙 Player Campaigns/☁ Steamy/NPCs/Avina.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Groups/👪📚 Group Database.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions",
+    "10 🧙 Player Campaigns/☁ Steamy/Quests",
+    "10 🧙 Player Campaigns/☁ Steamy/Players",
+    "10 🧙 Player Campaigns/☁ Steamy/NPCs",
+    "10 🧙 Player Campaigns/☁ Steamy/Groups",
+    "10 🧙 Player Campaigns/☁ Steamy",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions/Session 03.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions/Session 02.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions/Session 01.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions/Session 03.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions/Session 02.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Sessions/Session 01.md",
+    "10 🧙 Player Campaigns/☁ Steamy 2/Session Notes",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Sirius Skyweaver.md",
+    "10 🧙 Player Campaigns/☁ Steamy/Players/Art",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
-    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Tomo Odechi.md",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Groups/SSCs Foreign Body Department.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Flora.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Discovery.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Archangel.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Epsilon_c.png",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Centurion.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Epsilon.jpg",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Epsilon.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/Session Notes/Session 02.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Dashboard.md",
-    "10 🧙 Player Campaigns/☁ Steamy/🗒 Steam Shortcut Kanban.md",
-    "90 🧩 Templates/Checkpoints & Problems.md",
-    "90 🧩 Templates/Group.md",
-    "90 🧩 Templates/LookerDV.md",
-    "90 🧩 Templates/Monster Looker.md",
-    "90 🧩 Templates/Slug Group.md",
-    "90 🧩 Templates/Signature.md",
-    "90 🧩 Templates/NPC.md",
-    "99 🗃️ Resources/Images/playernodata.png",
-    "99 🗃️ Resources/Images/playernodata.png",
-    "99 🗃️ Resources/Images",
-    "99 🗃️ Resources/Images",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Centurion.png",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Scamp.png",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Flora_Macie.png",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery_c.png",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery.jpg",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/NPCs/Art",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Quests",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/NPCs",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Groups",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/✏ Campaign",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery.jpg",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
