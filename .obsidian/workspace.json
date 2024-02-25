@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "844be97e13ed676a",
+        "id": "ca7bdc4dbb0a5d0a",
         "type": "tabs",
         "children": [
           {
-            "id": "621a766b36ee869d",
+            "id": "eea95c3535a62786",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2d834672e436b2a",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,6 +82,19 @@
             }
           },
           {
+            "id": "20d4f01f3369e5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 05.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -119,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
+                "file": "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -235,13 +237,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2d834672e436b2a",
+  "active": "eea95c3535a62786",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 05.md",
+    "10 🧙 Player Campaigns/🦌 DHS/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Tomo Odechi.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Groups/SSCs Foreign Body Department.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Flora.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Discovery.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Archangel.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Epsilon_c.png",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Centurion.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Epsilon.jpg",
@@ -268,12 +276,8 @@
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Scamp.png",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Flora_Macie.png",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery_c.png",
-    "Notes.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery.jpg",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/NPCs/Art",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Quests",
@@ -282,7 +286,6 @@
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Groups",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/✏ Campaign",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Art/Discovery.jpg",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
