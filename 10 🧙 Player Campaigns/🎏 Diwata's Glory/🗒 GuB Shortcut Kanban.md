@@ -13,8 +13,8 @@ kanban-plugin: basic
 
 ## My Friends!
 
-- [ ] [[10 🧙 Player Campaigns/🎏 Gubat Banwa/Players/🧙📚 Player Database|🧙📚 Player Database]]
-- [ ] [[10 🧙 Player Campaigns/🎏 Gubat Banwa/🧙📋 Player Dashboard|🧙📋 Player Dashboard]]
+- [ ] [[10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/🧙📚 Player Database|🧙📚 Player Database]]
+- [ ] [[10 🧙 Player Campaigns/🎏 Diwata's Glory/🧙📋 Player Dashboard|🧙📋 Player Dashboard]]
 - [ ] [[Mayumi]]<br>![[Mayumi_c.jpg]]
 - [ ] [[Tamad]]<br>![[Tamad_c.png]]
 

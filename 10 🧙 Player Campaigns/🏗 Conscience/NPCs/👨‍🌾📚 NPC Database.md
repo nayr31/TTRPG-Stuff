@@ -5,8 +5,8 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
-description: new description
+name: NPC Database
+description: 
 columns:
   __file__:
     key: __file__
@@ -32,40 +32,18 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Class:
-    input: text
-    accessorKey: Class
-    key: Class
-    id: Class
-    label: Class
-    position: 4
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Race:
+  NoteIcon:
     input: select
-    accessorKey: Race
-    key: Race
-    id: Race
-    label: Race
-    position: 5
+    accessorKey: NoteIcon
+    key: NoteIcon
+    id: NoteIcon
+    label: NoteIcon
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Gnoll", value: "Gnoll", color: "hsl(264,56%,55%)"}
-      - { label: "Drow", value: "Drow", color: "hsl(189, 95%, 90%)"}
-      - { label: "N/A", value: "N/A", color: "hsl(133, 95%, 90%)"}
-      - { label: "Human", value: "Human", color: "hsl(352, 95%, 90%)"}
+      - { label: "NPC", value: "NPC", color: "hsl(350, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -75,7 +53,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: manual
   Art:
     input: text
     accessorKey: Art
@@ -86,27 +63,6 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  NoteIcon:
-    input: select
-    accessorKey: NoteIcon
-    key: NoteIcon
-    id: NoteIcon
-    label: NoteIcon
-    position: 7
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Player", value: "Player", color: "hsl(351, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -127,8 +83,9 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "He/Him", value: "He/Him", color: "hsl(116, 95%, 90%)"}
-      - { label: "They/Them", value: "They/Them", color: "hsl(164, 95%, 90%)"}
+      - { label: "He/Him", value: "He/Him", color: "hsl(278, 95%, 90%)"}
+      - { label: "She/Her", value: "She/Her", color: "hsl(217, 95%, 90%)"}
+      - { label: "N/A", value: "N/A", color: "hsl(96, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -138,20 +95,17 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Calling:
-    input: select
-    accessorKey: Calling
-    key: Calling
-    id: Calling
-    label: Calling
-    position: 6
+  Notes:
+    input: text
+    accessorKey: Notes
+    key: Notes
+    id: Notes
+    label: Notes
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
-      - { label: "Heartsong", value: "Heartsong", color: "hsl(149, 95%, 90%)"}
-      - { label: "Forced", value: "Forced", color: "hsl(16, 95%, 90%)"}
-      - { label: "Penitent", value: "Penitent", color: "hsl(127, 95%, 90%)"}
+    width: 175
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -164,7 +118,7 @@ columns:
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: false
+  sticky_first_column: true
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
@@ -178,7 +132,7 @@ config:
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
-  row_templates_folder: /
+  row_templates_folder: z_Templates
   current_row_template: 
   pagination_size: 10
   font_size: 16

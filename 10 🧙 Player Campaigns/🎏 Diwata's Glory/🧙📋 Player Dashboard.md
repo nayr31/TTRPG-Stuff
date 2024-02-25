@@ -4,7 +4,7 @@ cssclasses:
   - cards-cols-3
 ---
 
-[[10 🧙 Player Campaigns/🎏 Gubat Banwa/Players/🧙📚 Player Database|🧙📚 Player Database]]
+[[10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/🧙📚 Player Database|🧙📚 Player Database]]
 
 
 ```dataview

@@ -5,8 +5,8 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
-description: new description
+name: NPC Database
+description: 
 columns:
   __file__:
     key: __file__
@@ -20,7 +20,9 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -30,18 +32,18 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Pronouns:
+  NoteIcon:
     input: select
-    accessorKey: Pronouns
-    key: Pronouns
-    id: Pronouns
-    label: Pronouns
-    position: 2
+    accessorKey: NoteIcon
+    key: NoteIcon
+    id: NoteIcon
+    label: NoteIcon
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "He/Him", value: "He/Him", color: "hsl(200, 95%, 90%)"}
+      - { label: "NPC", value: "NPC", color: "hsl(350, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -70,18 +72,20 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  NoteIcon:
+  Pronouns:
     input: select
-    accessorKey: NoteIcon
-    key: NoteIcon
-    id: NoteIcon
-    label: NoteIcon
-    position: 5
+    accessorKey: Pronouns
+    key: Pronouns
+    id: Pronouns
+    label: Pronouns
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Player", value: "Player", color: "hsl(41, 95%, 90%)"}
+      - { label: "He/Him", value: "He/Him", color: "hsl(278, 95%, 90%)"}
+      - { label: "She/Her", value: "She/Her", color: "hsl(217, 95%, 90%)"}
+      - { label: "N/A", value: "N/A", color: "hsl(96, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -91,18 +95,17 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Class:
-    input: select
-    accessorKey: Class
-    key: Class
-    id: Class
-    label: Class
-    position: 4
+  Notes:
+    input: text
+    accessorKey: Notes
+    key: Notes
+    id: Notes
+    label: Notes
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
-      - { label: "Alchemist", value: "Alchemist", color: "hsl(337, 95%, 90%)"}
+    width: 175
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -115,7 +118,7 @@ columns:
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: false
+  sticky_first_column: true
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
@@ -129,7 +132,7 @@ config:
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
-  row_templates_folder: /
+  row_templates_folder: z_Templates
   current_row_template: 
   pagination_size: 10
   font_size: 16

@@ -1,9 +1,11 @@
 ---
+
 database-plugin: basic
+
 ---
 
 ```yaml:dbfolder
-name: Player Database
+name: Group Database
 description: 
 columns:
   __file__:
@@ -16,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -28,13 +30,13 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Art:
+  Logo:
     input: text
-    accessorKey: Art
-    key: Art
-    id: Art
-    label: Art
-    position: 100
+    accessorKey: Logo
+    key: Logo
+    id: Logo
+    label: Logo
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -47,20 +49,39 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Pronouns:
+  __tags__:
+    key: __tags__
+    id: __tags__
+    input: metadata_tags
+    label: File Tags
+    accessorKey: __tags__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: false
+    position: 2
+    isHidden: true
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Type:
     input: select
-    accessorKey: Pronouns
-    key: Pronouns
-    id: Pronouns
-    label: Pronouns
-    position: 100
+    accessorKey: Type
+    key: Type
+    id: Type
+    label: Type
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "He/Him", value: "He/Him", color: "hsl(291, 95%, 90%)"}
-      - { label: "She/Her", value: "She/Her", color: "hsl(155, 95%, 90%)"}
-      - { label: "N/A", value: "N/A", color: "hsl(73,96%,90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -76,12 +97,12 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Player", value: "Player", color: "hsl(301, 95%, 90%)"}
+      - { label: "Group", value: "Group", color: "hsl(307, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -92,6 +113,25 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  Summary:
+    input: text
+    accessorKey: Summary
+    key: Summary
+    id: Summary
+    label: Summary
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -99,17 +139,17 @@ config:
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
-  hoist_files_with_empty_attributes: true
+  hoist_files_with_empty_attributes: false
   show_metadata_created: false
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false
   show_metadata_outlinks: false
-  show_metadata_tags: false
+  show_metadata_tags: true
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
-  row_templates_folder: z_Templates
+  row_templates_folder: /
   current_row_template: 
   pagination_size: 10
   font_size: 16

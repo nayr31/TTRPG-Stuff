@@ -83,7 +83,6 @@
   "anuppuccin-theme-settings@@anp-kanban-hide-archive-btn": true,
   "anuppuccin-theme-settings@@anp-kanban-hide-card-border": true,
   "anuppuccin-theme-settings@@anp-kanban-card-opacity": 1,
-  "anuppuccin-theme-settings@@anp-kanban-card-radius": 6,
   "anuppuccin-theme-settings@@anp-kanban-lanes": false,
   "anuppuccin-theme-settings@@anp-kanban-hide-lane-border": true,
   "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
@@ -121,10 +120,8 @@
   "anuppuccin-theme-settings@@list-indent": 1.5,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": false,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
-  "anuppuccin-theme-settings@@anp-kanban-card-spacing": 4,
+  "anuppuccin-theme-settings@@anp-kanban-card-spacing": 8,
   "anuppuccin-theme-settings@@anp-kanban-lane-opacity": 1,
-  "anuppuccin-theme-settings@@anp-kanban-lane-radius": 6,
-  "anuppuccin-theme-settings@@anp-kanban-lane-spacing": 10,
   "anuppuccin-theme-settings@@anp-kanban-search-full": false,
   "anuppuccin-theme-settings@@anp-kanban-collapse-lanes": false,
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
@@ -137,5 +134,8 @@
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border-only",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-royal-velvet"
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-royal-velvet",
+  "anuppuccin-theme-settings@@anp-kanban-card-radius": 6,
+  "anuppuccin-theme-settings@@anp-kanban-lane-radius": 6,
+  "anuppuccin-theme-settings@@anp-kanban-lane-spacing": 10
 }

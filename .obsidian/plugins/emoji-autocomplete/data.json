@@ -4,14 +4,15 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
-    "bookmark_tabs",
     "checkered_flag",
+    "horse",
+    "cloud",
+    "bookmark_tabs",
     "yellow_circle",
     "notebook_with_decorative_cover",
     "spiral_notepad",
     "green_circle",
     "flower",
-    "horse",
     "mountain",
     "rose",
     "vampire",
@@ -27,8 +28,7 @@
     "lizard",
     "dog",
     "group",
-    "question",
-    "test_tube"
+    "question"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,

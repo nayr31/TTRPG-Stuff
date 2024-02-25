@@ -3,8 +3,8 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: Player Database
-description: 
+name: Quest Database
+description: new description
 columns:
   __file__:
     key: __file__
@@ -16,7 +16,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -28,60 +28,20 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Art:
-    input: text
-    accessorKey: Art
-    key: Art
-    id: Art
-    label: Art
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Pronouns:
+  Status:
     input: select
-    accessorKey: Pronouns
-    key: Pronouns
-    id: Pronouns
-    label: Pronouns
-    position: 100
+    accessorKey: Status
+    key: Status
+    id: Status
+    label: Status
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 138
     options:
-      - { label: "He/Him", value: "He/Him", color: "hsl(291, 95%, 90%)"}
-      - { label: "She/Her", value: "She/Her", color: "hsl(155, 95%, 90%)"}
-      - { label: "N/A", value: "N/A", color: "hsl(73,96%,90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  NoteIcon:
-    input: select
-    accessorKey: NoteIcon
-    key: NoteIcon
-    id: NoteIcon
-    label: NoteIcon
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Player", value: "Player", color: "hsl(301, 95%, 90%)"}
+      - { label: "✔ Finished", value: "✔ Finished", color: "hsl(62, 95%, 90%)"}
+      - { label: "❓ In Progress", value: "❓ In Progress", color: "hsl(101, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -92,6 +52,107 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  NoteIcon:
+    input: select
+    accessorKey: NoteIcon
+    key: NoteIcon
+    id: NoteIcon
+    label: NoteIcon
+    position: 6
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Quest", value: "Quest", color: "hsl(267, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Type:
+    input: select
+    accessorKey: Type
+    key: Type
+    id: Type
+    label: Type
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "❗ Main ❗", value: "❗ Main ❗", color: "hsl(2, 95%, 90%)"}
+      - { label: "❔ Side ❔", value: "❔ Side ❔", color: "hsl(53,93%,79%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  Summary:
+    input: text
+    accessorKey: Summary
+    key: Summary
+    id: Summary
+    label: Summary
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Session_Complete:
+    input: text
+    accessorKey: Session_Complete
+    key: Session_Complete
+    id: Session_Complete
+    label: Session Complete
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Active:
+    input: checkbox
+    accessorKey: Active
+    key: Active
+    id: Active
+    label: Active
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -109,7 +170,7 @@ config:
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
-  row_templates_folder: z_Templates
+  row_templates_folder: /
   current_row_template: 
   pagination_size: 10
   font_size: 16

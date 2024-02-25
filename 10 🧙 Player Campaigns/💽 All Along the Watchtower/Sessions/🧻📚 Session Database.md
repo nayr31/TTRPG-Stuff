@@ -1,10 +1,12 @@
 ---
+
 database-plugin: basic
+
 ---
 
 ```yaml:dbfolder
-name: Player Database
-description: 
+name: new database
+description: new description
 columns:
   __file__:
     key: __file__
@@ -16,9 +18,11 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: true
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -28,39 +32,16 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Art:
-    input: text
-    accessorKey: Art
-    key: Art
-    id: Art
-    label: Art
-    position: 100
+  Date:
+    input: calendar
+    accessorKey: Date
+    key: Date
+    id: Date
+    label: Date
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Pronouns:
-    input: select
-    accessorKey: Pronouns
-    key: Pronouns
-    id: Pronouns
-    label: Pronouns
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "He/Him", value: "He/Him", color: "hsl(291, 95%, 90%)"}
-      - { label: "She/Her", value: "She/Her", color: "hsl(155, 95%, 90%)"}
-      - { label: "N/A", value: "N/A", color: "hsl(73,96%,90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -76,12 +57,12 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Player", value: "Player", color: "hsl(301, 95%, 90%)"}
+      - { label: "Note", value: "Note", color: "hsl(329, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -91,7 +72,27 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: manual
+  Summary:
+    input: text
+    accessorKey: Summary
+    key: Summary
+    id: Summary
+    label: Summary
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 388
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      wrap_content: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -109,7 +110,7 @@ config:
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
-  row_templates_folder: z_Templates
+  row_templates_folder: /
   current_row_template: 
   pagination_size: 10
   font_size: 16
