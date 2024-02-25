@@ -8,3 +8,4 @@ Secured the previous location of [[Tu'er Shen]]'s casket.
 Seems like [[APEX Venture & Services Group|AV&SG]] was investigating the problem too:
 > Return the blood of the child, casket...
 
+We meet Senguine on a frozen lake, where [[Bream]] is placed into his father's old
