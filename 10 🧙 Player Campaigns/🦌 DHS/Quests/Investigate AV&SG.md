@@ -1,5 +1,5 @@
 ---
-Status: ❓ In Progress
+Status: ✔ Finished
 NoteIcon: Quest
 Type: ❗ Main ❗
 Summary: "[[Merrow]] has been rescued, now its time to investigate [[APEX Venture & Services Group|AV&SG]] for anomalous activity."
