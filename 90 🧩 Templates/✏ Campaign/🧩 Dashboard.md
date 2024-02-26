@@ -2,31 +2,31 @@
 cssclasses:
   - cards
 ---
-
-# [[10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
+90 🧩 Templates/✏ Campaign/
+# [[90 🧩 Templates/✏ Campaign/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
 	embed(Art) AS "Art"
-from "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players"
+from "90 🧩 Templates/✏ Campaign/Players"
 WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```
 
-# [[10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
+# [[90 🧩 Templates/✏ Campaign/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
 	embed(Art) AS "Art",
 	Notes AS "Notes"
-from "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/NPCs"
+from "90 🧩 Templates/✏ Campaign/NPCs"
 WHERE contains(NoteIcon, "NPC")
 SORT file.name
 ```
 
-# [[10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
+# [[90 🧩 Templates/✏ Campaign/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
@@ -34,18 +34,18 @@ TABLE WITHOUT ID
 	Type AS "Type",
 	Session_Complete AS "Session Complete",
 	Summary AS "Summary"
-from "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Quests"
+from "90 🧩 Templates/✏ Campaign/Quests"
 WHERE contains(NoteIcon, "Quest")
 SORT Status DESC
 ```
 
-# [[10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
+# [[90 🧩 Templates/✏ Campaign/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Date AS "Date",
 	Summary AS "Summary"
-from "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Sessions"
+from "90 🧩 Templates/✏ Campaign/Sessions"
 WHERE contains(NoteIcon, "Note")
 SORT file.name DESC
 ```

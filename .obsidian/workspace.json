@@ -66,6 +66,21 @@
         "dimension": 41.05769230769231,
         "children": [
           {
+            "id": "246b292e3209c13c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -197,10 +212,16 @@
   },
   "active": "eecac8a4cc2d725e",
   "lastOpenFiles": [
+    "ReadMe.md",
     "📑 Campaign Overview.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
-    "90 🧩 Templates/✏ Campaign/Dashboard.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
+    "90 🧩 Templates/✏ Campaign/🧩 Dashboard.md",
     "Notes.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 01.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 02.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 03.md",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
     "90 🧩 Templates/✏ Campaign/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/🧡 Dashboard.md",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Sessions/🧻📚 Session Database.md",
@@ -224,7 +245,6 @@
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/🧙📚 Player Database.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Maps/BM1_cropped.png",
@@ -232,15 +252,10 @@
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Assets/Gubat_Banwa_Character_Sheet.pdf",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Pavlo De Basi.canvas",
     "10 🧙 Player Campaigns/💽 All Along the Watchtower/💽 Dashboard.md",
     "10 🧙 Player Campaigns/💽 All Along the Watchtower/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/💽 All Along the Watchtower/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/💽 All Along the Watchtower/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/💽 All Along the Watchtower/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/💽 All Along the Watchtower/Groups/👪📚 Group Database.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Sirius_c.png",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Sirius.png",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Mirizar.jpg",

@@ -10,17 +10,17 @@ kanban-plugin: basic
 - [ ] ### [[⚖️ Dashboard|⚖️ Stolen Fate]]<br>**System:** *PF2e*<br>**Synop:** A desert of mystery...
 - [ ] ###  [[🐴 Dashboard|🐴 The Fifth Horseman]]<br>**System:** *PF2e*<br>**Synop:** A dream of the end of days...
 - [ ] ### [[🧛 Dashboard|🧛 Thicker than Water]]<br>**System:** *PF2e*<br>**Synop:** Vampires and werebeasts attempt a gathering, only for murder to bloody the waters...
-- [ ] ### [[💤 Dashboard|💤 Sleeping Days]]<br>**System:** *Fabula Ultima*<br>**Synop:**
+- [ ] ### [[💤 Dashboard|💤 Sleeping Days]]<br>**System:** *Fabula Ultima*<br>**Synop:** A mysterious invasion of SinSpawn. Time traveling sharks!
 
 
 ## 🟡 Paused Campaigns
 
-- [ ] ### [[🏗 Dashboard|🏗 A Conscience's Favor]]<br>**System:** *Hard Wired Island*<br>**Synop:**
-- [ ] ### [[💽 Dashboard|💽 All Along the Watchtower]]<br>**System:** *Eidolon*<br>**Synop:**
-- [ ] ### [[🧡 Dashboard|🧡 GoE: Unwound]]<br>**System:** *Heart*<br>**Synop:**
-- [ ] ### 🎏 Diwata's Glory \*\*<br>**System:** *Gubat Banwa*<br>**Synop:**
-- [ ] ### Mors Venit \*\*<br>**System:** *PF2e*<br>**Synop:**
-- [ ] ### 🌹 Shrouded Ambitions \*\*<br>**System:** *RWBY*<br>**Synop:**
+- [ ] ### [[🏗 Dashboard|🏗 A Conscience's Favor]]<br>**System:** *Hard Wired Island*<br>**Synop:** ---
+- [ ] ### [[💽 Dashboard|💽 All Along the Watchtower]]<br>**System:** *Eidolon*<br>**Synop:** ---
+- [ ] ### [[🧡 Dashboard|🧡 GoE: Unwound]]<br>**System:** *Heart*<br>**Synop:** ---
+- [ ] ### 🎏 Diwata's Glory \*\*<br>**System:** *Gubat Banwa*<br>**Synop:** ---
+- [ ] ### Mors Venit \*\*<br>**System:** *PF2e*<br>**Synop:** ---
+- [ ] ### 🌹 Shrouded Ambitions \*\*<br>**System:** *RWBY*<br>**Synop:** ---
 
 
 ## 🏁 Finished Campaigns
