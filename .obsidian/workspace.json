@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4198a495332c19f4",
+        "id": "82ed5e0d4f878da6",
         "type": "tabs",
         "children": [
           {
-            "id": "a99c60b8fa3b402c",
+            "id": "1c4a7bc940527cac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "📑 Campaign Overview.md"
               }
             }
           }
@@ -67,21 +64,6 @@
         "dimension": 41.05769230769231,
         "children": [
           {
-            "id": "18e56d355d249aa8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -90,25 +72,12 @@
             }
           },
           {
-            "id": "a6eaa0fbc4b02308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/Session 01.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1fa229dd8b7f3336",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -224,17 +193,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "1c4a7bc940527cac",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/🧙📚 Player Database.md",
+    "📑 Campaign Overview.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Maps/BM1_cropped.png",
     "20 🌟 GM Campaigns/⛰️ SSMR/Maps",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/☁️ Dashboard.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/🧻📚 Session Database.md",
     "Notes.md",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Assets/Gubat_Banwa_Character_Sheet.pdf",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Assets/p_sheet.pdf",
@@ -263,18 +233,16 @@
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Quests/Uncover the Horsemen.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Quests/Untitled.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Art/Sirius_c.png",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Art/Sirius.png",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Art/Mirizar.jpg",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Art/Devlin_c.png",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Art/Devlin.png",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Art/Arcta.png",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Art/Arcta_c.png",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Art/Alma.png",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/NPCs/Art/Jasper.jpg",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/NPCs/Art/Avina.png",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Sirius Skyweaver.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Sirius_c.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Sirius.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Mirizar.jpg",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Devlin_c.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Devlin.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Arcta.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Arcta_c.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Alma.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Art/Jasper.jpg",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Sirius Skyweaver.md",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "Conscience/Players/Kai Canvas.canvas",
