@@ -11,14 +11,12 @@
             "id": "a99c60b8fa3b402c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
-                "viewState": {
-                  "x": 71.10504201680669,
-                  "y": 278.4336134453781,
-                  "zoom": -0.4992161320598384
-                }
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,8 +224,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a99c60b8fa3b402c",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/⛰️ SSMR/Maps/BM1_cropped.png",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Maps",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
     "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
@@ -256,7 +258,6 @@
     "10 🧙 Player Campaigns/🏗 Conscience/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Quests",
     "10 🧙 Player Campaigns/🏗 Conscience/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/🏗 Conscience/NPCs/Art",
     "10 🧙 Player Campaigns/🏗 Conscience/Groups/👪📚 Group Database.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Quests/Uncover the Horsemen.md",
@@ -274,8 +275,6 @@
     "10 🧙 Player Campaigns/☁ Sleeping Days/NPCs/Art/Avina.png",
     "10 🧙 Player Campaigns/☁ Sleeping Days/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Sirius Skyweaver.md",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/Players/Mirizar.md",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "Conscience/Players/Kai Canvas.canvas",
