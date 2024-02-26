@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "new_moon",
     "checkered_flag",
     "horse",
     "cloud",
@@ -27,8 +28,7 @@
     "bow_and_arrow",
     "lizard",
     "dog",
-    "group",
-    "question"
+    "group"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,
