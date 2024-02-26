@@ -2,6 +2,8 @@
 cssclasses:
   - cards
   - cards-cols-5
+aliases:
+  - ☁️ Gears of Exmoor
 ---
 
 # [[10 🧙 Player Campaigns/☁ Sleeping Days/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]

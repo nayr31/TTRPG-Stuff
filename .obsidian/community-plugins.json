@@ -6,7 +6,6 @@
   "obsidian-kanban",
   "obsidian-style-settings",
   "obsidian-meta-bind-plugin",
-  "home-tab",
   "excel",
   "obsidian42-brat",
   "obsidian-git",
@@ -22,5 +21,6 @@
   "url-into-selection",
   "contribution-graph",
   "link-keeper",
-  "obsidian-banners"
+  "obsidian-banners",
+  "homepage"
 ]

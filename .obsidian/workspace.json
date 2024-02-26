@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a2cf0e5975fa230d",
+        "id": "e14782703f664806",
         "type": "tabs",
         "children": [
           {
-            "id": "ce13cb6845079c0c",
+            "id": "a551e8503a96acbb",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
                 "file": "📑 Campaign Overview.md"
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -107,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes.md",
+                "file": "10 🧙 Player Campaigns/☁ Sleeping Days/Sessions/🧻📚 Session Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 280
   },
   "right": {
     "id": "d0fbd480141c853b",
@@ -157,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "10 🧙 Player Campaigns/☁ Sleeping Days/Sessions/🧻📚 Session Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,12 +217,15 @@
       "obsidian42-brat:BRAT": true,
       "omnisearch:Omnisearch": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "18e56d355d249aa8",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/☁ Sleeping Days/☁️ Dashboard.md",
     "📑 Campaign Overview.md",
+    "Notes.md",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Assets/Gubat_Banwa_Character_Sheet.pdf",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Assets/p_sheet.pdf",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Pavlo De Basi.canvas",
@@ -249,9 +250,7 @@
     "10 🧙 Player Campaigns/🏗 Conscience/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/NPCs/Art",
     "10 🧙 Player Campaigns/🏗 Conscience/Groups/👪📚 Group Database.md",
-    "Notes.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
-    "10 🧙 Player Campaigns/☁ Sleeping Days/☁️ Dashboard.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Quests/Uncover the Horsemen.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Quests/Untitled.md",
