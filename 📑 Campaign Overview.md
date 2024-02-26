@@ -17,8 +17,8 @@ kanban-plugin: basic
 
 - [ ] ### [[🏗 Dashboard|🏗 A Conscience's Favor]]<br>**System:** *Hard Wired Island*<br>**Synop:**
 - [ ] ### [[💽 Dashboard|💽 All Along the Watchtower]]<br>**System:** *Eidolon*<br>**Synop:**
-- [ ] ### 🎏 Diwata's Glory \*\*<br>**System:** *Gubat Banwa*<br>**Synop:**
 - [ ] ### [[🧡 Dashboard|🧡 GoE: Unwound]]<br>**System:** *Heart*<br>**Synop:**
+- [ ] ### 🎏 Diwata's Glory \*\*<br>**System:** *Gubat Banwa*<br>**Synop:**
 - [ ] ### Mors Venit \*\*<br>**System:** *PF2e*<br>**Synop:**
 - [ ] ### 🌹 Shrouded Ambitions \*\*<br>**System:** *RWBY*<br>**Synop:**
 

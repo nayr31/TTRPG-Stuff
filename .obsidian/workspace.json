@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "419c005df62331a3",
+        "id": "a920d6f4605f7516",
         "type": "tabs",
         "children": [
           {
-            "id": "a92350f6abca8ead",
+            "id": "eecac8a4cc2d725e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -65,21 +65,6 @@
         "type": "tabs",
         "dimension": 41.05769230769231,
         "children": [
-          {
-            "id": "759d7c1f6debced7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
           {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
@@ -210,10 +195,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a92350f6abca8ead",
+  "active": "eecac8a4cc2d725e",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
     "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
     "90 🧩 Templates/✏ Campaign/Dashboard.md",
     "Notes.md",
     "90 🧩 Templates/✏ Campaign/Players/🧙📚 Player Database.md",
