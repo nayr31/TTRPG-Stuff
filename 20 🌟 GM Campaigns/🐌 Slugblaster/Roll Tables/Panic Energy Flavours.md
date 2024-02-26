@@ -1,4 +1,6 @@
 
+`dice: [[Panic Energy Flavours#^flavours]]`
+
 | Flavors |
 | ---- |
 | Lemon Stress |
