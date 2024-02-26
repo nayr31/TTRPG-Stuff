@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - cards
-  - cards-cols-4
+  - cards-cols-5
 ---
 
 # [[10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
@@ -9,7 +9,8 @@ cssclasses:
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
-	embed(Art) AS "Art"
+	embed(Art) AS "Art",
+	Frame AS "Frame"
 from "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players"
 WHERE contains(NoteIcon, "Player")
 SORT file.name

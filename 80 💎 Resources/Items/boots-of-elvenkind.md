@@ -1,10 +1,5 @@
 ---
 obsidianUIMode: preview
-tags:
-  - compendium/src/5e/dmg
-  - item/rarity/uncommon
-  - item/tier/major
-  - item/wondrous
 aliases:
   - Boots of Elvenkind
 ---

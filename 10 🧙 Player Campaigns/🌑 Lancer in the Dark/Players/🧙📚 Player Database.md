@@ -16,7 +16,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -34,7 +34,7 @@ columns:
     key: Art
     id: Art
     label: Art
-    position: 100
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -53,7 +53,7 @@ columns:
     key: Pronouns
     id: Pronouns
     label: Pronouns
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -76,7 +76,7 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -92,6 +92,28 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  Frame:
+    input: select
+    accessorKey: Frame
+    key: Frame
+    id: Frame
+    label: Frame
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Pegasus", value: "Pegasus", color: "hsl(187, 95%, 90%)"}
+      - { label: "N/A", value: "N/A", color: "hsl(124, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal

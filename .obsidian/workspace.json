@@ -123,7 +123,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -212,13 +213,16 @@
   },
   "active": "eecac8a4cc2d725e",
   "lastOpenFiles": [
+    "80 💎 Resources/Items/boots-of-elvenkind.md",
+    "rules/skills.md",
+    "rules",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Akemi.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Akemi Homura_c.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Akemi Homura.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Akemi Homura.png",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Akemi.md",
     "Notes.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
@@ -245,7 +249,6 @@
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Sessions",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Quests",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Groups/👪📚 Group Database.md",
@@ -253,7 +256,6 @@
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art/Varsh.png",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art/Draha.jpg",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art/El Findlay.png",
-    "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Varsh.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Maps/BM1_cropped.png",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
