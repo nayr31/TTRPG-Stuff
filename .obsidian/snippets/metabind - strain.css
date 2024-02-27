@@ -26,7 +26,7 @@
   height: 2em;
   width: 2em;
   line-height: 2em;
-  border-radius: 20%;
+  border-radius: 0%;
   border: 1px solid hsl(var(--accent-h), var(--accent-s), var(--accent-l));
   transition: none;
   transform: rotate(0deg);
@@ -35,14 +35,14 @@
   --bg-1: rgba(0,0,0,0.2);
   --bg-2: rgba(0,0,0,0.1);
   --bg-3: rgba(0,0,0,0);
-  background: linear-gradient(65deg, var(--bg-1) 1%, var(--bg-2) 20%, var(--bg-3) 100%);
+  background: linear-gradient(0deg, var(--bg-1) 1%, var(--bg-2) 20%, var(--bg-3) 100%);
 }
 .mb-input-wrapper.strain .checkbox-container.is-enabled {
-  border-radius: 50%;
+  border-radius: 0%;
 
-  --bg-1: rgba(185,28,130,1);
-  --bg-2: rgba(173,37,169,1);
-  --bg-3: rgba(0,106,255,1);
+  --bg-1: rgb(185, 28, 28);
+  --bg-2: rgb(173, 37, 94);
+  --bg-3: rgb(66, 66, 66);
 }
 
 .mb-input-wrapper.strain .checkbox-container::before {
@@ -60,7 +60,6 @@
 
   margin: 0;
   padding: 0;
-  transition: opacity 1s ease-in, transform 1s;
   transform: scale(300%) rotate(20deg);
   pointer-events: none;
 }

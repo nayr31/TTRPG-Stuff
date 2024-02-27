@@ -66,6 +66,21 @@
         "dimension": 41.05769230769231,
         "children": [
           {
+            "id": "50663726175a560b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -199,9 +214,9 @@
   "lastOpenFiles": [
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Akemi.md",
-    "80 🗃️ Resources/Spell slot.md",
     "Notes.md",
     "📑 Campaign Overview.md",
+    "80 🗃️ Resources/Spell slot.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Panic Energy Flavours.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/PANIC Energy® Fuel-Line.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
