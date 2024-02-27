@@ -137,5 +137,9 @@
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-royal-velvet",
   "anuppuccin-theme-settings@@anp-kanban-card-radius": 6,
   "anuppuccin-theme-settings@@anp-kanban-lane-radius": 6,
-  "anuppuccin-theme-settings@@anp-kanban-lane-spacing": 6
+  "anuppuccin-theme-settings@@anp-kanban-lane-spacing": 6,
+  "supercharged-links@@1c30-9e01-before": "📝 ",
+  "supercharged-links@@00d3-b095-before": "👥 ",
+  "supercharged-links@@b057-a7de-before": "🧔 ",
+  "supercharged-links@@27b7-1426-before": "👨‍🌾 "
 }
