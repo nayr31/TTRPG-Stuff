@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a920d6f4605f7516",
+        "id": "4d0fc6c6efd3645f",
         "type": "tabs",
         "children": [
           {
-            "id": "eecac8a4cc2d725e",
+            "id": "63ea63bc28d77051",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -66,21 +66,6 @@
         "dimension": 41.05769230769231,
         "children": [
           {
-            "id": "246b292e3209c13c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -123,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,22 +195,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eecac8a4cc2d725e",
+  "active": "63ea63bc28d77051",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Akemi.md",
+    "80 🗃️ Resources/Spell slot.md",
+    "Notes.md",
+    "📑 Campaign Overview.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Panic Energy Flavours.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/PANIC Energy® Fuel-Line.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
-    "📑 Campaign Overview.md",
-    "80 💎 Resources/Items/boots-of-elvenkind.md",
+    "80 🗃️ Resources/Items/boots-of-elvenkind.md",
     "rules/skills.md",
     "rules",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Akemi.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Akemi Homura_c.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Akemi Homura.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Akemi Homura.png",
-    "Notes.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art",
@@ -251,7 +236,6 @@
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/🧡 Dashboard.md",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Sessions",
-    "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art/El Findlay_c.png",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art/Varsh.png",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art/Draha.jpg",

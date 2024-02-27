@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "anger",
     "new_moon",
     "checkered_flag",
     "horse",
@@ -27,8 +28,7 @@
     "alien",
     "bow_and_arrow",
     "lizard",
-    "dog",
-    "group"
+    "dog"
   ],
   "highlightMatches": true,
   "triggerFromFirst": true,
