@@ -10,7 +10,8 @@ aliases: []
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
-	embed(Art) AS "Art"
+	embed(Art) AS "Art",
+	Class AS "Class"
 from "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players"
 WHERE contains(NoteIcon, "Player")
 SORT file.name

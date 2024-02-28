@@ -92,16 +92,22 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  Notes:
-    input: text
-    accessorKey: Notes
-    key: Notes
-    id: Notes
-    label: Notes
+  Class:
+    input: select
+    accessorKey: Class
+    key: Class
+    id: Class
+    label: Class
     position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
+      - { label: "N/A", value: "N/A", color: "hsl(93, 95%, 90%)"}
+      - { label: "Magus", value: "Magus", color: "hsl(223, 95%, 90%)"}
+      - { label: "Gunslinger", value: "Gunslinger", color: "hsl(271, 95%, 90%)"}
+      - { label: "Swashbuckler", value: "Swashbuckler", color: "hsl(328, 95%, 90%)"}
+      - { label: "Fighter", value: "Fighter", color: "hsl(312, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -111,6 +117,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -129,7 +136,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: z_Templates
-  current_row_template: 
+  current_row_template: 90 🧩 Templates/Player.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false

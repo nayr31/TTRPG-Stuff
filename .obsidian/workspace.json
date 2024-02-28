@@ -20,19 +20,32 @@
             }
           },
           {
-            "id": "cf2af1cbf1eecbed",
+            "id": "79fa835e0daa8e80",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 03.md",
+                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d2aa8ad9b2e73025",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/🧙📚 Player Database.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,11 +236,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "63ea63bc28d77051",
+  "active": "79fa835e0daa8e80",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 03.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Cordelia_c.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Cordelia.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Miri.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Cordelia.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/abi.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi_c.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi.jpg",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi.jpg",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/abi.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Kiyi.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/player..md",
     "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 03.md",
     "Notes.md",
     "90 🧩 Templates/✏ Campaign/Groups/👪📚 Group Database.md",
     "10 🧙 Player Campaigns/🦌 DHS/Groups/APEX Venture & Services Group.md",
@@ -250,30 +275,17 @@
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/Art",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Groups/👪📚 Group Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Quests",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Groups",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark",
-    "ReadMe.md",
-    "90 🧩 Templates/✏ Campaign/🧩 Dashboard.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 01.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 02.md",
-    "10 🧙 Player Campaigns/💤 Sleeping Days/💤 Dashboard.md",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Sessions",
     "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art/El Findlay_c.png",
-    "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art/Varsh.png",
-    "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art/Draha.jpg",
-    "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Art/El Findlay.png",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Maps/BM1_cropped.png",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Pavlo De Basi.canvas",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Sirius_c.png",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Sirius.png",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "Conscience/Players/Kai Canvas.canvas",
