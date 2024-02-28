@@ -35,17 +35,30 @@
             }
           },
           {
-            "id": "d2aa8ad9b2e73025",
+            "id": "97c3acfd078ed7d6",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/🧙📚 Player Database.md"
+                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Kiyi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77c926e8b10b5d50",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi.jpg"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
+                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi.jpg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
+                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -236,12 +249,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "77c926e8b10b5d50",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi token.png",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi token.png",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Kiyi.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi token.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi token.png",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Cordelia_c.png",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Cordelia.png",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Miri.md",
@@ -251,9 +266,7 @@
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi.jpg",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi.jpg",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/abi.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Kiyi.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/player..md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 03.md",
     "Notes.md",
     "90 🧩 Templates/✏ Campaign/Groups/👪📚 Group Database.md",
@@ -270,7 +283,6 @@
     "rules",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Akemi Homura_c.png",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Akemi Homura.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Akemi Homura.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
