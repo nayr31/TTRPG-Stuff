@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,37 +8,23 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"20 🌟 GM Campaigns\"  ",
+      "query": "path:\"20 🌟 GM Campaigns/🐌 Slugblaster\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
-    },
-    {
-      "query": "path:\"10 🧙 Player Campaigns\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5754346
-      }
-    },
-    {
-      "query": "path:\"90 🧩 Templates\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.5546875,
-  "lineSizeMultiplier": 1.35052083333333,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10.5208333333333,
-  "linkStrength": 0.619791666666667,
-  "linkDistance": 287,
-  "scale": 0.18462326225858186,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.184623262258582,
   "close": false
 }

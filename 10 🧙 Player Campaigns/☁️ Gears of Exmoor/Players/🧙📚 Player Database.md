@@ -109,6 +109,7 @@ columns:
       - { label: "Gunslinger", value: "Gunslinger", color: "hsl(271, 95%, 90%)"}
       - { label: "Swashbuckler", value: "Swashbuckler", color: "hsl(328, 95%, 90%)"}
       - { label: "Fighter", value: "Fighter", color: "hsl(312, 95%, 90%)"}
+      - { label: "Oracle", value: "Oracle", color: "hsl(68, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
