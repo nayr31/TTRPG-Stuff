@@ -20,21 +20,20 @@
             }
           },
           {
-            "id": "79fa835e0daa8e80",
+            "id": "499522b5fa5c1aa1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,9 +224,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "63ea63bc28d77051",
+  "active": "499522b5fa5c1aa1",
   "lastOpenFiles": [
     "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Archangel.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
+    "90 🧩 Templates/Player.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Kiyi.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Quests/🎯 Quest Database.md",
@@ -258,12 +261,8 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Gear/PANIC Energy® Fuel-Line.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "80 🗃️ Resources/Items/boots-of-elvenkind.md",
-    "rules/skills.md",
     "rules",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Akemi Homura_c.png",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/Art",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Quests",
