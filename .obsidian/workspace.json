@@ -18,16 +18,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1add8fbf4c1df5be",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions/🧻📚 Session Database.md"
-              }
-            }
           }
         ]
       }
@@ -133,8 +123,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,10 +211,13 @@
   },
   "active": "63ea63bc28d77051",
   "lastOpenFiles": [
+    "Notes.md",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions/🧻📚 Session Database.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions/Session e01.md",
     "80 🗃️ Resources/Obsidian Stuff/Sorting systems.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Discovery.md",
@@ -251,13 +243,10 @@
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/abi.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/player..md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 03.md",
-    "Notes.md",
     "90 🧩 Templates/✏ Campaign/Groups/👪📚 Group Database.md",
     "10 🧙 Player Campaigns/🦌 DHS/Groups/APEX Venture & Services Group.md",
     "10 🧙 Player Campaigns/🦌 DHS/Sessions/Session 05.md",
     "80 🗃️ Resources/Obsidian Stuff/Meta Bind CSS Slot.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Akemi.md",
     "rules",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/Art",
