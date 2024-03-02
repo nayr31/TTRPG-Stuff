@@ -3,8 +3,6 @@ cssclasses:
   - cards
   - cards-cols-5
 banner: "[[Cover art.jpg]]"
-banner_y: 0.653
-banner_lock: true
 ---
 
 # **Goals for this page:**
@@ -14,7 +12,7 @@ banner_lock: true
 	- [x] Authorities
 	- [x] Crowds?
 	- [x] Sponsors
-- [x] [[20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Database]]
+- [x] [[NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Database]]
 	- [x] Crews
 	- [x] Auths
 	- [x] Crowds
@@ -55,43 +53,43 @@ banner_lock: true
 	- [ ] Generator
 
 
-# [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
+# [[Groups/👪📚 Group Database|🛹 Crews]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
 	embed(Logo) AS "Logo",
 	Summary AS "Summary"
-from "20 🌟 GM Campaigns/🐌 Slugblaster/Groups"
+from "Groups"
 WHERE contains(Type, "Crew")
 SORT file.name
 ```
 
-# [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|👮‍♂️ Authorities]]
+# [[Groups/👪📚 Group Database|👮‍♂️ Authorities]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
 	Summary AS "Summary"
-from "20 🌟 GM Campaigns/🐌 Slugblaster/Groups"
+from "Groups"
 WHERE contains(Type, "Authorities")
 SORT file.name
 ```
 
-# [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🍦 Sponsors]]
+# [[Groups/👪📚 Group Database|🍦 Sponsors]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
 	Summary AS "Summary"
-from "20 🌟 GM Campaigns/🐌 Slugblaster/Groups"
+from "Groups"
 WHERE contains(Type, "Sponsor")
 SORT file.name
 ```
 
-# [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🧑‍🤝‍🧑 Crowds]]
+# [[Groups/👪📚 Group Database|🧑‍🤝‍🧑 Crowds]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
 	Summary AS "Summary"
-from "20 🌟 GM Campaigns/🐌 Slugblaster/Groups"
+from "Groups"
 WHERE contains(Type, "Crowd")
 SORT file.name
 ```
@@ -102,7 +100,7 @@ TABLE WITHOUT ID
 	link(file.path, displayname) AS "Name",
 	gen1 AS "gen1",
 	gen2 AS "gen2"
-from "20 🌟 GM Campaigns/🐌 Slugblaster/Generators"
+from "Generators"
 WHERE Show = True
 SORT file.name
 ```
@@ -130,7 +128,7 @@ TABLE WITHOUT ID
 	link(file.path, name) AS "Name",
 	Pernounced AS "Pernounced",
 	Notes AS "Notes"
-from "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds"
+from "Worlds"
 WHERE contains(NoteIcon, "World")
 SORT file.name
 ```
