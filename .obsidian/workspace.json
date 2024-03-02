@@ -18,8 +18,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a9064b74a47ba36e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "viewState": {
+                  "x": -840.2680005461264,
+                  "y": 1315.904193030431,
+                  "zoom": 0.008424597281258328
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,17 +225,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "63ea63bc28d77051",
+  "active": "a9064b74a47ba36e",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
+    "Notes.md",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Akemi.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Kiyi.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
-    "📑 Campaign Overview.md",
-    "Notes.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/kiyi-Token.png",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/kiyi-turnaround.gif",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/kiyi-portrait.png",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
