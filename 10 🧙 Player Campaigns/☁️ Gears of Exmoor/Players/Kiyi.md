@@ -31,4 +31,9 @@ A few years have passed, and her exploits through various countries has left her
 ---
 -> Potential rewrites
 
-- 
+- Kiyi WAS a bully in school, and because of that used as a scapegoat for the real culprit of the incident
+- After he expulsion/excommunication, she roamed the lands not having a clear direction or purpose, just using her talents to get by
+- Only until she hit near rock bottom in a fighting ring did she decide that clearing her name would be the fastest way to get back to her lavish lifestyle back in Infina
+	- She misses the soft winds under a cherry blossoms, the sound of ducks in the pond, the reality in knowing that she could sleep in her garden and nothing bad would happen
+	- Every day is stressful. Wake up, make money to eat and a place to sleep, repeat. Every day. All profits went to healing remedies, repairing gear, or getting new tats
+- After saving enough for provisions, she sets off for Chronovale to follow the letter she received. Perhaps the reward would be enough to allow her to set off in search? Maybe the people have the power to help?
