@@ -1,1 +1,0 @@
-SSC is revealed to be using Egregorians as test subjects for portable ship-scale blinkgates
