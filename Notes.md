@@ -1,2 +1,0 @@
-- espionage (spies)
-- Persons' rights are never substantiated (specifically for NHPs)
