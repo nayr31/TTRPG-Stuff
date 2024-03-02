@@ -27,3 +27,8 @@ Among her 2 other siblings (Morishita and Furuya), she is the youngest. The lax 
 After the death of a few students, a full scale investigation was performed by external authorities, and it was deemed that Kiyi was the culprit. Her sweet tongue with the professors and headmaster managed to grant her expulsion, but it didn't manage to get her parents to look over the fact - she was never to return, and to never use the Purazuma name again.
 
 A few years have passed, and her exploits through various countries has left her with little to return to and little to show for it. Her magic prowess and innate talent from the academy and bloodline can only go so far, so when she got a letter addressed for "her eyes only", she knew she had to take it.
+
+---
+-> Potential rewrites
+
+- 
