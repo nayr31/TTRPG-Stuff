@@ -1,7 +1,7 @@
 ---
 gen1: "`dice: [[NPC Generator#^npchillviewnamegen]]`"
 gen2: "`dice: 1d[[NPC Generator#^npctraitgen]]`"
-displayname: 👨‍🌾 Generator
+displayname: 👨‍🌾 NPC
 Show: true
 ---
 

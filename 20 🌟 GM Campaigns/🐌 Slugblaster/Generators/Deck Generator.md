@@ -1,6 +1,8 @@
 ---
 gen1: "`dice: [[Deck Generator#^type]]`"
 gen2: "`dice: [[Deck Generator#^details]]`"
+Show: true
+displayname: 🛹 Deck
 ---
 
 | Type |

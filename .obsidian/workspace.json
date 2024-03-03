@@ -20,15 +20,27 @@
             }
           },
           {
-            "id": "424d3ff87001db08",
+            "id": "07d87afa97bac1c4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Situations.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1a51ff654cbda541",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/🎲 Generator Database.md"
               }
             }
           }
@@ -108,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Situations.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Situations.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,15 +235,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "424d3ff87001db08",
+  "active": "07d87afa97bac1c4",
   "lastOpenFiles": [
-    "📑 Campaign Overview.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Untitled.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Situations.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Situation Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/🎲 Generator Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+    "Notes.md",
+    "📑 Campaign Overview.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Loot Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Deck Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Checkpoint Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Problem Generator.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Situations.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Mr. Wikie.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/The Mavens.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/BRB.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Untitled.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Kiyi.md",
-    "Notes.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Akemi.md",
@@ -247,21 +270,10 @@
     "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Discovery.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiti_modern.jpg",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiti_modern.jpg",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Archangel.md",
-    "90 🧩 Templates/Player.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Alice.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Alice_c.png",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Alice.png",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi.jpg",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi token.png",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiyi token.png",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Miri.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Cordelia.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/abi.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/player..md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 03.md",
     "rules",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/Art",

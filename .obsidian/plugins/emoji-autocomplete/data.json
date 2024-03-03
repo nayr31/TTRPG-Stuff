@@ -4,6 +4,9 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "skateboard",
+    "dice",
+    "seven",
     "man_farmer",
     "bearded_person",
     "group",
@@ -25,10 +28,7 @@
     "vampire",
     "sunglasses",
     "card_file_box",
-    "explode",
-    "barf",
-    "shield",
-    "fox_face"
+    "explode"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

@@ -1,8 +1,8 @@
 ---
 gen1: "`dice: 1d[[Problem Generator#^problem]]`"
 gen2: 
-displayname: ❗❗ Generator
-Show:
+displayname: ❗❗ Problem
+Show: 
 ---
 
 | Problem |

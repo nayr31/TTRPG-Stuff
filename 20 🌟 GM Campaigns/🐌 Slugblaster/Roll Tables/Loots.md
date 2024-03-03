@@ -1,3 +1,5 @@
+
+**Notice:** This content is [3rd party](https://notwriting.itch.io/sick-loots)
 # Phone Charm
 
 This table is varied, but the idea is that the more rare "rolls" let you pick from more options.

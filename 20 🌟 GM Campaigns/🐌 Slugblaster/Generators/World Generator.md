@@ -1,7 +1,7 @@
 ---
 gen1: "`dice: [[World Generator#^generalfeatures]]`"
 gen2: "`dice: [[World Generator#^content]]`"
-displayname: 🌎 Generator
+displayname: 🌎 World
 Show: true
 ---
 
