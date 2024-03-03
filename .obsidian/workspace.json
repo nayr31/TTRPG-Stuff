@@ -18,34 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "07d87afa97bac1c4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1a51ff654cbda541",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/🎲 Generator Database.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +81,21 @@
             }
           },
           {
+            "id": "0ee885a7aef3387a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -120,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -235,11 +225,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "07d87afa97bac1c4",
+  "active": "63ea63bc28d77051",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Alternate Rules.md",
+    "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/What a GM Does.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Character Creation.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Crew Creation.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Group Actions.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Situation Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/🎲 Generator Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "Notes.md",
     "📑 Campaign Overview.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Loot Generator.md",
@@ -262,12 +258,6 @@
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/kiyi-turnaround.gif",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/kiyi-portrait.png",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Sessions/Session e01.md",
-    "80 🗃️ Resources/Obsidian Stuff/Sorting systems.md",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/Players/Discovery.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiti_modern.jpg",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiti_modern.jpg",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Alice_c.png",
