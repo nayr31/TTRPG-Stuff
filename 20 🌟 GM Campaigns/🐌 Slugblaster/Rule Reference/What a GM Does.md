@@ -11,7 +11,6 @@
 > **Bite** is a resource the GM spends to introduce shocks, surprises, and other challenges that could feel unearned or unfair otherwise. Not all tables want or need to use bite, but I find it helps me worry less and have more fun.
 > 
 > During the [[Cycle.png|refresh]] the GM collects 1 **bite** per player, and gains extra bite from certain challenges (page 25) and dares (page 17).
-
 ^bite
 
 ## GM Actions
@@ -22,10 +21,10 @@ Here’s a list of some things you can do, to help guide you until you get the h
 
 - Describe their surroundings.
 - Ask questions like “What do you do?” or “Who’s closest to the river?” or “Does that make your character mad?” or “How does the trick look?” or “Anyone have an idea for a problem?”
-- Start a looming danger track (page 141) or establish a future obstacle.
+- Start a [[What a GM Does#^444a46|looming danger track]] or establish a future obstacle.
 - Cut to the action, with the characters in control.
 - Call for an extra refresh (page 13) any time during the run (helpful for longer runs!).
-- Call for a group action (page 140). This can speed up and simplify a scene.
+- Call for a [[What a GM Does#^c2bb7e|group action]]. This can speed up and simplify a scene.
 
 ### *When they roll a problem...*
 
@@ -45,6 +44,7 @@ Here’s a list of some things you can do, to help guide you until you get the h
 - Introduce a random challenge to the crew (or pay a little more to pick something specific).
 
 # Setup
+^45cbe9
 
 Setup is not the most glamorous part of a GM’s job, and certainly not as fun as dropping quantum fear-meteors on screaming teenagers. But someone needs to get this party started—and that someone is you.
 
@@ -132,6 +132,7 @@ If two or more PCs have the same immediate goal, the GM can call for a group rol
 Group rolls can dramatically speed up tedious or overly complex scenes, like when the entire group sneaks into a building, or a huge, multi-layered chase sequence. They are also mechanically powerful, so the GM decides when to use them.
 
 ## Tracks
+^444a46
 
 Tracks are tools to, uh, track what is happening in the game. They are concrete visual representations of situations that might be hard to picture otherwise. Instead of hitpoints, a progress track may reflect how close a monster is to death. If a storm brews on the horizon, a danger track reflects how close it is.
 
@@ -211,6 +212,7 @@ In the same way, these kids probably shouldn’t die. They may take hard slams, 
 Slugblasting is obviously mind-bendingly dangerous, but it also needs to stay fun for the game’s premise to hold. They should always have a way of just barely avoiding tragedy. They are the lucky ones. And if they get in a situation that stretches plausibility too far, you have an ejection seat—peelback. Peelback is unpredictable, tends to happen more during times of duress, and is still a super rough consequence, so it’s a good death replacement in this game.
 
 # Decisions
+^a95461
 
 Part of the GM’s job is to be a referee. Use common sense, do what’s fair, and do what’s the most fun.
 
@@ -250,6 +252,8 @@ The players say what they do, the dice say if they succeed, but it’s the GM wh
 
 # Danger
 
+^97352d
+
 This is the main job. You are a consequence generator. This is what you’ll spend the majority of your time and mental energy doing throughout a session—just coming up with an endless series of oopsies and ouchies for your little scamps.
 
 It’s the hardest part of the job, but also may be the only truly vital part. A group of mature players can referee themselves, and even set their own pacing and tone. But it’s just not as satisfying to overcome an obstacle you set for yourself. They need you to be the bad guy, to give them what they can’t give themselves. You are their servant, and your job is to serve them plate after plate of trouble and snakes.
@@ -281,13 +285,12 @@ Slams however, are usually one-time stings. They’re a strong, simple option an
 ● Pinned down, grappled, stuck, targeted, dangling from ledge.
 
 ## Worse Problems
-
 ^6eb990
 
 In extra dangerous situations, like when someone does a trick or doesn’t run from a big deadly monster, you deliver worse problems. This might mean:
-● Two standard problems.
-● Everyone gets slammed.
-● Someone gets super slammed.
+- Two standard problems.
+- Everyone gets slammed.
+- Someone gets super slammed.
 
 Super slams take longer to clear. The player writes the slam as normal, but with super (or some other intensifying adverb) in front. Super bruised, super tired, hella angry, etc. When it’s time to clear the slam, they only clear the intensifier. Super bruised becomes bruised. They clear the rest the next time. Super slams require extra noping to avoid. One nope avoids the intensifier, two nopes avoids the entire thing.
 
