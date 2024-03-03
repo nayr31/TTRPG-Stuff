@@ -18,8 +18,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7cc1978b202d7e7c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "viewState": {
+                  "x": -1432.3829724676832,
+                  "y": 777.683538180039,
+                  "zoom": 0.34175793061459164
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,8 +241,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "63ea63bc28d77051",
+  "active": "7cc1978b202d7e7c",
   "lastOpenFiles": [
+    "📑 Campaign Overview.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Alternate Rules.md",
     "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
@@ -237,7 +254,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Situation Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/🎲 Generator Database.md",
     "Notes.md",
-    "📑 Campaign Overview.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Loot Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Deck Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Checkpoint Generator.md",
