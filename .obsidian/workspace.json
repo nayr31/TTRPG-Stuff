@@ -20,17 +20,15 @@
             }
           },
           {
-            "id": "7cc1978b202d7e7c",
+            "id": "01c5266c73b6b159",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
-                "viewState": {
-                  "x": -1432.3829724676832,
-                  "y": 777.683538180039,
-                  "zoom": 0.34175793061459164
-                }
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Fame.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -125,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Fame.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Fame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,19 +239,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7cc1978b202d7e7c",
+  "active": "01c5266c73b6b159",
   "lastOpenFiles": [
     "📑 Campaign Overview.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Alternate Rules.md",
-    "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/What a GM Does.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Character Creation.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Crew Creation.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Fame.md",
+    "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Gravity Blaster.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Mods.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Signature Looks.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Alternate Rules.md",
+    "Notes.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/What a GM Does.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Group Actions.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Situation Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/🎲 Generator Database.md",
-    "Notes.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Loot Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Deck Generator.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/Checkpoint Generator.md",
@@ -265,15 +268,10 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Loots.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Untitled.md",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Kiyi.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Akemi.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/kiyi-Token.png",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/kiyi-turnaround.gif",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/kiyi-portrait.png",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiti_modern.jpg",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Kiti_modern.jpg",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Art/Alice_c.png",
