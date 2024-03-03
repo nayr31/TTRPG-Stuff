@@ -47,11 +47,12 @@ Everyone’s luck runs out eventually. Too many sketchy landings. Too many close
 > 1–3 *Disaster strikes!* Something [[What a GM Does#^97352d|really bad happens]]. Mark doom.
 
 ## Doom
+^743c4d
 
 Doom represents the scars and debts of this insane hobby. The bridges you’ve burned, the lies you’ve told, the dimensional horrors you can’t unsee, the hearing loss from that time with the matter-collapser. The things that follow you into adulthood.
 - Disaster and certain downtime beats can give you doom. Write it on your sheet. Be descriptive.
 - Doom can also be cleared with certain beats, or by going on a run specifically for that purpose.
-- Your doom helps determine your epilogue.
+- Your doom helps determine your [[Epilogue|epilogue]].
 
 ## Fractures
 
