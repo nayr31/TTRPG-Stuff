@@ -10,7 +10,7 @@
 > [!tip] Bite
 > **Bite** is a resource the GM spends to introduce shocks, surprises, and other challenges that could feel unearned or unfair otherwise. Not all tables want or need to use bite, but I find it helps me worry less and have more fun.
 > 
-> During the [[Cycle.png|refresh]] the GM collects 1 **bite** per player, and gains extra bite from certain challenges (page 25) and dares (page 17).
+> During the [[Cycle.png|refresh]] the GM collects 1 **bite** per player, and gains extra bite from certain [[Events#^2cbfb2|challenges]] and [[Do Stuff#^537bce|dares]].
 ^bite
 
 ## GM Actions
@@ -23,7 +23,7 @@ Here’s a list of some things you can do, to help guide you until you get the h
 - Ask questions like “What do you do?” or “Who’s closest to the river?” or “Does that make your character mad?” or “How does the trick look?” or “Anyone have an idea for a problem?”
 - Start a [[What a GM Does#^444a46|looming danger track]] or establish a future obstacle.
 - Cut to the action, with the characters in control.
-- Call for an extra refresh (page 13) any time during the run (helpful for longer runs!).
+- Call for an extra refresh (page 13) any time during the run (helpful for longer [[runs]]!).
 - Call for a [[What a GM Does#^c2bb7e|group action]]. This can speed up and simplify a scene.
 
 ### *When they roll a problem...*
@@ -77,10 +77,10 @@ Alternatively, you can start in town, before the action, opening on each charact
 
 ## Your First Run
 
-Runs can vary greatly in length and structure from table to table, based on how long you have to play each time you meet, how long you want your campaign to be, how difficult you want the game to feel, how talkative your group is, how goal-oriented your players are, etc. There’s no correct length, and you will quickly get a feel for what works for you, but you gotta start somewhere, so here is a simple run outline to get you started.
+[[Runs]] can vary greatly in length and structure from table to table, based on how long you have to play each time you meet, how long you want your campaign to be, how difficult you want the game to feel, how talkative your group is, how goal-oriented your players are, etc. There’s no correct length, and you will quickly get a feel for what works for you, but you gotta start somewhere, so here is a simple run outline to get you started.
 1. Set a couple obstacles the crew knows they need to overcome to reach their prize. Start the run near the first obstacle, using either a quick travel montage or a jump cut (see page 140). This first obstacle might be exciting, but not overly dire or expansive.
 2. Now ease up on the pace a bit and let them explore, talk with NPCs, etc. They may overcome more obstacles, and may even reach their goal. But then...
-3. Introduce a twist or new threat that changes the nature of the run. A monster attacks, Rescue shows up, the universe starts collapsing, etc. New obstacles and goals may emerge, and snags evolve and intensify the situation, setting up the final set piece.
+3. Introduce a twist or new threat that changes the nature of the run. A monster attacks, [[DARA|Rescue]] shows up, the universe starts collapsing, etc. New obstacles and goals may emerge, and snags evolve and intensify the situation, setting up the final set piece.
 4. End with a big fight, a big chase, or something else action-packed and dangerous. You might even call for disaster rolls near the climax of this scene.
 5. The run ends and the crew heads home, either victorious, by the skin of their teeth, or beaten and bruised. If you haven’t already, call for disaster rolls as they portal home, then make your way to the clean-up and downtime phases!
 
@@ -92,7 +92,7 @@ Runs can vary greatly in length and structure from table to table, based on how 
 > 
 > - Problems are the bulk of your job, so make it easier for yourself and jot some down, using the tables on pages 148–152 or the lists in each monster and world entry to help you. - Prep some NPCs. Pull some from a relevant faction, or make someone new. Think about what they want, practice their voice, etc.
 > - List a few descriptive details for a couple locations you expect them to visit, including interactive objects or terrain.
-> - Write a list of names, tech jargon, and other things you find hard to improvise.
+> - Write a list of [[names]], tech jargon, and other things you find hard to improvise.
 > - Read up on factions or monsters you may use, and bookmark pages you think you’ll need to reference, like a world you know they want to go to next.
 > - Prep any music, maps, and images, you want to use. Finding good location images can make action scenes more tangible.
 > - Practice a solid opening description. It hypes people up and starts your game off on solid footing.
@@ -107,7 +107,7 @@ You can use your power as GM to speed up through the boring parts and slow down 
 
 ## Jump Cuts
 
-Your most powerful pacing tool is to simply cut to the interesting part. The first time they get invited to a party in Popularia, the fun part could be getting there, a kind of Superbad homage. But after the first time it might make sense to just start the run with them arriving, in the middle of a dance battle, etc.
+Your most powerful pacing tool is to simply cut to the interesting part. The first time they get invited to a party in [[Popularia]], the fun part could be getting there, a kind of Superbad homage. But after the first time it might make sense to just start the run with them arriving, in the middle of a dance battle, etc.
 
 Similarly, while it can sometimes be fun for players to plan a heist, it can be just as much fun to smash cut to alarms going off, the character’s arms full of stolen components, being chased by guard drones.
 
@@ -180,7 +180,7 @@ It’s okay if you don’t agree, it’s okay to not know yet, and it’s okay t
 > - Someone falls from 40 feet up, landing in some bushes. How hurt are they?
 > - A kid tosses a salt packet from their lunch box at a giant slug. Is this a cute little joke or an effective attack? Could a monster be defeated through the power of song?
 > - Do other slugblasters die? Is it urban legend or all too real? Do you attend the funerals?
-> - Do adults like Rescue agents or mercenaries get killed by the monsters? Is it played for laughs, horror, or a bit of both?
+> - Do adults like [[DARA|Rescue]] agents or mercenaries get killed by the monsters? Is it played for laughs, horror, or a bit of both?
 > - Is it chill to blast a human, even non-lethally? What if they’re chasing you with a gravity net? What if they’re trying to hurt you? Can you knock someone out by bonking them on the head? Are they okay after?
 > - Is it chill to blast a giant bug? What if it’s not even trying to digest you? What if you’re inside its nest? What about a psionic alligator? What about an octopus? What about a giant monkey? What about that giant bug’s giant larvae? What if the larvae are trying to digest you? What if they’re confirmed racists?
 > - Is all this portal nonsense in the characters’ heads, like some big analogy for teen drug use or the arrival of the internet in isolated rural communities?
@@ -195,13 +195,13 @@ Most players are here for it, freed from the shackles of greyscale realism, but 
 
 You’re bound to get too silly here and there in your effort to be lit. When that happens, it can help to ground things with some mundane detail and emotional truth.
 
-Yes, they have a negaray, but what does it feel like in their hands? How does it smell when it heats up? Yes, slugblasters call it Popularia, but does it have another name? What’s the economy like? What’s that Arborist’s kitchen like? Sometimes a single drop of realism can be all that’s needed to keep you out of rubber-chicken land.
+Yes, they have a negaray, but what does it feel like in their hands? How does it smell when it heats up? Yes, slugblasters call it [[Popularia]], but does it have another name? What’s the economy like? What’s that Arborist’s kitchen like? Sometimes a single drop of realism can be all that’s needed to keep you out of rubber-chicken land.
 
 For the same reason, you can juxtapose the bonkers action of the run with mundane drama straight out of any coming-of-age story. These teens might be able to stop time and grav-jump over canyons, but their tech won’t save them from failing their chemistry exam, or that disappointed look from their father.
 
 ## Discourage Murder
 
-These kids probably shouldn’t kill people, even if they deserve it. It introduces a level of darkness and moral complexity this game isn’t really built for. It bums Mr. Slugblaster out, ya know? Murder is not considered cool in the slugblaster community, and even using a non-lethal weapon against a Rescue agent may be seen as extreme. Certain crowds might like it, others might think it’s a woof, and hellfire will surely rain down in any case. Most slugblasters tend to run from Rescue agents. That’s just part of the sport.
+These kids probably shouldn’t kill people, even if they deserve it. It introduces a level of darkness and moral complexity this game isn’t really built for. It bums Mr. Slugblaster out, ya know? Murder is not considered cool in the slugblaster community, and even using a non-lethal weapon against a [[DARA|Rescue]] agent may be seen as extreme. Certain crowds might like it, others might think it’s a woof, and hellfire will surely rain down in any case. Most slugblasters tend to run from [[DARA|Rescue]] agents. That’s just part of the sport.
 
 The simplest and most foolproof way to handle this is to pause and remind the players that this is not that kind of game, remind them they have a stun setting, remind them they can run, and maybe give them a bunch of androids or pod-people to evaporate instead (they could just be getting bored).
 
@@ -209,7 +209,7 @@ The simplest and most foolproof way to handle this is to pause and remind the pl
 
 In the same way, these kids probably shouldn’t die. They may take hard slams, break bones, go to the emergency room, or have their reality mangled by a pandemonium ray, but having to go to a teammate’s funeral would dramatically change the vibe of the game. Doing that once might work for certain stories, but more than once and you’re playing something else.
 
-Slugblasting is obviously mind-bendingly dangerous, but it also needs to stay fun for the game’s premise to hold. They should always have a way of just barely avoiding tragedy. They are the lucky ones. And if they get in a situation that stretches plausibility too far, you have an ejection seat—peelback. Peelback is unpredictable, tends to happen more during times of duress, and is still a super rough consequence, so it’s a good death replacement in this game.
+Slugblasting is obviously mind-bendingly dangerous, but it also needs to stay fun for the game’s premise to hold. They should always have a way of just barely avoiding tragedy. They are the lucky ones. And if they get in a situation that stretches plausibility too far, you have an ejection seat—[[peelback]]. [[Peelback]] is unpredictable, tends to happen more during times of duress, and is still a super rough consequence, so it’s a good death replacement in this game.
 
 # Decisions
 ^a95461
@@ -299,22 +299,22 @@ Super slams take longer to clear. The player writes the slam as normal, but with
 Whether exuberant debacle or sobering gut punch, a disaster should always teem with future story potential.
 ● Other severe outcomes like challenges or super slams can sometimes work as alternatives to doom.
 ● Disasters can be the direct consequences of the current scene, or be out-of-nowhere twists.
-● Let the player write their own doom or veto ideas that don’t work for them. Don’t murder their parents or have peelback age them forty years unless they are into it. Be prepared to offer an alternative.
+● Let the player write their own doom or veto ideas that don’t work for them. Don’t murder their parents or have [[peelback]] age them forty years unless they are into it. Be prepared to offer an alternative.
 
 ### Disaster Ideas
 
-|     | Disaster                                                                                                                                                                                     |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Injury.** You incur (or finally notice) a serious<br>injury. You need to get to a hospital.                                                                                                |
-| 2   | **Loss.** Your signature device is lost, confiscated,<br>stolen, or seriously damaged.                                                                                                       |
-| 3   | **Peelback Damage.** Peelback pulls you home<br>violently, straining organs, altering physiology,<br>scrambling reality, or rattling your psyche.                                            |
-| 4   | **Peelback Accident.** Peelback tosses you into<br>the multiverse, swaps you with an alternate,<br>shifts your timeline, opens a portal to heck right<br>where your bedroom used to be, etc. |
-| 5   | **Capture.** You’re nabbed by Rescue and hauled<br>in for treatment, pulled into an Arborist question<br>chamber, grounded until the rapture, etc.                                           |
-| 6   | **Personal.** The last text you’d ever want to<br>receive. You get dumped. Your mom gets a job<br>overseas. Your dad finds your secret account.<br>Someone leaks that one video.             |
+|     | Disaster                                                                                                                                                                                             |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Injury.** You incur (or finally notice) a serious<br>injury. You need to get to a hospital.                                                                                                        |
+| 2   | **Loss.** Your signature device is lost, confiscated,<br>stolen, or seriously damaged.                                                                                                               |
+| 3   | **[[Peelback]] Damage.** [[Peelback]] pulls you home<br>violently, straining organs, altering physiology,<br>scrambling reality, or rattling your psyche.                                            |
+| 4   | **[[Peelback]] Accident.** [[Peelback]] tosses you into<br>the multiverse, swaps you with an alternate,<br>shifts your timeline, opens a portal to heck right<br>where your bedroom used to be, etc. |
+| 5   | **Capture.** You’re nabbed by [[DARA\|Rescue]] and hauled<br>in for treatment, pulled into an Arborist question<br>chamber, grounded until the rapture, etc.                                         |
+| 6   | **Personal.** The last text you’d ever want to<br>receive. You get dumped. Your mom gets a job<br>overseas. Your dad finds your secret account.<br>Someone leaks that one video.                     |
 
 # Scenes
 
-A psionic crocodile attack. A hoverboard race through multiple worlds. The PANIC Energy® beach party. No matter what the characters get up to, you can make it interesting, dangerous, and fun by providing compelling details, juicy problems, and maybe a track or two.
+A [[psionic crocodile]] attack. A hoverboard race through multiple [[worlds]]. The PANIC Energy® beach party. No matter what the characters get up to, you can make it interesting, dangerous, and fun by providing compelling details, juicy problems, and maybe a track or two.
 
 
 > [!NOTE] Journeys

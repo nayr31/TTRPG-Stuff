@@ -1,4 +1,4 @@
-Sure, Slugblaster is mostly about hoverboarding away from monsters, but it’s also about doing chores and waiting for your jeans to finish drying. The downtime phase lets you explore some of that thrilling mundanity as you take turns describing and roleplaying a few moments that take place back in Hillview in the week or so after your run, often prompted by beats.
+Sure, Slugblaster is mostly about hoverboarding away from monsters, but it’s also about doing chores and waiting for your jeans to finish drying. The downtime phase lets you explore some of that thrilling mundanity as you take turns describing and roleplaying a few moments that take place back in [[Hillview]] in the week or so after your run, often prompted by beats.
 - Beats are moments you can purchase with your trouble and style to fuel the story, advance your character, and prompt roleplaying scenes.
 - The cost listed with each beat is the amount of style or trouble you clear to buy it.
 - You can always purchase trouble-cost beats even if you can’t afford them. Your funeral, friendo.
@@ -22,3 +22,29 @@ Slugblasting is not exactly embraced by society. As with underage drinking, rap 
 - **Last Straw (4 trouble).** Nuclear war, scorched-earth, and words you both regret. +1 slam (grounded, lost device, etc.) and +1 [[Take Slams#^743c4d|doom]]. What’s the crew think?
 - **Redemption (4 style).** Who makes the first move toward forgiveness? What’s changed? How will you treat each other differently now? −2 [[Take Slams#^743c4d|doom]], +1 legacy or trait.
 
+## Angst Arc
+
+These years can be rough. Your mom’s always on your case, your body is changing, and metaterrestrials keep dissolving your molecules! Eventually the stress is too much for even the chillest of bruhs. Whether it’s heartbreak, adolescent insecurity (adults never feel insecure, obv), or the existential dread that comes from glimpsing the infinity of the multiverse, it’s going to be hard on you and those around you.
+- **Angst (2 trouble).** You’ve got issues. Do we know why? How do they show? +1 slam (angry, jealous, depressed, etc.) and pick a teammate who notices.
+- **Struggling (3 trouble).** Your issues get worse. You act out, project, or try to solve the problem the wrong way. +1 [[Take Slams#^743c4d|doom]].
+- **Darkness (4 trouble).** You are not okay. Your issues hurt your own crew. How? What did you say? What did you do? What did you not do? +1 fracture.
+- **Catharsis (4 style).** Who helps you? What do you understand now that you didn’t before? What will you change? −1 [[Take Slams#^743c4d|doom]], −1 fracture, +1 legacy or trait.
+
+
+> [!note] When things get real
+> Angst and family beats can be fun, tropey, and even therapeutic, but they can also get heavy. Remember to be chill and check in with each other. I also recommend using Script Change for this same reason. A lot of people have had tough teenagehoods and may not want to revisit that all right now, especially while you crack jokes with your mouth full of chips, Cody.
+
+## Crew Beats
+
+In the end, Slugblaster is about friendship. Your crew is going to have a lot of ups and downs on your road to stardom. What will hold you together through it all?
+- **Opportunity (2 style).** Something great happens to the crew. Roll an opportunity (page 24).
+- **Challenge (5 trouble).** Something not-so-great happens to the crew. Roll a challenge (page 25).
+- **Fight (5 trouble).** An argument, betrayal, or broken bond. How does each participant feel threatened by this issue? Hear everything as an attack, speak in accusations, and focus on winning. +1 fracture.
+- **Make Up (5 style).** An apology, kind gesture, or regrown bond. A conversation where you really listen, address those core concerns, and tell the others how you feel, not how they are wrong. −1 fracture.
+
+## Other Beats
+
+So much to do, so little spacetime. You’ll find more beats below, as well as in signatures (page 50), the map (page 89), and each personality (pages 41–49).
+- **Being Good (1 style).** Chores, homework, Bible study, showing up for your shift on time. You know, actually trying. Clear 2 trouble.
+- **You Earned It (5 style).** A trophy, a trick named after you, a scholarship, a moment you’ll cherish forever. +1 legacy.
+- **Take an L (5 trouble).** You suffer a loss, burn a bridge, gain a debt, or set off a looming threat. Does the crew know? +1 [[Take Slams#^743c4d|doom]].

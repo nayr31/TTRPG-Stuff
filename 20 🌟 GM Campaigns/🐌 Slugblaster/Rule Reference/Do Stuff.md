@@ -39,6 +39,7 @@ Slugblasters are scrappy, resourceful, and impossibly lucky. They get in over th
 > Mark a kick to increase the potential impact of an action roll. That kick remains spent even if the action fails. No risk, no reward, hotshot.
 
 > **Dare**
+^537bce
 
 | You can...                       | If you...                                                   |
 | -------------------------------- | ----------------------------------------------------------- |
