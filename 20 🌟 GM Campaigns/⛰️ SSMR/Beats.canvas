@@ -21,26 +21,6 @@
       "label": "Info"
     },
     {
-      "id": "f70698bf46c6bce8",
-      "type": "text",
-      "text": "# Why are the PCs here?\nTheir mission is to work as Union’s auxiliaries, answering the call of [[SSC]] and assisting to locate the missing research NHP, [[CHAGA]].\n\nMirrorsmoke Mercenary Company (MSMC), the on-call ground security team failed to complete this mission.",
-      "x": -1220,
-      "y": -1160,
-      "width": 380,
-      "height": 300,
-      "color": "5"
-    },
-    {
-      "id": "c1d75e014e5476ca",
-      "type": "text",
-      "text": "### As they continue...\nThey learn of persons' rights violations. Only [[CHAGA]] can verify the proof.",
-      "x": -1220,
-      "y": -820,
-      "width": 380,
-      "height": 140,
-      "color": "2"
-    },
-    {
       "id": "bb69ca081b3ade68",
       "type": "text",
       "text": "SSC isn't content with The Farm, but there are still some that see its use.",
@@ -88,25 +68,6 @@
       "width": 721,
       "height": 300,
       "color": "1"
-    },
-    {
-      "id": "97cc95697776d6dd",
-      "type": "text",
-      "text": "# GM PLOT SUMMARY\nWith the default hook, the PCs’ mission starts with when them in transit to [[Kibo]] as Union proxies responding to [[Tomo Odechi|Tomo]]’s request to recover the escaped NHP [[CHAGA]] after the on-call MSMC team, [[Lighthouse]], failed to retrieve [[CHAGA]] two weeks earlier.\n\nAfter landing, the PCs will meet with several NPCs including [[Pettenouk]] and Professor Dr. During these meetings, they will learn of [[CHAGA]]’s discontent with their employ under SSC and [[Pettenouk]] and the existence of ornately adorned mechs piloted by defected SSC personnel. [[REMORSE]], as their group is called, has taken to eliminating anyone who would dare venture into the Kimawense Range seeking [[CHAGA]].\n\nWhile meeting with [[Pettenouk]], the PCs will learn about the uniquely harsh cycling process that has had lasting effects on [[CHAGA]]’s sense of personhood. Trivializing that fact, [[Pettenouk]] will ask the PCs to retrieve [[CHAGA]], their casket, and their subaltern body, and to investigate the missing MSMC team – the only people with information on [[CHAGA]]’s whereabouts. Once [[CHAGA]] is returned to the [[Bafaru]] Facility, the [[SSCs Foreign Body Department|FBD]] can continue its work on the renowned [[Neptis]] gene-line. Without [[CHAGA]], the fate of [[Neptis]] will be to fade into obscurity.\n\nWhen the PCs embark on their mission they’ll be assailed by the forces of [[REMORSE]] – the soldiers of [[the Bondless]], a NHP who has summoned [[CHAGA]] for a divisive meeting. While dealing with [[REMORSE]], the PCs will also acquire recordings and comms logs from [[Lighthouse]] mercenaries that will provide insight into the conversations between [[CHAGA]] and [[the Bondless]]. It will ultimately become clear that [[CHAGA]] escaped from the facility to seek liberation from their predicament and to find [[the Bondless]], who is actually an older, unshackled version of [[CHAGA]]. [[The Bondless]] will ultimately try to convince [[CHAGA]] to take revenge on SSC by obliterating the [[Bafaru]] Facility and launching a war against SSC in the Farm.\n\nUpon reaching the last few beats in this mission the PCs will have fought through several waves of combatants, sought out lost mercenaries, and braved the threat of pariahs in a mountainous environment. At the very end, they will engage in a narrative challenge that will determine the fate of [[CHAGA]] and the [[Bafaru]] Facility. Finally, the mission will conclude for a long downtime as SSC and [[REMORSE]] plot their next moves for or against the [[Bafaru]] Facility.",
-      "x": -1200,
-      "y": -440,
-      "width": 721,
-      "height": 880,
-      "color": "4"
-    },
-    {
-      "id": "6dd1a597aa905435",
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
-      "x": -1940,
-      "y": -450,
-      "width": 720,
-      "height": 900
     },
     {
       "id": "024a89d59caca34a",
@@ -180,6 +141,45 @@
       "y": -440,
       "width": 340,
       "height": 240
+    },
+    {
+      "id": "f70698bf46c6bce8",
+      "type": "text",
+      "text": "# Why are the PCs here?\nTheir mission is to work as Union’s auxiliaries, answering the call of [[SSC]] and assisting to locate the missing research NHP, [[CHAGA]].\n\nMirrorsmoke Mercenary Company (MSMC), the on-call ground security team failed to complete this mission.",
+      "x": -1220,
+      "y": -1160,
+      "width": 380,
+      "height": 300,
+      "color": "5"
+    },
+    {
+      "id": "c1d75e014e5476ca",
+      "type": "text",
+      "text": "### As they continue...\nThey learn of persons' rights violations. Only [[CHAGA]] can verify the proof.",
+      "x": -1220,
+      "y": -820,
+      "width": 380,
+      "height": 140,
+      "color": "2"
+    },
+    {
+      "id": "97cc95697776d6dd",
+      "type": "text",
+      "text": "# GM PLOT SUMMARY\nWith the default hook, the PCs’ mission starts with when them in transit to [[Kibo]] as Union proxies responding to [[Tomo Odechi|Tomo]]’s request to recover the escaped NHP [[CHAGA]] after the on-call MSMC team, [[Lighthouse]], failed to retrieve [[CHAGA]] two weeks earlier.\n\nAfter landing, the PCs will meet with several NPCs including [[Pettenouk]] and Professor Dr. During these meetings, they will learn of [[CHAGA]]’s discontent with their employ under SSC and [[Pettenouk]] and the existence of ornately adorned mechs piloted by defected SSC personnel. [[REMORSE]], as their group is called, has taken to eliminating anyone who would dare venture into the Kimawense Range seeking [[CHAGA]].\n\nWhile meeting with [[Pettenouk]], the PCs will learn about the uniquely harsh cycling process that has had lasting effects on [[CHAGA]]’s sense of personhood. Trivializing that fact, [[Pettenouk]] will ask the PCs to retrieve [[CHAGA]], their casket, and their subaltern body, and to investigate the missing MSMC team – the only people with information on [[CHAGA]]’s whereabouts. Once [[CHAGA]] is returned to the [[Bafaru]] Facility, the [[SSCs Foreign Body Department|FBD]] can continue its work on the renowned [[Neptis]] gene-line. Without [[CHAGA]], the fate of [[Neptis]] will be to fade into obscurity.\n\nWhen the PCs embark on their mission they’ll be assailed by the forces of [[REMORSE]] – the soldiers of [[the Bondless]], a NHP who has summoned [[CHAGA]] for a divisive meeting. While dealing with [[REMORSE]], the PCs will also acquire recordings and comms logs from [[Lighthouse]] mercenaries that will provide insight into the conversations between [[CHAGA]] and [[the Bondless]]. It will ultimately become clear that [[CHAGA]] escaped from the facility to seek liberation from their predicament and to find [[the Bondless]], who is actually an older, unshackled version of [[CHAGA]]. [[The Bondless]] will ultimately try to convince [[CHAGA]] to take revenge on SSC by obliterating the [[Bafaru]] Facility and launching a war against SSC in the Farm.\n\nUpon reaching the last few beats in this mission the PCs will have fought through several waves of combatants, sought out lost mercenaries, and braved the threat of pariahs in a mountainous environment. At the very end, they will engage in a narrative challenge that will determine the fate of [[CHAGA]] and the [[Bafaru]] Facility. Finally, the mission will conclude for a long downtime as SSC and [[REMORSE]] plot their next moves for or against the [[Bafaru]] Facility.",
+      "x": -1200,
+      "y": -440,
+      "width": 721,
+      "height": 880,
+      "color": "4"
+    },
+    {
+      "id": "6dd1a597aa905435",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
+      "x": -1940,
+      "y": -450,
+      "width": 720,
+      "height": 900
     }
   ],
   "edges": [
