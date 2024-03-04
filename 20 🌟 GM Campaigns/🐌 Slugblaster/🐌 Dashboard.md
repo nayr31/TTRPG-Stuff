@@ -5,54 +5,6 @@ cssclasses:
 banner: "[[Cover art.jpg]]"
 ---
 
-# **Goals for this page:**
-- [f] Get buttons to change some of these?
-- [x] Group overview
-	- [x] Crews
-	- [x] Authorities
-	- [x] Crowds?
-	- [x] Sponsors
-- [x] [[NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Database]]
-	- [x] Crews
-	- [x] Auths
-	- [x] Crowds
-	- [x] Sponsors
-- [x] Generator list
-	- [x] Checkpoints
-	- [x] Problems
-	- [x] NPCs
-	- [x] Monsters
-	- [x] Loots
-		- [x] Common
-		- [x] Uncommon
-		- [x] Rare
-		- [x] Phone Charms (weighted)
-	- [x] World
-- [x] [[🏠 World Database|Worlds]] (blurb, locations, checkpoints, problems)
-	- [x] Clickable map (leaflet)
-	- [x] [[Calorium]]
-	- [x] [[Desnine]]
-	- [x] [[Empyrean]]
-	- [x] [[Hillview]]
-	- [x] [[Operaeblum]]
-	- [x] [[Popularia]]
-	- [x] [[Prismatia]]
-	- [x] [[Quahalia]]
-	- [x] [[The Golden Jungle]]
-	- [x] [[The Waking Pits]]
-	- [x] [[Thennis Spar]]
-	- [x] [[Vastiche]]
-- [x] Monsters
-- [x] Items
-	- [x] Signatures
-		- [x] [[Signature Looks]]
-	- [x] [[Stickers, Pins, Patches]]
-	- [x] Gear
-- [ ] [[Situations]]
-	- [ ] Roll table
-	- [ ] Generator
-
-
 # [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
 ```dataview
 TABLE WITHOUT ID 
