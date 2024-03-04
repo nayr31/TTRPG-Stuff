@@ -18,17 +18,17 @@ Cartwheeling through unstable portals into cuckoo-banana-land with your friends 
 
 Slugblasting is not exactly embraced by society. As with underage drinking, rap music, or eating tide pods, opinions can vary wildly—the moral panic of the century, a thorny societal issue, or just kids being kids. But even if your family is completely checked out or astoundingly permissive, there’s always some way to get in trouble.
 - **Trouble at Home (2 trouble).** Your family disapproves. How? Why? Do you care? +1 slam (distracted, worried, etc.) and pick a teammate who notices.
-- **Final Warning (3 trouble).** An argument, punishment, or ultimatum. What do they want? What do you? What don’t they understand? What don’t you? +1 [[Take Slams#^743c4d|doom]].
-- **Last Straw (4 trouble).** Nuclear war, scorched-earth, and words you both regret. +1 slam (grounded, lost device, etc.) and +1 [[Take Slams#^743c4d|doom]]. What’s the crew think?
-- **Redemption (4 style).** Who makes the first move toward forgiveness? What’s changed? How will you treat each other differently now? −2 [[Take Slams#^743c4d|doom]], +1 legacy or trait.
+- **Final Warning (3 trouble).** An argument, punishment, or ultimatum. What do they want? What do you? What don’t they understand? What don’t you? +1 [[Take Slams#^doom|doom]].
+- **Last Straw (4 trouble).** Nuclear war, scorched-earth, and words you both regret. +1 slam (grounded, lost device, etc.) and +1 [[Take Slams#^doom|doom]]. What’s the crew think?
+- **Redemption (4 style).** Who makes the first move toward forgiveness? What’s changed? How will you treat each other differently now? −2 [[Take Slams#^doom|doom]], +1 legacy or trait.
 
 ## Angst Arc
 
 These years can be rough. Your mom’s always on your case, your body is changing, and metaterrestrials keep dissolving your molecules! Eventually the stress is too much for even the chillest of bruhs. Whether it’s heartbreak, adolescent insecurity (adults never feel insecure, obv), or the existential dread that comes from glimpsing the infinity of the multiverse, it’s going to be hard on you and those around you.
 - **Angst (2 trouble).** You’ve got issues. Do we know why? How do they show? +1 slam (angry, jealous, depressed, etc.) and pick a teammate who notices.
-- **Struggling (3 trouble).** Your issues get worse. You act out, project, or try to solve the problem the wrong way. +1 [[Take Slams#^743c4d|doom]].
+- **Struggling (3 trouble).** Your issues get worse. You act out, project, or try to solve the problem the wrong way. +1 [[Take Slams#^doom|doom]].
 - **Darkness (4 trouble).** You are not okay. Your issues hurt your own crew. How? What did you say? What did you do? What did you not do? +1 fracture.
-- **Catharsis (4 style).** Who helps you? What do you understand now that you didn’t before? What will you change? −1 [[Take Slams#^743c4d|doom]], −1 fracture, +1 legacy or trait.
+- **Catharsis (4 style).** Who helps you? What do you understand now that you didn’t before? What will you change? −1 [[Take Slams#^doom|doom]], −1 fracture, +1 legacy or trait.
 
 
 > [!note] When things get real
@@ -47,4 +47,4 @@ In the end, Slugblaster is about friendship. Your crew is going to have a lot of
 So much to do, so little spacetime. You’ll find more beats below, as well as in signatures (page 50), the map (page 89), and each personality (pages 41–49).
 - **Being Good (1 style).** Chores, homework, Bible study, showing up for your shift on time. You know, actually trying. Clear 2 trouble.
 - **You Earned It (5 style).** A trophy, a trick named after you, a scholarship, a moment you’ll cherish forever. +1 legacy.
-- **Take an L (5 trouble).** You suffer a loss, burn a bridge, gain a debt, or set off a looming threat. Does the crew know? +1 [[Take Slams#^743c4d|doom]].
+- **Take an L (5 trouble).** You suffer a loss, burn a bridge, gain a debt, or set off a looming threat. Does the crew know? +1 [[Take Slams#^doom|doom]].

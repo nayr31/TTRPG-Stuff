@@ -314,23 +314,23 @@ Whether exuberant debacle or sobering gut punch, a disaster should always teem w
 
 # Scenes
 
-A [[psionic crocodile]] attack. A hoverboard race through multiple [[worlds]]. The PANIC Energy® beach party. No matter what the characters get up to, you can make it interesting, dangerous, and fun by providing compelling details, juicy problems, and maybe a track or two.
+A [[psionic crocodile]] attack. A hoverboard race through multiple [[worlds]]. The [[Wilkie's|PANIC Energy]]® beach party. No matter what the characters get up to, you can make it interesting, dangerous, and fun by providing compelling details, juicy problems, and maybe a track or two.
 
 
 > [!NOTE] Journeys
-> Sometimes a run is all about getting to a new world. Sometimes a run starts with the characters already there. And sometimes you want something in the middle—a quick travel montage of how the trip to Popularia went before the rave starts, ya know?
+> Sometimes a run is all about getting to a new world. Sometimes a run starts with the characters already there. And sometimes you want something in the middle—a quick travel montage of how the trip to [[Popularia]] went before the rave starts, ya know?
 > - Ask one player to roll for the whole group. Everyone can boost or kick as desired.
 > - On a 6, it’s smooth sailing! Have each player describe a fun moment from the trip.
-> - On a 4/5, they all make it but take slams (tired, sunburnt, hungry, slimed...) or trigger a looming threat—an authority is tailing them, a predator followed them through the portal, Kit’s dad needs her home by 9 pm, etc.
+> - On a 4/5, they all make it but [[take slams]] (tired, sunburnt, hungry, slimed...) or trigger a looming threat—an authority is tailing them, a predator followed them through the portal, Kit’s dad needs her home by 9 pm, etc.
 > - On a 1–3, they don’t make it due to a big problem (monsters, gear failure, bad info, etc.) They might have to roll again, or the run may just veer in a new (worse) direction.
 > 
 > Longer journeys could require multiple rolls, if desired. For example, you could have them roll once per traversed world. (Just remember that these rolls can deplete the PCs resources.)
 
 ## Exploration
 
-Slugblasting is often about discovery, and many runs include lower-adrenaline scenes where the characters spend time in a new area looking for a hidden portal, valuable salvage, ancient mysteries, or the way through to some legendary hoverboarding spot.
+Slugblasting is often about discovery, and many [[runs]] include lower-adrenaline scenes where the characters spend time in a new area looking for a hidden portal, valuable salvage, ancient mysteries, or the way through to some legendary hoverboarding spot.
 
-Also, in hoverboarding culture, time spent doing tricks at a specific location is called a “sesh,” and a lot of runs involve the characters simply trying to sesh a cool spot before time runs out or a monster shows up. You can use these exploration problems in those situations, too.
+Also, in hoverboarding culture, time spent doing tricks at a specific location is called a “sesh,” and a lot of [[runs]] involve the characters simply trying to sesh a cool spot before time [[runs]] out or a monster shows up. You can use these exploration problems in those situations, too.
 
 |     | Problems                                                                                                                                                                                                       |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -343,7 +343,7 @@ Also, in hoverboarding culture, time spent doing tricks at a specific location i
 
 ## Infiltration
 
-A good part of slugblasting is getting into places you’re not supposed to. Hopping the fence into DARA’s facility, slipping past the bouncers at Matte Static, reprogramming a guardbot, hacking your mom’s email, and all that stuff. Make these moments into meals by:
+A good part of slugblasting is getting into places you’re not supposed to. Hopping the fence into [[DARA]]’s facility, slipping past the bouncers at Matte Static, reprogramming a guardbot, hacking your mom’s email, and all that stuff. Make these moments into meals by:
 - providing objects, terrain, or other fun details for characters to interact with.
 - using progress and danger tracks.
 - carefully inserting problems that increase the heat without boiling over right away into a fight/chase.
@@ -401,7 +401,7 @@ Fights are often a run’s main action scene, when a player rolls badly and some
 
 ● You can use multiple progress tracks with multiple paths to victory. Do they blast it to bits, or try to bring the cave down on it? Do they blow off the mech’s gun first, or focus on its powercore?
 ● Enemies may have immunities to certain kinds of attacks. This can make fights more interesting, as players scramble to work the problem.
-● At the start of a fight, use problems to evolve the danger. The metasaur mutates, the microbot swarm self-replicates into a strike force, the slug immediately swallows someone whole, etc. After that, use problems to slam.
+● At the start of a fight, use problems to evolve the danger. The [[metasaur]] mutates, the microbot swarm self-replicates into a strike force, the slug immediately swallows someone whole, etc. After that, use problems to slam.
 ● You can have powerful monsters give out extra slams, or even [[What a GM Does#^6eb990|super slams]].
 ● Even if you aren’t doing a proper chase, you can make fights more exciting by having the battle move through multiple locations, using checkpoints as ideas for new stages in a shifting arena.
 
@@ -416,9 +416,9 @@ Fights are often a run’s main action scene, when a player rolls badly and some
 
 ## Social Situations
 
-Parties, concerts, interviews, photoshoots, high-stakes texting, and other social situations can be valid, exciting encounters with obstacles and danger.
+Parties, concerts, interviews, photoshoots, high-stakes texting, and other social [[situations]] can be valid, exciting encounters with obstacles and danger.
 
-Set up some progress and danger tracks. By making social goals and risks explicit, the scene comes to life and every decision matters. You could start with an “Impress the Sponsor” track, and then a “Sponsor Leaves Party” track. Throw in a “Group of Mavens Get Annoyed” track and suddenly you have the beginnings of a social minefield akin to reality.
+Set up some progress and danger tracks. By making social goals and risks explicit, the scene comes to life and every decision matters. You could start with an “Impress the Sponsor” track, and then a “Sponsor Leaves Party” track. Throw in a “Group of [[The Mavens|Mavens]] Get Annoyed” track and suddenly you have the beginnings of a social minefield akin to reality.
 
 And don’t forget to slam them! Slams can represent all sorts of social and mental damage, like embarrassment, confusion, over-caffeination, and stress. I mean, what’s more stressful than a party?
 
@@ -429,7 +429,7 @@ And don’t forget to slam them! Slams can represent all sorts of social and men
 | 3   | Things aren’t what you thought. You’re being<br>set up, this is someone you recognize, you learn<br>news that changes everything, etc.     |
 | 4   | Time is running out. You’re losing their interest,<br>your wi-fi is failing, an interruption nears, etc.                                   |
 | 5   | You take a slam (stressed, flustered, confused,<br>embarrassed, angry, read-to-filth, etc.)                                                |
-| 6   | You are interrupted by something bad. A monster,<br>a Rescue force, planar unraveling, etc.                                                |
+| 6   | You are interrupted by something bad. A monster,<br>a [[DARA|Rescue]] force, planar unraveling, etc.                                                |
 
 ## Downtime
 

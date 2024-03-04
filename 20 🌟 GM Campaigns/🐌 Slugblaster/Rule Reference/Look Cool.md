@@ -13,6 +13,7 @@ Your crew’s ultimate goal is to be famous slugblasters. To make it. To go pro.
 - Anyone can choose to contribute style to the crew. This represents being a team player, repping your squad, and redirecting praise toward your friends instead of just taking it for yourself.
 
 ## Legacy
+^legacy
 
 Legacy represents the lasting accomplishments, relationships, trophies, and memories from your slugblasting days. The fame and clout that follow you out of high school and the things you’ll cherish long into life, when you’re in your late twenties driving past the skatepark in your Honda Fit.
 - You get legacy from certain downtime beats and [[Fame|crew perks]].
@@ -54,11 +55,11 @@ There doesn’t need to be an audience. Even a single gobsmacked witness can sta
 #### Other trick ideas
 
 Tricks aren’t just for hoverboarding! You can use this rule to add a flourish to all sorts of actions. The only limit is your imagination.
-● Take a selfie while running from a pack of mathpanthers.
-● Take a rad photo of a metasaur’s teeth, or your friends skating a gnarly rail
-● Tag a wall with some next-level graffiti.
-● Slap your crew’s sticker on a Rescue agent’s helmet as you sneak past him.
-● Deliver a sick burn, or spit the illest punchline of the whole rap battle.
-● Hold your laser pistol sideways.
-● Make a wisecrack before punching a robot.
-● Land in a three-point superhero stance.
+- Take a selfie while running from a pack of mathpanthers.
+- Take a rad photo of a metasaur’s teeth, or your friends skating a gnarly rail
+- Tag a wall with some next-level graffiti.
+- Slap your crew’s sticker on a Rescue agent’s helmet as you sneak past him.
+- Deliver a sick burn, or spit the illest punchline of the whole rap battle.
+- Hold your laser pistol sideways.
+- Make a wisecrack before punching a robot.
+- Land in a three-point superhero stance.

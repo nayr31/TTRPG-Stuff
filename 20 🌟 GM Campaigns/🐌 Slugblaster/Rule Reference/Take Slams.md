@@ -1,6 +1,6 @@
 ## Problems
 
-The airlock starts closing. You bail and break your collarbone. A metasaur starts chewing on your boyfriend’s stupid head. Slugblasting is a great way to avoid the problems at home, but a terrible way to avoid problems in general. You’re in for a world of hurt, a multiverse of hot neon tribulation. Isn’t that exciting!
+The airlock starts closing. You bail and break your collarbone. A [[metasaur]] starts chewing on your boyfriend’s stupid head. Slugblasting is a great way to avoid the problems at home, but a terrible way to avoid problems in general. You’re in for a world of hurt, a multiverse of hot neon tribulation. Isn’t that exciting!
 - When you roll a problem, the GM either introduces a snag or hits you with a slam.
 
 ### Snags
@@ -47,16 +47,16 @@ Everyone’s luck runs out eventually. Too many sketchy landings. Too many close
 > 1–3 *Disaster strikes!* Something [[What a GM Does#^97352d|really bad happens]]. Mark doom.
 
 ## Doom
-^743c4d
+^doom
 
 Doom represents the scars and debts of this insane hobby. The bridges you’ve burned, the lies you’ve told, the dimensional horrors you can’t unsee, the hearing loss from that time with the matter-collapser. The things that follow you into adulthood.
-- Disaster and certain downtime beats can give you doom. Write it on your sheet. Be descriptive.
-- Doom can also be cleared with certain beats, or by going on a run specifically for that purpose.
+- Disaster and certain downtime [[beats]] can give you doom. Write it on your sheet. Be descriptive.
+- Doom can also be cleared with certain [[beats]], or by going on a run specifically for that purpose.
 - Your doom helps determine your [[Epilogue|epilogue]].
 
 ## Fractures
 
-Once you’re an adult you’ll get along with everyone and never be sad, but until then you have to deal with drama. The fame, adrenaline, and relentless tentacles of slugblasting can strain friendships and tear apart even the tightest crews.
-- Certain downtime beats and challenges can cause the crew to take or clear fractures. Write them on the crew sheet, in a fracture box. Be descriptive.
+Once you’re an adult you’ll get along with everyone and never be sad, but until then you have to deal with drama. The [[fame]], adrenaline, and relentless tentacles of slugblasting can strain friendships and tear apart even the tightest crews.
+- Certain downtime [[beats]] and challenges can cause the crew to take or clear fractures. Write them on the crew sheet, in a fracture box. Be descriptive.
 - If your crew takes a fracture when all fracture boxes are full, you break up. Everyone marks 1 doom and one or more PCs must leave the crew.
 - Reconciliation requires a significant sacrifice, such as one member clearing some legacy or marking doom.
