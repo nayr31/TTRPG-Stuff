@@ -12,6 +12,7 @@ This section outlines the structure of a typical narrative challenge. Beat 7: A 
 - Is there another goal your PC seeks to complete?
 
 4. Determine Clocks: For the GM, its important to know the right number of clocks to use and the size of said clocks. Like in mech combat, balancing the capabilities of your PCs against that of their enemies is akin to setting the right size and numbers of clocks so as to present a challenging but ultimately completable challenge. The below list of narrative challenge complexity levels can be used as a quick reference:
+
 > [!check] Tier 1
 > Tier 1 challenges are typically those with 1–2 NPCs of medium importance who will give in to the PCs’ advances after only 2–3 successful checks. Oftentimes, it may not even be necessary to run these types of narrative challenges as a structured scene like the ones discussed here in this section.
 

@@ -18,22 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "abe9da892b98ca9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Unita Gonzales.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Unita Gonzales.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Unita Gonzales.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,12 +208,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "abe9da892b98ca9d",
+  "active": "63ea63bc28d77051",
   "lastOpenFiles": [
+    "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+    "📑 Campaign Overview.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Narrative Challenges.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Unita Gonzales.md",
     "Sirens_Song_A_Mountains_Remorse.pdf",
-    "📑 Campaign Overview.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/🎲 Generator Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "Notes.md",
@@ -246,7 +235,6 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/What a GM Does.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Worlds.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Worlds/Hillview.md",
-    "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Alternate Rules.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/DARA.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Roll Tables/Details.md",
