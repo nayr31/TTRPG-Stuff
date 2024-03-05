@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -224,7 +223,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "864b0266a1808168",
+  "active": "63ea63bc28d77051",
   "lastOpenFiles": [
     "20 🌟 GM Campaigns/⛰️ SSMR/Setting/Kibo.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
