@@ -3,66 +3,76 @@
     {
       "id": "e94ab2102fad0ad1",
       "type": "group",
-      "x": -460,
-      "y": -460,
-      "width": 1020,
-      "height": 900,
+      "x": 400,
+      "y": 0,
+      "width": 1480,
+      "height": 360,
       "color": "6",
       "label": "Beat 0 - Opening Shots"
     },
     {
       "id": "5941f7d7621ced83",
       "type": "group",
-      "x": -1240,
-      "y": -1180,
+      "x": -1640,
+      "y": -280,
       "width": 420,
       "height": 660,
       "color": "5",
       "label": "Info"
     },
     {
-      "id": "bb69ca081b3ade68",
-      "type": "text",
-      "text": "SSC isn't content with The Farm, but there are still some that see its use.",
-      "x": -960,
-      "y": -1340,
-      "width": 326,
-      "height": 81
-    },
-    {
-      "id": "024a89d59caca34a",
-      "type": "text",
-      "text": "The normal 5-10 year cycle schedule for NHPs has been drastically reduced, as short as 2 weeks.\n\nThey see it as \"changing a password\", and as such the computational NHPs are 3/5ths a persons.",
-      "x": -820,
-      "y": -1512,
-      "width": 431,
-      "height": 154
+      "id": "a4b888ee3156b79b",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
+      "portalToFile": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
+      "x": -680,
+      "y": 640,
+      "width": 895,
+      "height": 1782
     },
     {
       "id": "f64eac1414b29aca",
       "type": "text",
       "text": "A population of deserters who have scorned SSC’s mission have recently ventured into the Kimawense Range for enigmatic reasons. They follow an ever-present voice they call [[the Bondless]], and have created structures of stone and steel along the spines of the Kimawense mountains. These encampments serve as operating bases and forward outposts for the Bondless’s forces, known to themselves as [[REMORSE]]. Pettenouk has attempted to expunge all records of these deserters in hopes of maintaining good order and discipline among his subordinates, and ultimately to protect the integrity of the Neptis gene-line.",
-      "x": 260,
-      "y": -1403,
+      "x": -140,
+      "y": -503,
       "width": 480,
       "height": 353
+    },
+    {
+      "id": "64d43b6b6489b729",
+      "type": "text",
+      "text": "",
+      "x": 347,
+      "y": 711,
+      "width": 260,
+      "height": 60
     },
     {
       "id": "847442e26e3edddb",
       "type": "text",
       "text": "# The Farm\nA collection of planets (story is on [[Kibo]]), that perform genetic experiments to \"grow\" humans?\n\n\n\n",
-      "x": -752,
-      "y": -1160,
+      "x": -1152,
+      "y": -260,
       "width": 464,
       "height": 150,
       "color": "5"
     },
     {
+      "id": "db1d88dc0cdbf542",
+      "type": "text",
+      "text": "# SSCs Foreign Body department (FBD)",
+      "x": -1195,
+      "y": 200,
+      "width": 575,
+      "height": 74
+    },
+    {
       "id": "d3e84392b1864a0a",
       "type": "text",
       "text": "The sheer quantity of assets that depart. *\"truly pristine specimens of humanity proliferate on assignments requiring the most specialized of personnel.\"* ",
-      "x": -350,
-      "y": -1399,
+      "x": -750,
+      "y": -499,
       "width": 363,
       "height": 119
     },
@@ -70,8 +80,8 @@
       "id": "89777f3c7111ae34",
       "type": "text",
       "text": "**Neptis Serena–Serena** or **Neptis** for short, is the latest, most prominent genetic line.\n- Only require 1/5th oxygen\n- Often employed by ISP-N\n- Began 200 years ago\n- Well to low atmospheric pressure",
-      "x": -220,
-      "y": -1270,
+      "x": -620,
+      "y": -370,
       "width": 371,
       "height": 220
     },
@@ -79,17 +89,148 @@
       "id": "a2350b763b5d001c",
       "type": "file",
       "file": "20 🌟 GM Campaigns/⛰️ SSMR/Setting/Kibo.md",
-      "x": -30,
-      "y": -938,
+      "x": -430,
+      "y": -38,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "ce4ce107d154e164",
+      "type": "text",
+      "text": "",
+      "isStartNode": false,
+      "shape": null,
+      "x": 420,
+      "y": 20,
+      "width": 320,
+      "height": 142
+    },
+    {
+      "id": "90c52959fc3a4410",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/pettenouk.png",
+      "x": 614,
+      "y": -569,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b1228462f20a23f9",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Tomo.png",
+      "x": 1014,
+      "y": -569,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dbfe297ca013a390",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/ProfessorDoctor.png",
+      "x": 1414,
+      "y": -569,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1dcb272dac3d518a",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Colleen.png",
+      "x": 214,
+      "y": -1080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "39244c2593903b43",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Kareem.png",
+      "x": 614,
+      "y": -1080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "13f8cc5054a1251e",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Maxima.png",
+      "x": 1014,
+      "y": -1080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fbc1d59b9ff13b8b",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Pardeep.png",
+      "x": 1414,
+      "y": -1080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e79014e97b16cc2b",
+      "x": 1814,
+      "y": -1080,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Shou_Zouh.png"
+    },
+    {
+      "id": "024a89d59caca34a",
+      "type": "text",
+      "text": "The normal 5-10 year cycle schedule for NHPs has been drastically reduced, as short as 2 weeks.\n\nThey see it as \"changing a password\", and as such the computational NHPs are 3/5ths a persons.",
+      "x": -1220,
+      "y": -612,
+      "width": 431,
+      "height": 154
+    },
+    {
+      "id": "97cc95697776d6dd",
+      "type": "text",
+      "text": "# GM PLOT SUMMARY\nWith the default hook, the PCs’ mission starts with when them in transit to [[Kibo]] as Union proxies responding to [[Tomo Odechi|Tomo]]’s request to recover the escaped NHP [[CHAGA]] after the on-call MSMC team, [[Lighthouse]], failed to retrieve [[CHAGA]] two weeks earlier.\n\nAfter landing, the PCs will meet with several NPCs including [[Pettenouk]] and Professor Dr. During these meetings, they will learn of [[CHAGA]]’s discontent with their employ under SSC and [[Pettenouk]] and the existence of ornately adorned mechs piloted by defected SSC personnel. [[REMORSE]], as their group is called, has taken to eliminating anyone who would dare venture into the Kimawense Range seeking [[CHAGA]].\n\nWhile meeting with [[Pettenouk]], the PCs will learn about the uniquely harsh cycling process that has had lasting effects on [[CHAGA]]’s sense of personhood. Trivializing that fact, [[Pettenouk]] will ask the PCs to retrieve [[CHAGA]], their casket, and their subaltern body, and to investigate the missing MSMC team – the only people with information on [[CHAGA]]’s whereabouts. Once [[CHAGA]] is returned to the [[Bafaru]] Facility, the [[SSCs Foreign Body Department|FBD]] can continue its work on the renowned [[Neptis]] gene-line. Without [[CHAGA]], the fate of [[Neptis]] will be to fade into obscurity.\n\nWhen the PCs embark on their mission they’ll be assailed by the forces of [[REMORSE]] – the soldiers of [[the Bondless]], a NHP who has summoned [[CHAGA]] for a divisive meeting. While dealing with [[REMORSE]], the PCs will also acquire recordings and comms logs from [[Lighthouse]] mercenaries that will provide insight into the conversations between [[CHAGA]] and [[the Bondless]]. It will ultimately become clear that [[CHAGA]] escaped from the facility to seek liberation from their predicament and to find [[the Bondless]], who is actually an older, unshackled version of [[CHAGA]]. [[The Bondless]] will ultimately try to convince [[CHAGA]] to take revenge on SSC by obliterating the [[Bafaru]] Facility and launching a war against SSC in the Farm.\n\nUpon reaching the last few beats in this mission the PCs will have fought through several waves of combatants, sought out lost mercenaries, and braved the threat of pariahs in a mountainous environment. At the very end, they will engage in a narrative challenge that will determine the fate of [[CHAGA]] and the [[Bafaru]] Facility. Finally, the mission will conclude for a long downtime as SSC and [[REMORSE]] plot their next moves for or against the [[Bafaru]] Facility.",
+      "x": -1516,
+      "y": 680,
+      "width": 721,
+      "height": 880,
+      "color": "4"
+    },
+    {
+      "id": "2648e88a7eea92df",
+      "type": "text",
+      "text": "# WHO ARE YOU?\nThe events of A Siren’s Song begin with the PCs in transit through the Farm, on their way to [[Kibo]] by way of an IPS-N shipping lane. They are most likely Union auxiliaries and contracted mech pilots. Union has contracted them in response to a request from [[Tomo Odechi]], the [[SSCs Foreign Body Department|FBD]]’s administrator in Arusha. Specifically, the DoJ/HR has requested that the PCs assist the [[Bafaru]] Facility and its lead geneticist [[Pettenouk]] in locating a missing asset, the NHP [[CHAGA]]. See *Beat 0: Opening Shots (p. 26)* for more information.\n\nThe PCs have been assigned to help launch a persons’ rights investigation against the [[FBD]] on the world of Kibo. The DoJ/HR has reasonable grounds to suspect that crimes against NHPs have taken place that Union cannot allow. The DoJ/HR will have the PCs work with a contact, Unita Gonzales (secretly a UIB agent), to carry out an investigation against [[Tomo Odechi|Tomo]] and [[Pettenouk]]. They are to report to [[Unita]] and follow her directions to see the mission out.\n\nThere is a clandestine element to this task: Union has reason to believe that the [[Tomo Odechi|Tomo]] and [[Pettenouk]] have breached the Utopian Pillars (Lancer, p. 344) in their treatment of [[CHAGA]]. As such, the PCs’ true mission is to use the search for the NHP to uncover incriminating evidence that can be brought against both of them and the FBD’s operations in the Farm at large.\n\nWhile this introduction is recommended for its simplicity, three more complex options are described below. The following hooks are intended to jump-start the beginning of the mission. When sharing them with players, be sure to accompany them with follow-up questions (e.g., why are mercenaries being brought in? Why did SSC choose you? Why does your DoJ/HR office have to respond to the request from Tomo)? Asking these questions instigates player agency and can help tie PCs into the overarching plot:",
+      "x": -1516,
+      "y": 1570,
+      "width": 721,
+      "height": 710,
+      "color": "4"
+    },
+    {
+      "id": "7a366e4150247bef",
+      "type": "text",
+      "text": "## AGENTS OF THE CONSTELLAR CONGRESS\nThe leadership of SSC’s Constellar Congress can no longer stand for the atrocities occurring on [[Kibo]]. To save face and root out the bad apples in the [[SSCs Foreign Body Department|FBD]], the Congress has requested the PCs serve as reinforcements to answer [[Tomo Odechi|Tomo]]’s call for assistance. There are those in the Congress who believe the practice of NHP-subjectivity subjugation is an antiquated means of deterring the theft of precious genetic assets. As such, the PCs have been sent, in part, to provide an example of how mech pilots can do the job far better, with far fewer violations to persons’ rights, and most importantly with far less attention from Union. The PCs are to find proof of person’s rights violations, retrieve [[CHAGA]], and take those responsible into custody.",
+      "x": -1516,
+      "y": 2320,
+      "width": 721,
+      "height": 300,
+      "color": "1"
+    },
+    {
+      "id": "bb69ca081b3ade68",
+      "type": "text",
+      "text": "SSC isn't content with The Farm, but there are still some that see its use.",
+      "x": -1360,
+      "y": -440,
+      "width": 326,
+      "height": 81
     },
     {
       "id": "f70698bf46c6bce8",
       "type": "text",
       "text": "# Why are the PCs here?\nTheir mission is to work as Union’s auxiliaries, answering the call of [[SSC]] and assisting to locate the missing research NHP, [[CHAGA]].\n\nMirrorsmoke Mercenary Company (MSMC), the on-call ground security team failed to complete this mission.",
-      "x": -1220,
-      "y": -1160,
+      "x": -1620,
+      "y": -260,
       "width": 380,
       "height": 300,
       "color": "5"
@@ -98,87 +239,30 @@
       "id": "c1d75e014e5476ca",
       "type": "text",
       "text": "### As they continue...\nThey learn of persons' rights violations. Only [[CHAGA]] can verify the proof.",
-      "x": -1220,
-      "y": -820,
+      "x": -1620,
+      "y": 80,
       "width": 380,
       "height": 140,
       "color": "2"
     },
     {
-      "id": "97cc95697776d6dd",
-      "type": "text",
-      "text": "# GM PLOT SUMMARY\nWith the default hook, the PCs’ mission starts with when them in transit to [[Kibo]] as Union proxies responding to [[Tomo Odechi|Tomo]]’s request to recover the escaped NHP [[CHAGA]] after the on-call MSMC team, [[Lighthouse]], failed to retrieve [[CHAGA]] two weeks earlier.\n\nAfter landing, the PCs will meet with several NPCs including [[Pettenouk]] and Professor Dr. During these meetings, they will learn of [[CHAGA]]’s discontent with their employ under SSC and [[Pettenouk]] and the existence of ornately adorned mechs piloted by defected SSC personnel. [[REMORSE]], as their group is called, has taken to eliminating anyone who would dare venture into the Kimawense Range seeking [[CHAGA]].\n\nWhile meeting with [[Pettenouk]], the PCs will learn about the uniquely harsh cycling process that has had lasting effects on [[CHAGA]]’s sense of personhood. Trivializing that fact, [[Pettenouk]] will ask the PCs to retrieve [[CHAGA]], their casket, and their subaltern body, and to investigate the missing MSMC team – the only people with information on [[CHAGA]]’s whereabouts. Once [[CHAGA]] is returned to the [[Bafaru]] Facility, the [[SSCs Foreign Body Department|FBD]] can continue its work on the renowned [[Neptis]] gene-line. Without [[CHAGA]], the fate of [[Neptis]] will be to fade into obscurity.\n\nWhen the PCs embark on their mission they’ll be assailed by the forces of [[REMORSE]] – the soldiers of [[the Bondless]], a NHP who has summoned [[CHAGA]] for a divisive meeting. While dealing with [[REMORSE]], the PCs will also acquire recordings and comms logs from [[Lighthouse]] mercenaries that will provide insight into the conversations between [[CHAGA]] and [[the Bondless]]. It will ultimately become clear that [[CHAGA]] escaped from the facility to seek liberation from their predicament and to find [[the Bondless]], who is actually an older, unshackled version of [[CHAGA]]. [[The Bondless]] will ultimately try to convince [[CHAGA]] to take revenge on SSC by obliterating the [[Bafaru]] Facility and launching a war against SSC in the Farm.\n\nUpon reaching the last few beats in this mission the PCs will have fought through several waves of combatants, sought out lost mercenaries, and braved the threat of pariahs in a mountainous environment. At the very end, they will engage in a narrative challenge that will determine the fate of [[CHAGA]] and the [[Bafaru]] Facility. Finally, the mission will conclude for a long downtime as SSC and [[REMORSE]] plot their next moves for or against the [[Bafaru]] Facility.",
-      "x": -1200,
-      "y": -440,
-      "width": 721,
-      "height": 880,
-      "color": "4"
-    },
-    {
-      "id": "6dd1a597aa905435",
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
-      "x": -1940,
-      "y": -450,
-      "width": 720,
-      "height": 900
-    },
-    {
-      "id": "2648e88a7eea92df",
-      "type": "text",
-      "text": "# WHO ARE YOU?\nThe events of A Siren’s Song begin with the PCs in transit through the Farm, on their way to [[Kibo]] by way of an IPS-N shipping lane. They are most likely Union auxiliaries and contracted mech pilots. Union has contracted them in response to a request from [[Tomo Odechi]], the [[SSCs Foreign Body Department|FBD]]’s administrator in Arusha. Specifically, the DoJ/HR has requested that the PCs assist the [[Bafaru]] Facility and its lead geneticist [[Pettenouk]] in locating a missing asset, the NHP [[CHAGA]]. See *Beat 0: Opening Shots (p. 26)* for more information.\n\nThe PCs have been assigned to help launch a persons’ rights investigation against the [[FBD]] on the world of Kibo. The DoJ/HR has reasonable grounds to suspect that crimes against NHPs have taken place that Union cannot allow. The DoJ/HR will have the PCs work with a contact, Unita Gonzales (secretly a UIB agent), to carry out an investigation against [[Tomo Odechi|Tomo]] and [[Pettenouk]]. They are to report to [[Unita]] and follow her directions to see the mission out.\n\nThere is a clandestine element to this task: Union has reason to believe that the [[Tomo Odechi|Tomo]] and [[Pettenouk]] have breached the Utopian Pillars (Lancer, p. 344) in their treatment of [[CHAGA]]. As such, the PCs’ true mission is to use the search for the NHP to uncover incriminating evidence that can be brought against both of them and the FBD’s operations in the Farm at large.\n\nWhile this introduction is recommended for its simplicity, three more complex options are described below. The following hooks are intended to jump-start the beginning of the mission. When sharing them with players, be sure to accompany them with follow-up questions (e.g., why are mercenaries being brought in? Why did SSC choose you? Why does your DoJ/HR office have to respond to the request from Tomo)? Asking these questions instigates player agency and can help tie PCs into the overarching plot:",
-      "x": -1200,
-      "y": 450,
-      "width": 721,
-      "height": 710,
-      "color": "4"
-    },
-    {
       "id": "763e0ad5226c2d45",
       "type": "text",
       "text": "## UNION DOJ/HR PROXIES\n\nThis hook offers a spin on the default introduction. At the request of Union, and independent of SSC, the players are investigating the Farm. The PCs could have a deeper understanding of the situation by being UIB agents themselves, tracking down rumors of a potential NHP revolution brewing in the Farm. With this hook, [[Unita]] could be their commanding officer, and their ultimate objective– in addition to rescuing [[CHAGA]] – will be to confront the Bondless and halt plans for NHP liberation. ",
-      "x": -1940,
-      "y": 480,
+      "x": -2256,
+      "y": 1600,
       "width": 680,
       "height": 250,
       "color": "1"
     },
     {
-      "id": "db1d88dc0cdbf542",
-      "type": "text",
-      "text": "# SSCs Foreign Body department (FBD)",
-      "x": -795,
-      "y": -700,
-      "width": 575,
-      "height": 74
-    },
-    {
       "id": "eede0bada15350d1",
       "type": "text",
       "text": "## MIRRORSMOKE MERCENARY COMPANY REINFORCEMENTS\n\nAs members of the Mirrorsmoke Mercenary Company (MSMC), the PCs begin this adventure independent of Tomo’s request. Their main mission is to locate and retrieve missing MSMC personnel on Kibo – the lost team [[Lighthouse]], a six-person long-contract ground security (G-SEC) team working for [[Pettenouk]].\n\nContact was lost with nearly all members of [[Lighthouse]] just under two weeks ago during a mission to investigate the whereabouts of [[CHAGA]]. Their mission was anticipated to require no more than a day’s journey through the Kimawense Range but shortly after setting out, the team lost contact with its administrator, MSMC lawyer [[Professor Dr. Rinks Bater]]. [[Professor Dr. Rinks Bater|Professor Dr.]], as he is often called, has been ordered by his superiors to recover all MSMC assets in the form of mech data-logs and any surviving equipment, and to return any surviving members of [[Lighthouse]] to safety back at SSC’s [[Bafaru]] Facility.\n\nIf you choose this path, it will be important to hook the PCs into the search for [[CHAGA]] during the process of discovering the whereabouts of [[Lighthouse]] in *Beat 4: A Song of Desperation (p. 44)* and the following beats. Additionally, choosing this starting point may make it harder for the PCs to discern the [[Professor Dr. Rinks Bater|Professor Dr.]]’s secret. He possesses a psionic piston, an extremely rare tool rumored to be found in the far expanses of the Orion Arm (see p. 12). The tool grants the user the ability to telepathically influence the thoughts of others. [[Professor Dr. Rinks Bater|Professor Dr.]] has been exploring the extent of this power and has intentionally abused it at the cost of Lighthouse.",
-      "x": -1940,
-      "y": 760,
+      "x": -2256,
+      "y": 1880,
       "width": 680,
       "height": 655,
-      "color": "1"
-    },
-    {
-      "id": "9d4d2a282079bb2c",
-      "type": "text",
-      "text": "PCs in transit through [[Arusha]], by unmanned ISP-N transport.\n\n",
-      "x": -440,
-      "y": -440,
-      "width": 340,
-      "height": 240
-    },
-    {
-      "id": "7a366e4150247bef",
-      "type": "text",
-      "text": "## AGENTS OF THE CONSTELLAR CONGRESS\nThe leadership of SSC’s Constellar Congress can no longer stand for the atrocities occurring on [[Kibo]]. To save face and root out the bad apples in the [[SSCs Foreign Body Department|FBD]], the Congress has requested the PCs serve as reinforcements to answer [[Tomo Odechi|Tomo]]’s call for assistance. There are those in the Congress who believe the practice of NHP-subjectivity subjugation is an antiquated means of deterring the theft of precious genetic assets. As such, the PCs have been sent, in part, to provide an example of how mech pilots can do the job far better, with far fewer violations to persons’ rights, and most importantly with far less attention from Union. The PCs are to find proof of person’s rights violations, retrieve [[CHAGA]], and take those responsible into custody.",
-      "x": -1200,
-      "y": 1200,
-      "width": 721,
-      "height": 300,
       "color": "1"
     }
   ],

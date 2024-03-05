@@ -1,3 +1,6 @@
+---
+Art: "![[pettenouk.png]]"
+---
 Respected for a long history of profound attunement to the needs of his wards, [[Pettenouk]] has been the linchpin to the project’s success for nearly the entire history of the [[Bafaru]] Facility. Through his guidance and with the assistance of the NHP [[CHAGA]] the [[Bafaru]] Facility has become one of SSC’s most esteemed genetic ventures. [[Pettenouk]]’s vision is to see the expansion of the project and the adoption of the [[Neptis]] gene-line as the gold standard for Cosmopolitan personnel throughout Union.
 
 To achieve his vision of advancing the [[Neptis]] gene-line to galactic ubiquity [[Pettenouk]] demands his personnel on [[Kibo]] believe in the importance of the mission. In recent years, his dedication has been somewhat tempered; however, in the early days of the project, his demands frequently included the comprehensive disciplining of “irregular” and unsanctioned behaviors, including unauthorized socializing, romantic pairings, unapproved access to the omninet, as well as adherence to a strict dietary regime.
