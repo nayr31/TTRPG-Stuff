@@ -97,13 +97,13 @@
     {
       "id": "ce4ce107d154e164",
       "type": "text",
-      "text": "",
+      "text": "In this opening beat, have the players introduce their characters to each other.",
       "isStartNode": false,
       "shape": null,
       "x": 420,
       "y": 20,
       "width": 320,
-      "height": 142
+      "height": 100
     },
     {
       "id": "90c52959fc3a4410",
@@ -264,6 +264,24 @@
       "width": 680,
       "height": 655,
       "color": "1"
+    },
+    {
+      "id": "40f3d19a7e30952b",
+      "x": 660,
+      "y": 140,
+      "width": 400,
+      "height": 140,
+      "type": "text",
+      "text": "> You have a special contact within the Bafaru campus, [[Unita Gonzales]]. "
+    },
+    {
+      "id": "527f72609a1f3a30",
+      "x": 1014,
+      "y": 40,
+      "width": 386,
+      "height": 60,
+      "type": "text",
+      "text": "A brief intro between [[Tomo Odechi|Tomo]] and [[Pettenouk]]."
     }
   ],
   "edges": [
@@ -350,6 +368,20 @@
       "fromSide": "bottom",
       "toNode": "7a366e4150247bef",
       "toSide": "top"
+    },
+    {
+      "id": "9fdad50152ce0c75",
+      "fromNode": "ce4ce107d154e164",
+      "fromSide": "bottom",
+      "toNode": "40f3d19a7e30952b",
+      "toSide": "left"
+    },
+    {
+      "id": "0949da06931c3f53",
+      "fromNode": "40f3d19a7e30952b",
+      "fromSide": "top",
+      "toNode": "527f72609a1f3a30",
+      "toSide": "left"
     }
   ]
 }
