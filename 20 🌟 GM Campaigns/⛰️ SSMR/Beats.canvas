@@ -40,15 +40,6 @@
       "height": 353
     },
     {
-      "id": "64d43b6b6489b729",
-      "type": "text",
-      "text": "",
-      "x": 347,
-      "y": 711,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "847442e26e3edddb",
       "type": "text",
       "text": "# The Farm\nA collection of planets (story is on [[Kibo]]), that perform genetic experiments to \"grow\" humans?\n\n\n\n",
@@ -95,44 +86,6 @@
       "height": 400
     },
     {
-      "id": "ce4ce107d154e164",
-      "type": "text",
-      "text": "In this opening beat, have the players introduce their characters to each other.",
-      "isStartNode": false,
-      "shape": null,
-      "x": 420,
-      "y": 20,
-      "width": 320,
-      "height": 100
-    },
-    {
-      "id": "90c52959fc3a4410",
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/pettenouk.png",
-      "x": 614,
-      "y": -569,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "b1228462f20a23f9",
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Tomo.png",
-      "x": 1014,
-      "y": -569,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "dbfe297ca013a390",
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/ProfessorDoctor.png",
-      "x": 1414,
-      "y": -569,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "1dcb272dac3d518a",
       "type": "file",
       "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Colleen.png",
@@ -140,42 +93,6 @@
       "y": -1080,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "39244c2593903b43",
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Kareem.png",
-      "x": 614,
-      "y": -1080,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "13f8cc5054a1251e",
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Maxima.png",
-      "x": 1014,
-      "y": -1080,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "fbc1d59b9ff13b8b",
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Pardeep.png",
-      "x": 1414,
-      "y": -1080,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e79014e97b16cc2b",
-      "x": 1814,
-      "y": -1080,
-      "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Shou_Zouh.png"
     },
     {
       "id": "024a89d59caca34a",
@@ -266,22 +183,105 @@
       "color": "1"
     },
     {
+      "id": "64d43b6b6489b729",
+      "type": "text",
+      "text": "",
+      "x": 347,
+      "y": 711,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ce4ce107d154e164",
+      "type": "text",
+      "text": "In this opening beat, have the players introduce their characters to each other.",
+      "isStartNode": false,
+      "shape": null,
+      "x": 420,
+      "y": 20,
+      "width": 320,
+      "height": 100
+    },
+    {
+      "id": "90c52959fc3a4410",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/pettenouk.png",
+      "x": 614,
+      "y": -569,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b1228462f20a23f9",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Tomo.png",
+      "x": 1014,
+      "y": -569,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dbfe297ca013a390",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/ProfessorDoctor.png",
+      "x": 1414,
+      "y": -569,
+      "width": 400,
+      "height": 400
+    },
+    {
       "id": "40f3d19a7e30952b",
+      "type": "text",
+      "text": "> You have a special contact within the Bafaru campus, [[Unita Gonzales]]. ",
       "x": 660,
       "y": 140,
       "width": 400,
-      "height": 140,
-      "type": "text",
-      "text": "> You have a special contact within the Bafaru campus, [[Unita Gonzales]]. "
+      "height": 140
     },
     {
       "id": "527f72609a1f3a30",
+      "type": "text",
+      "text": "A brief intro between [[Tomo Odechi|Tomo]] and [[Pettenouk]].",
       "x": 1014,
       "y": 40,
       "width": 386,
-      "height": 60,
-      "type": "text",
-      "text": "A brief intro between [[Tomo Odechi|Tomo]] and [[Pettenouk]]."
+      "height": 60
+    },
+    {
+      "id": "39244c2593903b43",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Kareem.png",
+      "x": 614,
+      "y": -1080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "13f8cc5054a1251e",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Maxima.png",
+      "x": 1014,
+      "y": -1080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fbc1d59b9ff13b8b",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Pardeep.png",
+      "x": 1414,
+      "y": -1080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e79014e97b16cc2b",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Shou_Zouh.png",
+      "x": 1814,
+      "y": -1080,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
