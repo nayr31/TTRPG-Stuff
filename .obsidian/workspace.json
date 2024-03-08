@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,10 +207,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "63ea63bc28d77051",
+  "active": "50663726175a560b",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "📑 Campaign Overview.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Setting/Kibo.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/👨‍🌾📚 NPC Database.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/ProfessorDoctor.png",
