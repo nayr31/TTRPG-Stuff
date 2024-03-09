@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,8 +199,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "74c78e04d42a26db",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly9jb21wY29uLmFwcA==",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -218,10 +226,11 @@
       "omnisearch:Omnisearch": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "homepage:Open homepage": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "open-gate:COMP/CON": false
     }
   },
-  "active": "72249de117a7f108",
+  "active": "63ea63bc28d77051",
   "lastOpenFiles": [
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Lotus.md",
