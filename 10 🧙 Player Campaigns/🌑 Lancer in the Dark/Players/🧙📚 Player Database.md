@@ -53,7 +53,7 @@ columns:
     key: Pronouns
     id: Pronouns
     label: Pronouns
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -76,7 +76,7 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -98,13 +98,33 @@ columns:
     key: Frame
     id: Frame
     label: Frame
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Pegasus", value: "Pegasus", color: "hsl(187, 95%, 90%)"}
       - { label: "N/A", value: "N/A", color: "hsl(124, 95%, 90%)"}
+      - { label: "🦄 Pegasus", value: "🦄 Pegasus", color: "hsl(320, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  Real_Name:
+    input: text
+    accessorKey: Real_Name
+    key: Real_Name
+    id: Real_Name
+    label: Real Name
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -132,7 +152,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: z_Templates
-  current_row_template: 90 🧩 Templates/Player.md
+  current_row_template: 90 🧩 Templates/Player Template.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false

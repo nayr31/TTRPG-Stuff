@@ -4,6 +4,9 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "eyes",
+    "unicorn",
+    "horse",
     "skateboard",
     "dice",
     "seven",
@@ -15,7 +18,6 @@
     "anger",
     "new_moon",
     "checkered_flag",
-    "horse",
     "cloud",
     "bookmark_tabs",
     "yellow_circle",
@@ -26,9 +28,7 @@
     "mountain",
     "rose",
     "vampire",
-    "sunglasses",
-    "card_file_box",
-    "explode"
+    "sunglasses"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

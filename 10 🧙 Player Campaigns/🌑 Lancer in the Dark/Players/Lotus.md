@@ -1,6 +1,6 @@
 ---
 Art: "![[Lotus.png]]"
-Pronouns: N/A
+Pronouns: She/Her
 Frame: N/A
 NoteIcon: Player
 ---

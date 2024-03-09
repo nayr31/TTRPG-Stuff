@@ -7,7 +7,8 @@ cssclasses:
 # [[10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
-	link(file.path, name) AS "Name", 
+	link(file.path, name) AS "Name",
+	Real_Name AS "Real Name",
 	Pronouns AS "Pronouns",
 	embed(Art) AS "Art",
 	Frame AS "Frame"

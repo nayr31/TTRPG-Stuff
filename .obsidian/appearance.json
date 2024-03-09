@@ -19,5 +19,7 @@
   ],
   "cssTheme": "AnuPpuccin",
   "baseFontSize": 16,
-  "translucency": false
+  "translucency": false,
+  "nativeMenus": false,
+  "theme": "obsidian"
 }
