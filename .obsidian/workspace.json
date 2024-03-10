@@ -20,31 +20,22 @@
             }
           },
           {
-            "id": "b4861037e10d44fd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f76468f024d1f965",
+            "id": "0610d627632ffaed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf"
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "viewState": {
+                  "x": 352.7157712614011,
+                  "y": 1042.5913826738047,
+                  "zoom": -0.396283900110953
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,8 +225,9 @@
       "open-gate:COMP/CON": false
     }
   },
-  "active": "63ea63bc28d77051",
+  "active": "0610d627632ffaed",
   "lastOpenFiles": [
+    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "Notes.md",
@@ -247,7 +239,6 @@
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/twomay.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Princess.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Rules.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Lotus.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Lotus.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Juno.png",

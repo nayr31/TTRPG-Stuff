@@ -21,16 +21,6 @@
       "label": "Info"
     },
     {
-      "id": "a4b888ee3156b79b",
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
-      "portalToFile": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
-      "x": -680,
-      "y": 640,
-      "width": 895,
-      "height": 1782
-    },
-    {
       "id": "f64eac1414b29aca",
       "type": "text",
       "text": "A population of deserters who have scorned SSC’s mission have recently ventured into the Kimawense Range for enigmatic reasons. They follow an ever-present voice they call [[the Bondless]], and have created structures of stone and steel along the spines of the Kimawense mountains. These encampments serve as operating bases and forward outposts for the Bondless’s forces, known to themselves as [[REMORSE]]. Pettenouk has attempted to expunge all records of these deserters in hopes of maintaining good order and discipline among his subordinates, and ultimately to protect the integrity of the Neptis gene-line.",
@@ -48,15 +38,6 @@
       "width": 464,
       "height": 150,
       "color": "5"
-    },
-    {
-      "id": "db1d88dc0cdbf542",
-      "type": "text",
-      "text": "# SSCs Foreign Body department (FBD)",
-      "x": -1195,
-      "y": 200,
-      "width": 575,
-      "height": 74
     },
     {
       "id": "d3e84392b1864a0a",
@@ -86,15 +67,6 @@
       "height": 400
     },
     {
-      "id": "1dcb272dac3d518a",
-      "type": "file",
-      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Colleen.png",
-      "x": 214,
-      "y": -1080,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "024a89d59caca34a",
       "type": "text",
       "text": "The normal 5-10 year cycle schedule for NHPs has been drastically reduced, as short as 2 weeks.\n\nThey see it as \"changing a password\", and as such the computational NHPs are 3/5ths a persons.",
@@ -102,6 +74,54 @@
       "y": -612,
       "width": 431,
       "height": 154
+    },
+    {
+      "id": "bb69ca081b3ade68",
+      "type": "text",
+      "text": "SSC isn't content with The Farm, but there are still some that see its use.",
+      "x": -1360,
+      "y": -440,
+      "width": 326,
+      "height": 81
+    },
+    {
+      "id": "f70698bf46c6bce8",
+      "type": "text",
+      "text": "# Why are the PCs here?\nTheir mission is to work as Union’s auxiliaries, answering the call of [[SSC]] and assisting to locate the missing research NHP, [[CHAGA]].\n\nMirrorsmoke Mercenary Company (MSMC), the on-call ground security team failed to complete this mission.",
+      "x": -1620,
+      "y": -260,
+      "width": 380,
+      "height": 300,
+      "color": "5"
+    },
+    {
+      "id": "c1d75e014e5476ca",
+      "type": "text",
+      "text": "### As they continue...\nThey learn of persons' rights violations. Only [[CHAGA]] can verify the proof.",
+      "x": -1620,
+      "y": 80,
+      "width": 380,
+      "height": 140,
+      "color": "2"
+    },
+    {
+      "id": "a4b888ee3156b79b",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
+      "portalToFile": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
+      "x": -680,
+      "y": 640,
+      "width": 895,
+      "height": 1782
+    },
+    {
+      "id": "db1d88dc0cdbf542",
+      "type": "text",
+      "text": "# SSCs Foreign Body department (FBD)",
+      "x": -1195,
+      "y": 200,
+      "width": 575,
+      "height": 74
     },
     {
       "id": "97cc95697776d6dd",
@@ -134,35 +154,6 @@
       "color": "1"
     },
     {
-      "id": "bb69ca081b3ade68",
-      "type": "text",
-      "text": "SSC isn't content with The Farm, but there are still some that see its use.",
-      "x": -1360,
-      "y": -440,
-      "width": 326,
-      "height": 81
-    },
-    {
-      "id": "f70698bf46c6bce8",
-      "type": "text",
-      "text": "# Why are the PCs here?\nTheir mission is to work as Union’s auxiliaries, answering the call of [[SSC]] and assisting to locate the missing research NHP, [[CHAGA]].\n\nMirrorsmoke Mercenary Company (MSMC), the on-call ground security team failed to complete this mission.",
-      "x": -1620,
-      "y": -260,
-      "width": 380,
-      "height": 300,
-      "color": "5"
-    },
-    {
-      "id": "c1d75e014e5476ca",
-      "type": "text",
-      "text": "### As they continue...\nThey learn of persons' rights violations. Only [[CHAGA]] can verify the proof.",
-      "x": -1620,
-      "y": 80,
-      "width": 380,
-      "height": 140,
-      "color": "2"
-    },
-    {
       "id": "763e0ad5226c2d45",
       "type": "text",
       "text": "## UNION DOJ/HR PROXIES\n\nThis hook offers a spin on the default introduction. At the request of Union, and independent of SSC, the players are investigating the Farm. The PCs could have a deeper understanding of the situation by being UIB agents themselves, tracking down rumors of a potential NHP revolution brewing in the Farm. With this hook, [[Unita]] could be their commanding officer, and their ultimate objective– in addition to rescuing [[CHAGA]] – will be to confront the Bondless and halt plans for NHP liberation. ",
@@ -183,13 +174,13 @@
       "color": "1"
     },
     {
-      "id": "64d43b6b6489b729",
-      "type": "text",
-      "text": "",
-      "x": 347,
-      "y": 711,
-      "width": 260,
-      "height": 60
+      "id": "1dcb272dac3d518a",
+      "type": "file",
+      "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Colleen.png",
+      "x": 214,
+      "y": -1080,
+      "width": 400,
+      "height": 400
     },
     {
       "id": "ce4ce107d154e164",
@@ -230,24 +221,6 @@
       "height": 400
     },
     {
-      "id": "40f3d19a7e30952b",
-      "type": "text",
-      "text": "> You have a special contact within the Bafaru campus, [[Unita Gonzales]]. ",
-      "x": 660,
-      "y": 140,
-      "width": 400,
-      "height": 140
-    },
-    {
-      "id": "527f72609a1f3a30",
-      "type": "text",
-      "text": "A brief intro between [[Tomo Odechi|Tomo]] and [[Pettenouk]].",
-      "x": 1014,
-      "y": 40,
-      "width": 386,
-      "height": 60
-    },
-    {
       "id": "39244c2593903b43",
       "type": "file",
       "file": "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/Kareem.png",
@@ -282,6 +255,33 @@
       "y": -1080,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "64d43b6b6489b729",
+      "type": "text",
+      "text": "",
+      "x": 347,
+      "y": 711,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "40f3d19a7e30952b",
+      "type": "text",
+      "text": "> You have a special contact within the Bafaru campus, [[Unita Gonzales]]. ",
+      "x": 660,
+      "y": 140,
+      "width": 400,
+      "height": 140
+    },
+    {
+      "id": "527f72609a1f3a30",
+      "type": "text",
+      "text": "A brief intro between [[Tomo Odechi|Tomo]] and [[Pettenouk]].",
+      "x": 1014,
+      "y": 40,
+      "width": 386,
+      "height": 60
     }
   ],
   "edges": [
