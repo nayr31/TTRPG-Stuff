@@ -27,15 +27,14 @@
               "state": {
                 "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
                 "viewState": {
-                  "x": 352.7157712614011,
-                  "y": 1042.5913826738047,
-                  "zoom": -0.396283900110953
+                  "x": -193.51429881787033,
+                  "y": 1655.8008243157444,
+                  "zoom": -1.0629505667776196
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,8 +224,11 @@
       "open-gate:COMP/CON": false
     }
   },
-  "active": "0610d627632ffaed",
+  "active": "63ea63bc28d77051",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Morning Dew, Night Shade.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Setting/Kibo.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
@@ -242,8 +244,6 @@
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Lotus.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Lotus.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Juno.png",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Setting/Kibo.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/👨‍🌾📚 NPC Database.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/ProfessorDoctor.png",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Art/pettenouk.png",
