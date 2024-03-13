@@ -25,11 +25,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "file": "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
                 "viewState": {
-                  "x": 636.5777004435943,
-                  "y": 605.3451814991404,
-                  "zoom": -1.3962839001109528
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "file": "Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,15 +226,19 @@
       "open-gate:ForgeVTT": false
     }
   },
-  "active": "6d37e9c791e1cc4d",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
-    "📑 Campaign Overview.md",
+    "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
+    "20 🌟 GM Campaigns/💭 Machine's Eye/📓 Core Book.md",
+    "Notes.md",
+    "20 🌟 GM Campaigns/💭 Machine's Eye/Chapters",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+    "20 🌟 GM Campaigns/💭 Machine's Eye",
+    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 03.md",
     "80 🗃️ Resources/Items/cloak-of-elvenkind.md",
     "80 🗃️ Resources/Items/boots-of-elvenkind.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
-    "Notes.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Maps/Map Sizes.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Maps/BM4_cropped.png",
     "20 🌟 GM Campaigns/⛰️ SSMR/Maps/BM3b_cropped.png",
@@ -266,15 +270,12 @@
     "20 🌟 GM Campaigns/🐌 Slugblaster/Generators/🎲 Generator Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Epilogue.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Rule Reference/Look Cool.md",
     "rules",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/Art",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Quests",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Groups",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Pavlo De Basi.canvas",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
