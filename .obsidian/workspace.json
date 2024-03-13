@@ -18,8 +18,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6d37e9c791e1cc4d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
+                "viewState": {
+                  "x": 636.5777004435943,
+                  "y": 605.3451814991404,
+                  "zoom": -1.3962839001109528
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,10 +226,10 @@
       "open-gate:ForgeVTT": false
     }
   },
-  "active": "63ea63bc28d77051",
+  "active": "6d37e9c791e1cc4d",
   "lastOpenFiles": [
-    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "📑 Campaign Overview.md",
+    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 03.md",
     "80 🗃️ Resources/Items/cloak-of-elvenkind.md",
     "80 🗃️ Resources/Items/boots-of-elvenkind.md",
