@@ -12,3 +12,4 @@ City of Absalom
 
 We all converge on a street, a menagerie of animals fr fr
 
+Encounter a building with some demonic shit fr fr
