@@ -13,3 +13,14 @@ City of Absalom
 We all converge on a street, a menagerie of animals fr fr
 
 Encounter a building with some demonic shit fr fr
+
+Dead person on the ground, chalk in hand with a map that denotes a few locations
+
+Historia Reliquary
+Reclaim Paradise
+Snakeskin Tattoo
+
+Dieral Myrnes, Owner of the Harrow Barrow (might know more about the cards)
+
+We head to Kraken Ink Tattoo
+Nara (kolold asssitant)
