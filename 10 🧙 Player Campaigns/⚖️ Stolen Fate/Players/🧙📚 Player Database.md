@@ -61,6 +61,7 @@ columns:
       - { label: "He/Him", value: "He/Him", color: "hsl(291, 95%, 90%)"}
       - { label: "She/Her", value: "She/Her", color: "hsl(155, 95%, 90%)"}
       - { label: "N/A", value: "N/A", color: "hsl(73,96%,90%)"}
+      - { label: "He/They", value: "He/They", color: "hsl(282, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -106,6 +107,7 @@ columns:
       - { label: "Alchemist", value: "Alchemist", color: "hsl(65, 95%, 90%)"}
       - { label: "Cleric", value: "Cleric", color: "hsl(50, 95%, 90%)"}
       - { label: "Druid", value: "Druid", color: "hsl(304, 95%, 90%)"}
+      - { label: "Kineticist", value: "Kineticist", color: "hsl(181, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -152,7 +154,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: z_Templates
-  current_row_template: 90 🧩 Templates/Player.md
+  current_row_template: 90 🧩 Templates/Player Template.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false

@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "cloud",
     "clipboard",
     "notebook",
     "thought_balloon",
@@ -21,7 +22,6 @@
     "anger",
     "new_moon",
     "checkered_flag",
-    "cloud",
     "bookmark_tabs",
     "yellow_circle",
     "notebook_with_decorative_cover",
