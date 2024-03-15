@@ -10,5 +10,5 @@ City of Absalom
 
 [[Miyuki]] and [[Clover]] know each other from before
 
-We all converge onto a dice and game pond
+We all converge on a street, a menagerie of animals fr fr
 

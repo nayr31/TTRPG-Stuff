@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
+                "file": "10 🧙 Player Campaigns/⚖️ Stolen Fate/Sessions/Session 01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
+                "file": "10 🧙 Player Campaigns/⚖️ Stolen Fate/Sessions/Session 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,10 +238,10 @@
       "open-gate:ForgeVTT": false
     }
   },
-  "active": "135ebbbe12995820",
+  "active": "4ecebba4f275392b",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Vannie.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
+    "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Vannie.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/Sessions/Session 01.md",
     "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/Sessions/🧻📚 Session Database.md",
