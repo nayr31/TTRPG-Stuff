@@ -23,4 +23,4 @@ Snakeskin Tattoo
 Dieral Myrnes, Owner of the Harrow Barrow (might know more about the cards)
 
 We head to Kraken Ink Tattoo
-Nara (kolold asssitant)
+Nara (kolold assistant)
