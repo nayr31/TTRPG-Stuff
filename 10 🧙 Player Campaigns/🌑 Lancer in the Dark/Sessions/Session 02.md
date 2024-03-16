@@ -20,3 +20,13 @@ Garbled words
 Chain reaction
 
 "Become one, we must"
+"Must help master"
+
+Get through the gate, into a hallway
+Monitors looking outside
+Some of the area is recognizable, but now a much larger complex
+Big shipyard, no longer worked on
+Civilian freight
+
+ASH mentioned they were locked away somewhere, lets get to that
+Flickering lights, not a lot of power
