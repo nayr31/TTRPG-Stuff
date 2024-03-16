@@ -8,8 +8,9 @@ we all know each other, more/less depending on join date
 distress signal coming from an abandoned research station
 
 Seraphim is the ship
-ASH (cogant mind? ship - AI not NHP)
+ASH Rose (cogant mind? ship - AI not NHP)
 known Juno's character, [[Lotus]] for a bit
+(grew up there, knowing ash rose)
 
 everyone is waiting around, on their way towards the distress beacon with their wing
 (introductions)
