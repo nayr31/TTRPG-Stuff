@@ -18,19 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b962ec29513d33d8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,11 +211,17 @@
       "open-gate:ForgeVTT": false
     }
   },
-  "active": "b962ec29513d33d8",
+  "active": "63ea63bc28d77051",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
+    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat.md",
+    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat stats.png",
+    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat stats.png",
+    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat stats.png",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
     "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 02.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/momozokuna_c.png",
@@ -234,7 +229,6 @@
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Lotus.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Empty Ring.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Rules.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 01.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
@@ -260,10 +254,6 @@
     "20 🌟 GM Campaigns/⛰️ SSMR/Maps/BM3a_cropped.png",
     "20 🌟 GM Campaigns/⛰️ SSMR/Maps/BM2_cropped.png",
     "20 🌟 GM Campaigns/⛰️ SSMR/NPCs/Morning Dew, Night Shade.md",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Setting/Kibo.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/Lotus.png",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Lotus.png",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Juno.png",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "Sirens_Song_A_Mountains_Remorse.pdf",
     "rules",
