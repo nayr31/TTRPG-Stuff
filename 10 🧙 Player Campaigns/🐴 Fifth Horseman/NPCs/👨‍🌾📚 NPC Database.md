@@ -86,6 +86,7 @@ columns:
       - { label: "He/Him", value: "He/Him", color: "hsl(278, 95%, 90%)"}
       - { label: "She/Her", value: "She/Her", color: "hsl(217, 95%, 90%)"}
       - { label: "N/A", value: "N/A", color: "hsl(96, 95%, 90%)"}
+      - { label: "He/They", value: "He/They", color: "hsl(333, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -133,7 +134,7 @@ config:
   source_form_result: 
   source_destination_path: /
   row_templates_folder: z_Templates
-  current_row_template: 
+  current_row_template: 90 🧩 Templates/NPC Template.md
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false
