@@ -18,8 +18,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "afd7da198bc5c118",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,14 +222,15 @@
       "open-gate:ForgeVTT": false
     }
   },
-  "active": "63ea63bc28d77051",
+  "active": "afd7da198bc5c118",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
+    "📑 Campaign Overview.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs/Dasra Mahanti.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs/Cayden Cailean.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat.md",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat stats.png",
     "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat stats.png",
