@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "80 🗃️ Resources/PF2e crafting time.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80 🗃️ Resources/PF2e crafting time.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,7 +237,7 @@
       "open-gate:ForgeVTT": false
     }
   },
-  "active": "3b4baf98f339def0",
+  "active": "63ea63bc28d77051",
   "lastOpenFiles": [
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Vannie.md",
     "80 🗃️ Resources/PF2e crafting time.md",
