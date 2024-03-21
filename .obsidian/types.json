@@ -81,6 +81,9 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "checkbox",
     "excalidraw-iframe-theme": "text",
-    "Date": "date"
+    "Date": "date",
+    "level": "number",
+    "bonus": "number",
+    "gpvalue": "number"
   }
 }
