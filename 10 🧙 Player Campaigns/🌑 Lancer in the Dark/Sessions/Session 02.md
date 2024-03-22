@@ -1,6 +1,7 @@
 ---
 NoteIcon: Note
 Date: 2024-03-15T00:00:00.000-04:00
+Summary: We end up in an abandoned warehouse, with suspiciously advanced android/subalterns.
 ---
 We awaken in our mechs, powered down
 
