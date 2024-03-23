@@ -14,3 +14,13 @@ Large exposed powerline
 
 Get through, now a small chamber with 4 different directions
 Paths split, static noise continues, still no power
+Door is powered open
+
+--zzt--
+subalterns guarding a "generator", best place to start it up
+bust in guns blazing
+"Another one for masters project"
+[[Lotus]] hacks them, slowing them down
+[[Princess]] heads on over to the generator
+many more checks...
+"Revenge for out fallen brothers"
