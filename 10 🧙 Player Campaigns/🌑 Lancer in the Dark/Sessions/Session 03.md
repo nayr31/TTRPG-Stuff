@@ -34,3 +34,18 @@ The generator starts back up, and pulses all the subalterns down in the room
 Faded Union emblem, chassis' are torn in places
 The symbol gives a migraine
 Ring with large planet
+
+Storage rooms/containers
+Many more subaltern bodies
+Disembarked mechs with people investigating them
+
+Service uniforms
+Lightly armored
+Icon on their armor is HA
+
+Ionia shipyard
+Decommissioned during the glorious war
+
+KEU member??
+Possible HA black ops??
+
