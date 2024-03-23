@@ -27,3 +27,10 @@ many more checks...
 
 Accepting Ra's bargain makes you hear or see a whisper of words, blinking into vision the parts of the mangled wreckage
 Not with words, but with emotions
+
+The generator starts back up, and pulses all the subalterns down in the room
+"No, don't unlock"
+
+Faded Union emblem, chassis' are torn in places
+The symbol gives a migraine
+Ring with large planet

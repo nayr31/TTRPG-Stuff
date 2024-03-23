@@ -6,7 +6,7 @@
       {
         "id": "4d0fc6c6efd3645f",
         "type": "tabs",
-        "dimension": 38.526785714285715,
+        "dimension": 36.1875,
         "children": [
           {
             "id": "63ea63bc28d77051",
@@ -52,7 +52,7 @@
       {
         "id": "f7796bfac0cffa81",
         "type": "tabs",
-        "dimension": 61.473214285714285,
+        "dimension": 63.81250000000001,
         "children": [
           {
             "id": "5820178da9ee985c",
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +264,7 @@
       "open-gate:ForgeVTT": false
     }
   },
-  "active": "c4a271ca3b5167b0",
+  "active": "5820178da9ee985c",
   "lastOpenFiles": [
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
