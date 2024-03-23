@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,10 +265,10 @@
       "open-gate:ForgeVTT": false
     }
   },
-  "active": "5c796277330db303",
+  "active": "c4a271ca3b5167b0",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
     "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "📑 Campaign Overview.md",

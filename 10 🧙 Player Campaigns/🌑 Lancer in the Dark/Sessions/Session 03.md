@@ -24,3 +24,6 @@ bust in guns blazing
 [[Princess]] heads on over to the generator
 many more checks...
 "Revenge for out fallen brothers"
+
+Accepting Ra's bargain makes you hear or see a whisper of words, blinking into vision the parts of the mangled wreckage
+Not with words, but with emotions
