@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - cards
-  - cards-cols-5
+  - cards-cols-4
 ---
 
 # [[10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
