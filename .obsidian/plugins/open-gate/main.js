@@ -254,6 +254,11 @@ var SettingTab = class extends import_obsidian3.PluginSettingTab {
         window.open("https://twitter.com/duocdev");
       });
     }).addButton((button) => {
+      button.setCta();
+      button.setButtonText("Bug report").onClick(() => {
+        window.open("https://aiocean.atlassian.net/servicedesk/customer/portal/4");
+      });
+    }).addButton((button) => {
       button.buttonEl.outerHTML = "<a href='https://paypal.me/duocnguyen' target='_blank'><img style='border:0px;height:35px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' /></a>";
     });
   }
@@ -6509,7 +6514,7 @@ function processNewSyntax(plugin, sourceCode) {
     data.url = firstLineUrl;
   }
   try {
-    data = parse(sourceCode);
+    data = Object.assign(data, parse(sourceCode));
   } catch (error) {
     return createErrorMessage(error);
   }
