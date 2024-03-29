@@ -1,6 +1,7 @@
 ---
 Date: 2024-01-05
 NoteIcon: Note
+Summary: Alma dies, the party disbanded.
 ---
 [[Alma]] is looking for something necromantic? Something at the [[Hexrose Research Facility]].
 
