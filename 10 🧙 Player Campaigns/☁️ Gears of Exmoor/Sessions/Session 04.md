@@ -16,3 +16,7 @@ A new man letter in hand comes.
 Recap of the plans, 
 
 [[Brywynn]] is in the pit, ready to be interrogated 
+Gets fucked around, tries for an amulet before being knocked out
+
+Prepare for a silent auction(?)/galla/vampire orgy?
+
