@@ -13,3 +13,6 @@ talk about warlock holmes
 
 A new man letter in hand comes.
 [[Paulie]], tall, neurotic, followed by albino pidgeon.
+Recap of the plans, 
+
+[[Brywynn]] is in the pit, ready to be interrogated 
