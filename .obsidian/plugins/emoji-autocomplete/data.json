@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "cry",
     "cloud",
     "clipboard",
     "notebook",
@@ -27,8 +28,7 @@
     "notebook_with_decorative_cover",
     "spiral_notepad",
     "green_circle",
-    "flower",
-    "mountain"
+    "flower"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

@@ -20,3 +20,8 @@ Gets fucked around, tries for an amulet before being knocked out
 
 Prepare for a silent auction(?)/galla/vampire orgy?
 
+Miri talks to [[Jasper]] about some stuff
+[[Avina]] offers the amulet used to seal [[Brywynn]], but declines
+
+Heist a dragon egg, and steal bracers from a nymph (who was getting them for her hometown 😢)
+
