@@ -446,57 +446,57 @@ settings:
 		title: Red
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#fe7968'
-		default-dark: '#ff8a78'
+		default-light: '#dd2c38'
+		default-dark: '#ff7881'
 	- 
 		id: color-orange-rgb
 		title: Orange
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#f39c12'
-		default-dark: '#fabe58'
+		default-light: '#de7417'
+		default-dark: '#fbbb83'
 	- 
 		id: color-yellow-rgb
 		title: Yellow
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#e5c700'
-		default-dark: '#ffec8b'
+		default-light: '#c09c0c'
+		default-dark: '#ffe88b'
 	- 
 		id: color-green-rgb
 		title: Green
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#78BA7E'
-		default-dark: '#87d37c'
+		default-light: '#1da51d'
+		default-dark: '#7cd37c'
 	- 
 		id: color-cyan-rgb
 		title: Cyan
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#36d7b7'
-		default-dark: '#86e2d5'
+		default-light: '#16a6ab'
+		default-dark: '#86dfe2'
 	- 
 		id: color-blue-rgb
 		title: Blue
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#038aff'
-		default-dark: '#89c4f4'
+		default-light: '#1775d9'
+		default-dark: '#89bdf4'
 	- 
 		id: color-purple-rgb
 		title: Purple
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#9455ec'
-		default-dark: '#c69eff'
+		default-light: '#8f47e1'
+		default-dark: '#cb9eff'
 	- 
 		id: color-pink-rgb
 		title: Pink
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#f23fa5'
-		default-dark: '#f2b6c1'
+		default-light: '#dd1399'
+		default-dark: '#f2b6de'
     - 
         id: Background-light
         title: Background
@@ -700,14 +700,14 @@ settings:
         title.zh: 底层背景（亮色模式）
         type: class-select
         allowEmpty: false
-        default: background-underlying-defalut-light
+        default: background-underlying-default-light
         options:
             -   label: background-primary
                 value: background-underlying-primary-light
             -   label: background-secondary
                 value: background-underlying-secondary-light
-            -   label: adapt to accent color(defalut)
-                value: background-underlying-defalut-light
+            -   label: adapt to accent color(default)
+                value: background-underlying-default-light
             -   label: customize color
                 value: background-underlying-Color-light
             -   label: customize CSS
@@ -1394,57 +1394,57 @@ settings:
 		title: Red
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#fe7968'
-		default-dark: '#ff8a78'
+		default-light: '#dd2c38'
+		default-dark: '#ff7881'
 	- 
 		id: color-orange-rgb
 		title: Orange
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#f39c12'
-		default-dark: '#fabe58'
+		default-light: '#de7417'
+		default-dark: '#fbbb83'
 	- 
 		id: color-yellow-rgb
 		title: Yellow
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#e5c700'
-		default-dark: '#ffec8b'
+		default-light: '#c09c0c'
+		default-dark: '#ffe88b'
 	- 
 		id: color-green-rgb
 		title: Green
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#78BA7E'
-		default-dark: '#87d37c'
+		default-light: '#1da51d'
+		default-dark: '#7cd37c'
 	- 
 		id: color-cyan-rgb
 		title: Cyan
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#36d7b7'
-		default-dark: '#86e2d5'
+		default-light: '#16a6ab'
+		default-dark: '#86dfe2'
 	- 
 		id: color-blue-rgb
 		title: Blue
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#038aff'
-		default-dark: '#89c4f4'
+		default-light: '#1775d9'
+		default-dark: '#89bdf4'
 	- 
 		id: color-purple-rgb
 		title: Purple
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#9455ec'
-		default-dark: '#c69eff'
+		default-light: '#8f47e1'
+		default-dark: '#cb9eff'
 	- 
 		id: color-pink-rgb
 		title: Pink
 		type: variable-themed-color
         format: 'rgb-values'
-		default-light: '#f23fa5'
-		default-dark: '#f2b6c1'
+		default-light: '#dd1399'
+		default-dark: '#f2b6de'
     - 
         id: Background-dark
         title: Background
@@ -1648,14 +1648,14 @@ settings:
         title.zh: 底层背景（暗色模式）
         type: class-select
         allowEmpty: false
-        default: background-underlying-defalut-dark
+        default: background-underlying-default-dark
         options:
             -   label: background-primary
                 value: background-underlying-primary-dark
             -   label: background-secondary
                 value: background-underlying-secondary-dark
-            -   label: adapt to accent color(defalut)
-                value: background-underlying-defalut-dark
+            -   label: adapt to accent color(default)
+                value: background-underlying-default-dark
             -   label: customize color
                 value: background-underlying-Color-dark
             -   label: customize CSS
@@ -2229,12 +2229,54 @@ name: Editor
 id: Editor
 settings:
     - 
+        id: border-focus-mode-heading
+        title: Focus mode
+        title.zh: 专注模式
+        type: heading
+        collapsed: ture
+        level: 3
+    - 
+        id: border-focus-mode-info
+        description: "Highlight active line"
+        description.zh: "突出显示当前活动行"
+        type: info-text
+        markdown: true
+    - 
+        id: border-focus-mode
+        title: Enable focus mode
+        title.zh: 启用 专注模式
+        type: class-toggle
+    - 
+		id: line-active-bg
+		title: Active line background color
+        title.zh: 活动行背景色
+		type: variable-themed-color
+		opacity: true
+		format: hex
+		default-light: '#'
+		default-dark: '#'
+    - 
+        id: line-normal-opacity
+        title: Normal line opacity
+        title.zh: 普通行透明度
+        type: variable-number-slider
+        default: 0.5
+        min: 0.05
+        max: 1
+        step: 0.05
+    - 
         id: line-emphasis
         title: Hover line indicator
         title.zh: 悬停行指示器
         type: heading
         collapsed: ture
         level: 3
+    - 
+        id: line-hover-indicator-info
+        description: "Display a vertical line indicator before hovered line"
+        description.zh: "在鼠标悬停行前显示一个竖线指示器"
+        type: info-text
+        markdown: true
     - 
         id: line-hover-indicator
         title: Enable hover line indicator
@@ -2302,6 +2344,14 @@ settings:
         type: variable-number
         default: 700
     - 
+		id: inline-title-text-transform
+		title: inline title text-transform
+		title.zh: 页内标题 text-transform
+		description: Accepts any CSS text-transform value
+		description.zh: 接受任何 CSS text-transform 值
+		type: variable-text
+		default: ''
+    - 
         id: inline-title-color-select
         title: inline title text color
         title.zh: 页内标题 文本颜色
@@ -2309,10 +2359,8 @@ settings:
         allowEmpty: false
         default: inline-title-color-default
         options:
-            -   label: Default
+            -   label: H1 color
                 value: inline-title-color-default
-            -   label: Designated color
-                value: inline-title-color-designated
             -   label: Customized color
                 value: inline-title-color-customized
 	- 
@@ -2359,6 +2407,22 @@ settings:
         type: variable-number
         default: 700
     - 
+		id: h1-text-transform
+		title: H1 text-transform
+		title.zh: H1 text-transform
+		description: Accepts any CSS text-transform value
+		description.zh: 接受任何 CSS text-transform 值
+		type: variable-text
+		default: ''
+    - 
+		id: h1-accent-color
+		title: Customize H1 accent color
+        title.zh: 自定义 H1 强调色
+		type: variable-themed-color
+		format: hex
+		default-light: '#'
+		default-dark: '#'
+    - 
         id: h1-color-select
         title: H1 text color
         title.zh: H1 文本颜色
@@ -2368,18 +2432,8 @@ settings:
         options:
             -   label: Default
                 value: h1-color-default
-            -   label: Designated color
+            -   label: Accent color
                 value: h1-color-designated
-            -   label: Customized color
-                value: h1-color-customized
-	- 
-		id: h1-color
-		title: Customize H1 text color
-        title.zh: 自定义 H1 文本颜色
-		type: variable-themed-color
-		format: hex
-		default-light: '#'
-		default-dark: '#'
     - 
 		id: level-2-headings
 		title: Level 2 Headings
@@ -2416,6 +2470,22 @@ settings:
         type: variable-number
         default: 675
     - 
+		id: h2-text-transform
+		title: H2 text-transform
+		title.zh: H2 text-transform
+		description: Accepts any CSS text-transform value
+		description.zh: 接受任何 CSS text-transform 值
+		type: variable-text
+		default: ''
+    - 
+        id: h2-accent-color
+		title: Customize H2 accent color
+        title.zh: 自定义 H2 强调色
+		type: variable-themed-color
+		format: hex
+		default-light: '#'
+		default-dark: '#'
+    - 
         id: h2-color-select
         title: H2 text color
         title.zh: H2 文本颜色
@@ -2425,18 +2495,8 @@ settings:
         options:
             -   label: Default
                 value: h2-color-default
-            -   label: Designated color
+            -   label: Accent color
                 value: h2-color-designated
-            -   label: Customized color
-                value: h2-color-customized
-	- 
-		id: h2-color
-		title: Customize H2 text color
-        title.zh: 自定义 H2 文本颜色
-		type: variable-themed-color
-		format: hex
-		default-light: '#'
-		default-dark: '#'
     - 
 		id: level-3-headings
 		title: Level 3 Headings
@@ -2473,6 +2533,22 @@ settings:
         type: variable-number
         default: 650
     - 
+		id: h3-text-transform
+		title: H3 text-transform
+		title.zh: H3 text-transform
+		description: Accepts any CSS text-transform value
+		description.zh: 接受任何 CSS text-transform 值
+		type: variable-text
+		default: ''
+    - 
+        id: h3-accent-color
+		title: Customize H3 accent color
+        title.zh: 自定义 H3 强调色
+		type: variable-themed-color
+		format: hex
+		default-light: '#'
+		default-dark: '#'
+    - 
         id: h3-color-select
         title: H3 text color
         title.zh: H3 文本颜色
@@ -2482,18 +2558,8 @@ settings:
         options:
             -   label: Default
                 value: h3-color-default
-            -   label: Designated color
+            -   label: Accent color
                 value: h3-color-designated
-            -   label: Customized color
-                value: h3-color-customized
-	- 
-		id: h3-color
-		title: Customize H3 text color
-        title.zh: 自定义 H3 文本颜色
-		type: variable-themed-color
-		format: hex
-		default-light: '#'
-		default-dark: '#'
     - 
 		id: level-4-headings
 		title: Level 4 Headings
@@ -2530,6 +2596,22 @@ settings:
         type: variable-number
         default: 625
     - 
+		id: h4-text-transform
+		title: H4 text-transform
+    	title.zh: H4 text-transform
+		description: Accepts any CSS text-transform value
+		description.zh: 接受任何 CSS text-transform 值
+		type: variable-text
+		default: ''
+    - 
+        id: h4-accent-color
+		title: Customize H4 accent color
+        title.zh: 自定义 H4 强调色
+		type: variable-themed-color
+		format: hex
+		default-light: '#'
+		default-dark: '#'
+    - 
         id: h4-color-select
         title: H4 text color
         title.zh: H4 文本颜色
@@ -2539,18 +2621,8 @@ settings:
         options:
             -   label: Default
                 value: h4-color-default
-            -   label: Designated color
+            -   label: Accent color
                 value: h4-color-designated
-            -   label: Customized color
-                value: h4-color-customized
-	- 
-		id: h4-color
-		title: Customize H4 text color
-        title.zh: 自定义 H4 文本颜色
-		type: variable-themed-color
-		format: hex
-		default-light: '#'
-		default-dark: '#'
     - 
 		id: level-5-headings
 		title: Level 5 Headings
@@ -2587,6 +2659,22 @@ settings:
         type: variable-number
         default: 600
     - 
+		id: h5-text-transform
+		title: H5 text-transform
+		title.zh: H5 text-transform
+		description: Accepts any CSS text-transform value
+		description.zh: 接受任何 CSS text-transform 值
+		type: variable-text
+		default: ''
+    - 
+        id: h5-accent-color
+		title: Customize H5 accent color
+        title.zh: 自定义 H5 强调色
+		type: variable-themed-color
+		format: hex
+		default-light: '#'
+		default-dark: '#'
+    - 
         id: h5-color-select
         title: H5 text color
         title.zh: H5 文本颜色
@@ -2596,19 +2684,9 @@ settings:
         options:
             -   label: Default
                 value: h5-color-default
-            -   label: Designated color
+            -   label: Accent color
                 value: h5-color-designated
-            -   label: Customized color
-                value: h5-color-customized
 	- 
-		id: h5-color
-		title: Customize H5 text color
-        title.zh: 自定义 H5 文本颜色
-		type: variable-themed-color
-		format: hex
-		default-light: '#'
-		default-dark: '#'
-    - 
 		id: level-6-headings
 		title: Level 6 Headings
         title.zh: 六级标题
@@ -2644,6 +2722,22 @@ settings:
         type: variable-number
         default: 575
     - 
+		id: h6-text-transform
+		title: H6 text-transform
+		title.zh: H6 text-transform
+		description: Accepts any CSS text-transform value
+		description.zh: 接受任何 CSS text-transform 值
+		type: variable-text
+		default: ''
+    - 
+        id: h6-accent-color
+		title: Customize H6 accent color
+        title.zh: 自定义 H6 强调色
+		type: variable-themed-color
+		format: hex
+		default-light: '#'
+		default-dark: '#'
+    - 
         id: h6-color-select
         title: H6 text color
         title.zh: H6 文本颜色
@@ -2653,18 +2747,8 @@ settings:
         options:
             -   label: Default
                 value: h6-color-default
-            -   label: Designated color
+            -   label: Accent color
                 value: h6-color-designated
-            -   label: Customized color
-                value: h6-color-customized
-	- 
-		id: h6-color
-		title: Customize H6 text color
-        title.zh: 自定义 H6 文本颜色
-		type: variable-themed-color
-		format: hex
-		default-light: '#'
-		default-dark: '#'
     - 
         id: Paragraph
         title: Paragraph
@@ -2915,7 +2999,7 @@ settings:
 		default: 2em
     - 
 		id: list-spacing
-		title: list indent
+		title: list spacing
         title.zh:  列表间距
 		type: variable-text
 		default: 0.075em
@@ -3095,6 +3179,8 @@ settings:
                 value: codeblock-style-solarized-light
             -   label: Solarized dark
                 value: codeblock-style-solarized-dark
+            -   label: One dark
+                value: codeblock-style-one-dark
     - 
         id: code-background-light
         title: Customize code background (light mode)
@@ -3485,15 +3571,8 @@ settings:
 
 
 /*hide style setting option*/
-body.line-active-disable .setting-item:is([data-id=line-active-bg-color], [data-id=line-active-bg-customize]),
-body:not(.line-active-bg-color-customize) .setting-item[data-id=line-active-bg-customize],
+body:not(.border-focus-mode) .setting-item:is([data-id=line-active-bg], [data-id=line-normal-opacity]),
 body:not(.inline-title-color-customized) .setting-item[data-id=inline-title-color],
-body:not(.h1-color-customized) .setting-item[data-id=h1-color],
-body:not(.h2-color-customized) .setting-item[data-id=h2-color],
-body:not(.h3-color-customized) .setting-item[data-id=h3-color],
-body:not(.h4-color-customized) .setting-item[data-id=h4-color],
-body:not(.h5-color-customized) .setting-item[data-id=h5-color],
-body:not(.h6-color-customized) .setting-item[data-id=h6-color],
 body:not(.background-underlying-Color-light) .setting-item[data-id=background-underlying-light],
 body:not(.background-underlying-CSS-light) .setting-item:is([data-id=background-underlying-CSS-light], [data-id=background-underlying-CSS-blend-mode-light]),
 body:not(.background-underlying-Color-dark) .setting-item[data-id=background-underlying-dark],
@@ -3684,21 +3763,21 @@ body {
     --highlight-mix-blend-mode: darken;
     --mono-rgb-0: 255, 255, 255;
     --mono-rgb-100: 0, 0, 0;
-    --color-red-rgb: 254, 121, 104;
+    --color-red-rgb: 221, 44, 56;
     --color-red: rgb(var(--color-red-rgb));
-    --color-green-rgb: 120, 186, 126;
+    --color-green-rgb: 29, 165, 29;
     --color-green: rgb(var(--color-green-rgb));
-    --color-orange-rgb: 243, 156, 18;
+    --color-orange-rgb: 222, 116, 23;
     --color-orange: rgb(var(--color-orange-rgb));
-    --color-yellow-rgb: 229, 199, 0;
+    --color-yellow-rgb: 192, 156, 12;
     --color-yellow: rgb(var(--color-yellow-rgb));
-    --color-cyan-rgb: 54, 215, 183;
+    --color-cyan-rgb: 22, 166, 171;
     --color-cyan: rgb(var(--color-cyan-rgb));
-    --color-blue-rgb: 3, 138, 255;
+    --color-blue-rgb: 23, 117, 217;
     --color-blue: rgb(var(--color-blue-rgb));
-    --color-purple-rgb: 148, 85, 236;
+    --color-purple-rgb: 143, 71, 225;
     --color-purple: rgb(var(--color-purple-rgb));
-    --color-pink-rgb: 242, 63, 165;
+    --color-pink-rgb: 221, 19, 153;
     --color-pink: rgb(var(--color-pink-rgb));
     --color-base-00: #ffffff;
     --color-base-05: #fcfcfc;
@@ -3790,21 +3869,21 @@ body {
     --highlight-mix-blend-mode: lighten;
     --mono-rgb-0: 0, 0, 0;
     --mono-rgb-100: 255, 255, 255;
-    --color-red-rgb: 255, 138, 120;
+    --color-red-rgb: 255, 120, 129;
     --color-red: rgb(var(--color-red-rgb));
-    --color-green-rgb: 135, 211, 124;
+    --color-green-rgb: 124, 211, 124;
     --color-green: rgb(var(--color-green-rgb));
-    --color-orange-rgb: 250, 190, 88;
+    --color-orange-rgb: 251, 187, 131;
     --color-orange: rgb(var(--color-orange-rgb));
-    --color-yellow-rgb: 255, 236, 139;
+    --color-yellow-rgb: 255, 232, 139;
     --color-yellow: rgb(var(--color-yellow-rgb));
-    --color-cyan-rgb: 134, 226, 213;
+    --color-cyan-rgb: 134, 223, 226;
     --color-cyan: rgb(var(--color-cyan-rgb));
-    --color-blue-rgb: 137, 196, 244;
+    --color-blue-rgb: 137, 189, 244;
     --color-blue: rgb(var(--color-blue-rgb));
-    --color-purple-rgb: 198, 158, 255;
+    --color-purple-rgb: 203, 158, 255;
     --color-purple: rgb(var(--color-purple-rgb));
-    --color-pink-rgb: 242, 182, 193;
+    --color-pink-rgb: 242, 182, 222;
     --color-pink: rgb(var(--color-pink-rgb));
     --color-base-00: #1e1e1e;
     --color-base-10: #242424;
@@ -3926,8 +4005,6 @@ body {
             calc(var(--accent-s) / 7),
             calc(var(--accent-l) / 3.2));
     --background-table-rows: var(--color-base-00);
-    --line-active-bg: rgba(255, 255, 255, 0.08);
-    --line-active-bg-customize: rgba(255, 255, 255, 0.08);
     --background-modifier-border: var(--color-base-30);
     --background-modifier-border-hover: var(--color-base-35);
     --background-modifier-border-focus: var(--color-base-40);
@@ -3948,11 +4025,11 @@ body {
 
 /*body:not(.is-phone, .extra-anim-remove) .graph-controls:not(.is-close),
 body:not(.is-phone, .extra-anim-remove) .popover:not(.svelte-1xg3ic1),
+body:not(.is-phone, .extra-anim-remove) .modal:not(:has(.checkbox-container)),
 body:not(.is-phone, .extra-anim-remove) .menu:not(.mk-style-menu, .svelte-1xg3ic1),
 body:not(.is-phone, .extra-anim-remove) .suggestion-container:not([data-popper-placement="bottom-start"]),*/
 body:not(.is-phone, .extra-anim-remove) .prompt,
-body:not(.is-mobile, .extra-anim-remove) .document-search-container,
-body:not(.is-phone, .extra-anim-remove) .modal:not(:has(.checkbox-container)) {
+body:not(.is-mobile, .extra-anim-remove) .document-search-container {
     -webkit-animation: scale-up var(--anim-duration-fast) cubic-bezier(0.175, 0.885, 0.320, 1.095) both;
     animation: scale-up var(--anim-duration-fast) cubic-bezier(0.175, 0.885, 0.320, 1.095) both;
 }
@@ -4106,8 +4183,8 @@ body.background-underlying-secondary-dark.theme-dark {
     --background-underlying: var(--background-secondary) !important;
 }
 
-body.background-underlying-defalut-light.theme-light,
-body.background-underlying-defalut-dark.theme-dark {
+body.background-underlying-default-light.theme-light,
+body.background-underlying-default-dark.theme-dark {
     --background-underlying: var(--background-tertiary) !important;
 }
 
@@ -4401,7 +4478,7 @@ body:not(.is-mobile).theme-dark:not(.card-layout-open-dark).mod-root-split-backg
 /* ====== Layout ===== */
 /* default Layout*/
 body {
-    --card-shadow-light: 0px 0px 8px hsla(var(--accent-h), 18%, 80%, 0.4), 0px 0px 6px hsla(var(--accent-h), 18%, 80%, 0.2);
+    --card-shadow-light: 0px 0px 6px hsla(var(--accent-h), 18%, 80%, 0.4), 0px 0px 2px hsla(var(--accent-h), 18%, 80%, 0.2), 0 0 0 1px var(--background-modifier-border);
     --card-shadow-dark: 0px 0px 0px 1px var(--background-modifier-border);
     --card-border-radius-light: 8px;
     --card-border-radius-dark: 8px;
@@ -4485,7 +4562,7 @@ body:not(.is-mobile) .workspace::before {
     height: calc(100% - 44px);
     border-radius: var(--card-shadow-border-radius-light, 7px);
     background-color: transparent;
-    box-shadow: var(--card-shadow-light, 0px 0px 8px hsla(var(--accent-h), 18%, 80%, 0.4), 0px 0px 6px hsla(var(--accent-h), 18%, 80%, 0.2));
+    box-shadow: var(--card-shadow-light);
     position: absolute;
     bottom: 0px;
     right: 0px;
@@ -4556,7 +4633,7 @@ body:not(.is-mobile).card-layout-open-light.theme-light .workspace-split.mod-ver
 body:not(.is-mobile).card-layout-open-light.theme-light .workspace-tab-container {
     border-radius: var(--card-border-radius-light, 8px) !important;
     overflow: hidden !important;
-    box-shadow: var(--card-shadow-light, 0px 0px 8px hsla(var(--accent-h), 18%, 80%, 0.4), 0px 0px 6px hsla(var(--accent-h), 18%, 80%, 0.2));
+    box-shadow: var(--card-shadow-light);
 }
 
 body:not(.is-mobile).card-layout-open-light.theme-light .workspace-tabs,
@@ -4785,6 +4862,15 @@ body:not(.is-frameless):not(.qe-hide-breadcrumbs) .status-bar {
     --frame-right-space: 110px;
 }
 
+.workspace-tab-header-container {
+    padding-right: var(--size-2-3);
+}
+
+body:not(.is-hidden-frameless):not(.is-mobile) .workspace .workspace-tabs.mod-top-right-space .workspace-tab-header-container,
+.mod-macos.is-hidden-frameless .workspace .workspace-tabs.mod-top-right-space .workspace-tab-header-container {
+    padding-right: 0px !important;
+}
+
 .workspace-tab-header::before,
 .workspace-tab-header::after {
     display: none;
@@ -4799,13 +4885,12 @@ body:not(.is-frameless):not(.qe-hide-breadcrumbs) .status-bar {
     position: unset;
 }
 
-.mod-macos.is-hidden-frameless:not(.is-popout-window) .workspace .workspace-tabs.mod-top-right-space .workspace-tab-header-container {
-    padding-right: 0px;
+.workspace-tab-header-tab-list {
+    margin-right: 0;
 }
 
-body:not(.is-hidden-frameless):not(.is-popout-window):not(.is-mobile) .sidebar-toggle-button.mod-right,
-body:not(.is-hidden-frameless):not(.is-popout-window):not(.is-mobile).hider-sidebar-buttons .mod-root .workspace-tab-header-tab-list {
-    margin-right: -8px;
+body:not(.hider-sidebar-buttons) .workspace-tab-header-tab-list:has(+.sidebar-toggle-button.mod-right) {
+    margin-right: var(--size-4-1);
 }
 
 .workspace-tab-header-inner {
@@ -5189,6 +5274,7 @@ body:not(.is-mobile):not(.is-popout-window).tab-autohide.mod-macos.is-hidden-fra
 /* hider plugin*/
 .hider-sidebar-buttons.mod-macos .sidebar-toggle-button.mod-left {
     display: unset;
+    -webkit-app-region: drag;
 }
 
 .hider-sidebar-buttons.mod-macos .sidebar-toggle-button.mod-left>.clickable-icon {
@@ -6202,15 +6288,15 @@ body:not(.file-icon-remove) .nav-folder-children>.nav-folder:nth-child(8n+2) {
 }
 
 body:not(.file-icon-remove) .nav-folder-children>.nav-folder:nth-child(8n+3) {
-    --colorful-folder-color: var(--color-green);
-}
-
-body:not(.file-icon-remove) .nav-folder-children>.nav-folder:nth-child(8n+4) {
     --colorful-folder-color: var(--color-orange);
 }
 
-body:not(.file-icon-remove) .nav-folder-children>.nav-folder:nth-child(8n+5) {
+body:not(.file-icon-remove) .nav-folder-children>.nav-folder:nth-child(8n+4) {
     --colorful-folder-color: var(--color-yellow);
+}
+
+body:not(.file-icon-remove) .nav-folder-children>.nav-folder:nth-child(8n+5) {
+    --colorful-folder-color: var(--color-green);
 }
 
 body:not(.file-icon-remove) .nav-folder-children>.nav-folder:nth-child(8n+6) {
@@ -6587,12 +6673,12 @@ body {
     --h4-color: inherit;
     --h5-color: inherit;
     --h6-color: inherit;
-    --h1-indicator-color: var(--color-red);
-    --h2-indicator-color: var(--color-orange);
-    --h3-indicator-color: var(--color-yellow);
-    --h4-indicator-color: var(--color-green);
-    --h5-indicator-color: var(--color-blue);
-    --h6-indicator-color: var(--color-purple);
+    --h1-accent-color: var(--color-red);
+    --h2-accent-color: var(--color-orange);
+    --h3-accent-color: var(--color-yellow);
+    --h4-accent-color: var(--color-green);
+    --h5-accent-color: var(--color-blue);
+    --h6-accent-color: var(--color-purple);
     --h1-font: inherit;
     --h2-font: inherit;
     --h3-font: inherit;
@@ -6631,58 +6717,53 @@ body {
     --h6-weight: 575;
 }
 
-.inline-title-color-default {
-    --inline-title-color: var(--text-normal) !important;
+body {
+    /* Extra */
+    --inline-title-text-transform: var(--h1-text-transform);
+    --h1-text-transform: unset;
+    --h2-text-transform: unset;
+    --h3-text-transform: unset;
+    --h4-text-transform: unset;
+    --h5-text-transform: unset;
+    --h6-text-transform: unset;
 }
 
-.inline-title-color-designated {
-    --inline-title-color: var(--color-accent) !important;
+.inline-title {
+    text-transform: var(--inline-title-text-transform);
 }
 
-
-body:not(.inline-title-divider-remove) .inline-title {
+body:not(.inline-title-divider-remove) .inline-title:not(.mk-inline-title) {
     border-bottom: 1px solid var(--divider-color);
     padding-bottom: var(--size-4-3);
     margin-bottom: var(--size-4-3);
-}
-
-body:not(.inline-title-divider-remove) .mk-folder-header .inline-title,
-body:not(.inline-title-divider-remove) .mk-file-icon+.inline-title {
-    border-bottom: unset;
-    margin-bottom: unset;
 }
 
 .embedded-backlinks {
     border-top: 1px solid var(--divider-color);
 }
 
+body:not(.heading-indicator-off) .markdown-preview-view .heading-collapse-indicator,
 body:not(.heading-indicator-off) .is-live-preview .HyperMD-header .collapse-indicator.collapse-icon {
     transform: translateX(-8px);
 }
 
-body:not(.heading-indicator-off) .markdown-preview-view .heading-collapse-indicator {
-    transform: translateX(-4px);
-}
-
-body:not(.heading-indicator-off) :is(.markdown-rendered, .markdown-preview-view) :is(h1, h2, h3, h4, h5, h6) {
+body:not(.heading-indicator-off) .markdown-rendered>:is(h1, h2, h3, h4, h5, h6),
+body:not(.heading-indicator-off) .markdown-preview-sizer>div>:is(h1, h2, h3, h4, h5, h6) {
     position: relative;
-    text-indent: 5px;
+    text-indent: 9px;
 }
 
 /* h1 */
-
-.h1-color-default {
-    --h1-color: var(--text-normal) !important;
-    --h1-indicator-color: var(--color-red) !important;
+h1,
+.markdown-rendered h1,
+.HyperMD-header-1,
+.inline-title[data-level='1'],
+.HyperMD-list-line .cm-header-1 {
+    text-transform: var(--h1-text-transform);
 }
 
 .h1-color-designated {
-    --h1-color: var(--color-red) !important;
-    --h1-indicator-color: var(--h1-color);
-}
-
-.h1-color-customized {
-    --h1-indicator-color: var(--h1-color);
+    --h1-color: var(--h1-accent-color) !important;
 }
 
 body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-1::before {
@@ -6692,7 +6773,7 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-1::before {
     width: 3px;
     height: calc(1.2em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h1-indicator-color);
+    background-color: var(--h1-accent-color);
     transform: translateY(4px);
 }
 
@@ -6704,7 +6785,7 @@ body:not(.heading-indicator-off) .markdown-preview-sizer>div>h1::before {
     width: 3px;
     height: calc(1.2em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h1-indicator-color);
+    background-color: var(--h1-accent-color);
     position: absolute;
     top: 4px;
     left: 0px;
@@ -6719,7 +6800,7 @@ body.h1-divider-on :is(.markdown-preview-sizer>div>h1, .markdown-rendered>h1, .H
     right: 0px;
     opacity: 0.5;
     bottom: 0;
-    background-image: linear-gradient(to left, var(--h1-indicator-color) 30%, transparent 70%);
+    background-image: linear-gradient(to left, var(--h1-accent-color) 30%, transparent 70%);
 }
 
 body:not(.collapse-icon-restore) .is-live-preview .HyperMD-header-1 .collapse-indicator.collapse-icon svg,
@@ -6731,22 +6812,20 @@ body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view)
 
 body:not(.collapse-icon-restore) .is-live-preview .HyperMD-header-1 .is-collapsed .collapse-indicator.collapse-icon svg,
 body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view) .is-collapsed h1 .collapse-indicator.collapse-icon svg {
-    background-color: var(--h1-indicator-color);
-    color: var(--h1-indicator-color);
+    background-color: var(--h1-accent-color);
+    color: var(--h1-accent-color);
 }
 
-.h2-color-default {
-    --h2-color: var(--text-normal) !important;
-    --h2-indicator-color: var(--color-orange) !important;
+h2,
+.markdown-rendered h2,
+.HyperMD-header-2,
+.inline-title[data-level='2'],
+.HyperMD-list-line .cm-header-2 {
+    text-transform: var(--h2-text-transform);
 }
 
 .h2-color-designated {
-    --h2-color: var(--color-orange) !important;
-    --h2-indicator-color: var(--h2-color);
-}
-
-.h2-color-customized {
-    --h2-indicator-color: var(--h2-color);
+    --h2-color: var(--h2-accent-color) !important;
 }
 
 body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-2::before {
@@ -6756,7 +6835,7 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-2::before {
     width: 3px;
     height: calc(1.2em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h2-indicator-color);
+    background-color: var(--h2-accent-color);
     transform: translateY(4px);
 }
 
@@ -6768,7 +6847,7 @@ body:not(.heading-indicator-off) .markdown-preview-sizer>div>h2::before {
     width: 3px;
     height: calc(1.2em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h2-indicator-color);
+    background-color: var(--h2-accent-color);
     position: absolute;
     top: 4px;
     left: 0px;
@@ -6783,7 +6862,7 @@ body.h2-divider-on :is(.markdown-preview-sizer>div>h2, .markdown-rendered>h2, .H
     right: 0px;
     opacity: 0.5;
     bottom: 0;
-    background-image: linear-gradient(to left, var(--h2-indicator-color) 30%, transparent 70%);
+    background-image: linear-gradient(to left, var(--h2-accent-color) 30%, transparent 70%);
 }
 
 
@@ -6796,24 +6875,21 @@ body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view)
 
 body:not(.collapse-icon-restore) .is-live-preview .HyperMD-header-2 .is-collapsed .collapse-indicator.collapse-icon svg,
 body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view) .is-collapsed h2 .collapse-indicator.collapse-icon svg {
-    background-color: var(--h2-indicator-color);
-    color: var(--h2-indicator-color);
+    background-color: var(--h2-accent-color);
+    color: var(--h2-accent-color);
 }
 
-.h3-color-default {
-    --h3-color: var(--text-normal) !important;
-    --h3-indicator-color: var(--color-yellow) !important;
+h3,
+.markdown-rendered h3,
+.HyperMD-header-3,
+.inline-title[data-level='3'],
+.HyperMD-list-line .cm-header-3 {
+    text-transform: var(--h3-text-transform);
 }
 
 .h3-color-designated {
-    --h3-color: var(--color-yellow) !important;
-    --h3-indicator-color: var(--h3-color);
+    --h3-color: var(--h3-accent-color) !important;
 }
-
-.h3-color-customized {
-    --h3-indicator-color: var(--h3-color);
-}
-
 
 body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-3::before {
     margin-right: 6px;
@@ -6822,7 +6898,7 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-3::before {
     width: 3px;
     height: calc(1.3em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h3-indicator-color);
+    background-color: var(--h3-accent-color);
     transform: translateY(4px);
 }
 
@@ -6834,7 +6910,7 @@ body:not(.heading-indicator-off) .markdown-preview-sizer>div>h3::before {
     width: 3px;
     height: calc(1.3em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h3-indicator-color);
+    background-color: var(--h3-accent-color);
     position: absolute;
     top: 4px;
     left: 0px;
@@ -6848,7 +6924,7 @@ body.h3-divider-on :is(.markdown-preview-sizer>div>h3, .markdown-rendered>h3, .H
     right: 0px;
     opacity: 0.5;
     bottom: 0;
-    background-image: linear-gradient(to left, var(--h3-indicator-color) 30%, transparent 70%);
+    background-image: linear-gradient(to left, var(--h3-accent-color) 30%, transparent 70%);
 }
 
 body:not(.collapse-icon-restore) .is-live-preview .HyperMD-header-3 .collapse-indicator.collapse-icon svg,
@@ -6860,22 +6936,20 @@ body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view)
 
 body:not(.collapse-icon-restore) .is-live-preview .HyperMD-header-3 .is-collapsed .collapse-indicator.collapse-icon svg,
 body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view) .is-collapsed h3 .collapse-indicator.collapse-icon svg {
-    background-color: var(--h3-indicator-color);
-    color: var(--h3-indicator-color);
+    background-color: var(--h3-accent-color);
+    color: var(--h3-accent-color);
 }
 
-.h4-color-default {
-    --h4-color: var(--text-normal) !important;
-    --h4-indicator-color: var(--color-green) !important;
+h4,
+.markdown-rendered h4,
+.HyperMD-header-4,
+.inline-title[data-level='4'],
+.HyperMD-list-line .cm-header-4 {
+    text-transform: var(--h4-text-transform);
 }
 
 .h4-color-designated {
-    --h4-color: var(--color-green) !important;
-    --h4-indicator-color: var(--h4-color);
-}
-
-.h4-color-customized {
-    --h4-indicator-color: var(--h4-color);
+    --h4-color: var(--h4-accent-color) !important;
 }
 
 body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-4::before {
@@ -6885,7 +6959,7 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-4::before {
     width: 3px;
     height: calc(1.4em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h4-indicator-color);
+    background-color: var(--h4-accent-color);
     transform: translateY(4px);
 }
 
@@ -6897,7 +6971,7 @@ body:not(.heading-indicator-off) .markdown-preview-sizer>div>h4::before {
     width: 3px;
     height: calc(1.4em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h4-indicator-color);
+    background-color: var(--h4-accent-color);
     position: absolute;
     top: 4px;
     left: 0px;
@@ -6912,7 +6986,7 @@ body.h4-divider-on :is(.markdown-rendered>h4, .markdown-preview-sizer>div>h4, .H
     right: 0px;
     opacity: 0.5;
     bottom: 0;
-    background-image: linear-gradient(to left, var(--h4-indicator-color) 30%, transparent 70%);
+    background-image: linear-gradient(to left, var(--h4-accent-color) 30%, transparent 70%);
 }
 
 body:not(.collapse-icon-restore) .is-live-preview .HyperMD-header-4 .collapse-indicator.collapse-icon svg,
@@ -6924,24 +6998,21 @@ body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view)
 
 body:not(.collapse-icon-restore) .is-live-preview .HyperMD-header-4 .is-collapsed .collapse-indicator.collapse-icon svg,
 body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view) .is-collapsed h4 .collapse-indicator.collapse-icon svg {
-    background-color: var(--h4-indicator-color);
-    color: var(--h4-indicator-color);
+    background-color: var(--h4-accent-color);
+    color: var(--h4-accent-color);
 }
 
-.h5-color-default {
-    --h5-color: var(--text-normal) !important;
-    --h5-indicator-color: var(--color-blue) !important;
+h5,
+.markdown-rendered h5,
+.HyperMD-header-5,
+.inline-title[data-level='5'],
+.HyperMD-list-line .cm-header-5 {
+    text-transform: var(--h5-text-transform);
 }
 
 .h5-color-designated {
-    --h5-color: var(--color-blue) !important;
-    --h5-indicator-color: var(--h5-color);
+    --h5-color: var(--h5-accent-color) !important;
 }
-
-.h5-color-customized {
-    --h5-indicator-color: var(--h5-color);
-}
-
 
 body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-5::before {
     margin-right: 6px;
@@ -6950,7 +7021,7 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-5::before {
     width: 3px;
     height: calc(1.5em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h5-indicator-color);
+    background-color: var(--h5-accent-color);
     transform: translateY(4px);
 }
 
@@ -6962,7 +7033,7 @@ body:not(.heading-indicator-off) .markdown-preview-sizer>div>h5::before {
     width: 3px;
     height: calc(1.5em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h5-indicator-color);
+    background-color: var(--h5-accent-color);
     position: absolute;
     top: 4px;
     left: 0px;
@@ -6977,7 +7048,7 @@ body.h5-divider-on :is(.markdown-rendered>h5, .markdown-preview-sizer>div>h5, .H
     right: 0px;
     opacity: 0.5;
     bottom: 0;
-    background-image: linear-gradient(to left, var(--h5-indicator-color) 30%, transparent 70%);
+    background-image: linear-gradient(to left, var(--h5-accent-color) 30%, transparent 70%);
 }
 
 body:not(.collapse-icon-restore) .is-live-preview .HyperMD-header-5 .collapse-indicator.collapse-icon svg,
@@ -6989,25 +7060,21 @@ body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view)
 
 body:not(.collapse-icon-restore) .is-live-preview .HyperMD-header-5 .is-collapsed .collapse-indicator.collapse-icon svg,
 body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view) .is-collapsed h5 .collapse-indicator.collapse-icon svg {
-    background-color: var(--h5-indicator-color);
-    color: var(--h5-indicator-color);
+    background-color: var(--h5-accent-color);
+    color: var(--h5-accent-color);
 }
 
-
-.h6-color-default {
-    --h6-color: var(--text-normal) !important;
-    --h6-indicator-color: var(--color-purple) !important;
+h6,
+.markdown-rendered h6,
+.HyperMD-header-6,
+.inline-title[data-level='6'],
+.HyperMD-list-line .cm-header-6 {
+    text-transform: var(--h6-text-transform);
 }
 
 .h6-color-designated {
-    --h6-color: var(--color-purple) !important;
-    --h6-indicator-color: var(--h6-color);
+    --h6-color: var(--h6-accent-color) !important;
 }
-
-.h6-color-customized {
-    --h6-indicator-color: var(--h6-color);
-}
-
 
 body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-6::before {
     margin-right: 6px;
@@ -7016,7 +7083,7 @@ body:not(.heading-indicator-off) .is-live-preview .HyperMD-header-6::before {
     width: 3px;
     height: calc(1.5em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h6-indicator-color);
+    background-color: var(--h6-accent-color);
     transform: translateY(4px);
 }
 
@@ -7028,7 +7095,7 @@ body:not(.heading-indicator-off) .markdown-preview-sizer>div>h6::before {
     width: 3px;
     height: calc(1.5em - 8px);
     border-radius: var(--radius-m);
-    background-color: var(--h6-indicator-color);
+    background-color: var(--h6-accent-color);
     position: absolute;
     top: 4px;
     left: 0px;
@@ -7043,7 +7110,7 @@ body.h6-divider-on :is(.markdown-rendered>h6, .markdown-preview-sizer>div>h6, .H
     right: 0px;
     opacity: 0.5;
     bottom: 0;
-    background-image: linear-gradient(to left, var(--h6-indicator-color) 30%, transparent 70%);
+    background-image: linear-gradient(to left, var(--h6-accent-color) 30%, transparent 70%);
 }
 
 
@@ -7057,9 +7124,10 @@ body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view)
 
 body:not(.collapse-icon-restore) .is-live-preview .HyperMD-header-6 .is-collapsed .collapse-indicator.collapse-icon svg,
 body:not(.collapse-icon-restore) :is(.markdown-rendered, .markdown-preview-view) .is-collapsed h6 .collapse-indicator.collapse-icon svg {
-    background-color: var(--h6-indicator-color);
-    color: var(--h6-indicator-color);
+    background-color: var(--h6-accent-color);
+    color: var(--h6-accent-color);
 }
+
 
 
 
@@ -7068,6 +7136,10 @@ body {
     /* Links */
     --link-external-color: var(--color-blue);
     --link-external-color-hover: var(--color-blue);
+}
+
+.cm-s-obsidian span.cm-link a {
+    color: var(--link-external-color);
 }
 
 a:not(.tag, .raindrop-tag, .clickable-icon, :has(img:not(.link-favicon))):hover,
@@ -7100,42 +7172,42 @@ body {
 
 /* ====== line emphasis ====== */
 /* ====== highlight ====== */
-/*
-.theme-dark {
-    --line-active-bg: rgba(255, 255, 255, 0.04);
-    --line-active-bg-customize: rgba(255, 255, 255, 0.04);
+body {
+    --line-normal-opacity: 0.5;
 }
 
-.theme-light {
-    --line-active-bg: rgba(0, 0, 0, 0.035);
-    --line-active-bg-customize: rgba(0, 0, 0, 0.035);
-}
-
-body:not(.line-active-disable) .cm-lineWrapping>.cm-line.cm-active:not(:has(.mk-note-footer, .mk-floweditor-container), .HyperMD-header) {
+.border-focus-mode .cm-lineWrapping>.cm-line.cm-active:not(:has(.mk-note-footer, .mk-floweditor-container)) {
     background-color: var(--line-active-bg);
     border-radius: var(--radius-s);
+    opacity: 1;
 }
 
-body:not(.line-active-disable).line-active-bg-color-accent .cm-lineWrapping>.cm-line.cm-active {
-    --line-active-bg: hsla(var(--interactive-accent-hsl), 0.08);
-}
-
-body:not(.line-active-disable).line-active-bg-color-customize .cm-lineWrapping>.cm-line.cm-active {
-    --line-active-bg: var(--line-active-bg-customize);
-}
-
-.cm-lineWrapping>.cm-line:not(.HyperMD-codeblock) {
+.border-focus-mode .cm-lineWrapping>.cm-line {
     padding-left: var(--size-4-1);
     padding-right: var(--size-4-1);
+    opacity: var(--line-normal-opacity);
 }
 
-.cm-lineWrapping>.cm-table-widget .cm-line {
+.border-focus-mode .cm-lineWrapping>.cm-table-widget .cm-line {
     background-color: unset !important;
     border-radius: unset !important;
     padding-left: unset !important;
     padding-right: unset !important;
 }
-*/
+
+.border-focus-mode .markdown-source-view .cm-scroller .cm-line.cm-active.HyperMD-codeblock-bg:not(.HyperMD-codeblock-begin-bg, .HyperMD-codeblock-end-bg) {
+    border-radius: 0px;
+}
+
+.border-focus-mode .markdown-source-view .cm-scroller .cm-line.cm-active.HyperMD-codeblock-begin-bg {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.border-focus-mode .markdown-source-view .cm-scroller .cm-line.cm-active.HyperMD-codeblock-end-bg {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
 
 /* ====== hover indicator ====== */
 
@@ -7145,15 +7217,14 @@ body {
     --hover-indicator-color: var(--color-accent);
 }
 
-.line-hover-indicator .workspace-leaf-content[data-type="markdown"] .markdown-source-view .cm-content>div:not(.image-embed, .mk-header, :has(.mk-note-footer)),
-.line-hover-indicator .workspace-leaf-content[data-type="markdown"]:not(:has(.document-search-container)) .markdown-preview-sizer>div:not([class], :has(.collapse-indicator, .mk-header)) {
+.line-hover-indicator .workspace-leaf-content[data-type="markdown"] .markdown-preview-sizer>div:not([class], :has(.collapse-indicator, .mk-header)) {
     position: relative;
 }
 
 .line-hover-indicator .workspace-leaf-content[data-type="markdown"] .markdown-source-view .cm-content>div:not(:has(.mk-note-footer)):has(.cm-hmd-list-indent)::after,
 .line-hover-indicator .workspace-leaf-content[data-type="markdown"] .markdown-source-view .cm-content>div:not(.image-embed, .mk-header, :has(.mk-note-footer, .collapse-indicator))::after,
-.line-hover-indicator .workspace-leaf-content[data-type="markdown"]:not(:has(.document-search-container)) .markdown-preview-sizer>div:is(.el-ul, .el-ol)::after,
-.line-hover-indicator .workspace-leaf-content[data-type="markdown"]:not(:has(.document-search-container)) .markdown-preview-sizer>div:not([class], :has(.collapse-indicator, .mk-header))::after {
+.line-hover-indicator .workspace-leaf-content[data-type="markdown"] .markdown-preview-sizer>div:is(.el-ul, .el-ol)::after,
+.line-hover-indicator .workspace-leaf-content[data-type="markdown"] .markdown-preview-sizer>div:not([class], :has(.collapse-indicator, .mk-header))::after {
     content: "";
     position: absolute;
     left: -12px;
@@ -7167,8 +7238,8 @@ body {
 
 .line-hover-indicator .workspace-leaf-content[data-type="markdown"] .markdown-source-view .cm-content>div:not(:has(.mk-note-footer)):has(.cm-hmd-list-indent):hover::after,
 .line-hover-indicator .workspace-leaf-content[data-type="markdown"] .markdown-source-view .cm-content>div:not(.image-embed, .mk-header, :has(.mk-note-footer, .collapse-indicator)):hover::after,
-.line-hover-indicator .workspace-leaf-content[data-type="markdown"]:not(:has(.document-search-container)) .markdown-preview-sizer>div:is(.el-ul, .el-ol):hover::after,
-.line-hover-indicator .workspace-leaf-content[data-type="markdown"]:not(:has(.document-search-container)) .markdown-preview-sizer>div:not([class], :has(.collapse-indicator, .mk-header)):hover::after {
+.line-hover-indicator .workspace-leaf-content[data-type="markdown"] .markdown-preview-sizer>div:is(.el-ul, .el-ol):hover::after,
+.line-hover-indicator .workspace-leaf-content[data-type="markdown"] .markdown-preview-sizer>div:not([class], :has(.collapse-indicator, .mk-header)):hover::after {
     height: calc(100% - 6px);
 }
 
@@ -7264,9 +7335,17 @@ body {
     --bold-color: var(--color-red);
 }
 
+.cm-s-obsidian span.cm-quote.cm-strong {
+    color: var(--bold-color);
+}
+
 /* Italic */
 body {
     --italic-color: var(--color-orange);
+}
+
+.cm-s-obsidian span.cm-quote.cm-em {
+    color: var(--italic-color);
 }
 
 /* Lists */
@@ -7725,8 +7804,8 @@ body {
 
 /* ======Blockquotes ====== */
 body {
-    --background-alt-light: radial-gradient(rgba(0, 0, 0, 0.1) .5px, transparent .5px) 0 0 / 2px 2px;
-    --background-alt-dark: radial-gradient(rgba(255, 255, 255, 0.1) .5px, transparent .5px) 0 0 / 2px 2px;
+    --background-alt-light: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23000000' fill-opacity='0.12' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+    --background-alt-dark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23ffffff' fill-opacity='0.12' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
 }
 
 body {
@@ -7892,6 +7971,10 @@ body {
     --code-value: var(--color-purple);
 }
 
+.cm-s-obsidian .HyperMD-codeblock {
+    caret-color: auto;
+}
+
 .codeblock-style-dracula {
     --code-background-light: #282A36;
     --code-background-dark: #282A36;
@@ -7906,6 +7989,11 @@ body {
     --code-string: #50fa7b;
     --code-tag: #ff5555;
     --code-value: #bd93f9;
+}
+
+.codeblock-style-dracula .cm-s-obsidian .HyperMD-codeblock ::selection,
+.codeblock-style-dracula .markdown-rendered pre ::selection {
+    background-color: hsl(from var(--code-normal) h s l / 20%);
 }
 
 .codeblock-style-solarized-light {
@@ -7924,6 +8012,11 @@ body {
     --code-value: #6c71c4;
 }
 
+.codeblock-style-solarized-light .cm-s-obsidian .HyperMD-codeblock ::selection,
+.codeblock-style-solarized-light .markdown-rendered pre ::selection {
+    background-color: hsl(from var(--code-normal) h s l / 15%);
+}
+
 .codeblock-style-solarized-dark {
     --code-background-light: #002b36;
     --code-background-dark: #002b36;
@@ -7938,6 +8031,32 @@ body {
     --code-string: #859900;
     --code-tag: #dc322f;
     --code-value: #6c71c4;
+}
+
+.codeblock-style-solarized-dark .cm-s-obsidian .HyperMD-codeblock ::selection,
+.codeblock-style-solarized-dark .markdown-rendered pre ::selection {
+    background-color: hsl(from var(--code-normal) h s l / 30%);
+}
+
+.codeblock-style-one-dark {
+    --code-background-light: #282C34;
+    --code-background-dark: #282C34;
+    --code-normal: #ABB2BF;
+    --code-comment: #5C6370;
+    --code-function: #E5C07B;
+    --code-important: #D19A66;
+    --code-keyword: #E06C75;
+    --code-operator: #BE5046;
+    --code-property: #56B6C2;
+    --code-punctuation: #ABB2BF;
+    --code-string: #98C379;
+    --code-tag: #BE5046;
+    --code-value: #C678DD;
+}
+
+.codeblock-style-one-dark .cm-s-obsidian .HyperMD-codeblock ::selection,
+.codeblock-style-one-dark .markdown-rendered pre ::selection {
+    background-color: hsl(from var(--code-normal) h s l / 25%);
 }
 
 .markdown-source-view.mod-cm6 .code-block-flair,
@@ -7959,21 +8078,6 @@ body {
     background: var(--code-background-dark);
 }
 
-/*
-body:not(.line-active-disable) .markdown-source-view .cm-scroller .cm-line.cm-active.HyperMD-codeblock-bg:not(.HyperMD-codeblock-begin-bg, .HyperMD-codeblock-end-bg) {
-    border-radius: 0px;
-}
-
-body:not(.line-active-disable) .markdown-source-view .cm-scroller .cm-line.cm-active.HyperMD-codeblock-begin-bg {
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
-}
-
-body:not(.line-active-disable) .markdown-source-view .cm-scroller .cm-line.cm-active.HyperMD-codeblock-end-bg {
-    border-top-left-radius: 0px;
-    border-top-right-radius: 0px;
-}
-
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg {
     border-top: 1px dashed var(--background-modifier-border);
 }
@@ -7990,7 +8094,6 @@ body:not(.line-active-disable) .markdown-source-view .cm-scroller .cm-line.cm-ac
 .markdown-rendered pre {
     border: 1px dashed var(--background-modifier-border);
 }
-*/
 
 /* ======table ====== */
 body {
@@ -8291,10 +8394,6 @@ svg.sidebar-left {
     background-color: var(--background-primary);
 }
 
-.is-phone.theme-dark .modal.mod-settings .vertical-tab-nav-item {
-    background-color: var(--background-tertiary);
-}
-
 .mobile-navbar {
     box-shadow: 0px 0px 8px hsla(var(--accent-h), 18%, 80%, 0.2), 0px 0px 6px hsla(var(--accent-h), 18%, 80%, 0.1);
 }
@@ -8355,7 +8454,7 @@ body.card-layout-pad-open.is-tablet .workspace-drawer {
     overflow: hidden !important;
     margin: 16px;
     margin-bottom: 24px;
-    margin-top: 8px;
+    margin-top: 32px;
 }
 
 body.card-layout-pad-open.is-tablet.theme-dark .workspace-drawer {
@@ -8366,7 +8465,7 @@ body.card-layout-pad-open.is-tablet .workspace-split.mod-root {
     border-radius: var(--card-border-radius-light, 8px) !important;
     overflow: hidden !important;
     background-color: var(--background-primary) !important;
-    box-shadow: 0px 0px 8px hsla(var(--accent-h), 18%, 80%, 0.4), 0px 0px 6px hsla(var(--accent-h), 18%, 80%, 0.2);
+    box-shadow: 0px 0px 6px hsla(var(--accent-h), 18%, 80%, 0.4), 0px 0px 2px hsla(var(--accent-h), 18%, 80%, 0.2), 0 0 0 1px var(--background-modifier-border);
 }
 
 body.card-layout-pad-open.is-tablet.theme-dark .workspace-split.mod-root {
@@ -8379,7 +8478,7 @@ body.card-layout-pad-open.is-tablet .workspace-drawer.is-pinned {
     border-left: none;
     border-radius: var(--card-border-radius-light, 8px) !important;
     margin: 0px;
-    box-shadow: 0px 0px 8px hsla(var(--accent-h), 18%, 80%, 0.4), 0px 0px 6px hsla(var(--accent-h), 18%, 80%, 0.2);
+    box-shadow: 0px 0px 6px hsla(var(--accent-h), 18%, 80%, 0.4), 0px 0px 2px hsla(var(--accent-h), 18%, 80%, 0.2), 0 0 0 1px var(--background-modifier-border);
 }
 
 body.card-layout-pad-open.is-tablet.theme-dark .workspace-drawer.is-pinned {

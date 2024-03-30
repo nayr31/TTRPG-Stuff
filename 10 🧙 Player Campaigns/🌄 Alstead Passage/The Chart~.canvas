@@ -1,0 +1,425 @@
+{
+  "nodes": [
+    {
+      "id": "22447683bd82c956",
+      "type": "group",
+      "x": -280,
+      "y": 600,
+      "width": 1352,
+      "height": 560,
+      "label": "Populace"
+    },
+    {
+      "id": "12e093aed5f9c1be",
+      "type": "group",
+      "x": -920,
+      "y": -880,
+      "width": 880,
+      "height": 520,
+      "color": "2",
+      "label": "📦 Shannon's Sundries"
+    },
+    {
+      "id": "bacc581dcd45401e",
+      "type": "group",
+      "x": -40,
+      "y": -2200,
+      "width": 880,
+      "height": 520,
+      "color": "3",
+      "label": "🏣 Mayor's Office"
+    },
+    {
+      "id": "df640473d3fa53cf",
+      "type": "group",
+      "x": -918,
+      "y": -120,
+      "width": 878,
+      "height": 520,
+      "label": "In Flux"
+    },
+    {
+      "id": "0359bd1e1a83c718",
+      "type": "group",
+      "x": 840,
+      "y": -120,
+      "width": 875,
+      "height": 520,
+      "color": "6",
+      "label": "🔮 The Acolyte's Bargain"
+    },
+    {
+      "id": "40e105b66483876d",
+      "type": "group",
+      "x": 840,
+      "y": -1600,
+      "width": 860,
+      "height": 520,
+      "color": "4",
+      "label": "Untitled 🐑 Sheep Farm"
+    },
+    {
+      "id": "76a1a71d8352da39",
+      "type": "group",
+      "x": -900,
+      "y": -1600,
+      "width": 860,
+      "height": 520,
+      "color": "1",
+      "label": "🍻 The Vulgar Nun "
+    },
+    {
+      "id": "c0c601b912b9fd35",
+      "type": "group",
+      "x": 840,
+      "y": -880,
+      "width": 860,
+      "height": 520,
+      "color": "4",
+      "label": "🌱💐 Crystalarum"
+    },
+    {
+      "id": "89fa1ebc9e896442",
+      "type": "text",
+      "text": "## [[Bryn Marloch]], Mayor\n",
+      "x": -20,
+      "y": -1762,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "39fe96744b18febd",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Bryn Marloch.png",
+      "x": -20,
+      "y": -2162,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "589a4c855896936a",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png",
+      "x": 420,
+      "y": -2162,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "979a02c8444cc137",
+      "type": "text",
+      "text": "## [[Ginger]], Clerk/Assistant\n",
+      "x": 420,
+      "y": -1762,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "ad8436f26639f848",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shannon Silverhammer.png",
+      "x": -900,
+      "y": -835,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "64572e640d6d464a",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.png",
+      "x": -460,
+      "y": -835,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "60c9fe797a88a965",
+      "type": "text",
+      "text": "## [[Shannon Silverhammer|Shannon]], Owner\n",
+      "x": -900,
+      "y": -435,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "c9e270dacdbe2779",
+      "type": "text",
+      "text": "## [[Earl]], Worker\n",
+      "x": -460,
+      "y": -435,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "fcc65ba0ab93406a",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Cindzi Catriona.png",
+      "x": -886,
+      "y": -1560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "565929d2a1424779",
+      "type": "text",
+      "text": "## [[Cindzi Catriona]], Co-Owner🍺\n",
+      "x": -886,
+      "y": -1160,
+      "width": 400,
+      "height": 58
+    },
+    {
+      "id": "3ef9a79acaaf3775",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Havok Jheraal.png",
+      "x": -460,
+      "y": -1560,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3257c86cd99c02af",
+      "type": "text",
+      "text": "## [[Havok Jheraal]], Co-Owner🍰\n",
+      "x": -460,
+      "y": -1160,
+      "width": 400,
+      "height": 58
+    },
+    {
+      "id": "8560c61673e7c746",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Gulfrun.webp",
+      "x": 860,
+      "y": -1562,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fefec1ffaf55587e",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Argil.webp",
+      "x": 1280,
+      "y": -1562,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7078904c73b28d37",
+      "type": "text",
+      "text": "## [[Gulfrun]]\n",
+      "x": 860,
+      "y": -1162,
+      "width": 400,
+      "height": 62
+    },
+    {
+      "id": "98c478774f5a4583",
+      "type": "text",
+      "text": "## [[Argil]]",
+      "x": 1280,
+      "y": -1162,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "e63af622e91589bd",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Edy Gurr.png",
+      "x": 857,
+      "y": -839,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "15d25600ff40f4a5",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Navi Gurr.png",
+      "x": 1280,
+      "y": -839,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8e3aa4ef3592fa6f",
+      "type": "text",
+      "text": "## [[Navi Gurr]], Gardener/Florist",
+      "x": 1280,
+      "y": -439,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "e89a15c3c166f7fb",
+      "type": "text",
+      "text": "## [[Edy Gurr]], Head Botanist\n",
+      "x": 857,
+      "y": -439,
+      "width": 400,
+      "height": 64
+    },
+    {
+      "id": "ce45f99cd7c9e652",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shazria Finch.webp",
+      "x": 872,
+      "y": -88,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "40d766b5345f5f62",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darjeeling.png",
+      "x": 1295,
+      "y": -88,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2723cd16b9ba4308",
+      "type": "text",
+      "text": "## [[Shazria Finch]]",
+      "x": 872,
+      "y": 312,
+      "width": 400,
+      "height": 68
+    },
+    {
+      "id": "0fc7fb356f8c11c4",
+      "type": "text",
+      "text": "## [[Darjeeling]]",
+      "x": 1295,
+      "y": 312,
+      "width": 400,
+      "height": 68
+    },
+    {
+      "id": "4bf5c0f8fb48f630",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Farra Anmask.png",
+      "x": -895,
+      "y": -80,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7ad6e145aa70c970",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.png",
+      "x": -455,
+      "y": -80,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fedf28e039921bca",
+      "type": "text",
+      "text": "## [[Farra Anmask]], Baker/Owner\n",
+      "x": -895,
+      "y": 320,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "91c358c09fa350a7",
+      "type": "text",
+      "text": "## [[Innova Anmask]], Blacksmith",
+      "x": -455,
+      "y": 320,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "f8c4feb04f836ef6",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
+      "x": -228,
+      "y": 660,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ed5ebb039663217a",
+      "type": "text",
+      "text": "## [[Darien Imsa]], Cleric\n",
+      "x": -228,
+      "y": 1060,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "03f9c96a9f1856c1",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Viggo!.png",
+      "x": 200,
+      "y": 660,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3cdc8eff15937f3d",
+      "type": "text",
+      "text": "## [[Viggo!]], Postmaster\n",
+      "x": 200,
+      "y": 1060,
+      "width": 400,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "124838a42cd2eb15",
+      "fromNode": "565929d2a1424779",
+      "fromSide": "bottom",
+      "toNode": "3257c86cd99c02af",
+      "toSide": "bottom",
+      "fromEnd": "arrow",
+      "label": "Pals who opened a bar nothing more 😉"
+    },
+    {
+      "id": "cc4aa9168915091b",
+      "fromNode": "8e3aa4ef3592fa6f",
+      "fromSide": "bottom",
+      "toNode": "e89a15c3c166f7fb",
+      "toSide": "bottom",
+      "label": "Siblings"
+    },
+    {
+      "id": "6ae39518abd94fed",
+      "fromNode": "91c358c09fa350a7",
+      "fromSide": "bottom",
+      "toNode": "fedf28e039921bca",
+      "toSide": "bottom",
+      "fromEnd": "arrow",
+      "label": "Married"
+    },
+    {
+      "id": "08444d15f9fab7b5",
+      "fromNode": "7078904c73b28d37",
+      "fromSide": "bottom",
+      "toNode": "98c478774f5a4583",
+      "toSide": "bottom",
+      "fromEnd": "arrow",
+      "label": "✨Husbands✨"
+    },
+    {
+      "id": "35bf866bf8dc0d3e",
+      "fromNode": "0fc7fb356f8c11c4",
+      "fromSide": "bottom",
+      "toNode": "2723cd16b9ba4308",
+      "toSide": "bottom",
+      "label": "Familiar"
+    },
+    {
+      "id": "cf2134a7c918bda7",
+      "fromNode": "64572e640d6d464a",
+      "fromSide": "right",
+      "toNode": "979a02c8444cc137",
+      "toSide": "bottom",
+      "fromEnd": "arrow",
+      "label": "Siblings"
+    }
+  ],
+  "metadata": {}
+}

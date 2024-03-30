@@ -18,8 +18,37 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b82431005201227d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9421e4d9ef9915d4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "viewState": {
+                  "x": -361.9121706336133,
+                  "y": -898.9700533052962,
+                  "zoom": -0.6666666666666667
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,8 +167,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,63 +244,63 @@
       "templates:Insert template": false,
       "dbfolder:Create a new database table": true,
       "omnisearch:Omnisearch": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian42-brat:BRAT": false,
       "homepage:Open homepage": false,
       "open-gate:COMP/CON": false,
-      "open-gate:ForgeVTT": false
+      "open-gate:ForgeVTT": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "9421e4d9ef9915d4",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 04.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
+    "Notes.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Cindzi Catriona.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "📑 Campaign Overview.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 04.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 03.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Shannon Silverhammer.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Bryn Marloch.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Darjeeling.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Edy Gurr.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Farra Anmask.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Innova Anmask.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Havok Jheraal.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Shazria Finch.md",
+    "Shazria.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Cindzi Catriona.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Havok Jheraal.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shannon Silverhammer.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Viggo!.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Navi Gurr.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Farra Anmask.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Edy Gurr.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Bryn Marloch.png.url",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.url",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.url",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png.url",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png.url",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darjeeling.png.url",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darjeeling.png.url",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.url",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.url",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Darien Imsa.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Earl.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Ginger.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Viggo!.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Navi Gurr.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Argil.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Gulfrun.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
     "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 02.md",
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/Vannie.md",
-    "80 🗃️ Resources/PF2e crafting time.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat.md",
-    "80 🗃️ Resources/RealSorceror's PF2 Crafting Guide.pdf",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat stats.png",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Rat stats.png",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs/Annalise.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs/Art/Annalise.jpg",
-    "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
-    "80 🗃️ Resources/Potential player portraits/Alan wake 4.jpeg",
-    "80 🗃️ Resources/Potential player portraits/Alan wake.jpeg",
-    "80 🗃️ Resources/Potential player portraits/Alan wake 3.jpeg",
-    "80 🗃️ Resources/Potential player portraits/Alan wake 2.jpeg",
-    "80 🗃️ Resources/Potential player portraits/Untitled database.md",
-    "80 🗃️ Resources/Potential player portraits/test.md",
-    "80 🗃️ Resources/Potential player portraits",
-    "10 🧙 Player Campaigns/🌸 Preserved Wallflower/🌸 Dashboard.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Quests/🎯 Quest Database.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs/Dasra Mahanti.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs/Cayden Cailean.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/momozokuna_c.png",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art/momozokuna.png",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Lotus.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Empty Ring.md",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
-    "20 🌟 GM Campaigns/💭 Machine's Eye/Chapters",
-    "20 🌟 GM Campaigns/💭 Machine's Eye",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
-    "Sirens_Song_A_Mountains_Remorse.pdf",
-    "rules",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Art",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/Art",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Quests",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Pavlo De Basi.canvas",
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
