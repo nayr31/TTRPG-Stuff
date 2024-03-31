@@ -4,6 +4,7 @@ cssclasses:
   - cards-cols-5
 ---
 
+![[The Chart~.canvas]]
 # [[10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
 TABLE WITHOUT ID 

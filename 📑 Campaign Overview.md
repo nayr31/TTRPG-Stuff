@@ -26,7 +26,7 @@ kanban-plugin: basic
 - [ ] ### 🎏 Diwata's Glory \*\*<br>**System:** *Gubat Banwa*<br>**Synop:** ---
 - [ ] ### Mors Venit \*\*<br>**System:** *PF2e*<br>**Synop:** ---
 - [ ] ### 🌹 Shrouded Ambitions \*\*<br>**System:** *RWBY*<br>**Synop:** ---
-- [ ] ### [[🌄 Dashboard|🌄 Alstead Passage]]<br>**System:** *PF2e*<br>**Synop:**
+- [ ] ### [[🌄 Dashboard|🌄 Alstead Passage]]<br>**System:** *PF2e*<br>**Synop:**<br>![[Jackrie_c.jpg|100]]
 - [ ] ### [[🌸 Dashboard|🌸 Preserved Wallflower]]<br>**System:** *Lancer*<br>**Synop:** ---<br>![[Discovery_c.png|100]]
 
 

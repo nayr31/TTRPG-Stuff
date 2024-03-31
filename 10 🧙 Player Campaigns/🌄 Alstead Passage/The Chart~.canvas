@@ -80,15 +80,6 @@
       "label": "Untitled 🐑 Sheep Farm"
     },
     {
-      "id": "ad8436f26639f848",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shannon Silverhammer.png",
-      "x": -900,
-      "y": -835,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "fcc65ba0ab93406a",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Cindzi Catriona.png",
@@ -116,15 +107,6 @@
       "height": 458
     },
     {
-      "id": "64572e640d6d464a",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.png",
-      "x": -460,
-      "y": -835,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "3ef9a79acaaf3775",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Havok Jheraal.png",
@@ -141,24 +123,6 @@
       "y": -1160,
       "width": 400,
       "height": 58
-    },
-    {
-      "id": "60c9fe797a88a965",
-      "type": "text",
-      "text": "## [[Shannon Silverhammer|Shannon]], Owner\n",
-      "x": -900,
-      "y": -435,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "c9e270dacdbe2779",
-      "type": "text",
-      "text": "## [[Earl]], Worker\n",
-      "x": -460,
-      "y": -435,
-      "width": 400,
-      "height": 60
     },
     {
       "id": "89fa1ebc9e896442",
@@ -179,6 +143,51 @@
       "height": 400
     },
     {
+      "id": "589a4c855896936a",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png",
+      "x": 420,
+      "y": -2162,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ad8436f26639f848",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shannon Silverhammer.png",
+      "x": -900,
+      "y": -835,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "64572e640d6d464a",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.png",
+      "x": -460,
+      "y": -835,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "60c9fe797a88a965",
+      "type": "text",
+      "text": "## [[Shannon Silverhammer|Shannon]], Owner\n",
+      "x": -900,
+      "y": -435,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "c9e270dacdbe2779",
+      "type": "text",
+      "text": "## [[Earl]], Worker\n",
+      "x": -460,
+      "y": -435,
+      "width": 400,
+      "height": 60
+    },
+    {
       "id": "4bf5c0f8fb48f630",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Farra Anmask.png",
@@ -193,33 +202,6 @@
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.png",
       "x": -455,
       "y": -80,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "fedf28e039921bca",
-      "type": "text",
-      "text": "## [[Farra Anmask]], Baker/Owner\n",
-      "x": -895,
-      "y": 320,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "91c358c09fa350a7",
-      "type": "text",
-      "text": "## [[Innova Anmask]], Blacksmith",
-      "x": -455,
-      "y": 320,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "589a4c855896936a",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png",
-      "x": 420,
-      "y": -2162,
       "width": 400,
       "height": 400
     },
@@ -240,6 +222,24 @@
       "y": -835,
       "width": 400,
       "height": 458
+    },
+    {
+      "id": "fedf28e039921bca",
+      "type": "text",
+      "text": "## [[Farra Anmask]], Baker/Owner\n",
+      "x": -895,
+      "y": 320,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "91c358c09fa350a7",
+      "type": "text",
+      "text": "## [[Innova Anmask]], Blacksmith",
+      "x": -455,
+      "y": 320,
+      "width": 400,
+      "height": 60
     },
     {
       "id": "7f7dfd942d93c62c",
