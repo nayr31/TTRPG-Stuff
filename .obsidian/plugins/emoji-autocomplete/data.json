@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "crossed_swords",
     "wink",
     "crystal_ball",
     "flowers",
@@ -27,8 +28,7 @@
     "notebook",
     "thought_balloon",
     "eyes",
-    "unicorn",
-    "horse"
+    "unicorn"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

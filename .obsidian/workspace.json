@@ -33,17 +33,12 @@
             }
           },
           {
-            "id": "9421e4d9ef9915d4",
+            "id": "f594c6c97ec057c4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "database-plugin",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
-                "viewState": {
-                  "x": -361.9121706336133,
-                  "y": -898.9700533052962,
-                  "zoom": -0.6666666666666667
-                }
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md"
               }
             }
           }
@@ -138,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -251,12 +246,30 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9421e4d9ef9915d4",
+  "active": "f594c6c97ec057c4",
   "lastOpenFiles": [
-    "Notes.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Jackrie token.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Gulfrun.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Navi Gurr.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Shazria Finch.md",
+    "Notes.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Cindzi Catriona.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Jack.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Jackrie_c.jpg",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Ginnette_c.jpg",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Europa.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Ginnette.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Ivory.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Olivia.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Quests/🎯 Quest Database.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Olivia.jpg",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Jackrie.jpg",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Ginnette.jpg",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Forrest.jpg",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Europa.png",
     "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Shannon Silverhammer.md",
@@ -266,18 +279,10 @@
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Farra Anmask.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Innova Anmask.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Havok Jheraal.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Shazria Finch.md",
     "Shazria.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Cindzi Catriona.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Havok Jheraal.png",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shannon Silverhammer.png",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Viggo!.png",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Navi Gurr.png",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.png",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Farra Anmask.png",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Edy Gurr.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Bryn Marloch.png.url",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.url",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.url",
@@ -289,15 +294,6 @@
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.url",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Darien Imsa.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Earl.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Ginger.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Viggo!.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Navi Gurr.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Argil.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Gulfrun.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
-    "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Quests/🎯 Quest Database.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",

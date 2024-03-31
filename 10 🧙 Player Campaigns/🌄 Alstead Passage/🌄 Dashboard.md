@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - cards
+  - cards-cols-5
 ---
 
 # [[10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
@@ -8,6 +9,7 @@ cssclasses:
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
+	Class AS "Class",
 	embed(Art) AS "Art"
 from "10 🧙 Player Campaigns/🌄 Alstead Passage/Players"
 WHERE contains(NoteIcon, "Player")

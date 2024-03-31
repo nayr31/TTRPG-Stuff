@@ -10,4 +10,6 @@ Art: "![[Navi Gurr.png]]"
 Affiliation: 
 Keys: 😄💕💰
 Romancable?: true
+aliases:
+  - Navi
 ---

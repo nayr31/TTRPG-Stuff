@@ -11,4 +11,6 @@ Notes: |-
 Art: "![[Shazria Finch.webp]]"
 Affiliation: 
 Keys: 😄🤝💰
+aliases:
+  - Shazria
 ---

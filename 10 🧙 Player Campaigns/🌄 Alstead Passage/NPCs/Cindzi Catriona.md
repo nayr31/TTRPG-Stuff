@@ -10,4 +10,6 @@ Art: "![[Cindzi Catriona.png]]"
 Affiliation: 
 Keys: 😄💕💰
 Romancable?: true
+aliases:
+  - Cindzi
 ---
