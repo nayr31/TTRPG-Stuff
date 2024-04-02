@@ -20,7 +20,7 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: 1
+    sortIndex: 0
     isSorted: true
     isSortedDesc: false
     config:
@@ -42,6 +42,8 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    isSorted: false
+    isSortedDesc: true
     options:
       - { label: "NPC", value: "NPC", color: "hsl(350, 95%, 90%)"}
     config:
