@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "art",
     "file_cabinet",
     "crossed_swords",
     "wink",
@@ -27,8 +28,7 @@
     "cloud",
     "clipboard",
     "notebook",
-    "thought_balloon",
-    "eyes"
+    "thought_balloon"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

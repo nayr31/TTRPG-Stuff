@@ -20,16 +20,17 @@
             }
           },
           {
-            "id": "5227b42439fc62f1",
+            "id": "d7a841e79428a4ef",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "image",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md"
+                "file": "81 🎨 Character Images/lich.jpg"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "81 🎨 Character Images/lich.jpg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "81 🎨 Character Images/lich.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -232,54 +233,55 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+    "81 🎨 Character Images/lichtoken - Copy.png",
+    "81 🎨 Character Images/lichtoken.png",
+    "81 🎨 Character Images/lichtoken.png",
+    "81 🎨 Character Images/The actual images",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
+    "81 🎨 Character Images/Untitled database.md",
+    "Notes.md",
+    "81 🎨 Character Images/lich.jpg",
+    "81 🎨 Character Images",
+    "80 🗃️ Resources/Images/playernodata.png",
     "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Art/Arabelle Dostoyevsky.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Art/Arabelle Dostoyevsky.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Arabelle Dostoyevsky.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Art/Holly Ironbone.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Art/Holly Ironbone.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Art/Isaac Parkes.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Art/Isaac Parkes.png",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Holly Ironbone.md",
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Isaac Parkes.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Nymora Hex.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Nymora Hex.png",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/ffb74305-8c37-4dd0-80c3-5445a3f889fe.png",
-    "Notes.md",
-    "10 🧙 Player Campaigns/His Final Hunt/Players/Art/Laurley token.png",
-    "10 🧙 Player Campaigns/His Final Hunt/Players/Art/Laurley.jpg",
-    "10 🧙 Player Campaigns/His Final Hunt/Players/Art/Laurley_c.png",
-    "10 🧙 Player Campaigns/His Final Hunt/Players/Art/Laurley.jpg",
     "10 🧙 Player Campaigns/His Final Hunt/Players/Art",
     "10 🧙 Player Campaigns/His Final Hunt/Players",
     "11 🗄️ Archived Player Campaigns",
     "10 🧙 Player Campaigns/His Final Hunt",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Jackrie token.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Gulfrun.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Navi Gurr.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Shazria Finch.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Cindzi Catriona.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Jack.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Jackrie_c.jpg",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Ginnette_c.jpg",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Europa.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Ginnette.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Ivory.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Olivia.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Olivia.jpg",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Shannon Silverhammer.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Bryn Marloch.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Darjeeling.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Edy Gurr.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Farra Anmask.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Innova Anmask.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Havok Jheraal.md",
-    "Shazria.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Bryn Marloch.png.url",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.url",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.url",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png.url",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png.url",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darjeeling.png.url",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Darien Imsa.md",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
