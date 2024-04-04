@@ -423,12 +423,12 @@
     },
     {
       "id": "33885771a4d55f79",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Nymora Hex.png",
       "x": -140,
       "y": 620,
       "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Nymora Hex.png"
+      "height": 400
     }
   ],
   "edges": [
