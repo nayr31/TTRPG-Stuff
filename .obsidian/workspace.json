@@ -20,27 +20,15 @@
             }
           },
           {
-            "id": "750043147f338abe",
+            "id": "e2faacb4570014c6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "9175676b13080d10",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
-                "viewState": {
-                  "x": 455.6179082322805,
-                  "y": -945.72095710095,
-                  "zoom": -1.3539490670919792
-                }
+                "file": "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -135,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "file": "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "file": "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,12 +236,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "750043147f338abe",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/⚖️ Stolen Fate/StolenFatePlayersGuide.pdf",
+    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
     "10 🧙 Player Campaigns/🏗 Conscience/🏗 Dashboard.md",
@@ -292,7 +281,6 @@
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Shannon Silverhammer.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Bryn Marloch.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Darjeeling.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Bryn Marloch.png.url",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.url",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.url",

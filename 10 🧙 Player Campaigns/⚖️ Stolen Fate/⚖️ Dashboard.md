@@ -3,6 +3,7 @@ cssclasses:
   - cards
   - cards-cols-4
 ---
+[[StolenFatePlayersGuide.pdf]]
 
 # [[10 🧙 Player Campaigns/⚖️ Stolen Fate/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
