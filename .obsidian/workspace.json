@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "750043147f338abe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "9175676b13080d10",
             "type": "leaf",
             "state": {
@@ -27,9 +37,9 @@
               "state": {
                 "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "viewState": {
-                  "x": 458.97867803837954,
-                  "y": -361.46695095948826,
-                  "zoom": -2.0206157337586457
+                  "x": 455.6179082322805,
+                  "y": -945.72095710095,
+                  "zoom": -1.3539490670919792
                 }
               }
             }
@@ -238,7 +248,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9175676b13080d10",
+  "active": "750043147f338abe",
   "lastOpenFiles": [
     "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
