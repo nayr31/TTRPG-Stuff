@@ -1,6 +1,6 @@
 ---
 Pronouns: N/A
 NoteIcon: Player
-Art: "![[playernodata.png]]"
+Art: "![[Ivory.bmp]]"
 Class: N/A
 ---

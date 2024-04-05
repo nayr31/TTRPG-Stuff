@@ -90,6 +90,7 @@ columns:
       - { label: "N/A", value: "N/A", color: "hsl(96, 95%, 90%)"}
       - { label: "They/He", value: "They/He", color: "hsl(50, 95%, 90%)"}
       - { label: "They/Them", value: "They/Them", color: "hsl(301, 95%, 90%)"}
+      - { label: "He/They", value: "He/They", color: "hsl(34, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
