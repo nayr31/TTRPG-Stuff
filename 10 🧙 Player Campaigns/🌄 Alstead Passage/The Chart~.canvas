@@ -3,17 +3,26 @@
     {
       "id": "22447683bd82c956",
       "type": "group",
-      "x": -160,
-      "y": 560,
-      "width": 1320,
-      "height": 560,
+      "x": -37,
+      "y": -1840,
+      "width": 877,
+      "height": 1000,
       "label": "Populace"
+    },
+    {
+      "id": "68e10d34a4684050",
+      "x": -417,
+      "y": -640,
+      "width": 1637,
+      "height": 520,
+      "type": "group",
+      "label": "The Party"
     },
     {
       "id": "76a1a71d8352da39",
       "type": "group",
-      "x": -1340,
-      "y": -2200,
+      "x": -1560,
+      "y": -2720,
       "width": 1300,
       "height": 520,
       "color": "1",
@@ -22,8 +31,8 @@
     {
       "id": "12e093aed5f9c1be",
       "type": "group",
-      "x": -1340,
-      "y": -1440,
+      "x": -1560,
+      "y": -1960,
       "width": 1300,
       "height": 520,
       "color": "2",
@@ -32,8 +41,8 @@
     {
       "id": "df640473d3fa53cf",
       "type": "group",
-      "x": -1340,
-      "y": -680,
+      "x": -1560,
+      "y": -1240,
       "width": 1300,
       "height": 520,
       "color": "#9c5526",
@@ -42,8 +51,8 @@
     {
       "id": "0359bd1e1a83c718",
       "type": "group",
-      "x": 840,
-      "y": -1440,
+      "x": 1089,
+      "y": -1960,
       "width": 1280,
       "height": 520,
       "color": "6",
@@ -52,8 +61,8 @@
     {
       "id": "c0c601b912b9fd35",
       "type": "group",
-      "x": 840,
-      "y": -2200,
+      "x": 1089,
+      "y": -2720,
       "width": 1280,
       "height": 520,
       "color": "4",
@@ -63,7 +72,7 @@
       "id": "bacc581dcd45401e",
       "type": "group",
       "x": -40,
-      "y": -2200,
+      "y": -2960,
       "width": 880,
       "height": 520,
       "color": "3",
@@ -72,37 +81,37 @@
     {
       "id": "40e105b66483876d",
       "type": "group",
-      "x": 840,
-      "y": -680,
+      "x": 1089,
+      "y": -1240,
       "width": 863,
       "height": 520,
       "color": "4",
       "label": "Untitled 🐑 Sheep Farm"
     },
     {
-      "id": "89fa1ebc9e896442",
-      "type": "text",
-      "text": "## [[Bryn Marloch]], Mayor\n",
-      "x": -20,
-      "y": -1762,
-      "width": 400,
-      "height": 60
-    },
-    {
       "id": "39fe96744b18febd",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Bryn Marloch.png",
       "x": -20,
-      "y": -2162,
+      "y": -2922,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "89fa1ebc9e896442",
+      "type": "text",
+      "text": "## [[Bryn Marloch]], Mayor\n",
+      "x": -20,
+      "y": -2522,
+      "width": 400,
+      "height": 60
     },
     {
       "id": "589a4c855896936a",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png",
       "x": 420,
-      "y": -2162,
+      "y": -2922,
       "width": 400,
       "height": 400
     },
@@ -111,52 +120,16 @@
       "type": "text",
       "text": "## [[Ginger]], Clerk/Assistant\n",
       "x": 420,
-      "y": -1762,
+      "y": -2522,
       "width": 400,
       "height": 60
-    },
-    {
-      "id": "f8c4feb04f836ef6",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
-      "x": 292,
-      "y": 620,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "03f9c96a9f1856c1",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Viggo!.png",
-      "x": 720,
-      "y": 620,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "ed5ebb039663217a",
       "type": "text",
       "text": "## [[Darien Imsa]], Cleric\n",
-      "x": 292,
-      "y": 1020,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "3cdc8eff15937f3d",
-      "type": "text",
-      "text": "## [[Viggo!]], Postmaster\n",
-      "x": 720,
-      "y": 1020,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "9952b840d5944c9d",
-      "type": "text",
-      "text": "## [[Nymora Hex]], Writer",
-      "x": -140,
-      "y": 1020,
+      "x": 415,
+      "y": -1380,
       "width": 400,
       "height": 60
     },
@@ -164,62 +137,53 @@
       "id": "33885771a4d55f79",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Nymora Hex.png",
-      "x": -140,
-      "y": 620,
+      "x": -17,
+      "y": -1780,
       "width": 400,
       "height": 400
     },
     {
-      "id": "4723c53a86b72584",
-      "type": "text",
-      "text": "# 🍻 The Vulgar Nun\n\nBoth tavern and bake shop, [[Cindzi Catriona|Cindzi]] and [[Havok Jheraal|Havok]] co-own the place with each managing their respective sides of the business.",
-      "x": -1320,
-      "y": -2160,
-      "width": 400,
-      "height": 458
-    },
-    {
-      "id": "fcc65ba0ab93406a",
+      "id": "f8c4feb04f836ef6",
       "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Cindzi Catriona.png",
-      "x": -886,
-      "y": -2160,
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
+      "x": 415,
+      "y": -1780,
       "width": 400,
       "height": 400
     },
     {
-      "id": "3ef9a79acaaf3775",
+      "id": "9952b840d5944c9d",
+      "type": "text",
+      "text": "## [[Nymora Hex]], Writer",
+      "x": -17,
+      "y": -1380,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "3cdc8eff15937f3d",
+      "type": "text",
+      "text": "## [[Viggo!]], Postmaster\n",
+      "x": -17,
+      "y": -920,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "03f9c96a9f1856c1",
       "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Havok Jheraal.png",
-      "x": -460,
-      "y": -2160,
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Viggo!.png",
+      "x": -17,
+      "y": -1320,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "565929d2a1424779",
-      "type": "text",
-      "text": "## [[Cindzi Catriona]], Co-Owner🍺\n",
-      "x": -886,
-      "y": -1760,
-      "width": 400,
-      "height": 58
-    },
-    {
-      "id": "3257c86cd99c02af",
-      "type": "text",
-      "text": "## [[Havok Jheraal]], Co-Owner🍰\n",
-      "x": -460,
-      "y": -1760,
-      "width": 400,
-      "height": 58
     },
     {
       "id": "5a36cc6a339b69c4",
       "type": "text",
       "text": "# 📦 Shannon's Sundries\n\nOwned by [[Shannon Silverhammer|Shannon]], this general store stocks tools, gadgets, basic crafting materials, and anything in between. To help out, he hired [[Earl]].",
-      "x": -1320,
-      "y": -1395,
+      "x": -1540,
+      "y": -1915,
       "width": 400,
       "height": 458
     },
@@ -227,17 +191,8 @@
       "id": "ad8436f26639f848",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shannon Silverhammer.png",
-      "x": -900,
-      "y": -1395,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "64572e640d6d464a",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.png",
-      "x": -460,
-      "y": -1395,
+      "x": -1120,
+      "y": -1915,
       "width": 400,
       "height": 400
     },
@@ -245,26 +200,80 @@
       "id": "60c9fe797a88a965",
       "type": "text",
       "text": "## [[Shannon Silverhammer|Shannon]], Owner\n",
-      "x": -900,
-      "y": -995,
+      "x": -1120,
+      "y": -1515,
       "width": 400,
       "height": 60
+    },
+    {
+      "id": "64572e640d6d464a",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.png",
+      "x": -680,
+      "y": -1915,
+      "width": 400,
+      "height": 400
     },
     {
       "id": "c9e270dacdbe2779",
       "type": "text",
       "text": "## [[Earl]], Worker\n",
-      "x": -460,
-      "y": -995,
+      "x": -680,
+      "y": -1515,
       "width": 400,
       "height": 60
+    },
+    {
+      "id": "4723c53a86b72584",
+      "type": "text",
+      "text": "# 🍻 The Vulgar Nun\n\nBoth tavern and bake shop, [[Cindzi Catriona|Cindzi]] and [[Havok Jheraal|Havok]] co-own the place with each managing their respective sides of the business.",
+      "x": -1540,
+      "y": -2680,
+      "width": 400,
+      "height": 458
+    },
+    {
+      "id": "fcc65ba0ab93406a",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Cindzi Catriona.png",
+      "x": -1106,
+      "y": -2680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3ef9a79acaaf3775",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Havok Jheraal.png",
+      "x": -680,
+      "y": -2680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "565929d2a1424779",
+      "type": "text",
+      "text": "## [[Cindzi Catriona]], Co-Owner🍺\n",
+      "x": -1106,
+      "y": -2280,
+      "width": 400,
+      "height": 58
+    },
+    {
+      "id": "3257c86cd99c02af",
+      "type": "text",
+      "text": "## [[Havok Jheraal]], Co-Owner🍰\n",
+      "x": -680,
+      "y": -2280,
+      "width": 400,
+      "height": 58
     },
     {
       "id": "e63af622e91589bd",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Edy Gurr.png",
-      "x": 857,
-      "y": -2159,
+      "x": 1106,
+      "y": -2679,
       "width": 400,
       "height": 400
     },
@@ -272,8 +281,8 @@
       "id": "15d25600ff40f4a5",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Navi Gurr.png",
-      "x": 1280,
-      "y": -2159,
+      "x": 1529,
+      "y": -2679,
       "width": 400,
       "height": 400
     },
@@ -281,8 +290,8 @@
       "id": "0f49cf0613ab675d",
       "type": "text",
       "text": "# 🌱💐 Crystalarum\n\nThe Gurr siblings ([[Edy Gurr|Edy]] and [[Navi Gurr|Navi]]) run this crystal based greenhouse. They sell their produce willingly while also selling botanist starter kits to tourists.\n",
-      "x": 1703,
-      "y": -2159,
+      "x": 1952,
+      "y": -2679,
       "width": 400,
       "height": 458
     },
@@ -290,8 +299,8 @@
       "id": "e89a15c3c166f7fb",
       "type": "text",
       "text": "## [[Edy Gurr]], Head Botanist\n",
-      "x": 857,
-      "y": -1759,
+      "x": 1106,
+      "y": -2279,
       "width": 400,
       "height": 58
     },
@@ -299,98 +308,17 @@
       "id": "8e3aa4ef3592fa6f",
       "type": "text",
       "text": "## [[Navi Gurr]], Gardener/Florist",
-      "x": 1280,
-      "y": -1759,
+      "x": 1529,
+      "y": -2279,
       "width": 400,
       "height": 58
-    },
-    {
-      "id": "ce45f99cd7c9e652",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shazria Finch.webp",
-      "x": 855,
-      "y": -1408,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "40d766b5345f5f62",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darjeeling.png",
-      "x": 1278,
-      "y": -1408,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "8081c51b45029c22",
-      "type": "text",
-      "text": "# 🔮 The Acolyte's Bargain\n\nThis potion shop is run by [[Shazria Finch|Shazria]] with the aid of her familiar, [[Darjeeling]]. In addition to potions, they also sell other magical items and components.",
-      "x": 1703,
-      "y": -1408,
-      "width": 400,
-      "height": 458
-    },
-    {
-      "id": "2723cd16b9ba4308",
-      "type": "text",
-      "text": "## [[Shazria Finch]]",
-      "x": 855,
-      "y": -1008,
-      "width": 400,
-      "height": 68
-    },
-    {
-      "id": "0fc7fb356f8c11c4",
-      "type": "text",
-      "text": "## [[Darjeeling]]",
-      "x": 1278,
-      "y": -1008,
-      "width": 400,
-      "height": 68
-    },
-    {
-      "id": "8560c61673e7c746",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Gulfrun.webp",
-      "x": 860,
-      "y": -642,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "7078904c73b28d37",
-      "type": "text",
-      "text": "## [[Gulfrun]]\n",
-      "x": 860,
-      "y": -242,
-      "width": 400,
-      "height": 62
-    },
-    {
-      "id": "fefec1ffaf55587e",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Argil.webp",
-      "x": 1280,
-      "y": -642,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "98c478774f5a4583",
-      "type": "text",
-      "text": "## [[Argil]]",
-      "x": 1280,
-      "y": -242,
-      "width": 400,
-      "height": 60
     },
     {
       "id": "7f7dfd942d93c62c",
       "type": "text",
       "text": "# ⚔️ In Flux\n\nOwned by the married couple [[Farra Anmask|Farra]] and [[Innova Anmask|Innova]], this shop sells armor, weaponry, and other adventuring gear.",
-      "x": -1320,
-      "y": -640,
+      "x": -1540,
+      "y": -1200,
       "width": 400,
       "height": 458
     },
@@ -398,8 +326,17 @@
       "id": "4bf5c0f8fb48f630",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Farra Anmask.png",
-      "x": -895,
-      "y": -640,
+      "x": -1115,
+      "y": -1200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7ad6e145aa70c970",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.png",
+      "x": -675,
+      "y": -1200,
       "width": 400,
       "height": 400
     },
@@ -407,28 +344,172 @@
       "id": "fedf28e039921bca",
       "type": "text",
       "text": "## [[Farra Anmask]], Baker/Owner\n",
-      "x": -895,
-      "y": -240,
+      "x": -1115,
+      "y": -800,
       "width": 400,
       "height": 60
-    },
-    {
-      "id": "7ad6e145aa70c970",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.png",
-      "x": -455,
-      "y": -640,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "91c358c09fa350a7",
       "type": "text",
       "text": "## [[Innova Anmask]], Blacksmith",
-      "x": -455,
-      "y": -240,
+      "x": -675,
+      "y": -800,
       "width": 400,
       "height": 60
+    },
+    {
+      "id": "8560c61673e7c746",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Gulfrun.webp",
+      "x": 1109,
+      "y": -1202,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fefec1ffaf55587e",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Argil.webp",
+      "x": 1529,
+      "y": -1202,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7078904c73b28d37",
+      "type": "text",
+      "text": "## [[Gulfrun]]\n",
+      "x": 1109,
+      "y": -802,
+      "width": 400,
+      "height": 62
+    },
+    {
+      "id": "98c478774f5a4583",
+      "type": "text",
+      "text": "## [[Argil]]",
+      "x": 1529,
+      "y": -802,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "ce45f99cd7c9e652",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shazria Finch.webp",
+      "x": 1104,
+      "y": -1928,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "40d766b5345f5f62",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darjeeling.png",
+      "x": 1527,
+      "y": -1928,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8081c51b45029c22",
+      "type": "text",
+      "text": "# 🔮 The Acolyte's Bargain\n\nThis potion shop is run by [[Shazria Finch|Shazria]] with the aid of her familiar, [[Darjeeling]]. In addition to potions, they also sell other magical items and components.",
+      "x": 1952,
+      "y": -1928,
+      "width": 400,
+      "height": 458
+    },
+    {
+      "id": "2723cd16b9ba4308",
+      "type": "text",
+      "text": "## [[Shazria Finch]]",
+      "x": 1104,
+      "y": -1528,
+      "width": 400,
+      "height": 68
+    },
+    {
+      "id": "0fc7fb356f8c11c4",
+      "type": "text",
+      "text": "## [[Darjeeling]]",
+      "x": 1527,
+      "y": -1528,
+      "width": 400,
+      "height": 68
+    },
+    {
+      "id": "b2c69c8c53f869d8",
+      "x": -400,
+      "y": -600,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Europa.png"
+    },
+    {
+      "id": "49864e1cf03a52f6",
+      "x": 0,
+      "y": -600,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Ginnette_c.jpg"
+    },
+    {
+      "id": "dc6efb029eec807f",
+      "x": 400,
+      "y": -600,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Jackrie_c.jpg"
+    },
+    {
+      "id": "f07943709f80c814",
+      "x": 400,
+      "y": -200,
+      "width": 400,
+      "height": 60,
+      "type": "text",
+      "text": "## [[Jack]]"
+    },
+    {
+      "id": "f28a10956903bc72",
+      "x": 800,
+      "y": -600,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Forrest.jpg"
+    },
+    {
+      "id": "0eaf79b4ddc643fd",
+      "x": -400,
+      "y": -200,
+      "width": 400,
+      "height": 60,
+      "type": "text",
+      "text": "## [[Europa]]"
+    },
+    {
+      "id": "1a60718505d6374b",
+      "x": 0,
+      "y": -200,
+      "width": 400,
+      "height": 60,
+      "type": "text",
+      "text": "## [[Ginnette]]\n"
+    },
+    {
+      "id": "6b87131b385c9c0d",
+      "x": 800,
+      "y": -200,
+      "width": 400,
+      "height": 60,
+      "type": "text",
+      "text": "## [[Forrest]]"
     }
   ],
   "edges": [

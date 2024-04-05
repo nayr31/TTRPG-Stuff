@@ -110,6 +110,7 @@ columns:
       - { label: "N/A", value: "N/A", color: "hsl(186, 95%, 90%)"}
       - { label: "Gunslinger", value: "Gunslinger", color: "hsl(239, 95%, 90%)"}
       - { label: "Investigator", value: "Investigator", color: "hsl(48, 95%, 90%)"}
+      - { label: "Fighter", value: "Fighter", color: "hsl(270, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
