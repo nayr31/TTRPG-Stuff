@@ -278,15 +278,6 @@
       "height": 400
     },
     {
-      "id": "e63af622e91589bd",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Edy Gurr.png",
-      "x": 1106,
-      "y": -2679,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "8081c51b45029c22",
       "type": "text",
       "text": "# 🔮 The Acolyte's Bargain\n\nThis potion shop is run by [[Shazria Finch|Shazria]] with the aid of her familiar, [[Darjeeling]]. In addition to potions, they also sell other magical items and components.",
@@ -294,6 +285,42 @@
       "y": -1928,
       "width": 400,
       "height": 458
+    },
+    {
+      "id": "8560c61673e7c746",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Gulfrun.webp",
+      "x": 1109,
+      "y": -1202,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fefec1ffaf55587e",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Argil.webp",
+      "x": 1529,
+      "y": -1202,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e92e5e6ce7d16b6b",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Jon Bovi.png",
+      "x": -1540,
+      "y": -2620,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ee1cf7f0cb0ef071",
+      "type": "text",
+      "text": "## [[Jon Bovi]], Travelling bard",
+      "x": -1540,
+      "y": -2220,
+      "width": 400,
+      "height": 60
     },
     {
       "id": "2723cd16b9ba4308",
@@ -312,24 +339,6 @@
       "y": -1528,
       "width": 400,
       "height": 68
-    },
-    {
-      "id": "ed5ebb039663217a",
-      "type": "text",
-      "text": "## [[Darien Imsa]], Cleric\n",
-      "x": 415,
-      "y": -1380,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "9952b840d5944c9d",
-      "type": "text",
-      "text": "## [[Nymora Hex]], Writer",
-      "x": -17,
-      "y": -1380,
-      "width": 400,
-      "height": 60
     },
     {
       "id": "f28a10956903bc72",
@@ -359,15 +368,6 @@
       "height": 400
     },
     {
-      "id": "0ce0d3f9a2dfc017",
-      "type": "text",
-      "text": "## [[Ivory]]",
-      "x": 995,
-      "y": -120,
-      "width": 400,
-      "height": 60
-    },
-    {
       "id": "e89a15c3c166f7fb",
       "type": "text",
       "text": "## [[Edy Gurr]], Head Botanist\n",
@@ -386,60 +386,6 @@
       "height": 58
     },
     {
-      "id": "15d25600ff40f4a5",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Navi Gurr.png",
-      "x": 1529,
-      "y": -2679,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "0f49cf0613ab675d",
-      "type": "text",
-      "text": "# 🌱💐 Crystalarum\n\nThe Gurr siblings ([[Edy Gurr|Edy]] and [[Navi Gurr|Navi]]) run this crystal based greenhouse. They sell their produce willingly while also selling botanist starter kits to tourists.\n",
-      "x": 1952,
-      "y": -2679,
-      "width": 400,
-      "height": 458
-    },
-    {
-      "id": "33885771a4d55f79",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Nymora Hex.png",
-      "x": -17,
-      "y": -1780,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "979a02c8444cc137",
-      "type": "text",
-      "text": "## [[Ginger]], Clerk/Assistant\n",
-      "x": 420,
-      "y": -2522,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "8560c61673e7c746",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Gulfrun.webp",
-      "x": 1109,
-      "y": -1202,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "fefec1ffaf55587e",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Argil.webp",
-      "x": 1529,
-      "y": -1202,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "7078904c73b28d37",
       "type": "text",
       "text": "## [[Gulfrun]]\n",
@@ -456,6 +402,42 @@
       "y": -802,
       "width": 400,
       "height": 60
+    },
+    {
+      "id": "ed5ebb039663217a",
+      "type": "text",
+      "text": "## [[Darien Imsa]], Cleric\n",
+      "x": 415,
+      "y": -1380,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "9952b840d5944c9d",
+      "type": "text",
+      "text": "## [[Nymora Hex]], Writer",
+      "x": -17,
+      "y": -1380,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "0ce0d3f9a2dfc017",
+      "type": "text",
+      "text": "## [[Ivory]]",
+      "x": 995,
+      "y": -120,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "33885771a4d55f79",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Nymora Hex.png",
+      "x": -17,
+      "y": -1780,
+      "width": 400,
+      "height": 400
     },
     {
       "id": "3cdc8eff15937f3d",
@@ -485,20 +467,47 @@
       "height": 400
     },
     {
+      "id": "e63af622e91589bd",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Edy Gurr.png",
+      "x": 1106,
+      "y": -2679,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "15d25600ff40f4a5",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Navi Gurr.png",
+      "x": 1529,
+      "y": -2679,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0f49cf0613ab675d",
+      "type": "text",
+      "text": "# 🌱💐 Crystalarum\n\nThe Gurr siblings ([[Edy Gurr|Edy]] and [[Navi Gurr|Navi]]) run this crystal based greenhouse. They sell their produce willingly while also selling botanist starter kits to tourists.\n",
+      "x": 1952,
+      "y": -2679,
+      "width": 400,
+      "height": 458
+    },
+    {
+      "id": "979a02c8444cc137",
+      "type": "text",
+      "text": "## [[Ginger]], Clerk/Assistant\n",
+      "x": 420,
+      "y": -2522,
+      "width": 400,
+      "height": 60
+    },
+    {
       "id": "589a4c855896936a",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png",
       "x": 420,
       "y": -2922,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "dc6efb029eec807f",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Jackrie_c.jpg",
-      "x": 195,
-      "y": -520,
       "width": 400,
       "height": 400
     },
@@ -539,6 +548,15 @@
       "height": 60
     },
     {
+      "id": "dc6efb029eec807f",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Jackrie_c.jpg",
+      "x": 195,
+      "y": -520,
+      "width": 400,
+      "height": 400
+    },
+    {
       "id": "49864e1cf03a52f6",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Ginnette_c.jpg",
@@ -564,24 +582,6 @@
       "y": -120,
       "width": 400,
       "height": 60
-    },
-    {
-      "id": "e92e5e6ce7d16b6b",
-      "x": -1540,
-      "y": -2620,
-      "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Jon Bovi.png"
-    },
-    {
-      "id": "ee1cf7f0cb0ef071",
-      "x": -1540,
-      "y": -2220,
-      "width": 400,
-      "height": 60,
-      "type": "text",
-      "text": "## [[Jon Bovi]], Travelling bard"
     }
   ],
   "edges": [

@@ -18,8 +18,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "582a95682d0b56e4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "viewState": {
+                  "x": 1565.8964924364536,
+                  "y": -2221.652878701334,
+                  "zoom": -0.8706725303599123
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,10 +238,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "582a95682d0b56e4",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Jon Bovi.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Jon Bovi.png",
@@ -236,7 +253,6 @@
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/568293_z2uJdLz4.webp",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Clyde.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Ivory.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Ivory.bmp",
