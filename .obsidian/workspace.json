@@ -23,14 +23,12 @@
             "id": "582a95682d0b56e4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
-                "viewState": {
-                  "x": 1565.8964924364536,
-                  "y": -2221.652878701334,
-                  "zoom": -0.8706725303599123
-                }
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -112,6 +110,19 @@
             }
           },
           {
+            "id": "a865ab9d26322de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/Session 00.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -125,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/Session 00.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +165,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/Session 00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,11 +250,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "582a95682d0b56e4",
+  "active": "a865ab9d26322de6",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/Session 00.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Farra Anmask.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Navi Gurr.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Jon Bovi.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Jon Bovi.png",
@@ -280,9 +296,6 @@
     "10 🧙 Player Campaigns/His Final Hunt/Players",
     "11 🗄️ Archived Player Campaigns",
     "10 🧙 Player Campaigns/His Final Hunt",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Gulfrun.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Navi Gurr.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Shazria Finch.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Bryn Marloch.png.url",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.url",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.url",
