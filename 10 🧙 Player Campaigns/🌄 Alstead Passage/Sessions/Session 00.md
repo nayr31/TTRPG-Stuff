@@ -4,4 +4,4 @@ NoteIcon: Note
 ---
 The introductory pbp scene/session, where everyone is at [[The Vulgar Nun]].
 
-[[Jack]] eats some food, then smokes a little with [[Edy Gurr|Edy]] and [[Navi Gurr|Navi]]. 
+[[Jack]] eats some food, then smokes a little with [[Edy Gurr|Edy]] and [[Navi Gurr|Navi]].

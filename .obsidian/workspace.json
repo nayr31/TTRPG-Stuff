@@ -23,12 +23,14 @@
             "id": "582a95682d0b56e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "viewState": {
+                  "x": 667.3211580438879,
+                  "y": -1694.4630522631853,
+                  "zoom": -1.870672530359912
+                }
               }
             }
           }
@@ -136,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/Session 00.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/Session 00.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -250,13 +252,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a865ab9d26322de6",
+  "active": "582a95682d0b56e4",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/Session 00.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Farra Anmask.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Navi Gurr.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
@@ -269,7 +272,6 @@
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/568293_z2uJdLz4.webp",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Clyde.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Ivory.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Ivory.bmp",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Sherman.md",
@@ -291,7 +293,6 @@
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Arabelle Dostoyevsky.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Holly Ironbone.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs/Isaac Parkes.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Nymora Hex.md",
     "10 🧙 Player Campaigns/His Final Hunt/Players/Art",
     "10 🧙 Player Campaigns/His Final Hunt/Players",
     "11 🗄️ Archived Player Campaigns",
