@@ -40,3 +40,5 @@ Here is the list of systems with signals
 - [ ] 😓 Volk (Osprey, *Jade Glaive*)
 - [ ] Estea
 - [ ] ❄️Edri
+
+We decide on some vices.
