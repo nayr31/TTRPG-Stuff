@@ -4,6 +4,10 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "cut_of_meat",
+    "meat_on_bone",
+    "meat",
+    "cow",
     "sweat",
     "snowflake",
     "rose",
@@ -24,11 +28,7 @@
     "moneybag",
     "beers",
     "beer",
-    "post_office",
-    "sheep",
-    "sparkles",
-    "handshake",
-    "two_hearts"
+    "post_office"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

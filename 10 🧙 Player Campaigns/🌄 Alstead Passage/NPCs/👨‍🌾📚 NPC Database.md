@@ -173,6 +173,9 @@ columns:
       - { label: "[[🍻 The Vulgar Nun]]", value: "[[🍻 The Vulgar Nun]]", color: "hsl(20, 95%, 90%)"}
       - { label: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🍻 The Vulgar Nun.md|🍻 The Vulgar Nun]]", value: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🍻 The Vulgar Nun.md|🍻 The Vulgar Nun]]", color: "hsl(102, 95%, 90%)"}
       - { label: "[[📦 Shannon's Sundries]]", value: "[[📦 Shannon's Sundries]]", color: "hsl(20, 95%, 90%)"}
+      - { label: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/📦 Shannon's Sundries.md|📦 Shannon's Sundries]]", value: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/📦 Shannon's Sundries.md|📦 Shannon's Sundries]]", color: "hsl(167, 95%, 90%)"}
+      - { label: "[[🐮 Trysta's Tannery]]", value: "[[🐮 Trysta's Tannery]]", color: "hsl(245, 95%, 90%)"}
+      - { label: "[[🥩 A Cut Above]]", value: "[[🥩 A Cut Above]]", color: "hsl(22, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

@@ -87,16 +87,6 @@
       "height": 400
     },
     {
-      "id": "490a7b68b5a5cacd",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🍻 The Vulgar Nun.md",
-      "x": -860,
-      "y": -3169,
-      "width": 580,
-      "height": 980,
-      "color": "1"
-    },
-    {
       "id": "f8c4feb04f836ef6",
       "type": "file",
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
@@ -221,16 +211,6 @@
       "y": -1200,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "76cb6c505af8e035",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/📦 Shannon's Sundries.md",
-      "x": -860,
-      "y": -2140,
-      "width": 580,
-      "height": 660,
-      "color": "3"
     },
     {
       "id": "3cdc8eff15937f3d",
@@ -438,6 +418,26 @@
       "y": -2679,
       "width": 400,
       "height": 458
+    },
+    {
+      "id": "76cb6c505af8e035",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/📦 Shannon's Sundries.md",
+      "x": -860,
+      "y": -2140,
+      "width": 580,
+      "height": 660,
+      "color": "3"
+    },
+    {
+      "id": "490a7b68b5a5cacd",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🍻 The Vulgar Nun.md",
+      "x": -860,
+      "y": -3169,
+      "width": 580,
+      "height": 980,
+      "color": "1"
     }
   ],
   "edges": [
