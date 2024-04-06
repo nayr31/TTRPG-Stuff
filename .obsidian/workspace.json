@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9489f599f127563f",
@@ -71,9 +72,9 @@
               "state": {
                 "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "viewState": {
-                  "x": 197.29234173229239,
-                  "y": -2383.042598045375,
-                  "zoom": -0.9767876372034234
+                  "x": -544.6668850037227,
+                  "y": -1930.1016659299935,
+                  "zoom": 0.35654569612990983
                 }
               }
             }
@@ -217,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -331,16 +332,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "3dc0090d533d5e75",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/📦 Shannon's Sundries.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🍻 The Vulgar Nun.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/Business Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 05.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
@@ -348,12 +350,11 @@
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "Notes.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/Session 00.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/Session 00-PBP.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 04.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Farra Anmask.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Navi Gurr.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Jon Bovi.md",
