@@ -7,6 +7,7 @@ Notes: |-
   - [[Ginger|Ginger's]] brother
   - Loves coffee, cake, and coffee cake.
 Art: "![[Earl.png]]"
-Affiliation: 
+Affiliation: "[[📦 Shannon's Sundries]]"
 Keys: 😄🤝
+Job: Worker
 ---

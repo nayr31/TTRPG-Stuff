@@ -5,7 +5,7 @@ Logo: "![[BRB.png]]"
 Summary: A crew of straight-laced, athletic, and super competitive laserbladers.
 ---
 The first team ever to burn through in a triple, BRB is a crew of competitive, backpack-wearing laserbladers, dominating leaderboards and beating every comp they enter into submission. People joke that BRB will be the ones to get slugblasting turned into an Olympic event.
-
+[[10 🧙 Player Campaigns/🌄 Alstead Passage/Groups/👪📚 Group Database]]
 **Assets:**
 - Free hear from [[Scram Cat]]
 - Best times on all the top speed runs

@@ -8,9 +8,10 @@ Notes: |-
   - Shannon has a magical prosthetic eye due to a crafting mishap, but wears an eyepatch because some find the eye unsettling
   - Blueberry pie is Shannon's favourite food
 Art: "![[Shannon Silverhammer.png]]"
-Affiliation: 
+Affiliation: "[[📦 Shannon's Sundries]]"
 Keys: 😄💕💰
 Romancable?: true
 aliases:
   - Shannon
+Job: Owner
 ---

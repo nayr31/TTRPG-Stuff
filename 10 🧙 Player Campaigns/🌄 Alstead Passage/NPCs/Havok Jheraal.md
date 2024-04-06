@@ -7,9 +7,10 @@ Notes: |-
   - Regularly travels to Almas to check out the local music scene
   - Really into dwarf metal right now
 Art: "![[Havok Jheraal.png]]"
-Affiliation: 
+Affiliation: "[[🍻 The Vulgar Nun]]"
 Keys: 😄💕
 Romancable?: true
 aliases:
   - Havok
+Job: Co-owner, baker.
 ---

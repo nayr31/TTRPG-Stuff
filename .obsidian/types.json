@@ -84,6 +84,7 @@
     "Date": "date",
     "level": "number",
     "bonus": "number",
-    "gpvalue": "number"
+    "gpvalue": "number",
+    "Workers": "text"
   }
 }

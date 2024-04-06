@@ -38,9 +38,9 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 7
+    position: 8
     skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     isSorted: false
     isSortedDesc: true
@@ -147,6 +147,49 @@ columns:
     id: Romancable?
     label: Romancable?
     position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Affiliation:
+    input: select
+    accessorKey: Affiliation
+    key: Affiliation
+    id: Affiliation
+    label: Affiliation
+    position: 7
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "[[🍻 The Vulgar Nun]]", value: "[[🍻 The Vulgar Nun]]", color: "hsl(20, 95%, 90%)"}
+      - { label: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🍻 The Vulgar Nun.md|🍻 The Vulgar Nun]]", value: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🍻 The Vulgar Nun.md|🍻 The Vulgar Nun]]", color: "hsl(102, 95%, 90%)"}
+      - { label: "[[📦 Shannon's Sundries]]", value: "[[📦 Shannon's Sundries]]", color: "hsl(20, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  Job:
+    input: text
+    accessorKey: Job
+    key: Job
+    id: Job
+    label: Job
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1

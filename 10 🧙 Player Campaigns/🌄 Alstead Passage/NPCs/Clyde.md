@@ -6,6 +6,7 @@ Notes: |-
   - Heard there would be snacks
   - Finds Cindzi intimidating for no discernable reason
 Art: "![[Clyde.png]]"
-Affiliation: 
+Affiliation: "[[🍻 The Vulgar Nun]]"
 Keys: 😄🤝
+Job: Dishwasher
 ---

@@ -6,6 +6,7 @@ Notes: |-
   - Kitchen hand/cook at The Vulgar Nun
   - Wants to go with Havok to a show in Almas someday
 Art: "![[Sherman.png]]"
-Affiliation: 
+Affiliation: "[[🍻 The Vulgar Nun]]"
 Keys: 😄🤝
+Job: Cook
 ---
