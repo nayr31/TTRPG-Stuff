@@ -5,6 +5,7 @@ cssclasses:
 ---
 
 ![[The Chart~.canvas]]
+## [[Business Database]]
 
 # [[10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
@@ -18,7 +19,7 @@ WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```
 
-[[Business Database]]
+
 # [[10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
 ```dataview
 TABLE WITHOUT ID 

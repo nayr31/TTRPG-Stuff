@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "diamond",
     "cut_of_meat",
     "meat_on_bone",
     "meat",
@@ -27,8 +28,7 @@
     "package",
     "moneybag",
     "beers",
-    "beer",
-    "post_office"
+    "beer"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
