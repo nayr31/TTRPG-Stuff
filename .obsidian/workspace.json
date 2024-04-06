@@ -33,9 +33,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5047c80cefee5d87",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "viewState": {
+                  "x": 1479.1525374586483,
+                  "y": -1232.6120849758192,
+                  "zoom": -0.5373391970265791
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,13 +253,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "360032e0b0e6f6b9",
+  "active": "5047c80cefee5d87",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/💎 Seams and Gleams.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Han Winterdew.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Han Winterdew.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/Business Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/📦 Shannon's Sundries.md",
     "Notes.md",
