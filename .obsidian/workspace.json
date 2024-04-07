@@ -42,14 +42,15 @@
               "state": {
                 "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "viewState": {
-                  "x": 1249.8481824172243,
-                  "y": -1563.5069770609123,
-                  "zoom": -0.5373391970265791
+                  "x": -289.0799625721152,
+                  "y": -2141.7569237560083,
+                  "zoom": -1.2040058636932456
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,8 +253,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "360032e0b0e6f6b9",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/💎 Seams and Gleams.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
@@ -262,7 +265,6 @@
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/Business Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/📦 Shannon's Sundries.md",
     "Notes.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🥩 A Cut Above.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🐮 Trysta's Tannery.md",
     "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
@@ -272,7 +274,6 @@
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Iskra Szovsky.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Trysta Naaz.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🍻 The Vulgar Nun.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses",
