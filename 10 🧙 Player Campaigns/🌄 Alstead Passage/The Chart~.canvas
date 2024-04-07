@@ -10,6 +10,16 @@
       "label": "The Party"
     },
     {
+      "id": "0359bd1e1a83c718",
+      "type": "group",
+      "x": 1089,
+      "y": -1960,
+      "width": 1280,
+      "height": 520,
+      "color": "6",
+      "label": "🔮 The Acolyte's Bargain"
+    },
+    {
       "id": "22447683bd82c956",
       "type": "group",
       "x": -37,
@@ -27,16 +37,6 @@
       "height": 520,
       "color": "#9c5526",
       "label": "⚔️ In Flux"
-    },
-    {
-      "id": "0359bd1e1a83c718",
-      "type": "group",
-      "x": 1089,
-      "y": -1960,
-      "width": 1280,
-      "height": 520,
-      "color": "6",
-      "label": "🔮 The Acolyte's Bargain"
     },
     {
       "id": "c0c601b912b9fd35",
@@ -147,15 +147,6 @@
       "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
       "x": 415,
       "y": -1780,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "ce45f99cd7c9e652",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shazria Finch.webp",
-      "x": 1104,
-      "y": -1928,
       "width": 400,
       "height": 400
     },
@@ -438,6 +429,15 @@
       "y": -2679,
       "width": 400,
       "height": 458
+    },
+    {
+      "id": "ce45f99cd7c9e652",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shazria Finch.webp",
+      "x": 1104,
+      "y": -1928,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
