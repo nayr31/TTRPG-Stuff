@@ -69,40 +69,78 @@
       "label": "Untitled 🐑 Sheep Farm"
     },
     {
-      "id": "0eaf79b4ddc643fd",
+      "id": "979a02c8444cc137",
       "type": "text",
-      "text": "## [[Europa]]",
-      "x": -605,
-      "y": -120,
+      "text": "## [[Ginger]], Clerk/Assistant\n",
+      "x": 420,
+      "y": -2522,
       "width": 400,
       "height": 60
     },
     {
-      "id": "ce45f99cd7c9e652",
+      "id": "589a4c855896936a",
       "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shazria Finch.webp",
-      "x": 1104,
-      "y": -1928,
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png",
+      "x": 420,
+      "y": -2922,
       "width": 400,
       "height": 400
     },
     {
-      "id": "8560c61673e7c746",
+      "id": "39fe96744b18febd",
       "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Gulfrun.webp",
-      "x": 1109,
-      "y": -1202,
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Bryn Marloch.png",
+      "x": -20,
+      "y": -2922,
       "width": 400,
       "height": 400
     },
     {
-      "id": "7078904c73b28d37",
+      "id": "89fa1ebc9e896442",
       "type": "text",
-      "text": "## [[Gulfrun]]\n",
-      "x": 1109,
-      "y": -802,
+      "text": "## [[Bryn Marloch]], Mayor\n",
+      "x": -20,
+      "y": -2522,
       "width": 400,
-      "height": 62
+      "height": 60
+    },
+    {
+      "id": "3cdc8eff15937f3d",
+      "type": "text",
+      "text": "## [[Viggo!]], Postmaster\n",
+      "x": -17,
+      "y": -920,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "7ad6e145aa70c970",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.png",
+      "x": -675,
+      "y": -1200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "490a7b68b5a5cacd",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🍻 The Vulgar Nun.md",
+      "x": -860,
+      "y": -3169,
+      "width": 580,
+      "height": 980,
+      "color": "1"
+    },
+    {
+      "id": "76cb6c505af8e035",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/📦 Shannon's Sundries.md",
+      "x": -860,
+      "y": -2140,
+      "width": 580,
+      "height": 660,
+      "color": "3"
     },
     {
       "id": "e63af622e91589bd",
@@ -141,40 +179,67 @@
       "height": 400
     },
     {
-      "id": "fefec1ffaf55587e",
+      "id": "91c358c09fa350a7",
+      "type": "text",
+      "text": "## [[Innova Anmask]], Blacksmith",
+      "x": -675,
+      "y": -800,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "4bf5c0f8fb48f630",
       "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Argil.webp",
-      "x": 1529,
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Farra Anmask.png",
+      "x": -1115,
+      "y": -1200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fedf28e039921bca",
+      "type": "text",
+      "text": "## [[Farra Anmask]], Baker/Owner\n",
+      "x": -1115,
+      "y": -800,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "7f7dfd942d93c62c",
+      "type": "text",
+      "text": "# ⚔️ In Flux\n\nOwned by the married couple [[Farra Anmask|Farra]] and [[Innova Anmask|Innova]], this shop sells armor, weaponry, and other adventuring gear.",
+      "x": -1540,
+      "y": -1200,
+      "width": 400,
+      "height": 458
+    },
+    {
+      "id": "ce45f99cd7c9e652",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Shazria Finch.webp",
+      "x": 1104,
+      "y": -1928,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8560c61673e7c746",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Gulfrun.webp",
+      "x": 1109,
       "y": -1202,
       "width": 400,
       "height": 400
     },
     {
-      "id": "98c478774f5a4583",
+      "id": "7078904c73b28d37",
       "type": "text",
-      "text": "## [[Argil]]",
-      "x": 1529,
+      "text": "## [[Gulfrun]]\n",
+      "x": 1109,
       "y": -802,
       "width": 400,
-      "height": 60
-    },
-    {
-      "id": "979a02c8444cc137",
-      "type": "text",
-      "text": "## [[Ginger]], Clerk/Assistant\n",
-      "x": 420,
-      "y": -2522,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "f8c4feb04f836ef6",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
-      "x": 415,
-      "y": -1780,
-      "width": 400,
-      "height": 400
+      "height": 62
     },
     {
       "id": "2723cd16b9ba4308",
@@ -204,24 +269,6 @@
       "height": 400
     },
     {
-      "id": "ed5ebb039663217a",
-      "type": "text",
-      "text": "## [[Darien Imsa]], Cleric\n",
-      "x": 415,
-      "y": -1380,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "589a4c855896936a",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Ginger.png",
-      "x": 420,
-      "y": -2922,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "8081c51b45029c22",
       "type": "text",
       "text": "# 🔮 The Acolyte's Bargain\n\nThis potion shop is run by [[Shazria Finch|Shazria]] with the aid of her familiar, [[Darjeeling]]. In addition to potions, they also sell other magical items and components.",
@@ -240,13 +287,40 @@
       "height": 458
     },
     {
-      "id": "dc6efb029eec807f",
+      "id": "fefec1ffaf55587e",
       "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Jackrie_c.jpg",
-      "x": 195,
-      "y": -520,
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Argil.webp",
+      "x": 1529,
+      "y": -1202,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "98c478774f5a4583",
+      "type": "text",
+      "text": "## [[Argil]]",
+      "x": 1529,
+      "y": -802,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "f8c4feb04f836ef6",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
+      "x": 415,
+      "y": -1780,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ed5ebb039663217a",
+      "type": "text",
+      "text": "## [[Darien Imsa]], Cleric\n",
+      "x": 415,
+      "y": -1380,
+      "width": 400,
+      "height": 60
     },
     {
       "id": "f28a10956903bc72",
@@ -256,33 +330,6 @@
       "y": -520,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "54865682c5f50074",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Ivory.bmp",
-      "x": 995,
-      "y": -520,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "39fe96744b18febd",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Bryn Marloch.png",
-      "x": -20,
-      "y": -2922,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "89fa1ebc9e896442",
-      "type": "text",
-      "text": "## [[Bryn Marloch]], Mayor\n",
-      "x": -20,
-      "y": -2522,
-      "width": 400,
-      "height": 60
     },
     {
       "id": "33885771a4d55f79",
@@ -312,28 +359,46 @@
       "height": 400
     },
     {
-      "id": "3cdc8eff15937f3d",
+      "id": "6b87131b385c9c0d",
       "type": "text",
-      "text": "## [[Viggo!]], Postmaster\n",
-      "x": -17,
-      "y": -920,
+      "text": "## [[Forrest]]",
+      "x": 595,
+      "y": -120,
       "width": 400,
       "height": 60
+    },
+    {
+      "id": "0eaf79b4ddc643fd",
+      "type": "text",
+      "text": "## [[Europa]]",
+      "x": -605,
+      "y": -120,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "dc6efb029eec807f",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Jackrie_c.jpg",
+      "x": 195,
+      "y": -520,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "54865682c5f50074",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/Art/Ivory.bmp",
+      "x": 995,
+      "y": -520,
+      "width": 400,
+      "height": 400
     },
     {
       "id": "f07943709f80c814",
       "type": "text",
       "text": "## [[Jack]]",
       "x": 195,
-      "y": -120,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "6b87131b385c9c0d",
-      "type": "text",
-      "text": "## [[Forrest]]",
-      "x": 595,
       "y": -120,
       "width": 400,
       "height": 60
@@ -373,71 +438,6 @@
       "y": -520,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "7ad6e145aa70c970",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Innova Anmask.png",
-      "x": -675,
-      "y": -1200,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "490a7b68b5a5cacd",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🍻 The Vulgar Nun.md",
-      "x": -860,
-      "y": -3169,
-      "width": 580,
-      "height": 980,
-      "color": "1"
-    },
-    {
-      "id": "91c358c09fa350a7",
-      "type": "text",
-      "text": "## [[Innova Anmask]], Blacksmith",
-      "x": -675,
-      "y": -800,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "76cb6c505af8e035",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/📦 Shannon's Sundries.md",
-      "x": -860,
-      "y": -2140,
-      "width": 580,
-      "height": 660,
-      "color": "3"
-    },
-    {
-      "id": "4bf5c0f8fb48f630",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Farra Anmask.png",
-      "x": -1115,
-      "y": -1200,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "fedf28e039921bca",
-      "type": "text",
-      "text": "## [[Farra Anmask]], Baker/Owner\n",
-      "x": -1115,
-      "y": -800,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "7f7dfd942d93c62c",
-      "type": "text",
-      "text": "# ⚔️ In Flux\n\nOwned by the married couple [[Farra Anmask|Farra]] and [[Innova Anmask|Innova]], this shop sells armor, weaponry, and other adventuring gear.",
-      "x": -1540,
-      "y": -1200,
-      "width": 400,
-      "height": 458
     }
   ],
   "edges": [

@@ -48,9 +48,24 @@
                 }
               }
             }
+          },
+          {
+            "id": "ddcc74b94f0375d8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+                "viewState": {
+                  "x": -515.0579555643627,
+                  "y": -2812.428760802417,
+                  "zoom": 0.12932746964008757
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,11 +268,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "360032e0b0e6f6b9",
+  "active": "ddcc74b94f0375d8",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
     "📑 Campaign Overview.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/💎 Seams and Gleams.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Han Winterdew.png",
