@@ -63,8 +63,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "c157209922b26f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -267,11 +281,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "c157209922b26f52",
   "lastOpenFiles": [
+    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/💎 Seams and Gleams.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Han Winterdew.png",
