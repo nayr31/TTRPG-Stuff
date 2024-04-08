@@ -179,6 +179,7 @@ columns:
       - { label: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🥩 A Cut Above.md|🥩 A Cut Above]]", value: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🥩 A Cut Above.md|🥩 A Cut Above]]", color: "hsl(4, 95%, 90%)"}
       - { label: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🐮 Trysta's Tannery.md|🐮 Trysta's Tannery]]", value: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/🐮 Trysta's Tannery.md|🐮 Trysta's Tannery]]", color: "hsl(205, 95%, 90%)"}
       - { label: "[[💎 Seams and Gleams]]", value: "[[💎 Seams and Gleams]]", color: "hsl(81, 95%, 90%)"}
+      - { label: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/💎 Seams and Gleams.md|💎 Seams and Gleams]]", value: "[[10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/💎 Seams and Gleams.md|💎 Seams and Gleams]]", color: "hsl(81, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

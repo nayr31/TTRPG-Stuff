@@ -33,49 +33,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5047c80cefee5d87",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
-                "viewState": {
-                  "x": -289.0799625721152,
-                  "y": -2141.7569237560083,
-                  "zoom": -1.2040058636932456
-                }
-              }
-            }
-          },
-          {
-            "id": "ddcc74b94f0375d8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
-                "viewState": {
-                  "x": -515.0579555643627,
-                  "y": -2812.428760802417,
-                  "zoom": 0.12932746964008757
-                }
-              }
-            }
-          },
-          {
-            "id": "c157209922b26f52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -282,11 +239,13 @@
   },
   "active": "feb205d6d42334e4",
   "lastOpenFiles": [
-    "📑 Campaign Overview.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/💎 Seams and Gleams.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Daybreak.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Daybreak.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/💎 Seams and Gleams.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Han Winterdew.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Han Winterdew.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/Business Database.md",
@@ -312,14 +271,12 @@
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 04.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Farra Anmask.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Jon Bovi.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/o86zobyx.bmp",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Clyde.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/1r5t4xym.bmp",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.png",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/568293_z2uJdLz4.webp",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/StolenFatePlayersGuide.pdf",
     "81 🎨 Character Images/The actual images",
     "81 🎨 Character Images",
