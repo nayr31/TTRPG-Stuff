@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -281,7 +280,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c157209922b26f52",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
     "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
