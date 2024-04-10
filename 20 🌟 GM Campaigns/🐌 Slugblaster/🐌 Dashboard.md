@@ -5,7 +5,7 @@ cssclasses:
 banner: "[[Cover art.jpg]]"
 ---
 
-# [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]]
+# [[20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database|🛹 Crews]] (or the [[20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database|peeps]])
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",

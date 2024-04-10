@@ -2,6 +2,7 @@
 NoteIcon: Group
 Type: Sponsors
 Summary: Inventor of the Nth-gear hoverboard. Basically invented slugblasting.
+Logo: "![[Scram Cat 1.png]]"
 ---
 Before Scram Cat, slugblasting wasn’t much more than a few kids sneaking into [[Prismatia]] through mining portals. But with [[Scram Cat|Scram Cat’s]] novelty toy, the Nth gear™ hoverboard, everything changed. (The company’s name is so synonymous with the subculture that in some places slugblasters are called “scram cats” instead.) No company has the history, the respect, and the authenticity that Scram Cat has—which is exactly why [[Miper]] is set to acquire them later this month. I’m sure it will be chill.
 

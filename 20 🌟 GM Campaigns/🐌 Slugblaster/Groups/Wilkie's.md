@@ -2,7 +2,7 @@
 NoteIcon: Group
 Type: Sponsors
 Summary: Biggest confectionary in the multiverse. Inventor of [[PANIC Energy]].
-Logo: "![[Wilkies.png]]"
+Logo: "![[Wilkie's Word.png]]"
 aliases:
   - Wilkie’s
   - PANIC® Energy
