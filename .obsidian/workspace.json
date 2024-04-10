@@ -18,24 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "360032e0b0e6f6b9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,11 +222,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "360032e0b0e6f6b9",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Whiplash.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/K-Jump.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Photonic Jacket.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Phox.md",
     "📑 Campaign Overview.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/SlugblastersCrews.png",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/🌄 Dashboard.md",
+    "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Daybreak.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Daybreak.png",
@@ -270,14 +259,10 @@
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Sessions/Session 00-PBP.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 04.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Jon Bovi.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/o86zobyx.bmp",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Darien Imsa.png",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Clyde.png",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/1r5t4xym.bmp",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Art/Earl.png",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/StolenFatePlayersGuide.pdf",
     "81 🎨 Character Images/The actual images",
     "81 🎨 Character Images",
