@@ -31,3 +31,6 @@ Time to track the anomaly
 -> Megafauna crossing
 fuck that shit
 -> Hyper-Reactive Flora
+-> Static fog
+-> SSC wreck
+-> Clearing with mechs
