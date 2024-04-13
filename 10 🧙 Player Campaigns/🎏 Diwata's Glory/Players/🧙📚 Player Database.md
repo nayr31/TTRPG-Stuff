@@ -109,6 +109,7 @@ columns:
     sortIndex: 2
     isSorted: true
     isSortedDesc: false
+    width: 112
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -152,6 +153,9 @@ columns:
     options:
       - { label: "Medium", value: "Medium", color: "hsl(149,87%,69%)"}
       - { label: "Witch", value: "Witch", color: "hsl(262,96%,90%)"}
+      - { label: "Raider", value: "Raider", color: "hsl(332, 95%, 90%)"}
+      - { label: "Sharpshooter", value: "Sharpshooter", color: "hsl(58,76%,72%)"}
+      - { label: "Sentinel", value: "Sentinel", color: "hsl(233, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -161,6 +165,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal

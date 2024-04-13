@@ -1,5 +1,7 @@
 ---
 Pronouns: N/A
 NoteIcon: Player
-Art: "![[playernodata.png]]"
+Art: "![[Marikit.png]]"
+Discipline: Death Dancer
+Style: Raider
 ---

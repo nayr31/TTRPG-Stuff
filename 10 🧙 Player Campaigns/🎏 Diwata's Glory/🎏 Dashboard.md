@@ -9,12 +9,15 @@ cssclasses:
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
+	Discipline AS "Discipline",
 	embed(Art) AS "Art"
 from "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players"
 WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```
 
+> [!NOTE]- Google Sheet
+> <iframe src="https://docs.google.com/spreadsheets/d/1WYsZ_Wyt3K7EbyOsEdAccYfFJcDiY3VYS8cTsC51vY4/edit?usp=sharing" width=900 height=700></iframe>
 
 # [[10 🧙 Player Campaigns/🎏 Diwata's Glory/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
 ```dataview
