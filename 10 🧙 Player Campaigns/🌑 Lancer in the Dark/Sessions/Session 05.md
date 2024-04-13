@@ -1,6 +1,7 @@
 ---
 Date: 2024-04-05T00:00:00.000-04:00
 NoteIcon: Note
+Summary: Ashe discovers some info about our new universe.
 ---
 Flying away from the abandoned shipyard.
 

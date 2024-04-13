@@ -7,6 +7,7 @@ we all know each other, more/less depending on join date
 
 distress signal coming from an abandoned research station
 
+"Wings of Pas Hemet"
 Seraphim is the ship
 ASH Rose (cogant mind? ship - AI not NHP)
 known Juno's character, [[Lotus]] for a bit

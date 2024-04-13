@@ -1,6 +1,7 @@
 ---
 NoteIcon: Note
 Date: 2024-03-22T00:00:00.000-04:00
+Summary: Make our way through the dark area, fight some more subalterns, then kickstart the generator. Meet some HA looking peeps.
 ---
 Lights flicker and dim, minutes go by without power
 ASH "I'm in a dark place"
