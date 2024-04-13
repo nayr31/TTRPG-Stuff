@@ -5,7 +5,7 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: RWBY NPC Database
+name: Group Database
 description: 
 columns:
   __file__:
@@ -20,10 +20,7 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: 1
-    isSorted: true
-    isSortedDesc: false
-    width: 105
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -33,34 +30,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  NoteIcon:
-    input: select
-    accessorKey: NoteIcon
-    key: NoteIcon
-    id: NoteIcon
-    label: NoteIcon
-    position: 7
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "NPC", value: "NPC", color: "hsl(350, 95%, 90%)"}
-      - { label: "Player", value: "Player", color: "hsl(59, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Art:
+  Logo:
     input: text
-    accessorKey: Art
-    key: Art
-    id: Art
-    label: Art
+    accessorKey: Logo
+    key: Logo
+    id: Logo
+    label: Logo
     position: 3
     skipPersist: false
     isHidden: false
@@ -74,20 +49,19 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Pronouns:
-    input: select
-    accessorKey: Pronouns
-    key: Pronouns
-    id: Pronouns
-    label: Pronouns
+  __tags__:
+    key: __tags__
+    id: __tags__
+    input: metadata_tags
+    label: File Tags
+    accessorKey: __tags__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: false
     position: 2
-    skipPersist: false
-    isHidden: false
+    isHidden: true
     sortIndex: -1
-    options:
-      - { label: "He/Him", value: "He/Him", color: "hsl(278, 95%, 90%)"}
-      - { label: "She/Her", value: "She/Her", color: "hsl(217, 95%, 90%)"}
-      - { label: "N/A", value: "N/A", color: "hsl(96, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -97,38 +71,17 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Discipline:
-    input: text
-    accessorKey: Discipline
-    key: Discipline
-    id: Role
-    label: Discipline
-    position: 4
-    skipPersist: false
-    isHidden: false
-    sortIndex: 2
-    isSorted: true
-    isSortedDesc: false
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Homeland:
-    input: text
-    accessorKey: Homeland
-    key: Homeland
-    id: Notes
-    label: Homeland
+  Type:
+    input: select
+    accessorKey: Type
+    key: Type
+    id: Type
+    label: Type
     position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 175
+    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -138,20 +91,38 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      wrap_content: true
-  Style:
+  NoteIcon:
     input: select
-    accessorKey: Style
-    key: Style
-    id: Style
-    label: Style
+    accessorKey: NoteIcon
+    key: NoteIcon
+    id: NoteIcon
+    label: NoteIcon
     position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "Medium", value: "Medium", color: "hsl(149,87%,69%)"}
-      - { label: "Witch", value: "Witch", color: "hsl(262,96%,90%)"}
+      - { label: "Group", value: "Group", color: "hsl(307, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+  Summary:
+    input: text
+    accessorKey: Summary
+    key: Summary
+    id: Summary
+    label: Summary
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -164,22 +135,22 @@ columns:
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: true
+  sticky_first_column: false
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
-  hoist_files_with_empty_attributes: true
+  hoist_files_with_empty_attributes: false
   show_metadata_created: false
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false
   show_metadata_outlinks: false
-  show_metadata_tags: false
+  show_metadata_tags: true
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
-  current_row_template: 90 🧩 Templates/Player Template.md
+  current_row_template: 
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false

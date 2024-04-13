@@ -5,7 +5,7 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: RWBY NPC Database
+name: NPC Database
 description: 
 columns:
   __file__:
@@ -23,7 +23,6 @@ columns:
     sortIndex: 1
     isSorted: true
     isSortedDesc: false
-    width: 105
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -39,13 +38,12 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 7
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
       - { label: "NPC", value: "NPC", color: "hsl(350, 95%, 90%)"}
-      - { label: "Player", value: "Player", color: "hsl(59, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -97,61 +95,17 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Discipline:
+  Notes:
     input: text
-    accessorKey: Discipline
-    key: Discipline
-    id: Role
-    label: Discipline
-    position: 4
-    skipPersist: false
-    isHidden: false
-    sortIndex: 2
-    isSorted: true
-    isSortedDesc: false
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Homeland:
-    input: text
-    accessorKey: Homeland
-    key: Homeland
+    accessorKey: Notes
+    key: Notes
     id: Notes
-    label: Homeland
+    label: Notes
     position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
     width: 175
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      wrap_content: true
-  Style:
-    input: select
-    accessorKey: Style
-    key: Style
-    id: Style
-    label: Style
-    position: 6
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Medium", value: "Medium", color: "hsl(149,87%,69%)"}
-      - { label: "Witch", value: "Witch", color: "hsl(262,96%,90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -178,8 +132,8 @@ config:
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
-  row_templates_folder: /
-  current_row_template: 90 🧩 Templates/Player Template.md
+  row_templates_folder: z_Templates
+  current_row_template: 
   pagination_size: 10
   font_size: 16
   enable_js_formulas: false
