@@ -28,3 +28,6 @@ Bomber jacket guy
 Time to track the anomaly
 
 -> Great ravine
+-> Megafauna crossing
+fuck that shit
+-> Hyper-Reactive Flora
