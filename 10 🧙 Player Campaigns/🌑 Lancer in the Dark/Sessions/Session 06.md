@@ -24,3 +24,5 @@ Take the elevator down, bery big radiation (fusion reactors), flora and fauna
 
 Small encampment. Printer made buildings and fortifications
 Bomber jacket guy
+
+Time to track the anomaly
