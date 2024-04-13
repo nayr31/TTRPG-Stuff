@@ -107,7 +107,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 175
+    width: 224
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -117,6 +117,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      wrap_content: true
   Affiliation:
     input: select
     accessorKey: Affiliation
@@ -180,7 +181,7 @@ config:
   source_destination_path: /
   row_templates_folder: z_Templates
   current_row_template: 90 🧩 Templates/NPC.md
-  pagination_size: 55
+  pagination_size: 65
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /

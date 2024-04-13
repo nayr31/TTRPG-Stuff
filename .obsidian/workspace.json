@@ -20,25 +20,30 @@
             }
           },
           {
-            "id": "5dbe5d8331abfb47",
+            "id": "2bb89b9436db4ed1",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md"
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
           {
-            "id": "33473184b653059c",
+            "id": "16e33210911578c1",
             "type": "leaf",
             "state": {
-              "type": "aHR0cHM6Ly9jb21wY29uLmFwcA==",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 06.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 06.md",
+                "file": "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -255,36 +260,39 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a11339711dc44a4b",
+  "active": "16e33210911578c1",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/❓ Enigma/❓ Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
+    "📑 Campaign Overview.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Bez.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Penner.md",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Jason.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Marley.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Karen.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Galina.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Jericho Zebulak.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Jericho.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Balaclava.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Corey.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Penner.png",
+    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Koop.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 06.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 01.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 05.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 04.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-    "81 🎨 Character Images/Potential player portraits/seg blade hunter.jpg",
-    "81 🎨 Character Images/Potential player portraits/Alan wake.jpeg",
-    "81 🎨 Character Images/Potential player portraits/Alan wake 4.jpeg",
-    "81 🎨 Character Images/Potential player portraits/Alan wake 3.jpeg",
-    "81 🎨 Character Images/Potential player portraits/Alan wake 2.jpeg",
     "81 🎨 Character Images/Potential player portraits",
-    "81 🎨 Character Images/Potential player portraits/seg blade hunter.jpg",
-    "81 🎨 Character Images/Potential player portraits/seg blade hunter.jpg",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/👪📚 Group Database.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/🐌 Dashboard.md",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📓 Core Book.md",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/👨‍🌾📚 NPC Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Dylan.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Lazy Bunny.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Jet Collective.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/BRB.md",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Scram Cat 2.png",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Scram Cat 1.png",
-    "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/Wilkie's Word.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Groups/Art/New folder",
     "20 🌟 GM Campaigns/🐌 Slugblaster/Signatures/Photonic Jacket.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Phox.md",
@@ -294,9 +302,6 @@
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Daybreak.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/💎 Seams and Gleams.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/NPCs/Han Winterdew.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/Business Database.md",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses/📦 Shannon's Sundries.md",
-    "Notes.md",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/Buildings, Businesses",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/LANCERS IN THE DARK.pdf",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/StolenFatePlayersGuide.pdf",

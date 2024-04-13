@@ -38,6 +38,7 @@ kanban-plugin: basic
 ## Templates
 
 - [ ] ## <br>**System:** <br>**Synop:**
+- [ ] [[🐌 Dashboard]]
 
 
 

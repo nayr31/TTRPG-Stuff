@@ -2,6 +2,6 @@
 Pronouns: She/Her
 NoteIcon: NPC
 Notes: young, smart, torn between her devotion to her, family and her desire to be a normal teenager
-Art: 
+Art: "![[Rani.png]]"
 Affiliation: "[[The Arborists]]"
 ---
