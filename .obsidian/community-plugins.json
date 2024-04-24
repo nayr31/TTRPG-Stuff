@@ -6,7 +6,6 @@
   "obsidian-style-settings",
   "obsidian-meta-bind-plugin",
   "obsidian42-brat",
-  "obsidian-git",
   "obsidian-dice-roller",
   "emoji-autocomplete",
   "obsidian-hider",
@@ -18,5 +17,6 @@
   "link-keeper",
   "homepage",
   "advanced-canvas",
-  "open-gate"
+  "open-gate",
+  "obsidian-git"
 ]

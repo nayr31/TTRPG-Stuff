@@ -18,32 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "58d419aa84cb9a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🎏 Diwata's Glory/🎏 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1744a49cdb348368",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/🧙📚 Player Database.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🎏 Diwata's Glory/🎏 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🎏 Diwata's Glory/🎏 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,11 +222,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "58d419aa84cb9a65",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/🎏 Dashboard.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "📑 Campaign Overview.md",
+    "Notes.md",
+    "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+    "ReadMe.md",
+    "10 🧙 Player Campaigns/🎏 Diwata's Glory/🎏 Dashboard.md",
+    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Marikit.md",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.md",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Art/Marikit.png",
@@ -285,9 +265,6 @@
     "10 🧙 Player Campaigns/Gubat Banua/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/Gubat Banua/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/Gubat Banua/Groups/👪📚 Group Database.md",
-    "10 🧙 Player Campaigns/Gubat Banua/🧩 Dashboard.md",
-    "10 🧙 Player Campaigns/Gubat Banua/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/Gubat Banua/Players/🧙📚 Player Database.md",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Jason.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Marley.png",
     "20 🌟 GM Campaigns/🐌 Slugblaster/NPCs/Art/Karen.png",
