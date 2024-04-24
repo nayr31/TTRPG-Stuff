@@ -138,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -213,20 +214,20 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "dbfolder:Create a new database table": true,
-      "omnisearch:Omnisearch": false,
+      "dbfolder:Create a new database table": false,
       "obsidian42-brat:BRAT": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "homepage:Open homepage": false,
       "open-gate:COMP/CON": false,
       "open-gate:ForgeVTT": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "47ac5db8bfd792a2",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "📑 Campaign Overview.md",
     "Notes.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "ReadMe.md",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/🎏 Dashboard.md",
