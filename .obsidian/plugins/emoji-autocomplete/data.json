@@ -4,6 +4,8 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "dice",
+    "bow_and_arrow",
     "diamond",
     "cut_of_meat",
     "meat_on_bone",
@@ -26,9 +28,7 @@
     "plant",
     "cake",
     "package",
-    "moneybag",
-    "beers",
-    "beer"
+    "moneybag"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

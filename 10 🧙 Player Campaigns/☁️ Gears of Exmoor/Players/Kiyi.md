@@ -3,11 +3,10 @@ Pronouns: She/Her
 NoteIcon: Player
 Art: "![[Kiyi_c.png]]"
 Active: true
-Class: Magus
+Class: Investigator
 ---
 
-[Spell and Steel: Hallos's Guide to the Magus](https://docs.google.com/document/d/1hY1pR6Nik3e9aIgBwSA70DvPjWLjJ6G7rWpi3Tu563o/edit)
-This is the main doc used to determine useful spells for spellstrike and the like.
+
 
 # Background
 
@@ -29,11 +28,44 @@ After the death of a few students, a full scale investigation was performed by e
 A few years have passed, and her exploits through various countries has left her with little to return to and little to show for it. Her magic prowess and innate talent from the academy and bloodline can only go so far, so when she got a letter addressed for "her eyes only", she knew she had to take it.
 
 ---
--> Potential rewrites
 
-- Kiyi WAS a bully in school, and because of that used as a scapegoat for the real culprit of the incident
-- After he expulsion/excommunication, she roamed the lands not having a clear direction or purpose, just using her talents to get by
-- Only until she hit near rock bottom in a fighting ring did she decide that clearing her name would be the fastest way to get back to her lavish lifestyle back in Infina
-	- She misses the soft winds under a cherry blossoms, the sound of ducks in the pond, the reality in knowing that she could sleep in her garden and nothing bad would happen
-	- Every day is stressful. Wake up, make money to eat and a place to sleep, repeat. Every day. All profits went to healing remedies, repairing gear, or getting new tats
-- After saving enough for provisions, she sets off for Chronovale to follow the letter she received. Perhaps the reward would be enough to allow her to set off in search? Maybe the people have the power to help?
+Just some Kiyi stuff to get me in the headspace to play them, did a little class rework to more align with their backstory and motivations 
+
+Kiyi, having been framed for a crime at her previous school of magic, had finally made it to a city that doesn't remember her crimes (or know of them). After doing a job for Avina, it became clear that something was off about their actions. They were playing exactly into the frame of mind that the one who framed her pointed her out to be. The time she spent researching proper dragon egg hatching led her to realize this.
+
+How would they clear their name using Avina's "wish" from the cities vaults? They've managed to secure a dragon egg of all things, but after what happened with Isaac, was it safe at the knockout? It was obvious that the cat was out of the bag and the location revealed. This dragon could become a key player in the role for both assisting with Avina's job, and for finding their assailant.
+
+||As a final nail into forcing themselves to change from their old ways, they've handed in their rapier for a bow. Although their magic was impeded by this, they are adapting, and allowing for their thoughts to take hold more. Hopefully this will make them think twice, and focus on finding leads towards their false accuser.
+
+(current suspected roster: professors/faculty at their old school, government affiliates from Infina (her old homeland), her parents (they started to hate/dislike her profile on the family), influential parents from some of the kids she used to bully)
+
+---
+
+Purazuma family:
+	Father: Azai (boomer energy, always keeps up appearances)
+	Mother: Kokoro (likes flowers, hosting tea parties for the other ladies, and running the household funds)
+	Siblings: 
+		- Morishita (oldest brother, honorable, does kendo, top of the class)
+		- Furuya (middle brother, )
+	Their standing: As one of the "original 6" that founded the basis of magic in the area in and around Shimoto, they have high standing within the area. However, their legacy is all that they have. Over the last few generations, the leaders/heads have done little to enforce their standing or advancements in traditional magic. Because of this, some rumours have gone around that the family has external magitech investments to keep themselves afloat.
+
+"The original 6"
+	- Endo
+		- Masters of nature magic, currently run a widespread landscaping effort against the spread of a desert
+		- Widely accepted as the clan with the most "heart". Members show compassion, realism. Currently the largest family
+	- Parazuma
+		- Esteemed spellcasters, and forerunners of the wizarding arts
+		- Has become extremely small compared to their hayday, most say they have been dethroned
+	- Igarashi
+		- Inventors of the elemental conduits of Oz, which channel in pure lightning and other natural energies directly into the city
+		- Despite their original intentions of encouraging growth, they quickly put large taxes on the product
+	- Kasai
+		- Experts in magical crafting and the imbuement of mundane materials.
+		- The youngest ("newcomer") to the 6, but still holds massive power because of their specialization.
+		- Rumours suggest a sort of "mafia" vibe from within its ranks
+	- Ohara
+		- Owners of the land, merchant lines, and creators of the most stable and reproducible travel magic.
+		- Because of the exclusivity to the region, it brings in its fair share of traveling wizards into the region.
+	- Fujisaki
+		- Although a child family to the Igarashi clan, it was conceived with many foreigners of different races and values
+		- Their many different viewpoints and somewhat neutral standpoint led them to become a main actor in negotiations, and therefore security

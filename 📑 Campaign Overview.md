@@ -15,7 +15,7 @@ kanban-plugin: basic
 
 ## Paused?
 
-- [ ] ### [[🧛 Dashboard|🧛 Thicker than Water]]<br>**System:** *PF2e*<br>**Synop:** Vampires and werebeasts attempt a gathering, only for murder to bloody the waters...<br>![[Gek.png|100]]
+- [ ] ### [[🧛 Dashboard|🧛 Thicker than Water]]<br>**System:** 🛡️ *PF2e*<br>**Synop:** Vampires and werebeasts attempt a gathering, only for murder to bloody the waters...<br>![[Gek.png|100]]
 - [ ] ### [[💤 Dashboard|💤 Sleeping Days]]<br>**System:** *Fabula Ultima*<br>**Synop:** A mysterious invasion of SinSpawn. Time traveling sharks!<br>![[Retacon.png|100]]
 - [ ] ### [[🎏 Dashboard|🎏 Diwata's Glory]]<br>**System:** 🎏 *Gubat Banwa*<br>**Synop:** ---<br>![[Pavlo_c.png|100]]
 
@@ -28,6 +28,8 @@ kanban-plugin: basic
 - [ ] ### Mors Venit \*\*<br>**System:** 🛡️ *PF2e*<br>**Synop:** ---
 - [ ] ### 🌹 Shrouded Ambitions \*\*<br>**System:** 🌹 *RWBY*<br>**Synop:** ---
 - [ ] ### [[🌸 Dashboard|🌸 Preserved Wallflower]]<br>**System:** 🤖 *Lancer*<br>**Synop:** ---<br>![[Discovery_c.png|100]]
+- [ ] ### His Final Hunt<br>**System:** 🛡️ *PF2e*<br>**Synop:**<br>![[Laurley_c.png|100]]
+- [ ] ### [[🎲 Dashboard|🎲 Fates Gamble]] <br>**System:** 🎲 *Die*<br>**Synop:**<br>![[Charlie_c.png|100]] ![[Calcifer Paragon_c.png|100]]
 
 
 ## 🏁 Finished Campaigns
@@ -37,7 +39,7 @@ kanban-plugin: basic
 
 ## Templates
 
-- [ ] ## <br>**System:** <br>**Synop:**
+- [ ] ###<br>**System:** <br>**Synop:**
 - [ ] [[🐌 Dashboard]]
 
 
