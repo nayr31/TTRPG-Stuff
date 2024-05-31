@@ -1,2 +1,0 @@
-
-Back in the day, Asher was a top notch specialist for the Military, and only retired when he caught wind of who THEY were. Trying to avoid things, retirement at home to a quiet life soon turned into a babysitting gig for his kids' kids. Years go by, his kids bogged down by work due to their cooperate jobs, even Christmas wasn't sacred to the free day off. 

@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 305
   },
   "right": {
     "id": "d0fbd480141c853b",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,58 +219,60 @@
       "homepage:Open homepage": false,
       "open-gate:COMP/CON": false,
       "open-gate:ForgeVTT": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "50663726175a560b",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/Kiyi.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players/🧙📚 Player Database.md",
     "📑 Campaign Overview.md",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.md",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/🎏 Dashboard.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Ratthew_c.png",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/b4c760043849df44a5887c0fa33f6c12.jpg",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Ratthew.jpg",
-    "10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/Art/Ratthew.jpg",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/🎲 Dashboard.md",
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/Sessions/Session 01.md",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Advancement map.png",
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
     "Notes.md",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/Calcifer.md",
-    "10 🧙 Player Campaigns/🏹 His Final Hunt/Players/Art/Laurley token.png",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/Art/BB Paragon_c.png",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/Art/BB Paragon.webp",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/Art/BB Paragon.webp",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/Art/Ramona Paragon_c.png",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/Paragon.md",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/Art/1564386_XxflTHKl.png.url",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/Deimos.md",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/Charon.md",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/Ramona.md",
-    "10 🧙 Player Campaigns/🎲 Fates Gamble/Players/BB.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-    "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "ReadMe.md",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Marikit.md",
-    "10 🧙 Player Campaigns/____OLD🎏 Diwata's Glory/🧙📋 Player Dashboard.md",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Assets/Gubat_Banwa_Character_Sheet.pdf",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Assets/p_sheet.pdf",
-    "10 🧙 Player Campaigns/____OLD🎏 Diwata's Glory/🗒 GuB Shortcut Kanban.md",
+    "nyyh94gn.bmp",
+    "10 🧙 Player Campaigns/🌞 Convergence/🌞 Dashboard.md",
+    "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/Players/Bear.md",
+    "10 🧙 Player Campaigns/🧡 Gears of Exmoor Unwound/🧡 Dashboard.md",
+    "12 🔒 Archived Characters/Minuano Rojo",
+    "12 🔒 Archived Characters",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Eventis.md",
+    "10 🧙 Player Campaigns/💽 All Along the Watchtower/Players/Rife.md",
+    "10 🧙 Player Campaigns/💽 All Along the Watchtower/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/💽 All Along the Watchtower/💽 Dashboard.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Art/Emrys_c.png",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Art/Emrys.jpg",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Art/Eventis.jpg",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Art/Eventis.jpg",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Lennix.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Hex.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Emrys.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Althaea.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Akabe.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Quests/🎯 Quest Database.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players/Art",
+    "10 🧙 Player Campaigns/🌞 Convergence/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/NPCs/Art",
+    "10 🧙 Player Campaigns/🌞 Convergence/Groups/👪📚 Group Database.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Sessions",
+    "10 🧙 Player Campaigns/🌞 Convergence/Quests",
+    "10 🧙 Player Campaigns/🌞 Convergence/Players",
+    "10 🧙 Player Campaigns/🌞 Convergence/NPCs",
+    "10 🧙 Player Campaigns/🌞 Convergence/Groups",
+    "10 🧙 Player Campaigns/🌞 Convergence",
+    "10 🧙 Player Campaigns/🌞 Convergence/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Quests/🎯 Quest Database.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 🧙 Player Campaigns/🌞 Convergence/Groups/👪📚 Group Database.md",
+    "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Small Town Disappearances.md",
+    "10 🧙 Player Campaigns/🎯 Carry On/Players/Josh Playbook.png",
+    "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
+    "10 🧙 Player Campaigns/🎯 Carry On/Sessions/daughter.png",
+    "10 🧙 Player Campaigns/🎯 Carry On/Sessions/James.bmp",
+    "10 🧙 Player Campaigns/🎯 Carry On/Sessions/7ioulpq6.bmp",
+    "10 🧙 Player Campaigns/🎯 Carry On/Sessions/3w0wy0zv.bmp",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.canvas",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/NPCs/Art",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Art",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Quests",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Sessions",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/NPCs",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Groups",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
     "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
@@ -278,7 +280,6 @@
     "Lancer/Vertenia.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "Conscience/Players/Kai Canvas.canvas",
-    "Lancer/Lancer campaign note.canvas",
-    "10 🧙 Player Campaigns/🌹 RWBY/📃Minuano Sheet.canvas"
+    "Lancer/Lancer campaign note.canvas"
   ]
 }

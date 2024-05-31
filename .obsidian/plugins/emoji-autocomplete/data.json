@@ -4,6 +4,12 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "lock",
+    "mage",
+    "sun_with_face",
+    "x",
+    "bird",
+    "target",
     "dice",
     "bow_and_arrow",
     "diamond",
@@ -22,13 +28,7 @@
     "art",
     "file_cabinet",
     "crossed_swords",
-    "wink",
-    "crystal_ball",
-    "flowers",
-    "plant",
-    "cake",
-    "package",
-    "moneybag"
+    "wink"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
