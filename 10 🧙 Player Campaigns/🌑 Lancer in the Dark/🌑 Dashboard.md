@@ -29,19 +29,6 @@ WHERE contains(NoteIcon, "NPC")
 SORT file.name
 ```
 
-# [[10 🧙 Player Campaigns/🌑 Lancer in the Dark/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
-```dataview
-TABLE WITHOUT ID 
-	link(file.path, name) AS "Name",
-	Status AS "Status",
-	Type AS "Type",
-	Session_Complete AS "Session Complete",
-	Summary AS "Summary"
-from "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Quests"
-WHERE contains(NoteIcon, "Quest")
-SORT Status DESC
-```
-
 # [[10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
 ```dataview
 TABLE WITHOUT ID 

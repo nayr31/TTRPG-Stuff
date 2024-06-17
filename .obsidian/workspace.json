@@ -20,12 +20,22 @@
             }
           },
           {
-            "id": "b54ecfc50db117af",
+            "id": "78cfa2976d1795e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "050ed08b8e2040ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 06.md",
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +43,7 @@
             }
           },
           {
-            "id": "10c0db069340adb4",
+            "id": "6d8645ed79952ca7",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -42,7 +52,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,6 +130,19 @@
             }
           },
           {
+            "id": "a55a030ca490aba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 08.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -127,25 +151,11 @@
             }
           },
           {
-            "id": "91075e4a873387b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 07.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1fa229dd8b7f3336",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,7 +205,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,17 +267,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "78cfa2976d1795e3",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 08.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 07.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 06.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "📑 Campaign Overview.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/Julian Kastrel.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 07.md",
     "Notes.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 06.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/NPCs/Julian Kastrel.md",
     "ReadMe.md",
     "nyyh94gn.bmp",
     "10 🧙 Player Campaigns/🌞 Convergence/🌞 Dashboard.md",
@@ -292,7 +302,6 @@
     "10 🧙 Player Campaigns/🌞 Convergence/Players/Althaea.md",
     "10 🧙 Player Campaigns/🌞 Convergence/Players/Akabe.md",
     "10 🧙 Player Campaigns/🌞 Convergence/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🌞 Convergence/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🌞 Convergence/Players/Art",
     "10 🧙 Player Campaigns/🌞 Convergence/NPCs/Art",
     "10 🧙 Player Campaigns/🌞 Convergence/Sessions",
