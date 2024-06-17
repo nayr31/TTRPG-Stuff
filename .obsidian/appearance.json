@@ -22,5 +22,6 @@
   "baseFontSize": 16,
   "translucency": false,
   "nativeMenus": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true
 }

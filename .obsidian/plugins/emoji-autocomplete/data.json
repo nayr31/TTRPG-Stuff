@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "fire",
     "lock",
     "mage",
     "sun_with_face",
@@ -27,8 +28,7 @@
     "shield",
     "art",
     "file_cabinet",
-    "crossed_swords",
-    "wink"
+    "crossed_swords"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
