@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/👨‍🌾📚 NPC Database.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/👨‍🌾📚 NPC Database.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,8 +270,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "2873570c79ede44b",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
+    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/👨‍🌾📚 NPC Database.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Calamity Havok.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Striga Von Aldenberg.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Ipswitch Delacey.md",
@@ -292,7 +292,6 @@
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Feather.png",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Andros Capella.png",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Jerry Masters.md",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/👨‍🌾📚 NPC Database.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Feather.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Andros Capella.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Ignatius Aurum.md",
