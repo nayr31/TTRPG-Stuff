@@ -1,7 +1,7 @@
 ---
 Job: Fixer
 Burden: 1
-Art: "![[Rivis_c.jpg]]"
+Art: "![[Silas_c.jpg]]"
 Pronouns: N/A
 NoteIcon: Player
 ---
