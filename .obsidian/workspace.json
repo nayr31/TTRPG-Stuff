@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,11 +247,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "b1180e4e2d849e9c",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
     "10 🧙 Player Campaigns/🏗 Conscience/🏗 Dashboard.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
     "80 🗃️ Resources/Meta Bind Examples/Inline Select (Dropdown select).md",
     "80 🗃️ Resources/Meta Bind Examples",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/🧙📚 Player Database.md",
