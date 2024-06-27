@@ -1,5 +1,6 @@
+Geoff (hereby Jeff), was born the youngest of 3 siblings: Rebecca, Joel, and Strawberry (his parents went through an odd, "hippie" phase, but Strawberry decided to keep it). Growing up within the Wake household was a rabid mixture of beauty pageants, gardening, and being an unlicensed tax firm that hired children. Always upbeat, his father, Jeffy, would make sure every day was an adventure, a blast, and more importantly, radical. Jeff was like a beacon of reflection, taking most of his energy from his dad - they were best friends. His mom, Amanda, was a super serious business woman with a soft spot for goofballs. Although very serious, money is always tight, and that's why they decided to open "JAM's Taxes and Taxidermy". His siblings were more  
 
-
+Family matters to Jeff, so it was a big hit to him when his father died in that wildfire at the waterpark.
 
 Following the agency's "natural elevation protocol", Jeff was selected as the perfect unit to take care of Anomaly SD-004, nicknamed "Waterdog" by the scientists (Jeff calls him Rover sometimes, Roger others).
 
