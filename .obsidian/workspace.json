@@ -31,8 +31,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7bbc45e11e4e212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Jeff.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Jeff.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Jeff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -247,8 +261,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "b7bbc45e11e4e212",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Rover.png",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Rover.png",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (3).png",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (4).png",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (5).png",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (6).png",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (2).png",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (7).png",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (2).png.PNG",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (1).png",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Capture7.PNG",
+    "Notes.md",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Jeff.md",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/f7afa5034979bc948a3262037ce9efd7.jpg.url",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
     "10 🧙 Player Campaigns/🏗 Conscience/🏗 Dashboard.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/👨‍🌾📚 NPC Database.md",
@@ -256,7 +288,6 @@
     "80 🗃️ Resources/Meta Bind Examples",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/🧙📚 Player Database.md",
-    "📑 Campaign Overview.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Calamity Havok.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Striga Von Aldenberg.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Ipswitch Delacey.md",
@@ -264,17 +295,8 @@
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Zinfandel Dejean.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Chief McArthur.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/🔥 Dashboard.md",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Calamity Havok.png",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Striga Von Aldenberg.png",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Ipswitch Delacey.png",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Siren.png",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Siren.aseprite",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Chief McArthur.png",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Zinfandel Dejean.png",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Chief McArthur.aseprite",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Shelly.png",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Feather.png",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Andros Capella.png",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Jerry Masters.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Feather.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Andros Capella.md",
@@ -283,18 +305,10 @@
     "20 🌟 GM Campaigns/🔥 In Golden Flame/Players/🧙📚 Player Database.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/Players/Art",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/Players",
-    "Notes.md",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Ignatius Aurium.png",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 08.md",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 07.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.canvas",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",

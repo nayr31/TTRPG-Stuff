@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "small_red_triangle",
     "fire",
     "lock",
     "mage",
@@ -27,8 +28,7 @@
     "robot",
     "shield",
     "art",
-    "file_cabinet",
-    "crossed_swords"
+    "file_cabinet"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
