@@ -6,15 +6,16 @@ kanban-plugin: basic
 
 ## 🟢 Active Campaigns
 
-- [ ] ### [[🌄 Dashboard|🌄 Alstead Passage]]<br>**System:** 🛡️ *PF2e*<br>**Synop:** Totally normal everyday life in a mountain town.<br>![[Jackrie_c.jpg|100]]
+- [ ] ### [[🌑 Dashboard|🌑 Lancer: Into the Beyond]]<br>**System:** 🤖 *Lancer*<br>**Synop:** Albatross pilots answer the call for help...<br>![[Akemi Homura_c.png|100]]
 - [ ] ###  [[🐴 Dashboard|🐴 The Fifth Horseman]]<br>**System:** 🛡️ *PF2e*<br>**Synop:** A dream of the end of days...<br>![[Rat1_c.jpg|100]] ![[Ratthew_c.png|100]]
 - [ ] ### [[☁️ Dashboard|☁️ Gears of Exmoor]]<br>**System:** *~~5e~~* 🛡️ *PF2e*<br>**Synop:** Called to a steampunk city to help a mysterious benefactor...<br><br>![[Kiyi_c.png|100]]
-- [ ] ### [[⚖️ Dashboard|⚖️ Stolen Fate]]<br>**System:** 🛡️ *PF2e*<br>**Synop:** A desert of mystery...<br>![[Vannie_c.png|100]]
 - [ ] ### 🔺 Triangle Agency<br>**System:** 🔺 *Triangle Agency*<br>**Synop:** Triangles everywhere<br>![[Jeff.png|100]]
 
 
 ## Paused?
 
+- [ ] ### [[⚖️ Dashboard|⚖️ Stolen Fate]]<br>**System:** 🛡️ *PF2e*<br>**Synop:** A desert of mystery...<br>![[Vannie_c.png|100]]
+- [ ] ### [[🌄 Dashboard|🌄 Alstead Passage]]<br>**System:** 🛡️ *PF2e*<br>**Synop:** Totally normal everyday life in a mountain town.<br>![[Jackrie_c.jpg|100]]
 - [ ] ### [[💤 Dashboard|💤 Sleeping Days]]<br>**System:** *Fabula Ultima*<br>**Synop:** A mysterious invasion of SinSpawn. Time traveling sharks!<br>![[Retacon.png|100]]
 - [ ] ### [[🎏 Dashboard|🎏 Diwata's Glory]]<br>**System:** 🎏 *Gubat Banwa*<br>**Synop:** ---<br>![[Pavlo_c.png|100]]
 - [ ] ### [[🐦 Dashboard|🐦 Fists of the Ruby Phoenix]]<br>**System:** 🛡️ *PF2e*<br>**Synop:** ---<br>![[Izumi.jpg|100]]
@@ -24,8 +25,6 @@ kanban-plugin: basic
 
 ## 🟡 Paused Campaigns
 
-- [ ] ### [[🌑 Dashboard|🌑 Lancer: Into the Beyond]]<br>**System:** 🤖 *Lancer*<br>**Synop:** Albatross pilots answer the call for help...<br>![[Akemi Homura_c.png|100]]
-- [ ] ### [[🌸 Dashboard|🌸 Preserved Wallflower]]<br>**System:** 🤖 *Lancer*<br>**Synop:** ---<br>![[Discovery_c.png|100]]
 - [ ] ### [[🏗 Dashboard|🏗 A Conscience's Favor]]<br>**System:** *Hard Wired Island*<br>**Synop:** ---<br>![[Kai_cc.png|100]]
 - [ ] ### Mors Venit \*\*<br>**System:** 🛡️ *PF2e*<br>**Synop:** ---
 - [ ] ### His Final Hunt<br>**System:** 🛡️ *PF2e*<br>**Synop:**<br>![[Laurley_c.png|100]]

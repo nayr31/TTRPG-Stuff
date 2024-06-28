@@ -1,6 +1,7 @@
 ---
 Date: 2024-06-14T00:00:00.000-04:00
 NoteIcon: Note
+Summary: Left the planet, gained some intel on stigos minad, left for Edri.
 ---
 Stigos minand (KTB minastic order) will be pissed if we kill it, but we captured it.
 
