@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "0f124e9ffcac47eb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "b7bbc45e11e4e212",
             "type": "leaf",
             "state": {
@@ -149,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Jeff.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +207,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Jeff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,13 +269,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "b7bbc45e11e4e212",
+  "active": "0f124e9ffcac47eb",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Jeff.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
     "10 🧙 Player Campaigns/🏗 Conscience/🏗 Dashboard.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Hard_Wired_Island_-_Character_Sheet_(Fillable).pdf",
     "📑 Campaign Overview.md",
-    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Jeff.md",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Rover.png",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Rover.png",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (3).png",
