@@ -42,8 +42,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +259,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
