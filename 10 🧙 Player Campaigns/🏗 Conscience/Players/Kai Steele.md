@@ -100,6 +100,5 @@ For each level, you gain:
 
 # Backstory
 
-Kai was born to wealthy parents, and is the youngest of 3 children. Rick, his father, runs a few businesses (restaurants, gyms) across the Grand Cross, while his mother, Rebecca, is a lipstick model. His parents were strict in what he could do and when, but that didn't stop him from breaking curfew to run the rooftops and hang with taggers. This lifestyle lead him to semi-regular beatings from his mother, but the escape just made it feel just as nice. 
+Kai was born to wealthy parents, and is the youngest of 3 children. Rick, his father, runs a few businesses (restaurants, gyms) across the Grand Cross, while his mother, Rebecca, is a lipstick model. His parents were strict in what he could do and when, but that didn't stop him from breaking curfew to run the rooftops and hang with taggers. This lifestyle lead him to household punishment from his mother, but the escape just made it feel just as nice. 
 
-After talking with his tagger friend, Alicia, he decided to burn his bridges and escape once and for all, just a few hours a night wasn't enough for him anymore.
