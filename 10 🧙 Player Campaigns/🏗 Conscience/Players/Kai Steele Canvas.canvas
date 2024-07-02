@@ -50,16 +50,6 @@
       "height": 80
     },
     {
-      "id": "a6b1113e9c1f361a",
-      "type": "text",
-      "text": "# Assets\n\n- [$] Spring Shoes\n\t- **Boost all rolls relating to running, or jumping high or long distances**. On a critical succeed or fail—the user must make a Quick save vs 7 or mark damage box 1 as they crash hard. Never apply this to attack rolls, even if you make one as part of a move. Special: These can also come as an Asset, in shoe form. The Quick save for these is vs 10.\n- [l] Gym (6)\n\t- You own a gym. This can be a personal room in your apartment filled with equipment, or a small business. Twice per mission, you or an ally can take Advantage on a personal Prep roll made by training or mentally preparing yourself at the gym.\n",
-      "x": 571,
-      "y": -2180,
-      "width": 537,
-      "height": 448,
-      "color": "4"
-    },
-    {
       "id": "e6d49caff5f2699c",
       "type": "text",
       "text": "Burden 🔥: `VIEW[{Kai Steele#Burden}]`",
@@ -98,6 +88,15 @@
       "color": "6"
     },
     {
+      "id": "c85d231c2590d0f1",
+      "type": "file",
+      "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Art/Kai Keycard.png",
+      "x": 53,
+      "y": -3054,
+      "width": 507,
+      "height": 320
+    },
+    {
       "id": "0cceace51366ed95",
       "type": "text",
       "text": "## General Specialties\n\n| Specialty | Value |\n| ---- | :--: |\n| Parkour | +2 |\n| Graffiti | +2 |\n| Stealth | +1 |\n| (One cartel corporation) | +1 |",
@@ -116,13 +115,50 @@
       "height": 306
     },
     {
-      "id": "c85d231c2590d0f1",
-      "type": "file",
-      "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Art/Kai Keycard.png",
-      "x": 53,
-      "y": -3054,
-      "width": 507,
-      "height": 320
+      "id": "203701e39824071a",
+      "x": -58,
+      "y": -2615,
+      "width": 109,
+      "height": 71,
+      "type": "text",
+      "text": "Prep"
+    },
+    {
+      "id": "6a23f15c197a0320",
+      "x": 51,
+      "y": -2615,
+      "width": 100,
+      "height": 71,
+      "type": "text",
+      "text": ""
+    },
+    {
+      "id": "1fd57d6a02db082b",
+      "type": "text",
+      "text": "GroupPrep",
+      "x": -58,
+      "y": -2544,
+      "width": 109,
+      "height": 71
+    },
+    {
+      "id": "18f8a8b88981449b",
+      "type": "text",
+      "text": "",
+      "x": 51,
+      "y": -2544,
+      "width": 100,
+      "height": 71
+    },
+    {
+      "id": "a6b1113e9c1f361a",
+      "type": "text",
+      "text": "# Assets\n\n- [$] Spring Shoes\n\t- **Boost all rolls relating to running, or jumping high or long distances**. On a critical succeed or fail—the user must make a Quick save vs 7 or mark damage box 1 as they crash hard. Never apply this to attack rolls, even if you make one as part of a move. Special: These can also come as an Asset, in shoe form. The Quick save for these is vs 10.\n- [l] Gym (6)\n\t- You own a gym. This can be a personal room in your apartment filled with equipment, or a small business. Twice per mission, you or an ally can take Advantage on a personal Prep roll made by training or mentally preparing yourself at the gym.\n",
+      "x": 571,
+      "y": -2180,
+      "width": 537,
+      "height": 448,
+      "color": "4"
     }
   ],
   "edges": [],
