@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,8 +263,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "84a291e98d7f3084",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Hard_Wired_Island_-_Character_Sheet_(Fillable).pdf",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Charcter Sheet.pdf",
@@ -318,7 +318,6 @@
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "Lancer/Vertenia.canvas",
-    "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "Conscience/Players/Kai Canvas.canvas",
     "Lancer/Lancer campaign note.canvas"
   ]
