@@ -21,16 +21,6 @@
       "color": "1"
     },
     {
-      "id": "40dcb70c8bdbe7f3",
-      "type": "text",
-      "text": "# Talents\n\n\n > [!note] Cat Burglar\n **You have Advantage on all rolls to climb, scale, squeeze through, abseil, leap over, or otherwise pass an obstacle.** Once per fight, when an attack targets your Quick Defense, you may immediately use Take Cover (p. 45) before the attack is resolved.\n \n> [!note] Parkour\n> If you roll a **critical success** on any action involving movement, gain Advantage on your next action if it also involves movement.\n> > [!fail] *7+ Thief Talents:* You may reroll all 1s on these rolls. \n\n",
-      "x": 570,
-      "y": -2711,
-      "width": 535,
-      "height": 531,
-      "color": "5"
-    },
-    {
       "id": "fe2d3e59dfc43ae6",
       "type": "text",
       "text": "# Bonuses\n- Once Per Mission, you may Boost one Tough Roll.",
@@ -123,6 +113,16 @@
       "width": 537,
       "height": 448,
       "color": "4"
+    },
+    {
+      "id": "40dcb70c8bdbe7f3",
+      "type": "text",
+      "text": "# Talents\n\n\n > [!note] Cat Burglar\n **You have Advantage on all rolls to climb, scale, squeeze through, abseil, leap over, or otherwise pass an obstacle.** Once per fight, when an attack targets your Quick Defense, you may immediately use Take Cover (p. 45) before the attack is resolved.\n \n> [!note] Parkour\n> If you roll a **critical success** on any action involving movement, gain Advantage on your next action if it also involves movement.\n> > [!fail] *7+ Thief Talents:* You may reroll all 1s on these rolls. \n\n",
+      "x": 570,
+      "y": -2711,
+      "width": 535,
+      "height": 531,
+      "color": "5"
     }
   ],
   "edges": [],
