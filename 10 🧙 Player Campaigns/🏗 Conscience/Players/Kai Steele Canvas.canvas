@@ -84,7 +84,7 @@
       "x": 152,
       "y": -2080,
       "width": 420,
-      "height": 311,
+      "height": 320,
       "color": "6"
     },
     {
@@ -113,42 +113,6 @@
       "y": -3040,
       "width": 245,
       "height": 306
-    },
-    {
-      "id": "203701e39824071a",
-      "x": -58,
-      "y": -2615,
-      "width": 109,
-      "height": 71,
-      "type": "text",
-      "text": "Prep"
-    },
-    {
-      "id": "6a23f15c197a0320",
-      "x": 51,
-      "y": -2615,
-      "width": 100,
-      "height": 71,
-      "type": "text",
-      "text": ""
-    },
-    {
-      "id": "1fd57d6a02db082b",
-      "type": "text",
-      "text": "GroupPrep",
-      "x": -58,
-      "y": -2544,
-      "width": 109,
-      "height": 71
-    },
-    {
-      "id": "18f8a8b88981449b",
-      "type": "text",
-      "text": "",
-      "x": 51,
-      "y": -2544,
-      "width": 100,
-      "height": 71
     },
     {
       "id": "a6b1113e9c1f361a",

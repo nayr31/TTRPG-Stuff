@@ -14,7 +14,7 @@ defClever: 0
 defCool: 0
 defQuick: 1
 defTough: 1
-cash: 0
+cash: 8
 harm_1: false
 harm_2: false
 harm_3: false
@@ -22,6 +22,7 @@ harm_4: false
 harm_5: false
 harm_6: false
 NoteIcon: Player
+xp: 0
 ---
 # `=this.file.name` (`VIEW[{Pronouns}]`)
 ## Specialties
@@ -31,6 +32,8 @@ NoteIcon: Player
 | Cool | `VIEW[{defCool}+7]` |
 | Quick | `VIEW[{defQuick}+7]` |
 | Tough | `VIEW[{defTough}+7]` |
+
+Cash: `INPUT[number:cash]`
 
 | Specialty | Value |
 | ---- | :--: |

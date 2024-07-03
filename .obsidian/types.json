@@ -86,6 +86,7 @@
     "bonus": "number",
     "gpvalue": "number",
     "Workers": "text",
-    "excalidraw-open-md": "checkbox"
+    "excalidraw-open-md": "checkbox",
+    "xp": "number"
   }
 }

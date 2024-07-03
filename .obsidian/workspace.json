@@ -27,9 +27,9 @@
               "state": {
                 "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
                 "viewState": {
-                  "x": 716.0797380636363,
-                  "y": -2009.6197605580119,
-                  "zoom": 0.1453202652414819
+                  "x": 639.7879519573182,
+                  "y": -2552.452115480078,
+                  "zoom": -0.18801306809185142
                 }
               }
             }
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -274,15 +273,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "84a291e98d7f3084",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
+    "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🏗 Conscience/Sessions/Session 01.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/🏗 Dashboard.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Juliet.md",
-    "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Hard_Wired_Island_-_Character_Sheet_(Fillable).pdf",
@@ -319,7 +318,6 @@
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Siren.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Zinfandel Dejean.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Chief McArthur.md",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/🔥 Dashboard.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Siren.aseprite",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Chief McArthur.aseprite",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/Players/Art",
