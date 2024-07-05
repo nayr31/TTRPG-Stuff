@@ -20,44 +20,40 @@
             }
           },
           {
-            "id": "84a291e98d7f3084",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
-                "viewState": {
-                  "x": 639.7879519573182,
-                  "y": -2552.452115480078,
-                  "zoom": -0.18801306809185142
-                }
-              }
-            }
-          },
-          {
-            "id": "e0e290d4bffbba61",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Sessions/🧻📚 Session Database.md"
-              }
-            }
-          },
-          {
-            "id": "9543bcfb6f80842a",
+            "id": "2a3186003a681379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "3bb7feabfe5831fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b0260a64b1c1fe48",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,12 +130,12 @@
             }
           },
           {
-            "id": "98915bc969b9a6cf",
+            "id": "612e11dbb900ef75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Sessions/Session 01.md",
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -160,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -273,8 +269,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "612e11dbb900ef75",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
+    "📑 Campaign Overview.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/S1GN4L.png",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
@@ -283,15 +285,10 @@
     "10 🧙 Player Campaigns/🏗 Conscience/🏗 Dashboard.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Juliet.md",
-    "📑 Campaign Overview.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Hard_Wired_Island_-_Character_Sheet_(Fillable).pdf",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Charcter Sheet.pdf",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 08.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/Spitfire.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Jeff.md",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Rover.png",
@@ -303,7 +300,6 @@
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (2).png",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (7).png",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (2).png.PNG",
-    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (1).png",
     "Notes.md",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/f7afa5034979bc948a3262037ce9efd7.jpg.url",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art",

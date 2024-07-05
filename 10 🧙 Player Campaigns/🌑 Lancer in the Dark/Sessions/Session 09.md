@@ -1,6 +1,7 @@
 ---
 Date: 2024-06-28T00:00:00.000-04:00
 NoteIcon: Note
+Summary: Edri. There is a looped distress signal coming from the base. We get there and explore a little, only to run into HA once again.
 ---
 To Edri
 
