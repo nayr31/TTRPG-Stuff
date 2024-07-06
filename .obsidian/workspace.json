@@ -31,29 +31,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3bb7feabfe5831fd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b0260a64b1c1fe48",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,13 +249,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "612e11dbb900ef75",
+  "active": "2a3186003a681379",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
     "📑 Campaign Overview.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/S1GN4L.png",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
