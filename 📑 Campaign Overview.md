@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## 🟢 Active Campaigns
 
 - [ ] ### [[🌑 Dashboard|🌑 Lancer: Into the Beyond]]<br>**System:** 🤖 *Lancer*<br>**Synop:** Albatross pilots answer the call for help...<br>![[Akemi Homura_c.png|100]]
-- [ ] ###  [[🐴 Dashboard|🐴 The Fifth Horseman]]<br>**System:** 🛡️ *PF2e*<br>**Synop:** A dream of the end of days...<br>![[Rat1_c.jpg|100]] ![[Ratthew_c.png|100]]
 - [ ] ### [[☁️ Dashboard|☁️ Gears of Exmoor]]<br>**System:** *~~5e~~* 🛡️ *PF2e*<br>**Synop:** Called to a steampunk city to help a mysterious benefactor...<br><br>![[Kiyi_c.png|100]]
 - [ ] ### 🔺 Triangle Agency<br>**System:** 🔺 *Triangle Agency*<br>**Synop:** Triangles everywhere<br>![[Jeff.png|100]]
 

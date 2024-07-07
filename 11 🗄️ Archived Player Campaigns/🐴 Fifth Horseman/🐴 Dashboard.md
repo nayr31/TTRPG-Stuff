@@ -4,7 +4,7 @@ cssclasses:
   - cards-cols-5
 ---
 
-# [[10 🧙 Player Campaigns/🐴 Fifth Horseman/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/🐴 Fifth Horseman/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
@@ -16,7 +16,7 @@ WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```
 
-# [[10 🧙 Player Campaigns/🐴 Fifth Horseman/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/🐴 Fifth Horseman/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
@@ -28,7 +28,7 @@ WHERE contains(NoteIcon, "NPC")
 SORT file.name
 ```
 
-# [[10 🧙 Player Campaigns/🐴 Fifth Horseman/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/🐴 Fifth Horseman/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
@@ -41,7 +41,7 @@ WHERE contains(NoteIcon, "Quest")
 SORT Status DESC
 ```
 
-# [[10 🧙 Player Campaigns/🐴 Fifth Horseman/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/🐴 Fifth Horseman/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
