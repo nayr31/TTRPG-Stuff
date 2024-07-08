@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "devil",
     "small_red_triangle",
     "fire",
     "lock",
@@ -27,8 +28,7 @@
     "heartpulse",
     "robot",
     "shield",
-    "art",
-    "file_cabinet"
+    "art"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
