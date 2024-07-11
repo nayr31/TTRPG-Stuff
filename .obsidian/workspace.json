@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/😈 Diablo/😈 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/😈 Diablo/😈 Dashboard.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -236,8 +235,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/😈 Diablo/Players/Art/141cd711-1899-440d-8a70-cefe66cd06d5.webp",
+    "10 🧙 Player Campaigns/😈 Diablo/Players/Art/a5f92dc7-703e-4835-8aa6-55629ae8b0cd.webp",
+    "10 🧙 Player Campaigns/😈 Diablo/Players/Art/34a46696a9d29ac76cf61dfb503efa43.webp",
     "10 🧙 Player Campaigns/😈 Diablo/Players/Art/Zed.webp",
     "10 🧙 Player Campaigns/😈 Diablo/Players/Art/Zed.webp",
     "📑 Campaign Overview.md",
@@ -282,9 +284,6 @@
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (3).png",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (4).png",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (5).png",
-    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (6).png",
-    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (2).png",
-    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (7).png",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.canvas",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
