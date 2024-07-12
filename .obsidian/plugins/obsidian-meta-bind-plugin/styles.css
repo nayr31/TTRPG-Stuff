@@ -5,8 +5,8 @@ body {
 	--mb-select-element-border-width: 5px;
 	--mb-date-input-year-input-width: 80px;
 
-	--mb-background-modifier-active: hsla(var(--interactive-accent-hsl), 0.1);
-	--mb-background-modifier-active-hover: hsla(var(--interactive-accent-hsl), 0.2);
+	--mb-background-modifier-active: hsla(var(--interactive-accent-hsl), 0.15);
+	--mb-background-modifier-active-hover: hsla(var(--interactive-accent-hsl), 0.3);
 
 	--mb-input-type-select-text: var(--text-muted);
 	--mb-input-type-select-text-hover: var(--text-normal);
@@ -96,6 +96,7 @@ div.mb-view-wrapper {
 }
 
 .mb-button-inner {
+	vertical-align: bottom;
 }
 
 /* Toggle Input */
@@ -585,10 +586,14 @@ code.mb-warning {
 /* --- Misc --- */
 
 .mb-icon-wrapper {
-	display: inline-block;
+	display: block;
 	position: relative;
 	width: 18px;
 	height: 18px;
+}
+
+.mb-icon-wrapper.mb-icon-wrapper-inline {
+	display: inline-block;
 }
 
 .mb-icon-wrapper > svg {

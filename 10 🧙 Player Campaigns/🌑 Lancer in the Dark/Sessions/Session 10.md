@@ -4,3 +4,5 @@ NoteIcon: Note
 Summary: Fight the dudes! But 1 escaped >:(
 ---
 Fight with the dudes
+
+[[Session 9.excalidraw]]

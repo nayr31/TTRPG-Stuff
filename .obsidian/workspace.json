@@ -14,49 +14,16 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "📑 Campaign Overview.md"
+                "file": "📑 Campaign Overview.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
               "pinned": true
             }
-          },
-          {
-            "id": "663be43353af9eb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c00a300a1f57c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "723cc9d63fb887a1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -255,14 +222,26 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": true,
       "homepage:Open homepage": true,
       "omnisearch:Omnisearch": true,
-      "obsidian-excalidraw-plugin:Create new drawing": true
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "723cc9d63fb887a1",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 11.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/lu3220ty4uzd.tmp",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/lu3220ty4uza.tmp",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Jeff.png",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/lu3220ty4uz7.tmp",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Names.ods",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/Names.ods",
     "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
     "11 🗄️ Archived Player Campaigns/🎯 Carry On/🎯 Dashboard.md",
     "11 🗄️ Archived Player Campaigns/🎯 Carry On/Quests/🎯 Quest Database.md",
     "Notes.md",
@@ -285,28 +264,17 @@
     "10 🧙 Player Campaigns/😈 Diablo/Quests",
     "10 🧙 Player Campaigns/😈 Diablo/Sessions",
     "10 🧙 Player Campaigns/😈 Diablo/NPCs",
-    "10 🧙 Player Campaigns/😈 Diablo/Players",
-    "10 🧙 Player Campaigns/😈 Diablo/Groups",
-    "10 🧙 Player Campaigns/😈 Diablo",
     "10 🧙 Player Campaigns/😈 Diablo/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/😈 Diablo/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/😈 Diablo/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/😈 Diablo/Players/Art",
     "10 🧙 Player Campaigns/😈 Diablo/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/😈 Diablo/NPCs/Art",
     "10 🧙 Player Campaigns/😈 Diablo/Groups/👪📚 Group Database.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
-    "11 🗄️ Archived Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/S1GN4L.png",
-    "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Rover.png",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Rover.png",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (3).png",
-    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (4).png",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.canvas",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",

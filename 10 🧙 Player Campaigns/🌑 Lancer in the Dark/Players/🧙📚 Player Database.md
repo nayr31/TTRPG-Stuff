@@ -106,6 +106,7 @@ columns:
       - { label: "N/A", value: "N/A", color: "hsl(124, 95%, 90%)"}
       - { label: "🦄 Pegasus", value: "🦄 Pegasus", color: "hsl(320, 95%, 90%)"}
       - { label: "Zheng", value: "Zheng", color: "hsl(189, 95%, 90%)"}
+      - { label: "Kobold", value: "Kobold", color: "hsl(271, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

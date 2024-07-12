@@ -1,7 +1,7 @@
 ---
 NoteIcon: Player
-Frame: N/A
+Frame: Kobold
 Pronouns: She/Her
-Real_Name: Jerry
+Real_Name: Geri
 Art: "![[80 🗃️ Resources/Images/playernodata.png|playernodata.png]]"
 ---

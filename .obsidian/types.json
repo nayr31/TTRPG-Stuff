@@ -87,6 +87,8 @@
     "gpvalue": "number",
     "Workers": "text",
     "excalidraw-open-md": "checkbox",
-    "xp": "number"
+    "xp": "number",
+    "excalidraw-export-embed-scene": "checkbox",
+    "excalidraw-embeddable-theme": "text"
   }
 }
