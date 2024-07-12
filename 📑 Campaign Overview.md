@@ -18,7 +18,6 @@ kanban-plugin: basic
 - [ ] ### [[💤 Dashboard|💤 Sleeping Days]]<br>**System:** *Fabula Ultima*<br>**Synop:** A mysterious invasion of SinSpawn. Time traveling sharks!<br>![[Retacon.png|100]]
 - [ ] ### [[🎏 Dashboard|🎏 Diwata's Glory]]<br>**System:** 🎏 *Gubat Banwa*<br>**Synop:** ---<br>![[Pavlo_c.png|100]]
 - [ ] ### [[🐦 Dashboard|🐦 Fists of the Ruby Phoenix]]<br>**System:** 🛡️ *PF2e*<br>**Synop:** ---<br>![[Izumi.jpg|100]]
-- [ ] ### [[🎯 Dashboard|🎯 Carry On]]<br>**System:** *Monster of the Week*<br>**Synop:** ---<br>![[Josh_c.png|100]]
 - [ ] ### [[🌞 Dashboard|🌞 Convergence]]<br>**System:** *Monster of the Week*<br>**Synop:** ---<br>![[Eventis.jpg|100]]
 
 

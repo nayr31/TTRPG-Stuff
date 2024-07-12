@@ -5,6 +5,8 @@ Summary: Edri. There is a looped distress signal coming from the base. We get th
 ---
 To Edri
 
+[[Session 9.excalidraw]]
+
 Looped transmission
 recorded
 scientist

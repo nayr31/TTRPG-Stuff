@@ -8,11 +8,11 @@ cssclasses:
 ![[Josh Playbook 2.png]]
 
 [[Nico]]: we're old friends, our meeting was, odd
-[[10 🧙 Player Campaigns/🎯 Carry On/Players/Esther|Esther]]: went through hell together on my first mission
+[[11 🗄️ Archived Player Campaigns/🎯 Carry On/Players/Esther|Esther]]: went through hell together on my first mission
 [[Ashlyn]]: they're connected to it all, i've been keeping on eye on them for a while now
 [[Dayna]]: know 'em from the forums
 
-# [[10 🧙 Player Campaigns/🎯 Carry On/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/🎯 Carry On/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
@@ -24,7 +24,7 @@ WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```
 
-# [[10 🧙 Player Campaigns/🎯 Carry On/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/🎯 Carry On/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
@@ -36,7 +36,7 @@ WHERE contains(NoteIcon, "NPC")
 SORT file.name
 ```
 
-# [[10 🧙 Player Campaigns/🎯 Carry On/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/🎯 Carry On/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
@@ -49,7 +49,7 @@ WHERE contains(NoteIcon, "Quest")
 SORT Status DESC
 ```
 
-# [[10 🧙 Player Campaigns/🎯 Carry On/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/🎯 Carry On/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
