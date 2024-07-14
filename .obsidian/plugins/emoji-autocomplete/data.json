@@ -4,6 +4,8 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "cut_of_meat",
+    "meat",
     "devil",
     "small_red_triangle",
     "fire",
@@ -16,9 +18,7 @@
     "dice",
     "bow_and_arrow",
     "diamond",
-    "cut_of_meat",
     "meat_on_bone",
-    "meat",
     "cow",
     "sweat",
     "snowflake",
