@@ -22,19 +22,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "fead65ad11f7e50c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "20 🌟 GM Campaigns/🥩 Wilderfeast/Art/World map.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 🌟 GM Campaigns/🥩 Wilderfeast/Art/World map.png",
+                "file": "Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 🌟 GM Campaigns/🥩 Wilderfeast/Art/World map.png",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -239,6 +228,15 @@
   },
   "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🦸 Masks/Masks - The Harbinger.pdf",
+    "10 🧙 Player Campaigns/🦸 Masks/Masks - The Harbinger.pdf",
+    "10 🧙 Player Campaigns/🦸 Masks/Masks - The Harbinger.pdf",
+    "10 🧙 Player Campaigns/🦸 Masks/Masks - A New Generation - Unbound-127-132(1).pdf",
+    "10 🧙 Player Campaigns/🦸 Masks/Players/Art",
+    "10 🧙 Player Campaigns/🦸 Masks/Players/Untitled Kanban.md",
+    "10 🧙 Player Campaigns/🦸 Masks/Players",
+    "20 🌟 GM Campaigns/🥩 Wilderfeast/Art/World map.png",
+    "10 🧙 Player Campaigns/🦸 Masks",
     "📑 Campaign Overview.md",
     "20 🌟 GM Campaigns/🥩 Wilderfeast/Art",
     "Notes.md",
@@ -253,8 +251,6 @@
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu3220ty4uza.tmp",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Jeff.png",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu3220ty4uz7.tmp",
-    "10 🧙 Player Campaigns/🔺 Triangle Agency/Names.ods",
-    "10 🧙 Player Campaigns/🔺 Triangle Agency/Names.ods",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
     "11 🗄️ Archived Player Campaigns/🎯 Carry On/🎯 Dashboard.md",
     "11 🗄️ Archived Player Campaigns/🎯 Carry On/Quests/🎯 Quest Database.md",
@@ -270,21 +266,15 @@
     "10 🧙 Player Campaigns/😈 Diablo/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/😈 Diablo/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/😈 Diablo/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/😈 Diablo/NPCs/Art",
     "10 🧙 Player Campaigns/😈 Diablo/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/😈 Diablo/Players/Art",
     "10 🧙 Player Campaigns/😈 Diablo/Groups/👪📚 Group Database.md",
-    "10 🧙 Player Campaigns/😈 Diablo/Quests",
-    "10 🧙 Player Campaigns/😈 Diablo/Sessions",
     "10 🧙 Player Campaigns/😈 Diablo/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/😈 Diablo/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/😈 Diablo/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/😈 Diablo/NPCs/👨‍🌾📚 NPC Database.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/S1GN4L.png",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Rover.png",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Rover.png",
-    "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Character sheet (3).png",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.canvas",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
