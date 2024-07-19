@@ -24,19 +24,20 @@
             }
           },
           {
-            "id": "3b0ddab64b47ea39",
+            "id": "87c952dc230e6ec4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/🏗 Dashboard.md",
+                "file": "10 🧙 Player Campaigns/🦸 Masks/Players/Saber.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,25 +122,12 @@
             }
           },
           {
-            "id": "e291ccf7c6623d73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Sessions/Session 02.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1fa229dd8b7f3336",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🦸 Masks/Players/Saber.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,8 +156,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🦸 Masks/Players/Saber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,16 +240,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "87c952dc230e6ec4",
   "lastOpenFiles": [
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🦸 Masks/Players/Saber.md",
+    "10 🧙 Player Campaigns/🦸 Masks/🦸 Dashboard.md",
+    "10 🧙 Player Campaigns/🦸 Masks/Players/🧙📚 Player Database.md",
+    "Notes.md",
+    "90 🧩 Templates/✏ Campaign/🧩 Dashboard.md",
     "10 🧙 Player Campaigns/🏗 Conscience/🏗 Dashboard.md",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Sessions/Session 02.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Sessions/Session 01.md",
-    "Notes.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/🧙📚 Player Database.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/Art/Saber_c.png",
     "10 🧙 Player Campaigns/🦸 Masks/Players/Art/Saber.jpg",
     "10 🧙 Player Campaigns/🦸 Masks/Players/Art/Saber_2.png",
@@ -295,12 +286,8 @@
     "20 🌟 GM Campaigns/Misc Lancer Stuff/House Rules.md",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/🔥 Dashboard.md",
     "10 🧙 Player Campaigns/😈 Diablo/😈 Dashboard.md",
-    "20 🌟 GM Campaigns/🔥 In Golden Flame/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/😈 Diablo/Players/Art/141cd711-1899-440d-8a70-cefe66cd06d5.webp",
     "10 🧙 Player Campaigns/😈 Diablo/Players/Art/a5f92dc7-703e-4835-8aa6-55629ae8b0cd.webp",
-    "10 🧙 Player Campaigns/😈 Diablo/Quests/🎯 Quest Database.md",
-    "10 🧙 Player Campaigns/😈 Diablo/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/😈 Diablo/NPCs/👨‍🌾📚 NPC Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.canvas",
