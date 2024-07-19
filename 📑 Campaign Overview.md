@@ -19,7 +19,7 @@ kanban-plugin: board
 	**System:** 🔺 *Triangle Agency*
 	**Synop:** Triangles everywhere
 	![[Jeff.png|100]]
-- [ ] ### 🦸 Masks
+- [ ] ### [[🦸 Dashboard|🦸 Masks]]
 	**System:** 🦸 *Masks*
 	**Synop:** Teenage angst (and heroes)
 	![[Saber_c.png|100]]
