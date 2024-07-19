@@ -24,25 +24,22 @@
             }
           },
           {
-            "id": "da0969f7215a1a3a",
+            "id": "e2ef8ed9fa1edb96",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "database-plugin",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md"
               }
             }
           },
           {
-            "id": "cc7e25ac94fa9546",
+            "id": "84e6968ee6bde04c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦸 Masks/🦸 Dashboard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md"
               }
             }
           }
@@ -137,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,13 +247,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "da0969f7215a1a3a",
+  "active": "e2ef8ed9fa1edb96",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 11.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 12.md",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
+    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🦸 Masks/🦸 Dashboard.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/bear.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/rissy.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/Saber.md",
     "20 🌟 GM Campaigns/Misc Lancer Stuff/lancer-field-guide-template-1.2.0/images/Tongass.png",
     "20 🌟 GM Campaigns/Misc Lancer Stuff/lancer-field-guide-template-1.2.0/images/JWST-Jupiter.png",
@@ -285,17 +289,12 @@
     "10 🧙 Player Campaigns/🏗 Conscience/Sessions/Session 01.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/Untitled Kanban.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 04.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 11.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
     "11 🗄️ Archived Player Campaigns/🎯 Carry On/🎯 Dashboard.md",
     "11 🗄️ Archived Player Campaigns/🎯 Carry On/Quests/🎯 Quest Database.md",
-    "20 🌟 GM Campaigns/Misc Lancer Stuff/House Rules.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.canvas",

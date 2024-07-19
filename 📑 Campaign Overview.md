@@ -19,10 +19,6 @@ kanban-plugin: board
 	**System:** 🔺 *Triangle Agency*
 	**Synop:** Triangles everywhere
 	![[Jeff.png|100]]
-- [ ] ### [[🦸 Dashboard|🦸 Masks]]
-	**System:** 🦸 *Masks*
-	**Synop:** Teenage angst (and heroes)
-	![[Saber_c.png|100]]
 
 
 ## Paused?
@@ -43,6 +39,10 @@ kanban-plugin: board
 	**System:** 🎏 *Gubat Banwa*
 	**Synop:** ---
 	![[Pavlo_c.png|100]]
+- [ ] ### [[🦸 Dashboard|🦸 Masks]]
+	**System:** 🦸 *Masks*
+	**Synop:** Teenage angst (and heroes)
+	![[Saber_c.png|100]]
 - [ ] ### [[🐦 Dashboard|🐦 Fists of the Ruby Phoenix]]
 	**System:** 🛡️ *PF2e*
 	**Synop:** ---
