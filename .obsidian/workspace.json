@@ -24,6 +24,16 @@
             }
           },
           {
+            "id": "da0969f7215a1a3a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "cc7e25ac94fa9546",
             "type": "leaf",
             "state": {
@@ -127,7 +137,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦸 Masks/🦸 Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🦸 Masks/🦸 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -240,10 +248,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "cc7e25ac94fa9546",
+  "active": "da0969f7215a1a3a",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🦸 Masks/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🦸 Masks/🦸 Dashboard.md",
+    "10 🧙 Player Campaigns/🦸 Masks/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/bear.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/rissy.md",
     "📑 Campaign Overview.md",
