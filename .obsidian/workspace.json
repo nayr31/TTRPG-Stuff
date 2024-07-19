@@ -36,8 +36,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Sessions/Session 02.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🏗 Conscience/Sessions/Session 02.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,11 +253,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e291ccf7c6623d73",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
     "10 🧙 Player Campaigns/🏗 Conscience/🏗 Dashboard.md",
-    "10 🧙 Player Campaigns/🏗 Conscience/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Sessions/Session 02.md",
+    "10 🧙 Player Campaigns/🏗 Conscience/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Sessions/Session 01.md",
     "Notes.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/🧙📚 Player Database.md",
@@ -301,7 +301,6 @@
     "10 🧙 Player Campaigns/😈 Diablo/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/😈 Diablo/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/😈 Diablo/NPCs/👨‍🌾📚 NPC Database.md",
-    "10 🧙 Player Campaigns/😈 Diablo/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.canvas",
