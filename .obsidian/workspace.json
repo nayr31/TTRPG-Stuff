@@ -22,26 +22,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e2ef8ed9fa1edb96",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md"
-              }
-            }
-          },
-          {
-            "id": "84e6968ee6bde04c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md"
-              }
-            }
           }
         ]
       }
@@ -133,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Jeff.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Jeff.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,14 +226,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/lu81042riv5t.tmp",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/lu81042riv5q.tmp",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/lu28802raotw.tmp",
+    "10 🧙 Player Campaigns/🔺 Triangle Agency/lu136722perwt.tmp",
+    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 11.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 12.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/🦸 Masks/🦸 Dashboard.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/bear.md",
@@ -276,9 +260,6 @@
     "20 🌟 GM Campaigns/Misc Lancer Stuff/lancer-field-guide-template-1.2.0/fonts/Inconsolata-Bold.ttf",
     "20 🌟 GM Campaigns/Misc Lancer Stuff/lancer-field-guide-template-1.2.0/fonts/Inconsolata-Regular.ttf",
     "20 🌟 GM Campaigns/Misc Lancer Stuff/lancer-field-guide-template-1.2.0/fonts/compcon.ttf",
-    "20 🌟 GM Campaigns/Misc Lancer Stuff/lancer-field-guide-template-1.2.0/fonts/Arimo-Regular.ttf",
-    "20 🌟 GM Campaigns/Misc Lancer Stuff/lancer-field-guide-template-1.2.0/fonts/Arimo-BoldItalic.ttf",
-    "20 🌟 GM Campaigns/Misc Lancer Stuff/lancer-field-guide-template-1.2.0/fonts/Arimo-Italic.ttf",
     "Notes.md",
     "90 🧩 Templates/✏ Campaign/🧩 Dashboard.md",
     "10 🧙 Player Campaigns/🏗 Conscience/🏗 Dashboard.md",
@@ -293,7 +274,6 @@
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 10.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
     "11 🗄️ Archived Player Campaigns/🎯 Carry On/🎯 Dashboard.md",
-    "11 🗄️ Archived Player Campaigns/🎯 Carry On/Quests/🎯 Quest Database.md",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.canvas",
