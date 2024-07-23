@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Jeff.png",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🔺 Triangle Agency/Players/Art/Jeff.png",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +226,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu81042riv5t.tmp",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu81042riv5q.tmp",
