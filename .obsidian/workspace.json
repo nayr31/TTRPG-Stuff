@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/🧻📚 Session Database.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/🧻📚 Session Database.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -237,13 +236,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a6213f60fe3751cb",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 06.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/☁️ Dashboard.md",
     "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 04.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 05.md",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu81042riv5t.tmp",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu81042riv5q.tmp",
