@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -247,8 +246,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2f7ee7c994c1f4d4",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 12.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
@@ -262,7 +262,6 @@
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu81042riv5q.tmp",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu28802raotw.tmp",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu136722perwt.tmp",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 11.md",
     "10 🧙 Player Campaigns/🦸 Masks/🦸 Dashboard.md",
     "10 🧙 Player Campaigns/🦸 Masks/Players/🧙📚 Player Database.md",
