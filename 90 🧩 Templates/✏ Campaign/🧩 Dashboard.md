@@ -26,19 +26,6 @@ WHERE contains(NoteIcon, "NPC")
 SORT file.name
 ```
 
-# [[90 🧩 Templates/✏ Campaign/Quests/🎯 Quest Database|🎯 Quest Dashboard]]
-```dataview
-TABLE WITHOUT ID 
-	link(file.path, name) AS "Name",
-	Status AS "Status",
-	Type AS "Type",
-	Session_Complete AS "Session Complete",
-	Summary AS "Summary"
-from "90 🧩 Templates/✏ Campaign/Quests"
-WHERE contains(NoteIcon, "Quest")
-SORT Status DESC
-```
-
 # [[90 🧩 Templates/✏ Campaign/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
