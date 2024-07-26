@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "angel",
     "superhero",
     "cut_of_meat",
     "meat",
@@ -27,8 +28,7 @@
     "flags",
     "triangular_flag_on_post",
     "heartpulse",
-    "robot",
-    "shield"
+    "robot"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
