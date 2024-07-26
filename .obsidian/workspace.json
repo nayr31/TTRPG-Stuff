@@ -27,9 +27,12 @@
             "id": "36131e884316d959",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/🧙📚 Player Database.md"
+                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -111,6 +114,16 @@
             }
           },
           {
+            "id": "fe3eb6649e3a2f11",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas.png"
+              }
+            }
+          },
+          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -124,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/🧙📚 Player Database.md",
+                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +166,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/🧙📚 Player Database.md",
+                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -239,19 +253,18 @@
   },
   "active": "36131e884316d959",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas.png",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas token.png",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas token.png",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas_c.png",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/👼 Dashboard.md",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas.png",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/21788a90660da6c47cb97b8ff8082d0c6.jpg",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas.png",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/mara.md",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/road.md",
+    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Nymora.md",
+    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Glow.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/bear.md",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/fauna.md",
+    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Priscilla.md",
     "📑 Campaign Overview.md",
     "Notes.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art",
