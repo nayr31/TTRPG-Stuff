@@ -22,22 +22,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "36131e884316d959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -251,15 +237,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "36131e884316d959",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
+    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 02.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 05.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 08.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 13.md",
     "Pasted Image 20240726172721_919.png",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
