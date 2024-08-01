@@ -22,8 +22,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e5155cbf8a02f9bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/🌃 Vecna/Players/Wick.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,16 +114,6 @@
             }
           },
           {
-            "id": "fe3eb6649e3a2f11",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas.png"
-              }
-            }
-          },
-          {
             "id": "47ac5db8bfd792a2",
             "type": "leaf",
             "state": {
@@ -123,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌃 Vecna/Players/Wick.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,8 +156,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/🌃 Vecna/Players/Wick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -237,17 +240,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "e5155cbf8a02f9bc",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/Vecna/Players/Art/Wick_token.png",
-    "10 🧙 Player Campaigns/Vecna/Players/Art/Wick_token.png",
-    "10 🧙 Player Campaigns/Vecna/Players/Art/Wick_c.png",
-    "10 🧙 Player Campaigns/Vecna/Players/Art/Wick.jpg",
-    "10 🧙 Player Campaigns/Vecna/Players/Art/Wick.jpg",
+    "10 🧙 Player Campaigns/🌃 Vecna/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/🌃 Vecna/Players/Wick.md",
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/🌃 Vecna/Players/Untitled.md",
+    "Notes.md",
+    "10 🧙 Player Campaigns/🌃 Vecna/Players/Art/Wick_token.png",
+    "10 🧙 Player Campaigns/🌃 Vecna/Players/Art/Wick_token.png",
+    "10 🧙 Player Campaigns/🌃 Vecna/Players/Art/Wick_c.png",
+    "10 🧙 Player Campaigns/🌃 Vecna/Players/Art/Wick.jpg",
+    "10 🧙 Player Campaigns/🌃 Vecna/Players/Art/Wick.jpg",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Howl.png",
     "20 🌟 GM Campaigns/🔥 In Golden Flame/NPCs/Art/Rita.png",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
@@ -261,13 +268,11 @@
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas.png",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas token.png",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art/Valas token.png",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/👼 Dashboard.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Nymora.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Glow.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/bear.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Priscilla.md",
-    "Notes.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs",
@@ -279,8 +284,6 @@
     "90 🧩 Templates/Slugblaster templates",
     "90 🧩 Templates/✏ Campaign/🧩 Dashboard.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 12.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/🧻📚 Session Database.md",
-    "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Sessions/Session 06.md",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu81042riv5t.tmp",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu81042riv5q.tmp",
     "10 🧙 Player Campaigns/🔺 Triangle Agency/lu28802raotw.tmp",

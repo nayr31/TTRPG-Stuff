@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "night_with_stars",
     "angel",
     "superhero",
     "cut_of_meat",
@@ -27,8 +28,7 @@
     "rose",
     "flags",
     "triangular_flag_on_post",
-    "heartpulse",
-    "robot"
+    "heartpulse"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
