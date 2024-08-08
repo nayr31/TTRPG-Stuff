@@ -4,6 +4,8 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "snail",
+    "robot",
     "night_with_stars",
     "angel",
     "superhero",
@@ -26,9 +28,7 @@
     "sweat",
     "snowflake",
     "rose",
-    "flags",
-    "triangular_flag_on_post",
-    "heartpulse"
+    "flags"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
