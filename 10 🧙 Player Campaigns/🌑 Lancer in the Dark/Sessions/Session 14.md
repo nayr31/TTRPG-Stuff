@@ -5,3 +5,8 @@ NoteIcon: Note
 several scientists are in the room
 HA unit dismounted from his mech
 Same commando from the shipyard
+
+Rescue the scientists!
+We did it!
+
+Once we escape, HCOMM doesn't try and follow
