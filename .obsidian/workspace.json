@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 14.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 14.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,10 +276,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f1188bc5be5672b3",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 14.md",
+    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "Notes.md",
