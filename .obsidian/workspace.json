@@ -22,8 +22,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0266c198bc25e6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 🧙 Player Campaigns/Cain/Ray Capenter.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/Cain/Ray Capenter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/Cain/Ray Capenter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,10 +241,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "0266c198bc25e6c8",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/Cain/Ray Capenter.md",
+    "10 🧙 Player Campaigns/Cain/Ray_bg.png",
+    "10 🧙 Player Campaigns/Cain/The binded.jpg",
+    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 05.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 07.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
@@ -266,13 +283,9 @@
     "10 🧙 Player Campaigns/🌃 Vecna/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌃 Vecna/Players/Untitled.md",
     "10 🧙 Player Campaigns/🌃 Vecna/Players/Art/Wick_token.png",
-    "10 🧙 Player Campaigns/🌃 Vecna/Players/Art/Wick_token.png",
-    "10 🧙 Player Campaigns/🌃 Vecna/Players/Art/Wick_c.png",
     "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
     "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 02.md",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/👼 Dashboard.md",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art",
     "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players",
     "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
