@@ -22,19 +22,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0266c198bc25e6c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 🧙 Player Campaigns/Cain/Ray Capenter.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -155,8 +142,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,15 +228,25 @@
   },
   "active": "feb205d6d42334e4",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/Cain/Ray Capenter.md",
+    "10 🧙 Player Campaigns/Gears of Exmoor/☁️ Dashboard.md",
     "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/Vecna/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/Vecna/Players/Wick.md",
+    "Notes.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/🌑 Dashboard.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Players/🧙📚 Player Database.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Players/Sora.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Sessions/Session 15.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Sessions/Session 14.md",
+    "10 🧙 Player Campaigns/Cain/Ray Capenter.md",
+    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Valas.md",
     "10 🧙 Player Campaigns/Cain/Ray_bg.png",
     "10 🧙 Player Campaigns/Cain/The binded.jpg",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/🌑 Dashboard.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 05.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 07.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 09.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 08.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Sessions/Session 05.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Sessions/Session 07.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Sessions/Session 09.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Sessions/Session 08.md",
     "desktop.ini",
     "10 🧙 Player Campaigns/Cain/Ray_card.png",
     "10 🧙 Player Campaigns/Cain/cain_card_template.png",
@@ -261,12 +257,8 @@
     "10 🧙 Player Campaigns/Cain/cain_card_template.webp",
     "10 🧙 Player Campaigns/Cain/Ray.png",
     "10 🧙 Player Campaigns/Cain/image.webp",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Session 9.excalidraw.md",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Valas.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 14.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/🧻📚 Session Database.md",
-    "Notes.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 13.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Session 9.excalidraw.md",
+    "10 🧙 Player Campaigns/Lancer in the Dark/Sessions/Session 13.md",
     "10 🧙 Player Campaigns/Cain/CAINsheets Exorcist FILL.pdf",
     "10 🧙 Player Campaigns/Cain",
     "20 🌟 GM Campaigns/Cain/Centipede/WHISPERING WALLS.md",
@@ -278,20 +270,15 @@
     "20 🌟 GM Campaigns/Slugblaster/🐌 Dashboard.md",
     "Pasted Image 20240726172721_919.png",
     "20 🌟 GM Campaigns/Cain",
-    "10 🧙 Player Campaigns/🌃 Vecna/Players/Wick.md",
-    "10 🧙 Player Campaigns/🌃 Vecna/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/🌃 Vecna/Players/Untitled.md",
-    "10 🧙 Player Campaigns/🌃 Vecna/Players/Art/Wick_token.png",
-    "10 🧙 Player Campaigns/⚖️ Stolen Fate/⚖️ Dashboard.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 03.md",
-    "10 🧙 Player Campaigns/🌑 Lancer in the Dark/Sessions/Session 02.md",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players/Art",
-    "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players",
-    "10 🧙 Player Campaigns/🏗 Conscience/Players/Kai Steele Canvas.canvas",
+    "10 🧙 Player Campaigns/Vecna/Players/Art/Wick_token.png",
+    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Art",
+    "10 🧙 Player Campaigns/Dance of Seraphs/Players",
+    "10 🧙 Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
-    "10 🧙 Player Campaigns/🎏 Diwata's Glory/Players/Pavlo De Basi.canvas",
+    "10 🧙 Player Campaigns/Diwata's Glory/Players/Pavlo De Basi.canvas",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
-    "10 🧙 Player Campaigns/🌄 Alstead Passage/The Chart~.canvas",
+    "10 🧙 Player Campaigns/Alstead Passage/The Chart~.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "Lancer/Vertenia.canvas",

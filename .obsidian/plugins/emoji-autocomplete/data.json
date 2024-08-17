@@ -4,11 +4,12 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "superhero",
+    "flags",
     "snail",
     "robot",
     "night_with_stars",
     "angel",
-    "superhero",
     "cut_of_meat",
     "meat",
     "devil",
@@ -27,8 +28,7 @@
     "cow",
     "sweat",
     "snowflake",
-    "rose",
-    "flags"
+    "rose"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
