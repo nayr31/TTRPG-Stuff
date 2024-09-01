@@ -6,27 +6,18 @@ kanban-plugin: board
 
 ## 🟢 Active Campaigns
 
-- [ ] ### [[🌑 Dashboard|🌑 Lancer: Into the Beyond]]
-	**System:** 🤖 *Lancer*
-	**Synop:** Albatross pilots answer the call for help...
-	![[Akemi Homura_c.png|100]]
-- [ ] ### [[☁️ Dashboard|☁️ Gears of Exmoor]]
-	**System:** *~~5e~~* 🛡️ *PF2e*
-	**Synop:** Called to a steampunk city to help a mysterious benefactor...
-	
-	![[Kiyi_c.png|100]]
-- [ ] ### 🔺 Triangle Agency
-	**System:** 🔺 *Triangle Agency*
-	**Synop:** Triangles everywhere
-	![[Jeff.png|100]]
+- [ ] ### 👼 Dance of Seraphs
+	**System:** 🛡️ *PF2e*
+	**Synop** Set years after Fifth Horsemen, the holy crusades terror innocents.
+	![[Valas_c.png|100]]
 
 
 ## Paused?
 
-- [ ] ### [[⚖️ Dashboard|⚖️ Stolen Fate]]
-	**System:** 🛡️ *PF2e*
-	**Synop:** A desert of mystery...
-	![[Vannie_c.png|100]]
+- [ ] ### 🔺 Triangle Agency
+	**System:** 🔺 *Triangle Agency*
+	**Synop:** Triangles everywhere
+	![[Jeff.png|100]]
 - [ ] ### [[🌄 Dashboard|🌄 Alstead Passage]]
 	**System:** 🛡️ *PF2e*
 	**Synop:** Totally normal everyday life in a mountain town.
@@ -46,7 +37,7 @@ kanban-plugin: board
 - [ ] ### [[🐦 Dashboard|🐦 Fists of the Ruby Phoenix]]
 	**System:** 🛡️ *PF2e*
 	**Synop:** ---
-	![[Izumi.jpg|100]]
+	![[Brom.png|100]]
 - [ ] ### [[🌞 Dashboard|🌞 Convergence]]
 	**System:** *Monster of the Week*
 	**Synop:** ---
@@ -55,13 +46,19 @@ kanban-plugin: board
 
 ## 🟡 Paused Campaigns
 
+- [ ] ### [[⚖️ Dashboard|⚖️ Stolen Fate]]
+	**System:** 🛡️ *PF2e*
+	**Synop:** A desert of mystery...
+	![[Vannie_c.png|100]]
+- [ ] ### [[☁️ Dashboard|☁️ Gears of Exmoor]]
+	**System:** *~~5e~~* 🛡️ *PF2e*
+	**Synop:** Called to a steampunk city to help a mysterious benefactor...
+	
+	![[Kiyi_c.png|100]]
 - [ ] ### [[🏗 Dashboard|🏗 A Conscience's Favor]]
 	**System:** *Hard Wired Island*
 	**Synop:** ---
 	![[Kai_cc.png|100]]
-- [ ] ### Mors Venit \*\*
-	**System:** 🛡️ *PF2e*
-	**Synop:** ---
 - [ ] ### His Final Hunt
 	**System:** 🛡️ *PF2e*
 	**Synop:**
@@ -74,6 +71,10 @@ kanban-plugin: board
 
 ## 🏁 Finished Campaigns
 
+- [ ] ### [[🌑 Dashboard|🌑 Lancer: Into the Beyond]]
+	**System:** 🤖 *Lancer*
+	**Synop:** Albatross pilots answer the call for help...
+	![[Akemi Homura_c.png|100]]
 - [ ] ###  [[🔫 DHS Dashboard|🔫 DHS]]
 	**System:** *Lancer*
 	**Synop:** An attempt to rescue [[Merrow]] results in the discovery of [[Tu'er Shen]], an NHP who fused with a child.

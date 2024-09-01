@@ -9,7 +9,7 @@ TABLE WITHOUT ID
 	link(file.path, name) AS "Name", 
 	Pronouns AS "Pronouns",
 	embed(Art) AS "Art"
-from "10 🧙 Player Campaigns/👼 Dance of Seraphs/Players"
+from "10 🧙 Player Campaigns/Dance of Seraphs/Players"
 WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```

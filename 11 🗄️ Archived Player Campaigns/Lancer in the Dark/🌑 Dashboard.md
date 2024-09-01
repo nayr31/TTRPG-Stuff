@@ -4,7 +4,7 @@ cssclasses:
   - cards-cols-4
 ---
 
-# [[10 🧙 Player Campaigns/Lancer in the Dark/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/Lancer in the Dark/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
@@ -17,7 +17,7 @@ WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```
 
-# [[10 🧙 Player Campaigns/Lancer in the Dark/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/Lancer in the Dark/NPCs/👨‍🌾📚 NPC Database|👨‍🌾📚 NPC Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 
@@ -29,7 +29,7 @@ WHERE contains(NoteIcon, "NPC")
 SORT file.name
 ```
 
-# [[10 🧙 Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
+# [[11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database|🧻📚 Session Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 

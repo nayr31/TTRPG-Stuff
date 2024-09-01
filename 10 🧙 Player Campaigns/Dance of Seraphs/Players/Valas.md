@@ -1,6 +1,6 @@
 ---
 NoteIcon: Player
-Art: "![[Valas.png]]"
+Art: "![[Valas_c.png]]"
 Pronouns: He/Him
 ---
 Asharla was a village dedicated to the worship of Crane Rowa, a true Naga descendant. Due to the events that happened some years past, it wasn't long before the long lost village was involved within these "holy wars". Not by choice of course, the peoples from Asharla were peaceful and were ever thankful that the spiritual advisors to Crane led him to make the right choices to keep the village secret for as long as it did.
