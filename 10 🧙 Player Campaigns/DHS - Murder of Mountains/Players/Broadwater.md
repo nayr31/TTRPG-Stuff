@@ -16,7 +16,7 @@ They grew up isolated in space with their parents aboard their private pharmaceu
 Their early years after their parent's downfall were laced with quick and dirty jobs, rapid mercenary deployment when their employer was lacking on filling out a roster, and long hauls on dusty frigates. Reputation, manna, and skills have placed Cesic in a higher degree of class over other field medics and can choose the jobs offered, no longer forced by the need for resources.
 
 **Do they like working for DHS? If yes, how loyal to the company are they? If no, why do they stay?**
-Although DHS has its flaws, its a very nice change of pace from the regular pace they've been working the last 10 years.
+Although DHS has its flaws, its a very nice change of pace from the regular jobs they've been working the last 10 years. This may be their new position as a Site Ranger, but they have already been with the company for a year at most. That won't make them totally loyal per say, but it will give Cesic some bias towards the company.
 
 **How did they become a Site Ranger and why were they selected for this position?**
-Having vast medical knowledge and field experience can get you placed almost anywhere on any rim.
+Having vast medical knowledge and medical field experience can get you placed almost anywhere on any rim. Being a previous employee (although in another sector) helped.
