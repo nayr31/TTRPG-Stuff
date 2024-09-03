@@ -1,0 +1,7 @@
+Cesic (se-zick) was a station-born habitant that lived there their entire life. Their parents (quite well off pharmaceutical board members) enjoyed the quite life up in orbit, but it was nonetheless lonely without many visitors. Early on his parents would dote and doddle on him as they were excited about the prospects that he could bring, but now that he thinks about it he was most likely born for no other reason but their amusement.
+
+Cesic is 24 now, his parents station destroyed in a asset seizure went wrong, his childhood memories of playing doctor and watching his mom do virtual duck hunt could only last so long when undergoing black market mech training. That didn't last long either. His time after being sold off was cut short due to the other problem: why train a medic to fight? It was obvious that he had some field experience, either from his father enjoying his time out in the field, or from "the simulations" that his parents were most known for (that he tested).
+
+The company Cesic was forced to work for sold him off, and he eventually made his way to DHS through the proper channels. Was this where he wanted to be? Would he stay if they treated him right? Maybe being a mech pilot could be interesting, its just a site ranger position anyway, how hard could it be? Just like the camping situations of old Earth.
+
+Notes: Themes of abandonment, would avoid combat/confrontation if possible or take a non-lethal approach.

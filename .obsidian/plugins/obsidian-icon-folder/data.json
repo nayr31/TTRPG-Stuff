@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⛰",
       "🦇",
       "🔺",
       "💤",
-      "👼",
-      "🐦"
+      "👼"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,6 @@
   "10 🧙 Player Campaigns/Sleeping Days": "💤",
   "10 🧙 Player Campaigns/Triangle Agency": "🔺",
   "10 🧙 Player Campaigns/Masks": "🦸",
-  "10 🧙 Player Campaigns/Vampire the Masquerade": "🦇"
+  "10 🧙 Player Campaigns/Vampire the Masquerade": "🦇",
+  "10 🧙 Player Campaigns/DHS - Murder of Mountains": "⛰"
 }
