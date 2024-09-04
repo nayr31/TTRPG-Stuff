@@ -36,8 +36,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -240,7 +239,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Leadhead.png",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater_c.jpg",
