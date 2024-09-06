@@ -9,3 +9,7 @@
 2. Its been 9 years since then. Rickus and Diane were close before and their love strong enough for them to go all in on this, but it was an odd feeling. He was still new to this, could he reconnect with his sister after all this time? He wouldn't know/try until (whatever today is - today). Diane was a part of the Lasombra clan that managed their undermarket blood collection - thats how they met.
 3. His sister. Yes. The business will continue to run regardless, and business is good where the people are plentiful.
 4. Lasombra. Although most of them try to climb these social ladders of these parties, he is content with being "on the bottom" making sure blood flows. Hes as loyal as Diane is, and it isn't all that far, but they both have no reason to betray their nice and comfy positions.
+
+---
+
+Rock and metal never die, and now neither will Rickus.
