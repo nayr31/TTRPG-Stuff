@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "bat",
     "angel",
     "superhero",
     "flags",
@@ -27,8 +28,7 @@
     "meat_on_bone",
     "cow",
     "sweat",
-    "snowflake",
-    "rose"
+    "snowflake"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

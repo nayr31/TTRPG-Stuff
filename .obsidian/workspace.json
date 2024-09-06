@@ -24,19 +24,20 @@
             }
           },
           {
-            "id": "8667eb945028db3c",
+            "id": "b4ced4cc973c2a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+                "file": "10 🧙 Player Campaigns/Starlit Fangs/Players/Rickus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/Starlit Fangs/Players/Rickus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 🧙 Player Campaigns/Starlit Fangs/Players/Rickus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -239,8 +240,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "b4ced4cc973c2a63",
   "lastOpenFiles": [
+    "📑 Campaign Overview.md",
+    "10 🧙 Player Campaigns/Starlit Fangs/Players/Rickus.md",
+    "Notes.md",
+    "20 🌟 GM Campaigns/Slugblaster/🐌 Dashboard.md",
+    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+    "20 🌟 GM Campaigns/Slugblaster/Roll Tables/Loots.md",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Leadhead.png",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater_c.jpg",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater token.png",
@@ -249,23 +256,18 @@
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
-    "📑 Campaign Overview.md",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains",
     "10 🧙 Player Campaigns/Fists of the Ruby Phoenix/Players/Art/Horse.png",
     "10 🧙 Player Campaigns/Fists of the Ruby Phoenix/Players/Art/Horse.png",
-    "Notes.md",
     "10 🧙 Player Campaigns/Dance of Seraphs/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Art/Fin.webp",
     "10 🧙 Player Campaigns/Dance of Seraphs/Players/Fin.md",
     "10 🧙 Player Campaigns/Dance of Seraphs/Players/Dove.md",
     "10 🧙 Player Campaigns/Dance of Seraphs/Players/Nymora.md",
     "10 🧙 Player Campaigns/Dance of Seraphs/Players/Glow.md",
     "10 🧙 Player Campaigns/Dance of Seraphs/Players/Dove-1.md",
     "10 🧙 Player Campaigns/Dance of Seraphs/👼 Dashboard.md",
-    "20 🌟 GM Campaigns/Slugblaster/🐌 Dashboard.md",
     "10 🧙 Player Campaigns/Lancer in the Dark/🌑 Dashboard.md",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database.md",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 15.md",
@@ -279,7 +281,6 @@
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 07.md",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 06.md",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 05.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 04.md",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Players/Art",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/NPCs/Art",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions",

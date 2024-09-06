@@ -8,8 +8,12 @@ kanban-plugin: board
 
 - [ ] ### 👼 Dance of Seraphs
 	**System:** 🛡️ *PF2e*
-	**Synop** Set years after Fifth Horsemen, the holy crusades terror innocents.
+	**Synop:** Set years after Fifth Horsemen, the holy crusades terror innocents.
 	![[Valas_c.png|100]]
+- [ ] ### 🦇 Starlit Fangs
+	**System:** 🛡️ *VtM2*
+	**Synop:** Vampires, vampire daddies, vampire mommies...
+	![[Rickus_c.png|100]]
 
 
 ## Paused?
