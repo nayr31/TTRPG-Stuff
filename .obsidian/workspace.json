@@ -36,8 +36,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 🧙 Player Campaigns/Starlit Fangs/Players/Rickus.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 🧙 Player Campaigns/Starlit Fangs/Players/Rickus.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -240,10 +239,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b4ced4cc973c2a63",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
-    "📑 Campaign Overview.md",
     "10 🧙 Player Campaigns/Starlit Fangs/Players/Rickus.md",
+    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Art/Nagaji.png",
+    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Art/Nagaji.png",
+    "📑 Campaign Overview.md",
     "Notes.md",
     "20 🌟 GM Campaigns/Slugblaster/🐌 Dashboard.md",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
@@ -259,8 +260,6 @@
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains",
-    "10 🧙 Player Campaigns/Fists of the Ruby Phoenix/Players/Art/Horse.png",
-    "10 🧙 Player Campaigns/Fists of the Ruby Phoenix/Players/Art/Horse.png",
     "10 🧙 Player Campaigns/Dance of Seraphs/Players/🧙📚 Player Database.md",
     "10 🧙 Player Campaigns/Dance of Seraphs/Players/Fin.md",
     "10 🧙 Player Campaigns/Dance of Seraphs/Players/Dove.md",
@@ -280,7 +279,6 @@
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 08.md",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 07.md",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 06.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 05.md",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Players/Art",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/NPCs/Art",
     "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions",
