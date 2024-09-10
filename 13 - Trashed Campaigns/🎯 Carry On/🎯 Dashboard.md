@@ -8,11 +8,11 @@ cssclasses:
 ![[Josh Playbook 2.png]]
 
 [[Nico]]: we're old friends, our meeting was, odd
-[[11 - Archived Player Campaigns/🎯 Carry On/Players/Esther|Esther]]: went through hell together on my first mission
+[[13 - Trashed Campaigns/🎯 Carry On/Players/Esther|Esther]]: went through hell together on my first mission
 [[Ashlyn]]: they're connected to it all, i've been keeping on eye on them for a while now
 [[Dayna]]: know 'em from the forums
 
-# [[11 - Archived Player Campaigns/🎯 Carry On/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
+# [[13 - Trashed Campaigns/🎯 Carry On/Players/🧙📚 Player Database|🧙📚 Player Dashboard]]
 ```dataview
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name", 

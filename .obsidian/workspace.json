@@ -27,14 +27,12 @@
             "id": "054f6892ce9ce0c3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "ReadMe.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -129,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
+                "file": "ReadMe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,15 +240,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "054f6892ce9ce0c3",
   "lastOpenFiles": [
-    "30 - Homebrew/Slugblaster/Van Life/Van Life.md",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
+    "Notes.md",
+    "13 - Trashed Campaigns",
+    "30 - Homebrew/Slugblaster/Van Life/Van Life.md",
     "30 - Homebrew/Slugblaster/Van Life",
     "📑 Campaign Overview.md",
     "30 - Homebrew/Slugblaster",
     "10 - Player Campaigns/Starlit Fangs/Players/Rickus.md",
-    "Notes.md",
     "11 🗄️ Archived Player Campaigns/Drawing 2024-09-09 19.42.46.excalidraw.md",
     "30 - Homebrew",
     "10 - Player Campaigns/Dance of Seraphs/Players/Art/Nagaji.png",
@@ -289,7 +288,6 @@
     "11 - Archived Player Campaigns/Lancer in the Dark/Players/Art",
     "11 - Archived Player Campaigns/Lancer in the Dark/NPCs/Art",
     "11 - Archived Player Campaigns/Lancer in the Dark/Sessions",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Players",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 - Player Campaigns/Diwata's Glory/Players/Pavlo De Basi.canvas",
