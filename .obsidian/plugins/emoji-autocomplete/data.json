@@ -4,6 +4,8 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "lock",
+    "wizard",
     "bat",
     "angel",
     "superhero",
@@ -16,7 +18,6 @@
     "devil",
     "small_red_triangle",
     "fire",
-    "lock",
     "mage",
     "sun_with_face",
     "x",
@@ -27,8 +28,7 @@
     "diamond",
     "meat_on_bone",
     "cow",
-    "sweat",
-    "snowflake"
+    "sweat"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

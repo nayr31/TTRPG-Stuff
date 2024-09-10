@@ -24,19 +24,22 @@
             }
           },
           {
-            "id": "b4ced4cc973c2a63",
+            "id": "054f6892ce9ce0c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "10 🧙 Player Campaigns/Starlit Fangs/Players/Rickus.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80 🗃️ Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+                "file": "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,60 +244,60 @@
   },
   "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
-    "10 🧙 Player Campaigns/Starlit Fangs/Players/Rickus.md",
-    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Art/Nagaji.png",
-    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Art/Nagaji.png",
+    "30 - Homebrew/Slugblaster/Van Life/Van Life.md",
+    "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
+    "30 - Homebrew/Slugblaster/Van Life",
     "📑 Campaign Overview.md",
+    "30 - Homebrew/Slugblaster",
+    "10 - Player Campaigns/Starlit Fangs/Players/Rickus.md",
     "Notes.md",
-    "20 🌟 GM Campaigns/Slugblaster/🐌 Dashboard.md",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
-    "20 🌟 GM Campaigns/Slugblaster/Roll Tables/Loots.md",
+    "11 🗄️ Archived Player Campaigns/Drawing 2024-09-09 19.42.46.excalidraw.md",
+    "30 - Homebrew",
+    "10 - Player Campaigns/Dance of Seraphs/Players/Art/Nagaji.png",
+    "10 - Player Campaigns/Dance of Seraphs/Players/Art/Nagaji.png",
+    "20 - GM Campaigns/Slugblaster/🐌 Dashboard.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+    "20 - GM Campaigns/Slugblaster/Roll Tables/Loots.md",
     "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Leadhead.png",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater_c.jpg",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater token.png",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater token.png",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains",
-    "10 🧙 Player Campaigns/Dance of Seraphs/Players/🧙📚 Player Database.md",
-    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Fin.md",
-    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Dove.md",
-    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Nymora.md",
-    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Glow.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater_c.jpg",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater token.png",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater token.png",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players",
+    "10 - Player Campaigns/DHS - Murder of Mountains",
+    "10 - Player Campaigns/Dance of Seraphs/Players/🧙📚 Player Database.md",
+    "10 - Player Campaigns/Dance of Seraphs/Players/Fin.md",
+    "10 - Player Campaigns/Dance of Seraphs/Players/Dove.md",
+    "10 - Player Campaigns/Dance of Seraphs/Players/Nymora.md",
+    "10 - Player Campaigns/Dance of Seraphs/Players/Glow.md",
     "10 🧙 Player Campaigns/Dance of Seraphs/Players/Dove-1.md",
-    "10 🧙 Player Campaigns/Dance of Seraphs/👼 Dashboard.md",
+    "10 - Player Campaigns/Dance of Seraphs/👼 Dashboard.md",
     "10 🧙 Player Campaigns/Lancer in the Dark/🌑 Dashboard.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 15.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 14.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 13.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 12.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 11.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 10.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 09.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 08.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 07.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions/Session 06.md",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Players/Art",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/NPCs/Art",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Sessions",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Players",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/NPCs",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/LANCERS IN THE DARK.pdf",
-    "11 🗄️ Archived Player Campaigns/Lancer in the Dark/Groups",
-    "10 🧙 Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 15.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 14.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 13.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 12.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 11.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 10.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 09.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 08.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Players/Art",
+    "11 - Archived Player Campaigns/Lancer in the Dark/NPCs/Art",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Players",
+    "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
-    "10 🧙 Player Campaigns/Diwata's Glory/Players/Pavlo De Basi.canvas",
+    "10 - Player Campaigns/Diwata's Glory/Players/Pavlo De Basi.canvas",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
-    "10 🧙 Player Campaigns/Alstead Passage/The Chart~.canvas",
+    "10 - Player Campaigns/Alstead Passage/The Chart~.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
     "Lancer/Vertenia.canvas",
-    "Conscience/Players/Kai Canvas.canvas",
-    "Lancer/Lancer campaign note.canvas"
+    "Conscience/Players/Kai Canvas.canvas"
   ]
 }
