@@ -14,6 +14,10 @@ kanban-plugin: board
 	**System:** 🛡️ *VtM2*
 	**Synop:** Vampires, vampire daddies, vampire mommies...
 	![[Rickus_c.png|100]]
+- [ ] ### [[⛰️ Dashboard|⛰️ Murder of Mountains]]
+	**System:** 🤖 *Lancer*
+	**Synop:** Mountains of mystery...
+	![[Broadwater_c.jpg|100]]
 
 
 ## Paused?

@@ -4,9 +4,10 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "mountain",
+    "bat",
     "lock",
     "wizard",
-    "bat",
     "angel",
     "superhero",
     "flags",
@@ -27,8 +28,7 @@
     "bow_and_arrow",
     "diamond",
     "meat_on_bone",
-    "cow",
-    "sweat"
+    "cow"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

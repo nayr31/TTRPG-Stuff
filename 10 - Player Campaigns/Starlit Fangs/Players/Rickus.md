@@ -1,3 +1,8 @@
+---
+NoteIcon: Player
+Art: "![[Rickus_c.png]]"
+Pronouns: He/Him
+---
 1. Who were you before you were turned? What memories do you still carry with you from that time?
 2. The story of when you were turned and about how long ago was it. Who turned you? (“Embracing” is the term for this, and it is typically an intimate thing, it requires a high level of vulnerability both physically and emotionally on both parties)
 3. What brought you to L.A? Do you plan on staying? And why do you keep coming back to the Hotel Leon?

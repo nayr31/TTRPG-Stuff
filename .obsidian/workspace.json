@@ -22,8 +22,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "da6db9f566a6eeae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,55 +240,55 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "da6db9f566a6eeae",
   "lastOpenFiles": [
+    "10 - Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+    "Notes.md",
+    "📑 Campaign Overview.md",
+    "11 - Archived Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/NPCs/👨‍🌾📚 NPC Database.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/NPCs/Art/Ade_Simone_Portrait.webp",
+    "10 - Player Campaigns/DHS - Murder of Mountains/NPCs/Ade Simone.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/🧙📚 Player Database.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Finn.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Snapshot.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Mulberry.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Leeds.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/NPCs/Art",
+    "10 - Player Campaigns/DHS - Murder of Mountains/NPCs",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions",
+    "10 - Player Campaigns/DHS - Murder of Mountains/NPCs/Art",
+    "10 - Player Campaigns/DHS - Murder of Mountains/NPCs",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Players/🦇 Dashboard.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/TTRPG-Stuff.lnk",
+    "90 - Templates/✏ Campaign/🧩 Dashboard.md",
+    "10 - Player Campaigns/Starlit Fangs/Players/🧙📚 Player Database.md",
+    "10 - Player Campaigns/Starlit Fangs/Players/Art/Akos.webp",
+    "10 - Player Campaigns/Starlit Fangs/Players/Art/Velorina.webp",
+    "10 - Player Campaigns/Starlit Fangs/Players/Art/Gabriel.webp",
+    "10 - Player Campaigns/Starlit Fangs/Players/Art/Akos.webp",
+    "10 - Player Campaigns/Starlit Fangs/Players/Art/Gabriel.webp",
+    "10 - Player Campaigns/Starlit Fangs/Players/Art/Velorina.webp",
+    "10 - Player Campaigns/Starlit Fangs/🦇 Dashboard.md",
+    "10 - Player Campaigns/Starlit Fangs/Players/Velorina.md",
+    "10 - Player Campaigns/Starlit Fangs/Players/Gabriel.md",
+    "10 - Player Campaigns/Starlit Fangs/Players/Akos.md",
+    "10 - Player Campaigns/Starlit Fangs/Players/Rickus.md",
     "ReadMe.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Leadhead.png",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
-    "Notes.md",
     "13 - Trashed Campaigns",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.md",
     "30 - Homebrew/Slugblaster/Van Life",
-    "📑 Campaign Overview.md",
     "30 - Homebrew/Slugblaster",
-    "10 - Player Campaigns/Starlit Fangs/Players/Rickus.md",
     "11 🗄️ Archived Player Campaigns/Drawing 2024-09-09 19.42.46.excalidraw.md",
-    "30 - Homebrew",
     "10 - Player Campaigns/Dance of Seraphs/Players/Art/Nagaji.png",
     "10 - Player Campaigns/Dance of Seraphs/Players/Art/Nagaji.png",
     "20 - GM Campaigns/Slugblaster/🐌 Dashboard.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
-    "20 - GM Campaigns/Slugblaster/Roll Tables/Loots.md",
-    "10 🧙 Player Campaigns/DHS - Murder of Mountains/Players/Art/Leadhead.png",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater_c.jpg",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater token.png",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater token.png",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Art",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players",
-    "10 - Player Campaigns/DHS - Murder of Mountains",
-    "10 - Player Campaigns/Dance of Seraphs/Players/🧙📚 Player Database.md",
-    "10 - Player Campaigns/Dance of Seraphs/Players/Fin.md",
-    "10 - Player Campaigns/Dance of Seraphs/Players/Dove.md",
-    "10 - Player Campaigns/Dance of Seraphs/Players/Nymora.md",
-    "10 - Player Campaigns/Dance of Seraphs/Players/Glow.md",
-    "10 🧙 Player Campaigns/Dance of Seraphs/Players/Dove-1.md",
-    "10 - Player Campaigns/Dance of Seraphs/👼 Dashboard.md",
-    "10 🧙 Player Campaigns/Lancer in the Dark/🌑 Dashboard.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 15.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 14.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 13.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 12.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 11.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 10.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 09.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 08.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Players/Art",
-    "11 - Archived Player Campaigns/Lancer in the Dark/NPCs/Art",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 - Player Campaigns/Diwata's Glory/Players/Pavlo De Basi.canvas",

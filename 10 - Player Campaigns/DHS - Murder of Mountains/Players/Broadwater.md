@@ -1,3 +1,8 @@
+---
+Art: "![[Broadwater_c.jpg]]"
+Pronouns: They/Them
+NoteIcon: Player
+---
 Cesic (se-zick) was a station-born habitant that lived there their entire life. Their parents (quite well off pharmaceutical board members) enjoyed the quite life up in orbit, but it was nonetheless lonely without many visitors. Early on his parents would dote and doddle on him as they were excited about the prospects that he could bring, but now that he thinks about it he was most likely born for no other reason but their amusement.
 
 Cesic is 24 now, his parents station destroyed in a asset seizure went wrong, his childhood memories of playing doctor and watching his mom do virtual duck hunt could only last so long when undergoing black market mech training. That didn't last long either. His time after being sold off was cut short due to the other problem: why train a medic to fight? It was obvious that he had some field experience, either from his father enjoying his time out in the field, or from "the simulations" that his parents were most known for (that he tested).
@@ -20,3 +25,14 @@ Although DHS has its flaws, its a very nice change of pace from the regular jobs
 
 **How did they become a Site Ranger and why were they selected for this position?**
 Having vast medical knowledge and medical field experience can get you placed almost anywhere on any rim. Being a previous employee (although in another sector) helped.
+
+---
+
+Rumors:
+1 true, 1 false, 1 in between
+
+T - 
+T/F - 
+T/F -
+T/F -
+F - 
