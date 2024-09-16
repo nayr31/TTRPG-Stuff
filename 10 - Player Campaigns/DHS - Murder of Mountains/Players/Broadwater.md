@@ -31,8 +31,8 @@ Having vast medical knowledge and medical field experience can get you placed al
 Rumors:
 1 true, 1 false, 1 in between
 
-T - 
+T - Served as a combat medic.
 T/F - 
-T/F -
-T/F -
-F - 
+In Between - Their parents are extremely wealthy and influential. (They **were**, not are currently)
+F - SSC metahuman (or whatever they're called) 
+F - Owns a company.
