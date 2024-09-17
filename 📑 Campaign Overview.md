@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## 🟢 Active Campaigns
 
-- [ ] ### 👼 Dance of Seraphs
+- [ ] ### [[👼 Dashboard|👼 Dance of Seraphs]]
 	**System:** 🛡️ *PF2e*
 	**Synop:** Set years after Fifth Horsemen, the holy crusades terror innocents.
 	![[Valas_c.png|100]]
