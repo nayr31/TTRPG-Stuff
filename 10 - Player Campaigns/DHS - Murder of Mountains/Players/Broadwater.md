@@ -32,7 +32,7 @@ Rumors:
 1 true, 1 false, 1 in between
 
 T - Served as a combat medic.
-T/F - 
+In Between - They were a child soldier. (They did combat simulations as a child - against their will, but weren't in any war)
 In Between - Their parents are extremely wealthy and influential. (They **were**, not are currently)
 F - SSC metahuman (or whatever they're called) 
 F - Owns a company.
