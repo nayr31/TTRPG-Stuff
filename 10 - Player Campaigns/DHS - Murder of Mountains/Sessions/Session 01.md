@@ -1,6 +1,7 @@
 ---
 Date: 2024-09-22T00:00:00.000-04:00
 NoteIcon: Note
+Summary: Get to Site 38-0, Red Retreat. Get settled, and start looking for Ade.
 ---
 Awake from cryo
 Change~
@@ -34,7 +35,7 @@ Get some drugs
 
 Seems like he was buying a lot of camping equipment, and leaving it out there maybe
 
-Mech bay, see Reeves
+Mech bay, see [[Esther Reeves]]
 Storm came out, they lost 3 people near tower 1
 "gunfire" you say
 

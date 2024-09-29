@@ -92,7 +92,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      wrap_content: false
+      wrap_content: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal

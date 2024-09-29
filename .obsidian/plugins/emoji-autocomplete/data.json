@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "angry",
     "mountain",
     "bat",
     "lock",
@@ -27,8 +28,7 @@
     "dice",
     "bow_and_arrow",
     "diamond",
-    "meat_on_bone",
-    "cow"
+    "meat_on_bone"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
