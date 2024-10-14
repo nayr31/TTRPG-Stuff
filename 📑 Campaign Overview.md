@@ -18,6 +18,10 @@ kanban-plugin: board
 	**System:** 🤖 *Lancer*
 	**Synop:** Mountains of mystery...
 	![[Broadwater_c.jpg|100]]
+- [ ] ### [[👻 Dashboard|👻 Soul Imperative]]
+	**System:** 🛡️ *VtM2*
+	**Synop:**
+	![[Valphyra_c.png|100]]
 
 
 ## Paused?
