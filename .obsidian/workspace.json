@@ -36,8 +36,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
+                "file": "📑 Campaign Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
+                "file": "📑 Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,12 +252,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6c90dd2fddfc200c",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
+    "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
     "10 - Player Campaigns/Soul Imperative/Players/Art/Valphyra_cc.png",
     "10 - Player Campaigns/Soul Imperative/👻 Dashboard.md",
     "📑 Campaign Overview.md",
-    "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
     "10 - Player Campaigns/Soul Imperative/Players/🧙📚 Player Database.md",
     "Notes.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 03.md",
@@ -300,7 +299,6 @@
     "10 - Player Campaigns/Starlit Fangs/Players/Art/Velorina.webp",
     "10 - Player Campaigns/Starlit Fangs/Players/Art/Gabriel.webp",
     "10 - Player Campaigns/Starlit Fangs/Players/Art/Akos.webp",
-    "10 - Player Campaigns/Starlit Fangs/Players/Art/Gabriel.webp",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
