@@ -36,7 +36,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,10 +253,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "6c90dd2fddfc200c",
   "lastOpenFiles": [
-    "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
     "📑 Campaign Overview.md",
+    "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
     "10 - Player Campaigns/Soul Imperative/Players/Art/Valphyra_cc.png",
     "10 - Player Campaigns/Soul Imperative/👻 Dashboard.md",
     "10 - Player Campaigns/Soul Imperative/Players/🧙📚 Player Database.md",
