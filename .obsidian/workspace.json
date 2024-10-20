@@ -26,18 +26,18 @@
             }
           },
           {
-            "id": "d312c7804c0ae5ee",
+            "id": "71638304f27b4d6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valphyra"
+              "title": "Session 04"
             }
           }
         ],
@@ -156,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Valphyra"
+              "title": "Graph of Session 04"
             }
           }
         ]
@@ -207,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Valphyra"
+              "title": "Outgoing links from Session 04"
             }
           },
           {
@@ -278,10 +278,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d312c7804c0ae5ee",
+  "active": "71638304f27b4d6a",
   "lastOpenFiles": [
-    "10 - Player Campaigns/Soul Imperative/👻 Dashboard.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 04.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 03.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
     "📑 Campaign Overview.md",
+    "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
+    "10 - Player Campaigns/Soul Imperative/👻 Dashboard.md",
     "10 - Player Campaigns/Soul Imperative/Players/🧙📚 Player Database.md",
     "10 - Player Campaigns/Soul Imperative/Players/Jara.md",
     "10 - Player Campaigns/Soul Imperative/Players/Hickory.md",
@@ -295,18 +300,14 @@
     "10 - Player Campaigns/Soul Imperative/Players/Art/Hickory.webp",
     "10 - Player Campaigns/Soul Imperative/Players/Art/Hickory.webp",
     "10 - Player Campaigns/Soul Imperative/Players/Art/Hickory.webp",
-    "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
     "10 - Player Campaigns/Soul Imperative/Players/Art/Valphyra_cc.png",
     "Notes.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 03.md",
     "10 - Player Campaigns/Soul Imperative/Players/Art",
     "10 - Player Campaigns/Soul Imperative/Players",
     "10 - Player Campaigns/Soul Imperative",
     "10 - Player Campaigns/Souls Imperative",
     "10 - Player Campaigns/New folder",
-    "10 - Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/NPCs/Ade Simone.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 02.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 01.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/NPCs/👨‍🌾📚 NPC Database.md",
@@ -321,7 +322,6 @@
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/Finn.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/Snapshot.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/Mulberry.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Leeds.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/NPCs/Art",
     "10 - Player Campaigns/DHS - Murder of Mountains/NPCs",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions",

@@ -1,6 +1,7 @@
 ---
 Date: 2024-10-06T00:00:00.000-04:00
 NoteIcon: Note
+Summary: Seems like people are attacking our tree poachers...
 ---
 Hive guy
 Someone attacked them 2-3 days ago?
@@ -56,3 +57,5 @@ Week after the storm hit
 Radio to Macy!
 Get some cords back
 SNOT ROCK
+
+Get to combat, snipe get out of here!
