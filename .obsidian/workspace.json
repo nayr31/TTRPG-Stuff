@@ -20,10 +20,28 @@
                   "list-collapse": []
                 }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "📑 Campaign Overview"
+            }
+          },
+          {
+            "id": "d312c7804c0ae5ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valphyra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +62,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -59,7 +79,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -81,7 +103,9 @@
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           },
           {
@@ -96,7 +120,9 @@
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Checkboxes, Callouts, & Speech Bubbles"
             }
           },
           {
@@ -109,7 +135,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session 03"
             }
           },
           {
@@ -117,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -126,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +182,9 @@
                   "scale": 0.7132754626224443,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Valphyra"
             }
           }
         ]
@@ -175,10 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📑 Campaign Overview.md",
+                "file": "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Valphyra"
             }
           },
           {
@@ -190,7 +224,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -201,7 +237,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -213,7 +251,9 @@
               "state": {
                 "file": "📑 Campaign Overview.md"
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-info",
+              "title": "File properties for 📑 Campaign Overview"
             }
           }
         ],
@@ -233,25 +273,34 @@
       "dbfolder:Create a new database table": false,
       "obsidian42-brat:BRAT": true,
       "obsidian-leaflet-plugin:Open Leaflet Map": true,
-      "homepage:Open homepage": true,
       "omnisearch:Omnisearch": true,
       "obsidian-excalidraw-plugin:Create new drawing": true,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "d312c7804c0ae5ee",
   "lastOpenFiles": [
-    "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
-    "📑 Campaign Overview.md",
-    "10 - Player Campaigns/Soul Imperative/Players/Art/Valphyra_cc.png",
     "10 - Player Campaigns/Soul Imperative/👻 Dashboard.md",
+    "📑 Campaign Overview.md",
     "10 - Player Campaigns/Soul Imperative/Players/🧙📚 Player Database.md",
+    "10 - Player Campaigns/Soul Imperative/Players/Jara.md",
+    "10 - Player Campaigns/Soul Imperative/Players/Hickory.md",
+    "10 - Player Campaigns/Soul Imperative/Players/Ihara.md",
+    "10 - Player Campaigns/Soul Imperative/Players/Art/Ihara_c.png",
+    "10 - Player Campaigns/Soul Imperative/Players/Art/Hickory_c.png",
+    "10 - Player Campaigns/Soul Imperative/Players/Art/Hickory.webp",
+    "10 - Player Campaigns/Soul Imperative/Players/Art/Ihara.webp",
+    "10 - Player Campaigns/Soul Imperative/Players/Art/ihara.webp",
+    "10 - Player Campaigns/Soul Imperative/Players/Art/c524e413-1f86-43b9-b32e-9854e2b4107d.webp",
+    "10 - Player Campaigns/Soul Imperative/Players/Art/Hickory.webp",
+    "10 - Player Campaigns/Soul Imperative/Players/Art/Hickory.webp",
+    "10 - Player Campaigns/Soul Imperative/Players/Art/Hickory.webp",
+    "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
+    "10 - Player Campaigns/Soul Imperative/Players/Art/Valphyra_cc.png",
     "Notes.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 03.md",
-    "10 - Player Campaigns/Soul Imperative/Players/Art/be98c511fdef8fbc1d2a8dc0f854116f-ZrnSqOzLB-transformed.jpeg",
     "10 - Player Campaigns/Soul Imperative/Players/Art",
     "10 - Player Campaigns/Soul Imperative/Players",
-    "10 - Player Campaigns/Soul Imperative/Players/Art/be98c511fdef8fbc1d2a8dc0f854116f.jpg",
     "10 - Player Campaigns/Soul Imperative",
     "10 - Player Campaigns/Souls Imperative",
     "10 - Player Campaigns/New folder",
@@ -265,12 +314,9 @@
     "10 - Player Campaigns/Dance of Seraphs/👼 Dashboard.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
     "10 - Player Campaigns/Dance of Seraphs/Players/🧙📚 Player Database.md",
-    "10 - Player Campaigns/Dance of Seraphs/Players/Art/fin.webp",
-    "10 - Player Campaigns/Dance of Seraphs/Players/Art/result11.webp",
     "10 - Player Campaigns/Dance of Seraphs/Players/Valas.md",
     "desktop.ini",
     "11 - Archived Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/NPCs/Art/Ade_Simone_Portrait.webp",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/🧙📚 Player Database.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/Finn.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/Snapshot.md",
@@ -280,12 +326,6 @@
     "10 - Player Campaigns/DHS - Murder of Mountains/NPCs",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/🦇 Dashboard.md",
-    "90 - Templates/✏ Campaign/🧩 Dashboard.md",
-    "10 - Player Campaigns/Starlit Fangs/Players/Art/Akos.webp",
-    "10 - Player Campaigns/Starlit Fangs/Players/Art/Velorina.webp",
-    "10 - Player Campaigns/Starlit Fangs/Players/Art/Gabriel.webp",
-    "10 - Player Campaigns/Starlit Fangs/Players/Art/Akos.webp",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
