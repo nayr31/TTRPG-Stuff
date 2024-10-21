@@ -20,3 +20,11 @@ Similar gas geysers in the cockpits
 
 Get the spite working again
 Wildfire!!!
+
+Combat with bois???
+
+We all pass out, but Leeds managed to get a signal out
+
+***Homework!!!!***
+
+Drug induced coma for 2 weeks
