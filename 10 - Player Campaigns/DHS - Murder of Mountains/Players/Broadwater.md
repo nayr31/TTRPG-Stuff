@@ -41,4 +41,4 @@ F - Owns a company.
 
 During [[10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 04|Session 04]], the party passes out from the haze made from the burning trees. Here is what Cesic dreams about.
 
-Cesic awakes to the loud gunfire of overhead mechs as the ringing in their ears starts to subside. Medics on the frontline, who thought this was a good idea?
+Cesic falls asleep at the controls of Snapshot's mech, drifting away into a slumber longer than any other. 
