@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - Player Campaigns/Soul Imperative/👻 Dashboard.md",
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 👻 Dashboard"
+              "title": "Graph of Broadwater"
             }
           }
         ]
@@ -222,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Player Campaigns/Soul Imperative/👻 Dashboard.md",
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 👻 Dashboard"
+              "title": "Outgoing links from Broadwater"
             }
           },
           {
@@ -293,12 +293,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ecec45385b504b14",
+  "active": "91fb4b725b79c099",
   "lastOpenFiles": [
-    "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
+    "20 - GM Campaigns/Lancer/LCP Stuff.md",
     "10 - Player Campaigns/Soul Imperative/👻 Dashboard.md",
-    "📑 Campaign Overview.md",
+    "Notes.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+    "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
+    "📑 Campaign Overview.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 01.md",
     "desktop.ini",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
@@ -319,7 +321,6 @@
     "10 - Player Campaigns/Soul Imperative/Players/Art/Hickory.webp",
     "10 - Player Campaigns/Soul Imperative/Players/Art/Hickory.webp",
     "10 - Player Campaigns/Soul Imperative/Players/Art/Valphyra_cc.png",
-    "Notes.md",
     "10 - Player Campaigns/Soul Imperative/Players/Art",
     "10 - Player Campaigns/Soul Imperative/Players",
     "10 - Player Campaigns/Soul Imperative",
