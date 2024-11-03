@@ -46,13 +46,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 05.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Broadwater"
+              "title": "Session 05"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Broadwater"
+              "title": "Graph of Session 05"
             }
           }
         ]
@@ -222,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Broadwater"
+              "title": "Outgoing links from Session 05"
             }
           },
           {
@@ -295,17 +295,18 @@
   },
   "active": "91fb4b725b79c099",
   "lastOpenFiles": [
-    "20 - GM Campaigns/Lancer/LCP Stuff.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 05.md",
     "10 - Player Campaigns/Soul Imperative/👻 Dashboard.md",
-    "Notes.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/Broadwater.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 04.md",
+    "20 - GM Campaigns/Lancer/LCP Stuff.md",
+    "Notes.md",
     "10 - Player Campaigns/Soul Imperative/Players/Valphyra.md",
     "📑 Campaign Overview.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 01.md",
     "desktop.ini",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 04.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 03.md",
     "10 - Player Campaigns/Soul Imperative/Players/🧙📚 Player Database.md",
     "10 - Player Campaigns/Soul Imperative/Players/Jara.md",
@@ -336,7 +337,6 @@
     "11 - Archived Player Campaigns/🐴 Fifth Horseman/🐴 Dashboard.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/🧙📚 Player Database.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Players/Finn.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Players/Snapshot.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/NPCs/Art",
     "10 - Player Campaigns/DHS - Murder of Mountains/NPCs",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions",
