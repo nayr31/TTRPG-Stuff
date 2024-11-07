@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🍃",
       "👻",
       "LiTrash",
       "🛠",
-      "🧩",
-      "LiPuzzle"
+      "🧩"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,6 @@
   "13 - Trashed Campaigns": "LiTrash",
   "13 - Trashed Campaigns/Triangle Agency": "🔺",
   "13 - Trashed Campaigns/Convergence": "🌞",
-  "10 - Player Campaigns/Soul Imperative": "👻"
+  "10 - Player Campaigns/Soul Imperative": "👻",
+  "10 - Player Campaigns/Six at Second Drop": "🍃"
 }
