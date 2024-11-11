@@ -1,6 +1,7 @@
 ---
 Date: 2024-11-03T00:00:00.000-04:00
 NoteIcon: Note
+Summary: After arriving at the gates and fighting off some people, we agree to relieve the pressure under the mountain.
 ---
 We get to the mountain, encounter forces
 Open the hatch

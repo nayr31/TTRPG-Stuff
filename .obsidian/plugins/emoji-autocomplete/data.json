@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "blush",
     "leaf",
     "ghost",
     "angry",
@@ -27,8 +28,7 @@
     "x",
     "bird",
     "target",
-    "dice",
-    "bow_and_arrow"
+    "dice"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
