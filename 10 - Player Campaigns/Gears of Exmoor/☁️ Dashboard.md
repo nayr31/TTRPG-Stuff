@@ -12,7 +12,7 @@ TABLE WITHOUT ID
 	Pronouns AS "Pronouns",
 	embed(Art) AS "Art",
 	Class AS "Class"
-from "10 🧙 Player Campaigns/☁️ Gears of Exmoor/Players"
+from "10 - Player Campaigns/Gears of Exmoor/Players"
 WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```
@@ -24,7 +24,7 @@ TABLE WITHOUT ID
 	Pronouns AS "Pronouns",
 	embed(Art) AS "Art",
 	Notes AS "Notes"
-from "10 🧙 Player Campaigns/☁️ Gears of Exmoor/NPCs"
+from "10 - Player Campaigns/Gears of Exmoor/NPCs"
 WHERE contains(NoteIcon, "NPC")
 SORT file.name
 ```
