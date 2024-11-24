@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⛩",
       "🍃",
       "👻",
       "LiTrash",
-      "🛠",
-      "🧩"
+      "🛠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,7 +50,6 @@
   "10 - Player Campaigns/Sleeping Days": "💤",
   "10 - Player Campaigns/Starlit Fangs": "🦇",
   "10 - Player Campaigns/Stolen Fate": "⚖",
-  "10 - Player Campaigns/Vecna": "🌃",
   "11 - Archived Player Campaigns": "🗄",
   "12 - Archived Characters": "🔒",
   "20 - GM Campaigns": "⭐",
@@ -66,5 +65,6 @@
   "13 - Trashed Campaigns/Triangle Agency": "🔺",
   "13 - Trashed Campaigns/Convergence": "🌞",
   "10 - Player Campaigns/Soul Imperative": "👻",
-  "10 - Player Campaigns/Six at Second Drop": "🍃"
+  "10 - Player Campaigns/Six at Second Drop": "🍃",
+  "10 - Player Campaigns/Unto the Breach": "⛩"
 }

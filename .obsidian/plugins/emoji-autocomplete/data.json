@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "shinto_shrine",
     "blush",
     "leaf",
     "ghost",
@@ -27,8 +28,7 @@
     "sun_with_face",
     "x",
     "bird",
-    "target",
-    "dice"
+    "target"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
