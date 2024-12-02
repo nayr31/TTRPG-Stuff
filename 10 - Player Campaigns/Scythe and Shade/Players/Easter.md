@@ -13,9 +13,10 @@
    The church itself was salvation after the fall of my house, what came after was just survival in a cruel world.
    
 5. *What constitutes a just punishment for heinous crimes? If you were your own judge, jury, and executioner, what would your sentence be?*
-   
+   Only those with the power to punish are allowed to decide the crime and its punishments. I bear no guilt to my crimes, but my emotions cloud my perception of myself.
 
 6. *What do you see as the end result of your crimes? What is your goal?*
-   
+   The uncertainty of the future is my goal to eradicate. Everything written, everything controlled.
 
 7. *Are you willing to hurt, kill, ruin, and undermine others to achieve your goals? Why?*
+   The past should never be repeated. I've learnt from my mistakes and will do anything to prevent them.
