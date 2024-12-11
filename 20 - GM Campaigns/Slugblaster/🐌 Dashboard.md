@@ -11,7 +11,7 @@ TABLE WITHOUT ID
 	link(file.path, name) AS "Name",
 	embed(Logo) AS "Logo",
 	Summary AS "Summary"
-from "20 🌟 GM Campaigns/Slugblaster/Groups"
+from "20 - GM Campaigns/Slugblaster/Groups"
 WHERE contains(Type, "Crew")
 SORT file.name
 ```
@@ -21,7 +21,7 @@ SORT file.name
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
 	Summary AS "Summary"
-from "20 🌟 GM Campaigns/Slugblaster/Groups"
+from "20 - GM Campaigns/Slugblaster/Groups"
 WHERE contains(Type, "Authorities")
 SORT file.name
 ```
@@ -31,7 +31,7 @@ SORT file.name
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
 	Summary AS "Summary"
-from "20 🌟 GM Campaigns/Slugblaster/Groups"
+from "20 - GM Campaigns/Slugblaster/Groups"
 WHERE contains(Type, "Sponsor")
 SORT file.name
 ```
@@ -41,7 +41,7 @@ SORT file.name
 TABLE WITHOUT ID 
 	link(file.path, name) AS "Name",
 	Summary AS "Summary"
-from "20 🌟 GM Campaigns/Slugblaster/Groups"
+from "20 - GM Campaigns/Slugblaster/Groups"
 WHERE contains(Type, "Crowd")
 SORT file.name
 ```
@@ -52,7 +52,7 @@ TABLE WITHOUT ID
 	link(file.path, displayname) AS "Name",
 	gen1 AS "gen1",
 	gen2 AS "gen2"
-from "20 🌟 GM Campaigns/Slugblaster/Generators"
+from "20 - GM Campaigns/Slugblaster/Generators"
 WHERE Show = True
 SORT file.name
 ```
@@ -79,7 +79,7 @@ TABLE WITHOUT ID
 	link(file.path, name) AS "Name",
 	Pernounced AS "Pernounced",
 	Notes AS "Notes"
-from "20 🌟 GM Campaigns/Slugblaster/Worlds"
+from "20 - GM Campaigns/Slugblaster/Worlds"
 WHERE contains(NoteIcon, "World")
 SORT file.name
 ```

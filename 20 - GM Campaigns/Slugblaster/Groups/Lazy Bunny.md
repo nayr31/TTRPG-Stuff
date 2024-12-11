@@ -24,7 +24,7 @@ The only crew to be featured on The Morning Show before Slugblaster Magazine, th
 **Members:**
 ```dataview
 LIST
-from "20 🌟 GM Campaigns/Slugblaster/NPCs"
+from "20 - GM Campaigns/Slugblaster/NPCs"
 WHERE contains(Affiliation, link(this.file.name))
 SORT file.name
 ```
