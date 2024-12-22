@@ -1,6 +1,7 @@
 ---
 Date: 2024-11-17T00:00:00.000-05:00
 NoteIcon: Note
+Summary: Recording of Hank, and the last known remnant of Marmec...
 ---
 Hanks face on the big screen on the elevator screen, its a recording.
 
