@@ -18,3 +18,4 @@ Pronouns: He/Him
 ---
 
 Rock and metal never die, and now neither will Rickus.
+https://realmofdarkness.app/character/v5/13505/
