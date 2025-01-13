@@ -29,12 +29,15 @@
             "id": "1b89330828b4ab74",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md"
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "database-folder-icon",
-              "title": "🧻📚 Session Database"
+              "icon": "lucide-file",
+              "title": "Session 11"
             }
           }
         ],
@@ -277,12 +280,12 @@
   },
   "active": "1b89330828b4ab74",
   "lastOpenFiles": [
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 11.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 10.md",
     "📑 Campaign Overview.md",
     "10 - Player Campaigns/Starlit Fangs/Players/Rickus.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 09.md",
     "10 - Player Campaigns/Dance of Seraphs/👼 Dashboard.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 08.md",
