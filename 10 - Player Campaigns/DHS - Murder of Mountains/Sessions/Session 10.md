@@ -7,3 +7,4 @@ Save them from a pair of Exotics, a Tempest and a Vigilante
 The Vigilante is captured, the other was stopped inside of the maw
 
 Both interrogated
+Some people show up to fight while they are questioned
