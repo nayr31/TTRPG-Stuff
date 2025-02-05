@@ -5,6 +5,5 @@
   "livePreview": true,
   "attachmentFolderPath": "/",
   "newFileLocation": "root",
-  "showUnsupportedFiles": false,
-  "showRibbon": false
+  "showUnsupportedFiles": false
 }

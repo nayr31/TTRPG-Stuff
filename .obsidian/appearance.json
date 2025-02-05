@@ -23,5 +23,6 @@
   "translucency": false,
   "nativeMenus": false,
   "theme": "obsidian",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": false
 }
