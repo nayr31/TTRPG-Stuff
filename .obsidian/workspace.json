@@ -24,24 +24,8 @@
               "icon": "lucide-trello",
               "title": "📑 Campaign Overview"
             }
-          },
-          {
-            "id": "38ba5672b14bd89a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 - GM Campaigns/Slugblaster/🐌 Dashboard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "🐌 Dashboard"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,10 +263,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "38ba5672b14bd89a",
+  "active": "feb205d6d42334e4",
   "lastOpenFiles": [
-    "20 - GM Campaigns/Slugblaster/Resources/Cover art.jpg",
     "20 - GM Campaigns/Slugblaster/🐌 Dashboard.md",
+    "20 - GM Campaigns/Slugblaster/Resources/Cover art.jpg",
     "📑 Campaign Overview.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 13.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
@@ -325,7 +309,6 @@
     "10 - Player Campaigns/Gears of Exmoor/☁️ Dashboard.md",
     "11 - Archived Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
     "10 - Player Campaigns/Six at Second Drop/Players/Art/Zaxi.png",
-    "10 - Player Campaigns/Six at Second Drop/Players/Art/Zaxi.webp",
     "10 - Player Campaigns/Six at Second Drop/Players/Art/Zaxi.webp",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
