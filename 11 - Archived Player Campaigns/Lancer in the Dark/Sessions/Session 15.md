@@ -1,6 +1,7 @@
 ---
 Date: 2024-08-16T00:00:00.000-04:00
 NoteIcon: Note
+Summary: Got some info from the scientists...
 ---
 Get the scientists with us
 Some important one it seems, wanted/lost from [[Julian Kastrel]] (Jade glaive gal)

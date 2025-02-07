@@ -24,8 +24,21 @@
               "icon": "lucide-trello",
               "title": "📑 Campaign Overview"
             }
+          },
+          {
+            "id": "c4446b3471828662",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database.md"
+              },
+              "icon": "database-folder-icon",
+              "title": "🧻📚 Session Database"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,11 +276,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "feb205d6d42334e4",
+  "active": "c4446b3471828662",
   "lastOpenFiles": [
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 14.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 09.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 15.md",
+    "📑 Campaign Overview.md",
     "20 - GM Campaigns/Slugblaster/🐌 Dashboard.md",
     "20 - GM Campaigns/Slugblaster/Resources/Cover art.jpg",
-    "📑 Campaign Overview.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 13.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
@@ -299,15 +316,12 @@
     "10 - Player Campaigns/Unto the Breach/⛩️ Dashboard.md",
     "10 - Player Campaigns/Unto the Breach/Players/🧙📚 Player Database.md",
     "Notes.md",
-    "10 - Player Campaigns/Vecna/Players/Wick.md",
     "10 - Player Campaigns/Unto the Breach/Players/Art/Tespa.webp",
     "10 - Player Campaigns/Unto the Breach/Players/Art/2f94413c57fb15a6d5afcfd95514f906.webp",
     "10 - Player Campaigns/Unto the Breach/Players/Art",
     "10 - Player Campaigns/Unto the Breach/Players/New folder",
     "10 - Player Campaigns/Unto the Breach/Players",
     "10 - Player Campaigns/Unto the Breach/New folder",
-    "10 - Player Campaigns/Gears of Exmoor/☁️ Dashboard.md",
-    "11 - Archived Player Campaigns/🦌 DHS/🔫 DHS Dashboard.md",
     "10 - Player Campaigns/Six at Second Drop/Players/Art/Zaxi.png",
     "10 - Player Campaigns/Six at Second Drop/Players/Art/Zaxi.webp",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
