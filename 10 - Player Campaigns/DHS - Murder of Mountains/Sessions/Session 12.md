@@ -1,6 +1,7 @@
 ---
 Date: 2025-01-26T00:00:00.000-05:00
 NoteIcon: Note
+Summary: I go back, talk to Pandora's dad, and light some bonfires.
 ---
 Broadwater is taken back to the retreat with the other mechs
 

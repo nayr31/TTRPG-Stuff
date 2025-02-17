@@ -26,15 +26,18 @@
             }
           },
           {
-            "id": "c4446b3471828662",
+            "id": "c48bd9f9c3c9377c",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database.md"
+                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "database-folder-icon",
-              "title": "🧻📚 Session Database"
+              "icon": "lucide-file",
+              "title": "Session 14"
             }
           }
         ],
@@ -276,19 +279,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c4446b3471828662",
+  "active": "c48bd9f9c3c9377c",
   "lastOpenFiles": [
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 14.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 14.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 13.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 12.md",
+    "10 - Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
+    "📑 Campaign Overview.md",
     "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 16.md",
+    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 14.md",
     "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 09.md",
     "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 15.md",
-    "📑 Campaign Overview.md",
     "20 - GM Campaigns/Slugblaster/🐌 Dashboard.md",
     "20 - GM Campaigns/Slugblaster/Resources/Cover art.jpg",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 13.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 12.md",
     "10 - Player Campaigns/Starlit Fangs/🦇 Dashboard.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 11.md",
     "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 10.md",
@@ -314,8 +319,6 @@
     "10 - Player Campaigns/Scythe and Shade",
     "10 - Player Campaigns/New folder",
     "10 - Player Campaigns/Unto the Breach/⛩️ Dashboard.md",
-    "10 - Player Campaigns/Unto the Breach/Players/🧙📚 Player Database.md",
-    "Notes.md",
     "10 - Player Campaigns/Unto the Breach/Players/Art/Tespa.webp",
     "10 - Player Campaigns/Unto the Breach/Players/Art/2f94413c57fb15a6d5afcfd95514f906.webp",
     "10 - Player Campaigns/Unto the Breach/Players/Art",
