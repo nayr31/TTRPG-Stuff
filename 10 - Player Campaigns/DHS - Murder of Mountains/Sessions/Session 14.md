@@ -20,3 +20,5 @@ Get the effects of Briar smoke
 
 Power outage
 Infiltration??
+People kidnapping Red retreat employees hoping for greater access to the three witches.
+Hoping to "kill the mountain".
