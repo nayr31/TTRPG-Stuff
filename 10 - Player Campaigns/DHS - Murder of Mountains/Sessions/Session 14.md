@@ -1,6 +1,7 @@
 ---
 NoteIcon: Note
 Date: 2025-02-16T00:00:00.000-05:00
+Summary: A quick regroup before and heist, of people! Three witches await!
 ---
 Marmec, Eminike, Tai, Orville, Montana, Macy, Esther, truly the whole band is together.
 Trying to get a handle on the situation at hand.
