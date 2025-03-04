@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🍖",
       "⛩",
       "🍃",
       "👻",
-      "LiTrash",
-      "🛠"
+      "LiTrash"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -66,5 +66,6 @@
   "13 - Trashed Campaigns/Convergence": "🌞",
   "10 - Player Campaigns/Soul Imperative": "👻",
   "10 - Player Campaigns/Six at Second Drop": "🍃",
-  "10 - Player Campaigns/Unto the Breach": "⛩"
+  "10 - Player Campaigns/Unto the Breach": "⛩",
+  "20 - GM Campaigns/Mystery Flesh Pit": "🍖"
 }

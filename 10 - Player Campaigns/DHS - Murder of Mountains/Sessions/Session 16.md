@@ -9,4 +9,4 @@ They are probably trying to reactivate the big drill
 Apoc rail pointed downwards
 On foot for now
 
-Encampment
+Encampment battle, 
