@@ -13,3 +13,5 @@ Montana and Orville couldnt figure out how to get off, some of the mechs had som
 
 We made convictions to stop Cassian and the drill.
 The north side, lava everywhere. Drilling and billing, combat starts.
+
+We stop the drill, call up Orville, and jump into a hole. The wrong hole lmao
