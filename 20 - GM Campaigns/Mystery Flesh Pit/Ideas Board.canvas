@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"b041519977d217a1","x":-120,"y":-379,"width":274,"height":120,"type":"text","text":"# The Company? (Anodyne)"},
+		{"id":"90734b7aa10a0f4c","type":"text","text":"**What do they do?**\n- Mine the pit for bioorganic materials for uses in products in modern day\n\t- New product line? *very satire*\n\t\t- Must be very mundane (mouthwash, hair dryer, paperclips)\n\t- Reopen the park to the public? *very people focused*\n\t\t- Make sure the new areas being developed are safe\n\t\t- Explore and find new areas for attraction spots *!!* \n\t\t- Broker new deals with the government (has enough time passed) 😐\n\t- \n\n**Why do they want subcontractors?**\n- Easier to cover up *obvious*\n- ","x":154,"y":-379,"width":806,"height":539},
+		{"id":"87dd833b99628a8c","x":-760,"y":120,"width":174,"height":60,"color":"2","type":"text","text":"## CREW 14"},
+		{"id":"60a290728052b6e7","x":-586,"y":120,"width":766,"height":200,"color":"2","type":"text","text":"**What do they do?**\n- Mission statement? *very satire*\n- \n\n**Why are they tasked to do it?**"},
+		{"id":"b3f6808c05a7e5e1","x":-509,"y":-620,"width":306,"height":181,"type":"text","text":"# Satire?\n"}
+	],
+	"edges":[
+		{"id":"9a75d6de9ae485f2","fromNode":"b041519977d217a1","fromSide":"bottom","toNode":"87dd833b99628a8c","toSide":"top"}
+	]
+}
