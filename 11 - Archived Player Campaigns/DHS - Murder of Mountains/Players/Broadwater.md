@@ -39,6 +39,6 @@ F - Owns a company.
 
 ---
 
-During [[10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 04|Session 04]], the party passes out from the haze made from the burning trees. Here is what Cesic dreams about.
+During [[11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 04|Session 04]], the party passes out from the haze made from the burning trees. Here is what Cesic dreams about.
 
 Cesic falls asleep at the controls of Snapshot's mech, drifting away into a slumber longer than any other. While they sleep, they dream of lilac gardens and blood stained fields. Bodies are pulled through the flowers into the ground, never to be seen again. Cesic cries as they fail to stop the bodies from being pulled in one after another. Someone pulls them away, and the field slowly drifts into the distance as they are placed inside of a metal casket.

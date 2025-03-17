@@ -14,10 +14,6 @@ kanban-plugin: board
 	**System:** 🛡️ *VtM2*
 	**Synop:** Vampires, vampire daddies, vampire mommies...
 	![[Rickus_c.png|100]]
-- [ ] ### [[⛰️ Dashboard|⛰️ Murder of Mountains]]
-	**System:** 🤖 *Lancer*
-	**Synop:** Mountains of mystery...
-	![[Broadwater_c.jpg|100]]
 - [ ] ### [[👻 Dashboard|👻 Soul Imperative]]
 	**System:** 🛡️ *VtM2*
 	**Synop:**
@@ -94,6 +90,10 @@ kanban-plugin: board
 - [ ] ###  [[🔫 DHS Dashboard|🔫 DHS]]
 	**System:** *Lancer*
 	**Synop:** An attempt to rescue [[Merrow]] results in the discovery of [[Tu'er Shen]], an NHP who fused with a child.
+- [ ] ### [[⛰️ Dashboard|⛰️ Murder of Mountains]]
+	**System:** 🤖 *Lancer*
+	**Synop:** Mountains of mystery...
+	![[Broadwater_c.jpg|100]]
 
 
 ## Templates

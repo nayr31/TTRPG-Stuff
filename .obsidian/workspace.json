@@ -26,16 +26,16 @@
             }
           },
           {
-            "id": "39f191db78ab57a5",
+            "id": "5824d49500e9fb79",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
                 "viewState": {
-                  "x": 103.46309889861124,
-                  "y": 6.299605249474411,
-                  "zoom": -0.3333333333333333
+                  "x": 439.21032842280886,
+                  "y": 154.31589827161474,
+                  "zoom": -0.3226973027627868
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -43,18 +43,20 @@
             }
           },
           {
-            "id": "c28173c44473ca6d",
+            "id": "14e46355d4d70f24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
+                "viewState": {
+                  "x": -633.6061439852276,
+                  "y": 62.07949125596187,
+                  "zoom": -0.3807153554527457
+                }
               },
-              "icon": "lucide-file",
-              "title": "Session 18"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ideas Board"
             }
           }
         ],
@@ -194,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "d0fbd480141c853b",
@@ -281,55 +284,55 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c28173c44473ca6d",
+  "active": "14e46355d4d70f24",
   "lastOpenFiles": [
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 18.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
     "📑 Campaign Overview.md",
-    "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
-    "20 - GM Campaigns/Mystery Flesh Pit/Untitled Kanban.md",
-    "20 - GM Campaigns/Mystery Flesh Pit/Session 0 Questions.md",
-    "Notes.md",
-    "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 03.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 17.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 02.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 16.md",
-    "20 - GM Campaigns/Mystery Flesh Pit",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 15.md",
-    "10 - Player Campaigns/Dance of Seraphs/Players/Valas.md",
-    "10 - Player Campaigns/Dance of Seraphs/👼 Dashboard.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 14.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 13.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 12.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/🧻📚 Session Database.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 16.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 14.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 09.md",
-    "11 - Archived Player Campaigns/Lancer in the Dark/Sessions/Session 15.md",
-    "20 - GM Campaigns/Slugblaster/🐌 Dashboard.md",
-    "20 - GM Campaigns/Slugblaster/Resources/Cover art.jpg",
     "10 - Player Campaigns/Starlit Fangs/🦇 Dashboard.md",
-    "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 11.md",
+    "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/🧙📚 Player Database.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater_c.jpg",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art/Leadhead.png",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater token.png",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/NPCs/Art/Ade_Simone_Portrait.webp",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 18.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 17.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 15.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 16.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 14.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 13.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 11.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 12.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 10.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 09.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 08.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 07.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 05.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 06.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 04.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 03.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 02.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 01.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Snapshot.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Leeds.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Mulberry.md",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/NPCs/Art",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/NPCs",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains",
+    "20 - GM Campaigns/Mystery Flesh Pit",
+    "20 - GM Campaigns/Slugblaster/Resources/Cover art.jpg",
     "10 - Player Campaigns/Scythe and Shade/Players/Art/Easter_token.png",
     "10 - Player Campaigns/Scythe and Shade/Players/Art/token_1.png",
     "10 - Player Campaigns/Scythe and Shade/Players/Art/Easter_full.webp",
     "10 - Player Campaigns/Scythe and Shade/Players/Art/Easter_full.webp",
-    "10 - Player Campaigns/Scythe and Shade/Players/Art/Easter.png",
     "10 - Player Campaigns/Scythe and Shade/Players/Art",
     "10 - Player Campaigns/Scythe and Shade/Players/New folder",
     "10 - Player Campaigns/Scythe and Shade/Players",
-    "10 - Player Campaigns/Scythe and Shade/Players",
-    "10 - Player Campaigns/Scythe and Shade",
-    "10 - Player Campaigns/New folder",
-    "10 - Player Campaigns/Unto the Breach/Players/Art/Tespa.webp",
-    "10 - Player Campaigns/Unto the Breach/Players/Art/2f94413c57fb15a6d5afcfd95514f906.webp",
-    "10 - Player Campaigns/Unto the Breach/Players/Art",
-    "10 - Player Campaigns/Unto the Breach/Players/New folder",
-    "10 - Player Campaigns/Unto the Breach/Players",
-    "10 - Player Campaigns/Six at Second Drop/Players/Art/Zaxi.png",
-    "10 - Player Campaigns/Six at Second Drop/Players/Art/Zaxi.webp",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
