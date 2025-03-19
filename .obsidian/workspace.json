@@ -33,9 +33,9 @@
               "state": {
                 "file": "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
                 "viewState": {
-                  "x": 439.21032842280886,
-                  "y": 154.31589827161474,
-                  "zoom": -0.3226973027627868
+                  "x": -799.5227006793586,
+                  "y": 177.56817089272357,
+                  "zoom": 0.010636030570546517
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -46,21 +46,19 @@
             "id": "14e46355d4d70f24",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
-                "viewState": {
-                  "x": -773,
-                  "y": 160.5,
-                  "zoom": 0
-                }
+                "file": "20 - GM Campaigns/Mystery Flesh Pit/Groups/Anodyne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ideas Board"
+              "icon": "lucide-file",
+              "title": "Anodyne"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "d0fbd480141c853b",
@@ -284,11 +281,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "14e46355d4d70f24",
+  "active": "5824d49500e9fb79",
   "lastOpenFiles": [
+    "20 - GM Campaigns/Mystery Flesh Pit/Groups/Anodyne.md",
+    "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
+    "20 - GM Campaigns/Mystery Flesh Pit/Groups",
     "📑 Campaign Overview.md",
     "10 - Player Campaigns/Starlit Fangs/🦇 Dashboard.md",
-    "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/🧙📚 Player Database.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater_c.jpg",
@@ -316,8 +315,6 @@
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 02.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 01.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Snapshot.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Leeds.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Mulberry.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/NPCs/Art",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions",
@@ -332,7 +329,6 @@
     "10 - Player Campaigns/Scythe and Shade/Players/Art/Easter_full.webp",
     "10 - Player Campaigns/Scythe and Shade/Players/Art",
     "10 - Player Campaigns/Scythe and Shade/Players/New folder",
-    "10 - Player Campaigns/Scythe and Shade/Players",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
