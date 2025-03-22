@@ -33,8 +33,8 @@
               "state": {
                 "file": "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
                 "viewState": {
-                  "x": -799.5227006793586,
-                  "y": 177.56817089272357,
+                  "x": -683.047148835971,
+                  "y": 673.4483058737504,
                   "zoom": 0.010636030570546517
                 }
               },
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "d0fbd480141c853b",
