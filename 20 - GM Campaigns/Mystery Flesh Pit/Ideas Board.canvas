@@ -117,6 +117,8 @@
       "file": "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Meghan.jpg",
       "height": 180,
       "id": "6f6a1819e9d94e39",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 120,
       "x": 680,
@@ -149,6 +151,8 @@
       "file": "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Patrick.jpg",
       "height": 147,
       "id": "c9e40d6008d1f0e7",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 120,
       "x": 680,
