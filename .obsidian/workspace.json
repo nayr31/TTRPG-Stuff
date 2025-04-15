@@ -24,35 +24,6 @@
               "icon": "lucide-trello",
               "title": "📑 Campaign Overview"
             }
-          },
-          {
-            "id": "5824d49500e9fb79",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
-                "viewState": {
-                  "x": 809.9056318565786,
-                  "y": 1340.5123142682935,
-                  "zoom": 0.010636030570546517
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ideas Board"
-            }
-          },
-          {
-            "id": "dc078132a2e61acb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "20 - GM Campaigns/Mystery Flesh Pit/Drawing 2025-04-08 14.49.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-08 14.49.41.excalidraw"
-            }
           }
         ]
       }
