@@ -1,0 +1,124 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "color": "4",
+      "height": 1120,
+      "id": "047782eb1ad66610",
+      "styleAttributes": {
+      },
+      "text": "**-- Session Starts --**\n\n> You've all been pulled towards the pit for one reason or another, and for whatever reason you now find yourself either inside, or just outside of the gates that bar the regular population from gaining access to the epicenter of the disaster of 2007. *Anodyne* is now your new family, and with that backing you're able to get through security by flashing your brand new ID card. \n\nTell us who you are, how you traveled here, and how you introduce yourself to *[[Meghan]]*, Anodyne's bright eyed receptionist and head admin at the forward office.\n\n**-- Party Introductions --**\n\n> There is an oddly long pause as everyone gets through their forms. Many signatures, initials, and general background knowledge and personality questions. Most questions seem like standard operating procedure, but some catch your eye:\n> - Where was the location of the highest moon?\n> - What color was the gate on the south entrance?\n> - How do postal workers get places so quickly?\n> - Who are you? (Answer is 2 words or less)\n\n---\n\n> An large man in a nicely pressed suit comes through the moderate and plain office hallway. You can see him walking for a good long while, as there is no door to separate the lobby and the rest of the offices.\n> With a serious look on his face he scans the faces staring back at him before giving you all a nod and walking out.\n\nMeghan will chirp up, asking for forms and to follow Patrick.\n\nHe will take them out back, where a fairly sized garage is situated (the **CREW** building).\nThrough the lockers, suit up, its time for work. (points to \"time for work\" sign)\n\nAny other questions will be answered with a head nod or a point to another sign.\n\n\"First day = tour\"\nJeep with a GPS auto route system\n\n**-- End of Intro --**\n\nThe players will now be driven (who is driving?) to each landmark, taking readings and doing some basic checks for investigating. \n\n---\n\nLandmarks:\n1. The central pit\n2. Attractions (abandoned)\n3. The original sign placed by James Jackson\n4. A well, featuring an unnatural amount of pennies and bereavement flowers\n5. A broken down fence that leads to a newly formed crack\n\nThere will be evidence of some humanoid like being traversing through some of the entrances.",
+      "type": "text",
+      "width": 1000,
+      "x": -560,
+      "y": -220
+    },
+    {
+      "color": "2",
+      "file": "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Meghan.jpg",
+      "height": 180,
+      "id": "bf8551834b4b7f62",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 120,
+      "x": 440,
+      "y": -220
+    },
+    {
+      "color": "2",
+      "height": 220,
+      "id": "7f4505619168fe2f",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "- *Hi there! My name's Meghan~ *\n- *You must be one of the new workers of Crew 14 starting today! Please fill out these forms while you wait for the others, Patrick will be right with you.*\n- *Ask me if you need anything!*",
+      "type": "text",
+      "width": 340,
+      "x": 560,
+      "y": -220
+    },
+    {
+      "height": 110,
+      "id": "d44ef17cfe1e23e2",
+      "styleAttributes": {
+      },
+      "text": "Anodyne Receptionist/head admin.\n**Everything is awesome!**",
+      "type": "text",
+      "width": 280,
+      "x": 900,
+      "y": -220
+    },
+    {
+      "color": "2",
+      "height": 147,
+      "id": "a2fb0137c5ef89a9",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "*Long stare.*\n*Nod.*",
+      "type": "text",
+      "width": 340,
+      "x": 560,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "file": "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Patrick.jpg",
+      "height": 147,
+      "id": "0ad092996d1d6cc6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 120,
+      "x": 440,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 300,
+      "id": "8dba09aadf9099aa",
+      "styleAttributes": {
+      },
+      "text": "##### *Over the radio...*\n\nSomeone seems to be instructing them on where to go and what they should be doing.\n\nWhatever it is, it involves taking brief seismic readings and investigating any signs of things entering or leaving the pit.",
+      "type": "text",
+      "width": 460,
+      "x": 440,
+      "y": 147
+    },
+    {
+      "height": 160,
+      "id": "6787b5886e3a274c",
+      "styleAttributes": {
+      },
+      "text": "*Side quest:* **Lost cattle**\nSome cattle got lost from a neighboring pasture. Collect it and bring it back, or take it to the farmer directly.",
+      "type": "text",
+      "width": 420,
+      "x": 460,
+      "y": 580
+    },
+    {
+      "height": 160,
+      "id": "7a474716eb7a789f",
+      "styleAttributes": {
+      },
+      "text": "*Side encounter:* **Balloon troubles**\nA bouyoon has drifted out of an opening nearby and has slowly started to escape boundaries. Get that thing in control!",
+      "type": "text",
+      "width": 420,
+      "x": 460,
+      "y": 740
+    },
+    {
+      "height": 120,
+      "id": "32f01682dc6a5f64",
+      "styleAttributes": {
+      },
+      "text": "When they return, there are forms left out for them near the picnic table that they are supposed to use for writing documents, explaining why they are late (no matter what actions they took).\n\nIf any of the PCs do some digging, or try and find out more about the readings, there are earie voices that can be heard deep below",
+      "type": "text",
+      "width": 1000,
+      "x": -560,
+      "y": 900
+    }
+  ]
+}

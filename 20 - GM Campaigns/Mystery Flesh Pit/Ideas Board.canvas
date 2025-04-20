@@ -10,6 +10,18 @@
   ],
   "nodes": [
     {
+      "color": "5",
+      "height": 1080,
+      "id": "0d740b07189a8251",
+      "label": "Sessions",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1600,
+      "x": 220,
+      "y": 740
+    },
+    {
       "height": 120,
       "id": "b041519977d217a1",
       "styleAttributes": {
@@ -44,6 +56,17 @@
       "y": 160
     },
     {
+      "height": 60,
+      "id": "626f7eb6e09bb184",
+      "styleAttributes": {
+      },
+      "text": "# Oddities",
+      "type": "text",
+      "width": 250,
+      "x": -548,
+      "y": -259
+    },
+    {
       "color": "2",
       "height": 480,
       "id": "60a290728052b6e7",
@@ -67,17 +90,6 @@
       "y": -199
     },
     {
-      "height": 60,
-      "id": "626f7eb6e09bb184",
-      "styleAttributes": {
-      },
-      "text": "# Oddities",
-      "type": "text",
-      "width": 250,
-      "x": -548,
-      "y": -259
-    },
-    {
       "height": 760,
       "id": "77606742a6c5959a",
       "styleAttributes": {
@@ -90,17 +102,16 @@
       "y": 480
     },
     {
-      "height": 1100,
-      "id": "85e4c7b6279e4c67",
+      "file": "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.canvas",
+      "height": 340,
+      "id": "b685c90afbecb562",
       "styleAttributes": {
-        "border": null,
-        "shape": null
+        "border": null
       },
-      "text": "**-- Session Starts --**\n\n> You've all been pulled towards the pit for one reason or another, and for whatever reason you now find yourself either inside, or just outside of the gates that bar the regular population from gaining access to the epicenter of the disaster of 2007. *Anodyne* is now your new family, and with that backing you're able to get through security by flashing your brand new ID card. \n\nTell us who you are, how you traveled here, and how you introduce yourself to *[[Meghan]]*, Anodyne's bright eyed receptionist and head admin at the forward office.\n\n**-- Party Introductions --**\n\n> There is an oddly long pause as everyone gets through their forms. Many signatures, initials, and general background knowledge and personality questions. Most questions seem like standard operating procedure, but some catch your eye:\n> - Where was the location of the highest moon?\n> - What color was the gate on the south entrance?\n> - How do postal workers get places so quickly?\n> - Who are you? (Answer is 2 words or less)\n\n---\n\n> An large man in a nicely pressed suit comes through the moderate and plain office hallway. You can see him walking for a good long while, as there is no door to separate the lobby and the rest of the offices.\n> With a serious look on his face he scans the faces staring back at him before giving you all a nod and walking out.\n\nMeghan will chirp up, asking for forms and to follow Patrick.\n\nHe will take them out back, where a fairly sized garage is situated (the **CREW** building).\nThrough the lockers, suit up, its time for work. (points to \"time for work\" sign)\n\nAny other questions will be answered with a head nod or a point to another sign.\n\n\"First day = tour\"\nJeep with a GPS auto route system\n\n**-- End of Intro --**\n\nThe players will now be driven (who is driving?) to each landmark. ",
-      "type": "text",
-      "width": 720,
-      "x": -40,
-      "y": 720
+      "type": "file",
+      "width": 580,
+      "x": 260,
+      "y": 780
     },
     {
       "height": 620,
@@ -112,63 +123,6 @@
       "width": 511,
       "x": -1300,
       "y": 900
-    },
-    {
-      "file": "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Meghan.jpg",
-      "height": 180,
-      "id": "6f6a1819e9d94e39",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 120,
-      "x": 680,
-      "y": 720
-    },
-    {
-      "height": 220,
-      "id": "1ec2d43d66f540df",
-      "styleAttributes": {
-        "border": "dashed"
-      },
-      "text": "- *Hi there! My name's Meghan~ *\n- *You must be one of the new workers of Crew 14 starting today! Please fill out these forms while you wait for the others, Patrick will be right with you.*\n- *Ask me if you need anything!*",
-      "type": "text",
-      "width": 340,
-      "x": 800,
-      "y": 720
-    },
-    {
-      "height": 110,
-      "id": "5c7f12dddeb1f83e",
-      "styleAttributes": {
-      },
-      "text": "Anodyne Receptionist/head admin.\n**Everything is awesome!**",
-      "type": "text",
-      "width": 280,
-      "x": 1140,
-      "y": 720
-    },
-    {
-      "file": "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Patrick.jpg",
-      "height": 147,
-      "id": "c9e40d6008d1f0e7",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 120,
-      "x": 680,
-      "y": 1240
-    },
-    {
-      "height": 147,
-      "id": "8c21cf0533a5ad91",
-      "styleAttributes": {
-        "border": "dashed"
-      },
-      "text": "*Long stare.*\n*Nod.*",
-      "type": "text",
-      "width": 340,
-      "x": 800,
-      "y": 1240
     }
   ]
 }

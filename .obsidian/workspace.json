@@ -24,6 +24,23 @@
               "icon": "lucide-trello",
               "title": "📑 Campaign Overview"
             }
+          },
+          {
+            "id": "4023618687b6f43b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
+                "viewState": {
+                  "x": 549.5884152203239,
+                  "y": 1458.9273678746863,
+                  "zoom": -0.12431558977028201
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ideas Board"
+            }
           }
         ]
       }
@@ -253,6 +270,10 @@
   "active": "feb205d6d42334e4",
   "lastOpenFiles": [
     "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
+    "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.canvas",
+    "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.md",
+    "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 0 Questions.md",
+    "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff",
     "📑 Campaign Overview.md",
     "20 - GM Campaigns/Mystery Flesh Pit/Drawing 2025-04-08 14.49.41.excalidraw.md",
     "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Patrick.jpg",
@@ -293,9 +314,6 @@
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 12.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 10.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 09.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 08.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 07.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art",
     "20 - GM Campaigns/Slugblaster/Resources/Cover art.jpg",
     "10 - Player Campaigns/Scythe and Shade/Players/Art/Easter_token.png",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
@@ -305,7 +323,6 @@
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
     "10 - Player Campaigns/Alstead Passage/The Chart~.canvas",
     "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas",
-    "Lancer/Vertenia.canvas"
+    "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas"
   ]
 }
