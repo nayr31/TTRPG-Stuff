@@ -50,3 +50,8 @@ People are running around
 Guy runs up in security wear, we are under attack
 Our mechs are here now
 *Tatlin Station*, mention of a metiod
+
+---
+
+A scene, adults and girl are caught in an explosion
+Scourer dies from a black handprint, protecting the black woman and the young girl??
