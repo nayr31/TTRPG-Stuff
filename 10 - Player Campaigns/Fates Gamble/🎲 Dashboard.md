@@ -13,7 +13,7 @@ TABLE WITHOUT ID
 	Paragon AS "Paragon",
 	embed(Art) AS "Art",
 	embed(ParagonArt) AS "Paragon Art"
-from "10 🧙 Player Campaigns/🎲 Fates Gamble/Players"
+from "10 - Player Campaigns/Fates Gamble/Players"
 WHERE contains(NoteIcon, "Player")
 SORT file.name
 ```
@@ -25,7 +25,7 @@ TABLE WITHOUT ID
 	Pronouns AS "Pronouns",
 	embed(Art) AS "Art",
 	Notes AS "Notes"
-from "10 🧙 Player Campaigns/🎲 Fates Gamble/NPCs"
+from "10 - Player Campaigns/Fates Gamble/NPCs"
 WHERE contains(NoteIcon, "NPC")
 SORT file.name
 ```
