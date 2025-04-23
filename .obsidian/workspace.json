@@ -26,37 +26,36 @@
             }
           },
           {
-            "id": "ed4bfee61dfffe49",
+            "id": "11252d79830ea71e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "10 - Player Campaigns/Domun/Sessions/Session 01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "currentVersion": "1.8.10"
               },
-              "icon": "lucide-file",
-              "title": "Session 01"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           },
           {
-            "id": "42e256f5f17c638b",
+            "id": "62e2d822c40d7bcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "10 - Player Campaigns/Fates Gamble/🎲 Dashboard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
+                "viewState": {
+                  "x": -498.32563760880373,
+                  "y": 1462.4432175781878,
+                  "zoom": 0.3333333333333334
+                }
               },
-              "icon": "lucide-file",
-              "title": "🎲 Dashboard"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ideas Board"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,16 +280,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "42e256f5f17c638b",
+  "active": "11252d79830ea71e",
   "lastOpenFiles": [
+    "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
+    "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.canvas",
     "📑 Campaign Overview.md",
     "10 - Player Campaigns/Domun/Sessions/Session 01.md",
+    "10 - Player Campaigns/Fates Gamble/🎲 Dashboard.md",
     "Notes.md",
     "10 - Player Campaigns/Domun/Sessions/🧻📚 Session Database.md",
     "10 - Player Campaigns/Domun/Players/Rampart.md",
     "10 - Player Campaigns/Domun/Sessions",
-    "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
-    "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.canvas",
     "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.md",
     "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 0 Questions.md",
     "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff",
@@ -327,8 +327,6 @@
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 16.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 14.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 13.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 11.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 12.md",
     "20 - GM Campaigns/Slugblaster/Resources/Cover art.jpg",
     "10 - Player Campaigns/Scythe and Shade/Players/Art/Easter_token.png",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
