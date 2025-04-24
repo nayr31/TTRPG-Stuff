@@ -73,6 +73,8 @@
       "height": 1300,
       "id": "4ba756cdfa6ae1e6",
       "label": "Plans",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 1520,
       "x": -1540,
@@ -208,19 +210,6 @@
     },
     {
       "color": "4",
-      "height": 60,
-      "id": "a16124ec2ebb5f19",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Learn about the survivors down below",
-      "type": "text",
-      "width": 260,
-      "x": -906,
-      "y": 980
-    },
-    {
-      "color": "4",
       "height": 80,
       "id": "8d4d8882bb56baea",
       "styleAttributes": {
@@ -231,18 +220,6 @@
       "width": 260,
       "x": -906,
       "y": 820
-    },
-    {
-      "color": "6",
-      "height": 500,
-      "id": "c3e9955237345a1f",
-      "styleAttributes": {
-      },
-      "text": "# Keep the Secret (Good)\n\nIn this path, the party decides to keep the secret of the underground people still being alive.\n\n**Requirements/Goals:**\n- Stay undercover\n\t- Keep performing tasks by Anodyne to investigate on goings in and around the pit\n- Get the word out\n- Get the people out\n\t- (If they want out that is)\n\t- Society has changed, do they want out?\n\t- Convince them?",
-      "type": "text",
-      "width": 383,
-      "x": -423,
-      "y": 680
     },
     {
       "color": "1",
@@ -257,19 +234,6 @@
       "y": 680
     },
     {
-      "color": "6",
-      "height": 150,
-      "id": "b72d275c99a2991d",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "text": "Time to make a plan, and assume things/ask questions:\n\n- What will Anodyne do if they find out?\n- What will the survivors think?",
-      "type": "text",
-      "width": 383,
-      "x": -423,
-      "y": 1210
-    },
-    {
       "color": "5",
       "height": 140,
       "id": "1bfc6909b233ee14",
@@ -280,30 +244,6 @@
       "width": 200,
       "x": -1106,
       "y": 980
-    },
-    {
-      "color": "5",
-      "height": 140,
-      "id": "54d4fc2f71708f88",
-      "styleAttributes": {
-      },
-      "text": "Do they know about the people? Will they side with the party?",
-      "type": "text",
-      "width": 200,
-      "x": -646,
-      "y": 820
-    },
-    {
-      "height": 60,
-      "id": "4ad9d1536ed95065",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Contact the survivors ",
-      "type": "text",
-      "width": 260,
-      "x": -361,
-      "y": 1420
     },
     {
       "color": "1",
@@ -327,6 +267,68 @@
       "type": "text",
       "width": 260,
       "x": -1460,
+      "y": 1420
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a16124ec2ebb5f19",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Learn about the survivors down below",
+      "type": "text",
+      "width": 260,
+      "x": -906,
+      "y": 980
+    },
+    {
+      "color": "6",
+      "height": 500,
+      "id": "c3e9955237345a1f",
+      "styleAttributes": {
+      },
+      "text": "# Keep the Secret (Good)\n\nIn this path, the party decides to keep the secret of the underground people still being alive.\n\n**Requirements/Goals:**\n- Stay undercover\n\t- Keep performing tasks by Anodyne to investigate on goings in and around the pit\n- Get the word out\n- Get the people out\n\t- (If they want out that is)\n\t- Society has changed, do they want out?\n\t- Convince them?",
+      "type": "text",
+      "width": 383,
+      "x": -423,
+      "y": 680
+    },
+    {
+      "color": "6",
+      "height": 150,
+      "id": "b72d275c99a2991d",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "Time to make a plan, and assume things/ask questions:\n\n- What will Anodyne do if they find out?\n- What will the survivors think?",
+      "type": "text",
+      "width": 383,
+      "x": -423,
+      "y": 1210
+    },
+    {
+      "color": "5",
+      "height": 140,
+      "id": "54d4fc2f71708f88",
+      "styleAttributes": {
+      },
+      "text": "Do they know about the people? Will they side with the party?",
+      "type": "text",
+      "width": 200,
+      "x": -646,
+      "y": 820
+    },
+    {
+      "height": 60,
+      "id": "4ad9d1536ed95065",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Contact the survivors ",
+      "type": "text",
+      "width": 260,
+      "x": -361,
       "y": 1420
     }
   ]

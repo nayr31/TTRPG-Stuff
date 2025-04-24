@@ -26,32 +26,18 @@
             }
           },
           {
-            "id": "11252d79830ea71e",
+            "id": "1078d78509b97e89",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "10 - Player Campaigns/Between the Lines/🎲 Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
-            "id": "62e2d822c40d7bcc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
-                "viewState": {
-                  "x": -498.32563760880373,
-                  "y": 1462.4432175781878,
-                  "zoom": 0.3333333333333334
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ideas Board"
+              "icon": "lucide-file",
+              "title": "🎲 Dashboard"
             }
           }
         ],
@@ -191,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "d0fbd480141c853b",
@@ -280,13 +267,31 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "11252d79830ea71e",
+  "active": "1078d78509b97e89",
   "lastOpenFiles": [
-    "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
-    "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.canvas",
+    "10 - Player Campaigns/Between the Lines/Players/🧙📚 Player Database.md",
+    "10 - Player Campaigns/Between the Lines/Relationship Map.md",
+    "10 - Player Campaigns/Between the Lines/Players/Quinn.md",
+    "10 - Player Campaigns/Between the Lines/🎲 Dashboard.md",
     "📑 Campaign Overview.md",
+    "10 - Player Campaigns/Between the Lines/Players/Rhea.md",
+    "10 - Player Campaigns/Between the Lines/Players/Charlie.md",
+    "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
+    "10 - Player Campaigns/Scythe and Shade/Players/Art/Easter.png",
+    "10 - Player Campaigns/Scythe and Shade/Players/Easter.md",
+    "10 - Player Campaigns/Between the Lines/Players/Art/Claire Paragon.webp",
+    "10 - Player Campaigns/Between the Lines/Players/Art/Claire Paragon.webp",
+    "10 - Player Campaigns/Between the Lines/Players/Art/Claire.webp",
+    "10 - Player Campaigns/Between the Lines/Players/Art/Claire.webp",
+    "10 - Player Campaigns/Between the Lines/Players/Connor.md",
+    "10 - Player Campaigns/Between the Lines/Players/Claire.md",
+    "10 - Player Campaigns/Between the Lines/Players/Baccus.md",
+    "10 - Player Campaigns/Between the Lines/Players/Art/Baccus Paragon.webp",
+    "10 - Player Campaigns/Between the Lines/Players/Art/Baccus Paragon.webp",
+    "10 - Player Campaigns/Between the Lines/Players/Art/Baccus.webp",
+    "10 - Player Campaigns/Between the Lines/Players/Art/Baccus.webp",
+    "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.canvas",
     "10 - Player Campaigns/Domun/Sessions/Session 01.md",
-    "10 - Player Campaigns/Fates Gamble/🎲 Dashboard.md",
     "Notes.md",
     "10 - Player Campaigns/Domun/Sessions/🧻📚 Session Database.md",
     "10 - Player Campaigns/Domun/Players/Rampart.md",
@@ -296,14 +301,11 @@
     "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff",
     "20 - GM Campaigns/Mystery Flesh Pit/Drawing 2025-04-08 14.49.41.excalidraw.md",
     "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Patrick.jpg",
-    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Meghan.jpg",
     "20 - GM Campaigns/Mystery Flesh Pit/NPCs",
     "10 - Player Campaigns/Unto the Breach/Players/Tespa.md",
-    "10 - Player Campaigns/Fates Gamble/Players/Calcifer.md",
     "20 - GM Campaigns/Mystery Flesh Pit/Groups/Anodyne.md",
     "20 - GM Campaigns/Slugblaster/_Session Notes/Session 04.md",
     "10 - Player Campaigns/Soul Imperative/👻 Dashboard.md",
-    "10 - Player Campaigns/Domun/Players/Art/Rampart.png",
     "10 - Player Campaigns/Domun/Players/Art",
     "10 - Player Campaigns/Domun/Players/Art",
     "10 - Player Campaigns/Domun/Players",
@@ -315,20 +317,6 @@
     "10 - Player Campaigns/Starlit Fangs/🦇 Dashboard.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/🧙📚 Player Database.md",
     "11 - Archived Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater_c.jpg",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art/Leadhead.png",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater.jpg",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Players/Art/Broadwater token.png",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/NPCs/Art/Ade_Simone_Portrait.webp",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/🧻📚 Session Database.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 18.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 17.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 15.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 16.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 14.md",
-    "11 - Archived Player Campaigns/DHS - Murder of Mountains/Sessions/Session 13.md",
-    "20 - GM Campaigns/Slugblaster/Resources/Cover art.jpg",
-    "10 - Player Campaigns/Scythe and Shade/Players/Art/Easter_token.png",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
