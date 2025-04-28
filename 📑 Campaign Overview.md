@@ -18,10 +18,6 @@ kanban-plugin: board
 
 ## Paused?
 
-- [ ] ### [[👻 Dashboard|👻 Soul Imperative]]
-	**System:** 🛡️ *VtM2*
-	**Synop:**
-	![[Valphyra_c.png|100]]
 - [ ] ### [[⛩️ Dashboard|⛩️ Unto the Breach]]
 	**System:** 🛡️ *PF2e*
 	**Synop:**

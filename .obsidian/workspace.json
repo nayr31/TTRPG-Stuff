@@ -24,8 +24,26 @@
               "icon": "lucide-trello",
               "title": "📑 Campaign Overview"
             }
+          },
+          {
+            "id": "2682cc4a5abe6b7e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.canvas",
+                "viewState": {
+                  "x": -152.53328004848828,
+                  "y": 629.869081192675,
+                  "zoom": -0.006042710576083965
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Session 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,15 +268,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "44477ce69b8d7c06",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
+    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/Buoyoon.png",
+    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/token_1.png",
+    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/tokenstamp settings.png",
+    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/Rat.png",
+    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/Black Bear.png",
+    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/Aquifer Leech.png",
+    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/Buoyoon.aseprite",
+    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures",
+    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/New folder",
+    "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
+    "📑 Campaign Overview.md",
+    "Notes.md",
+    "19 - --------------------------------",
     "80 - Resources/RealSorceror's PF2 Crafting Guide.pdf",
     "80 - Resources/Images/playernodata.png",
     "80 - Resources/PF2e crafting time.md",
-    "📑 Campaign Overview.md",
     "81 - Character Images/lich.jpg",
     "81 - Character Images/Potential player portraits/seg blade hunter.jpg",
-    "Notes.md",
     "ReadMe.md",
     "13 - Trashed Campaigns/Convergence/Players/Art/Emrys.jpg",
     "13 - Trashed Campaigns/Triangle Agency/Players/Art/Jeff.png",
@@ -273,13 +302,7 @@
     "10 - Player Campaigns/Between the Lines/Players/Quinn.md",
     "10 - Player Campaigns/Between the Lines/Players/Rhea.md",
     "10 - Player Campaigns/Between the Lines/Players/Charlie.md",
-    "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
-    "10 - Player Campaigns/Scythe and Shade/Players/Art/Easter.png",
     "10 - Player Campaigns/Scythe and Shade/Players/Easter.md",
-    "10 - Player Campaigns/Between the Lines/Players/Art/Claire Paragon.webp",
-    "10 - Player Campaigns/Between the Lines/Players/Art/Claire Paragon.webp",
-    "10 - Player Campaigns/Between the Lines/Players/Art/Claire.webp",
-    "10 - Player Campaigns/Between the Lines/Players/Art/Claire.webp",
     "10 - Player Campaigns/Between the Lines/Players/Connor.md",
     "10 - Player Campaigns/Between the Lines/Players/Claire.md",
     "10 - Player Campaigns/Between the Lines/Players/Baccus.md",
@@ -295,11 +318,6 @@
     "20 - GM Campaigns/Mystery Flesh Pit/Groups/Anodyne.md",
     "10 - Player Campaigns/Domun/Players/Art",
     "10 - Player Campaigns/Domun/Players/Art",
-    "10 - Player Campaigns/Domun/Players",
-    "10 - Player Campaigns/Domun/New folder",
-    "10 - Player Campaigns/Domun",
-    "10 - Player Campaigns/Domun",
-    "20 - GM Campaigns/Slugblaster/_Session Notes",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
