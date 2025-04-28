@@ -10,10 +10,14 @@ kanban-plugin: board
 	**System:** 🛡️ *PF2e*
 	**Synop:** Set years after Fifth Horsemen, the holy crusades terror innocents.
 	![[Valas_c.png|100]]
-- [ ] ### 🦇 Starlit Fangs
-	**System:** 🛡️ *VtM2*
-	**Synop:** Vampires, vampire daddies, vampire mommies...
-	![[Rickus_c.png|100]]
+- [ ] ### [[🎲 Dashboard|🎲 Between the Lines]] 
+	**System:** 🎲 *Die*
+	**Synop:**
+	![[Charlie_c.png|100]] ![[Calcifer Paragon_c.png|100]]
+
+
+## Paused?
+
 - [ ] ### [[👻 Dashboard|👻 Soul Imperative]]
 	**System:** 🛡️ *VtM2*
 	**Synop:**
@@ -22,18 +26,6 @@ kanban-plugin: board
 	**System:** 🛡️ *PF2e*
 	**Synop:**
 	![[Tespa.webp|100]]
-
-
-## Paused?
-
-- [ ] ### 🔺 Triangle Agency
-	**System:** 🔺 *Triangle Agency*
-	**Synop:** Triangles everywhere
-	![[Jeff.png|100]]
-- [ ] ### [[🌄 Dashboard|🌄 Alstead Passage]]
-	**System:** 🛡️ *PF2e*
-	**Synop:** Totally normal everyday life in a mountain town.
-	![[Jackrie_c.jpg|100]]
 - [ ] ### [[💤 Dashboard|💤 Sleeping Days]]
 	**System:** *Fabula Ultima*
 	**Synop:** A mysterious invasion of SinSpawn. Time traveling sharks!
@@ -42,43 +34,14 @@ kanban-plugin: board
 	**System:** 🎏 *Gubat Banwa*
 	**Synop:** ---
 	![[Pavlo_c.png|100]]
-- [ ] ### [[🦸 Dashboard|🦸 Masks]]
-	**System:** 🦸 *Masks*
-	**Synop:** Teenage angst (and heroes)
-	![[Saber_c.png|100]]
-- [ ] ### [[🐦 Dashboard|🐦 Fists of the Ruby Phoenix]]
-	**System:** 🛡️ *PF2e*
-	**Synop:** ---
-	![[Brom.png|100]]
-- [ ] ### [[🌞 Dashboard|🌞 Convergence]]
-	**System:** *Monster of the Week*
-	**Synop:** ---
-	![[Eventis.jpg|100]]
 
 
 ## 🟡 Paused Campaigns
 
-- [ ] ### [[⚖️ Dashboard|⚖️ Stolen Fate]]
-	**System:** 🛡️ *PF2e*
-	**Synop:** A desert of mystery...
-	![[Vannie_c.png|100]]
-- [ ] ### [[☁️ Dashboard|☁️ Gears of Exmoor]]
-	**System:** *~~5e~~* 🛡️ *PF2e*
-	**Synop:** Called to a steampunk city to help a mysterious benefactor...
-	
-	![[Kiyi_c.png|100]]
 - [ ] ### [[🏗 Dashboard|🏗 A Conscience's Favor]]
 	**System:** *Hard Wired Island*
 	**Synop:** ---
 	![[Kai_cc.png|100]]
-- [ ] ### His Final Hunt
-	**System:** 🛡️ *PF2e*
-	**Synop:**
-	![[Laurley_c.png|100]]
-- [ ] ### [[🎲 Dashboard|🎲 Fates Gamble]] 
-	**System:** 🎲 *Die*
-	**Synop:**
-	![[Charlie_c.png|100]] ![[Calcifer Paragon_c.png|100]]
 
 
 ## 🏁 Finished Campaigns
