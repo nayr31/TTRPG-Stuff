@@ -19,3 +19,17 @@ Getting into highschool, he knew he needed something to relate to the other kids
 "Maybe an after school activity? Something light, like TTRPGs" he thought to himself, having no idea how heavy TTRPGs can be. This new club is around too!
 
 He wasn't *alone alone*, there was always the nearby skate park with the older kids. But days go on and people come and go.
+
+---
+
+Relationship Map
+
+**Baccus**
+It was an unlikely meeting, but a meeting that would send them through first experiences, harsh arguments, and sweet memories. Dating is just like you might think in high school, but after the group disbanded, so did they. It wasn't until recently that the group (mostly through Rhea) started getting along again, but unbeknownst to the others Charlie and Bacchus had already started seeing each other again. 
+
+**Connor**
+Living so close to one another means that even in your first years of school will you be close, but too far and you will never meet, just right and you are school bus friends. And it was just that- Different classes, different friends, different views, but they always found a way to entertain each other on those oddly packed busses.
+
+**Claire**
+(Taken from Fauna)
+You ever think taking a high potency edible and walking around town is a good idea? It’s not, but Claire still did it. Charlie found her staring in his parents storefront for about 15 minutes straight before asking if she was ok, she was not. He helped her chill out a little before helping her get home, and the two stayed friends, with Claire stopping by his family’s shop during her breaks from work or after school.
