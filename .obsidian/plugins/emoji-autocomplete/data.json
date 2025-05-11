@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "pensive",
     "meh",
     "ghost",
     "shinto_shrine",
@@ -27,8 +28,7 @@
     "fire",
     "mage",
     "sun_with_face",
-    "x",
-    "bird"
+    "x"
   ],
   "highlightMatches": true,
   "strictTrigger": true,

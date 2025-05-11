@@ -29,16 +29,18 @@
             "id": "8c0e3cf4c41f07f2",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "10 - Player Campaigns/Domun/Sessions/🧻📚 Session Database.md"
+                "file": "10 - Player Campaigns/Domun/Sessions/Session 03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "database-folder-icon",
-              "title": "🧻📚 Session Database"
+              "icon": "lucide-file",
+              "title": "Session 03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,7 +265,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8c0e3cf4c41f07f2",
+  "active": "44477ce69b8d7c06",
   "lastOpenFiles": [
     "10 - Player Campaigns/Domun/Sessions/Session 03.md",
     "10 - Player Campaigns/Domun/Sessions/🧻📚 Session Database.md",
