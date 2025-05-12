@@ -4,3 +4,9 @@ NoteIcon: Note
 ---
 Prison time this time
 Portmeirion Prison
+
+Records room
+Kezia Orosco
+Maintence specialist
+Cell block H
+17

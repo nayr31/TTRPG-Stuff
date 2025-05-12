@@ -33,7 +33,7 @@ Water is a good idea
 
 We start looking at the prefab houses that the missing persons were living in
 *Meyer Ebbes*: Trinkets from the baronies
-*Kezia Orosco*: 
+*Kezia Orosco*: pacifist
 *Adrian Ailu*: HVAC is broken, heat is bad, loved them alien butts
 *Doghawk*:
 
