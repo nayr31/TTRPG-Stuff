@@ -33,3 +33,5 @@ Living so close to one another means that even in your first years of school wil
 **Claire**
 (Taken from Fauna)
 You ever think taking a high potency edible and walking around town is a good idea? It’s not, but Claire still did it. Charlie found her staring in his parents storefront for about 15 minutes straight before asking if she was ok, she was not. He helped her chill out a little before helping her get home, and the two stayed friends, with Claire stopping by his family’s shop during her breaks from work or after school.
+
+![[Advancement map.png]]
