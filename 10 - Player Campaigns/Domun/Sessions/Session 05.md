@@ -10,3 +10,5 @@ I now have another bomb
 
 I have big fists and a big attitude
 Job opportunity
+
+It was not a job
