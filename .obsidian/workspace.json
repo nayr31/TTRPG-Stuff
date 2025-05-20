@@ -39,8 +39,26 @@
               "icon": "lucide-file",
               "title": "Session 05"
             }
+          },
+          {
+            "id": "712ad1062788fa1b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.canvas",
+                "viewState": {
+                  "x": 41,
+                  "y": 175,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled Road Game"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,11 +283,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "44477ce69b8d7c06",
+  "active": "712ad1062788fa1b",
   "lastOpenFiles": [
+    "40 - Game Dev/Playdate/Untitled Road Game/Images/pacificdriveexmaple.png",
+    "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.canvas",
+    "40 - Game Dev/Playdate/Untitled Road Game/Images",
+    "40 - Game Dev/Playdate/Untitled Road Game/Images/keepdrivingexample.jpg",
+    "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.md",
+    "📑 Campaign Overview.md",
+    "40 - Game Dev/Playdate/Untitled Road Game",
+    "40 - Game Dev/Playdate",
+    "40 - Game Dev",
     "10 - Player Campaigns/Domun/Sessions/Session 05.md",
     "10 - Player Campaigns/Domun/Sessions/🧻📚 Session Database.md",
-    "📑 Campaign Overview.md",
     "10 - Player Campaigns/Between the Lines/Players/Charlie.md",
     "10 - Player Campaigns/Between the Lines/Advancement map.png",
     "10 - Player Campaigns/Between the Lines/🎲 Dashboard.md",
@@ -287,8 +313,6 @@
     "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/token_1.png",
     "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/tokenstamp settings.png",
     "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/Rat.png",
-    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/Black Bear.png",
-    "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/Aquifer Leech.png",
     "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures/Buoyoon.aseprite",
     "20 - GM Campaigns/Mystery Flesh Pit/NPCs/Creatures",
     "20 - GM Campaigns/Mystery Flesh Pit/NPCs/New folder",
@@ -309,19 +333,12 @@
     "10 - Player Campaigns/Domun/Players/Rampart.md",
     "10 - Player Campaigns/Domun/Sessions",
     "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.md",
-    "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 0 Questions.md",
-    "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff",
-    "20 - GM Campaigns/Mystery Flesh Pit/Drawing 2025-04-08 14.49.41.excalidraw.md",
-    "20 - GM Campaigns/Mystery Flesh Pit/NPCs",
-    "10 - Player Campaigns/Domun/Players/Art",
-    "10 - Player Campaigns/Domun/Players/Art",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 - Player Campaigns/Diwata's Glory/Players/Pavlo De Basi.canvas",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
     "10 - Player Campaigns/Alstead Passage/The Chart~.canvas",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Beat Map.canvas"
+    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas"
   ]
 }

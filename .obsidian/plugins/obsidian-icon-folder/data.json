@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGamepad",
       "🥩",
       "🍖",
       "⛩",
-      "🍃",
-      "👻"
+      "🍃"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,6 @@
   "10 - Player Campaigns/Unto the Breach": "⛩",
   "20 - GM Campaigns/Mystery Flesh Pit": "🥩",
   "10 - Player Campaigns/Between the Lines": "🎲",
-  "10 - Player Campaigns/Domun": "👻"
+  "10 - Player Campaigns/Domun": "👻",
+  "40 - Game Dev": "LiGamepad"
 }

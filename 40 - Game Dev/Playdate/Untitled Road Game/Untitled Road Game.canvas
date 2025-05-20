@@ -1,0 +1,39 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "40 - Game Dev/Playdate/Untitled Road Game/Images/keepdrivingexample.jpg",
+      "height": 320,
+      "id": "90a1fa64c32d05b7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 569,
+      "x": 300,
+      "y": -280
+    },
+    {
+      "file": "40 - Game Dev/Playdate/Untitled Road Game/Images/pacificdriveexmaple.png",
+      "height": 320,
+      "id": "41373d4cdc5dd964",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 569,
+      "x": 300,
+      "y": 40
+    },
+    {
+      "height": 740,
+      "id": "930496d44147732c",
+      "styleAttributes": {
+      },
+      "text": "Road trip game akin to [Keep Driving](https://store.steampowered.com/app/2756920/Keep_Driving) (maybe more supernatural with [Pacific Drive](https://store.steampowered.com/app/1458140/Pacific_Drive/)?). Keep it homey (around Niagara)?\n\nMechanics:\n- Resource management\n\t- Fuel\n\t- Food/Water\n\t- People?\n\t- Sleep/Energy\n- A core mechanic between stops\n\t- Keep Driving does \"card battles\"\n- Postcards between towns\n\nFeatures:\n- A story about someone\n\t- driving away from something\n\t- to something\n- A radio\n- Car upgrades\n- Requests\n- Crank to pedal (accelerate/brake)\n- Different car types (pros/cons)",
+      "type": "text",
+      "width": 480,
+      "x": -320,
+      "y": -280
+    }
+  ]
+}
