@@ -3,6 +3,24 @@
   ],
   "nodes": [
     {
+      "height": 860,
+      "id": "06b3855d72c7317d",
+      "label": "Carougue-like",
+      "type": "group",
+      "width": 1200,
+      "x": -280,
+      "y": 540
+    },
+    {
+      "height": 840,
+      "id": "9b4a42ae8a094f2a",
+      "label": "Too ambitious",
+      "type": "group",
+      "width": 1200,
+      "x": -280,
+      "y": -360
+    },
+    {
       "file": "40 - Game Dev/Playdate/Untitled Road Game/Images/keepdrivingexample.jpg",
       "height": 320,
       "id": "90a1fa64c32d05b7",
@@ -31,9 +49,31 @@
       },
       "text": "Road trip game akin to [Keep Driving](https://store.steampowered.com/app/2756920/Keep_Driving) (maybe more supernatural with [Pacific Drive](https://store.steampowered.com/app/1458140/Pacific_Drive/)?). Keep it homey (around Niagara)?\n\nMechanics:\n- Resource management\n\t- Fuel\n\t- Food/Water\n\t- People?\n\t- Sleep/Energy\n- A core mechanic between stops\n\t- Keep Driving does \"card battles\"\n- Postcards between towns\n\nFeatures:\n- A story about someone\n\t- driving away from something\n\t- to something\n- A radio\n- Car upgrades\n- Requests\n- Crank to pedal (accelerate/brake)\n- Different car types (pros/cons)",
       "type": "text",
-      "width": 480,
-      "x": -320,
-      "y": -280
+      "width": 460,
+      "x": -240,
+      "y": -330
+    },
+    {
+      "height": 800,
+      "id": "d4d75fd4c8480212",
+      "styleAttributes": {
+      },
+      "text": "- Score based\n- Find upgrades\n- Survive\n\t- Gas\n\t- Food\n\t- Money\n\t- Storage\n\t- Time? (main gameplay loop?)\n- Auto battler?",
+      "type": "text",
+      "width": 460,
+      "x": -240,
+      "y": 560
+    },
+    {
+      "height": 2120,
+      "id": "6dcd09077ca4ba7d",
+      "styleAttributes": {
+      },
+      "text": "That sounds like a really fun and nostalgic concept! A game about hustling to make ends meet in the early 2000s has a lot of potential for unique mechanics, storytelling, and atmosphere. For compelling gameplay, you’ll want tight, satisfying loops that encourage repeated play and gradual mastery. Here are several **core and secondary gameplay loops** you could explore:\n\n---\n\n### 🔁 **Core Gameplay Loops**\n\n#### 1. **Job-Drop-Off Loop (Primary Loop)**\n\n- **Accept Job → Plan Route → Drive → Deliver → Get Paid**\n    \n- _Core decisions_:\n    \n    - Which jobs to take (distance, pay, time limits)\n        \n    - What route to take (traffic, fuel stops)\n        \n    - Time management (some deliveries could be late-night only, or disappear)\n        \n- _Why it’s fun_: Strategic decisions and route planning feel rewarding when they pay off.\n    \n\n---\n\n#### 2. **Car Maintenance Loop**\n\n- **Drive → Wear & Tear → Repair or Upgrade → Drive Again**\n    \n- _Add tension_: Letting maintenance slide could lead to breakdowns or reduced efficiency.\n    \n- _Resources involved_: Money for repairs, maybe time (you can’t work while your car’s in the shop).\n    \n\n---\n\n#### 3. **Resource Management Loop**\n\n- **Earn Money → Spend on Food/Fuel/Upgrades → Stay Alive/Operational**\n    \n- _Choices matter_: Cheap fast food saves money but may affect energy or stamina.\n    \n- Fuel scarcity forces you to prioritize efficient routes or risk running out.\n    \n\n---\n\n#### 4. **Lifestyle Balance Loop**\n\n- **Work → Eat/Sleep/Rest → Stay Healthy**\n    \n- Working too much may decrease stamina or lead to negative effects like burnout, slower driving, or worse decision-making. Force the player to rest, eat, etc.\n    \n\n---\n\n### 🔁 **Secondary Gameplay Loops**\n\n#### 5. **Reputation Loop**\n\n- **Deliver on Time → Get Tips → Higher-Paying Jobs**\n    \n- Deliveries can be rated (5-star system, maybe old-school cell phone texts or pager messages).\n    \n- High reputation unlocks better gigs, lower prices on repairs, or exclusive routes.\n    \n\n---\n\n#### 6. **Upgrade Loop**\n\n- **Earn Money → Buy Upgrades → Increase Efficiency → Do More Jobs**\n    \n- Upgrades could include:\n    \n    - Fuel efficiency\n        \n    - Bigger trunk (more deliveries at once)\n        \n    - Speed\n        \n    - GPS (better map visibility or quicker planning)\n        \n    - Cassette player upgrades for morale\n        \n\n---\n\n#### 7. **Story/Character Loop**\n\n- **Interact With NPCs → Learn Their Stories → Unlock Side Missions or Benefits**\n    \n- Your customers or fellow hustlers could have side quests or personal arcs.\n    \n- Build relationships over repeated interactions (a regular customer pays more if they like you).\n    \n\n---\n\n#### 8. **Time & Weather Loop**\n\n- Different times of day affect job availability, traffic, NPC behavior.\n    \n- Rain/snow affects driving mechanics, car wear, and urgency.\n    \n- Could influence immersion and difficulty without adding complexity.\n    \n\n---\n\n### Bonus Flavor Ideas:\n\n- **Early 2000s aesthetic**: Flip phones, MapQuest printouts, cassette tapes, old radios.\n    \n- **Minigames**:\n    \n    - Car repair minigames (like changing a tire manually).\n        \n    - Driving itself could have light simulation (manual gear shift?).\n        \n- **Narrative hooks**: Maybe you're saving up for something specific (college, to move out, help family).\n    \n\n---\n\nWould you like help turning this into a more structured game design doc, or building a prototype gameplay loop first?",
+      "type": "text",
+      "width": 740,
+      "x": -1040,
+      "y": 800
     }
   ]
 }

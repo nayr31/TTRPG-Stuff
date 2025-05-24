@@ -24,8 +24,26 @@
               "icon": "lucide-trello",
               "title": "📑 Campaign Overview"
             }
+          },
+          {
+            "id": "7e772b999436001d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.canvas",
+                "viewState": {
+                  "x": -390.8223393612766,
+                  "y": 1873.3978824032533,
+                  "zoom": -0.4567041195856491
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled Road Game"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,15 +268,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "44477ce69b8d7c06",
+  "active": "7e772b999436001d",
   "lastOpenFiles": [
-    "10 - Player Campaigns/Domun/Sessions/Session 05.md",
+    "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.md",
     "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.canvas",
+    "📑 Campaign Overview.md",
+    "10 - Player Campaigns/Domun/Sessions/Session 05.md",
     "40 - Game Dev/Playdate/Untitled Road Game/Images/pacificdriveexmaple.png",
     "40 - Game Dev/Playdate/Untitled Road Game/Images",
     "40 - Game Dev/Playdate/Untitled Road Game/Images/keepdrivingexample.jpg",
-    "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.md",
-    "📑 Campaign Overview.md",
     "40 - Game Dev/Playdate/Untitled Road Game",
     "40 - Game Dev/Playdate",
     "40 - Game Dev",
