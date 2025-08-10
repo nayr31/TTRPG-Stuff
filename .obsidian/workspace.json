@@ -55,8 +55,7 @@
               "title": "Session 01"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,10 +280,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9a3c093fe7f59cad",
+  "active": "44477ce69b8d7c06",
   "lastOpenFiles": [
-    "📑 Campaign Overview.md",
     "10 - Player Campaigns/Operation Overtime/Sessions/Session 01.md",
+    "📑 Campaign Overview.md",
     "10 - Player Campaigns/Operation Overtime/Sessions",
     "10 - Player Campaigns/Operation Overtime/Players/Barra Rockall.md",
     "10 - Player Campaigns/Operation Overtime/Players/Art/Jasper_token.png",
