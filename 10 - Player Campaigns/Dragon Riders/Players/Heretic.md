@@ -8,6 +8,10 @@
 > > - **Slowed:** Movement speed halved
 > > - **Weakened:** Attacks deal half damage
 
+
+
+### Class
+
 To start:
 - 1x Martial Tradition
 - 1x Spell Aspect
