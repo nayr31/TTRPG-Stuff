@@ -40,8 +40,7 @@
               "title": "Heretic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,10 +266,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d9763bebb4cbd871",
+  "active": "44477ce69b8d7c06",
   "lastOpenFiles": [
-    "📑 Campaign Overview.md",
     "10 - Player Campaigns/Dragon Riders/Players/Heretic.md",
+    "📑 Campaign Overview.md",
     "10 - Player Campaigns/Dragon Riders/Recourses.md",
     "10 - Player Campaigns/Dragon Riders/Players",
     "10 - Player Campaigns/Dragon Riders",
