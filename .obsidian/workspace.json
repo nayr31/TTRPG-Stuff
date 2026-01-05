@@ -4,43 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "d2ebed98f1de06e5",
-        "type": "tabs",
+        "id": "8a0aa86a9aa89ae4",
+        "type": "split",
         "children": [
           {
-            "id": "44477ce69b8d7c06",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "📑 Campaign Overview.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
+            "id": "d2ebed98f1de06e5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "44477ce69b8d7c06",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "📑 Campaign Overview.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": []
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-trello",
+                  "title": "📑 Campaign Overview"
                 }
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "📑 Campaign Overview"
-            }
+              {
+                "id": "d9763bebb4cbd871",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10 - Player Campaigns/Dragon Riders/Players/Heretic.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Heretic"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "d9763bebb4cbd871",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Player Campaigns/Dragon Riders/Players/Heretic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Heretic"
-            }
+            "id": "248da2743ca0f3c2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "90c8d2b2c49e481a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10 - Player Campaigns/Dragon Riders/Objects/Status Effects/Status Effects (Enemy).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Status Effects (Enemy)"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -266,10 +295,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "44477ce69b8d7c06",
+  "active": "d9763bebb4cbd871",
   "lastOpenFiles": [
+    "10 - Player Campaigns/Dragon Riders/Objects/Status Effects/Status Effects (Enemy).md",
     "10 - Player Campaigns/Dragon Riders/Players/Heretic.md",
+    "10 - Player Campaigns/Dragon Riders/Objects/Status Effects/Status Effects (Player).md",
+    "10 - Player Campaigns/Dragon Riders/Objects/Status Effects/Silenced.md",
+    "10 - Player Campaigns/Dragon Riders/Objects/Status Effects/Frightened.md",
     "📑 Campaign Overview.md",
+    "10 - Player Campaigns/Dragon Riders/Objects",
+    "10 - Player Campaigns/Dragon Riders/Objects/Status Effects",
     "10 - Player Campaigns/Dragon Riders/Recourses.md",
     "10 - Player Campaigns/Dragon Riders/Players",
     "10 - Player Campaigns/Dragon Riders",
@@ -292,9 +327,7 @@
     "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.md",
     "11 - Archived Player Campaigns/Domun/Sessions/Session 05.md",
     "40 - Game Dev/Playdate/Untitled Road Game/Images/pacificdriveexmaple.png",
-    "40 - Game Dev/Playdate/Untitled Road Game/Images",
     "40 - Game Dev/Playdate/Untitled Road Game/Images/keepdrivingexample.jpg",
-    "40 - Game Dev/Playdate/Untitled Road Game",
     "10 - Player Campaigns/Between the Lines/Players/Charlie.md",
     "10 - Player Campaigns/Between the Lines/Advancement map.png",
     "10 - Player Campaigns/Between the Lines/🎲 Dashboard.md",
@@ -313,10 +346,6 @@
     "Notes.md",
     "80 - Resources/PF2e crafting time.md",
     "ReadMe.md",
-    "10 - Player Campaigns/Dance of Seraphs/👼 Dashboard.md",
-    "10 - Player Campaigns/Dance of Seraphs/Players/Valas.md",
-    "10 - Player Campaigns/Between the Lines/Players/Quinn.md",
-    "10 - Player Campaigns/Between the Lines/Players/Rhea.md",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
