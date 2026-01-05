@@ -23,6 +23,18 @@
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
-    "Date": "date"
+    "Date": "date",
+    "excalidraw-export-internal-links": "checkbox",
+    "excalidraw-embed-md": "checkbox",
+    "max_mana": "number",
+    "max_grit": "number",
+    "current_mana": "number",
+    "current_grit": "number",
+    "Body": "number",
+    "Gods": "number",
+    "Mind": "number",
+    "Shadow": "number",
+    "Soul": "number",
+    "World": "number"
   }
 }

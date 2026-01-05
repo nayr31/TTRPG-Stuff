@@ -10,6 +10,7 @@ To start:
 - Mana/Grit pool of 6 and 6 (2 and 2 per level)
 - A Subclass
 - 1 Exploit and 2 spells (+1 spell and an exploit/spell per level)
+- 2 Career points (1/level) (1 career and a node, or two careers - both entry perks)
 
 **Level 1:**
 
@@ -17,8 +18,8 @@ Attributes:
 
 | Body | Gods | Mind | Shadow | Soul | World |
 | ---- | ---- | ---- | ------ | ---- | ----- |
-|      |      |      |        |      |       |
-
+| 1    | 1    | 1    | 1      | 1    | 1     |
+4 points to place, nothing can be above 3 at level 1 (5 max)
 
 *Blasphemer:* When you cast a spell, you may spend 2 Grit to corrupt it. Choose one: inflict [[Status Effects (Enemy)#Frightened|Frightened]], [[Status Effects (Enemy)#Silenced|Silenced]], or [[Status Effects (Enemy)#Weakened|Weakened]] on a target of the spell.
 *Subclass Perk:* Pick 1 Perk from your chosen Heretic Subclass.
