@@ -1,10 +1,10 @@
 ---
 Kin: Eclipselight Adaphaen
 level: 1
-current_grit: 0
-max_grit: 8
-current_mana: 0
-max_mana: 8
+current_grit: 6
+max_grit: 6
+current_mana: 6
+max_mana: 6
 Body: 1
 Gods: 1
 Mind: 1
@@ -15,8 +15,8 @@ World: 1
 
 `VIEW[{Kin}]`
 
-Grit: `INPUT[number:currentgrit]`/`VIEW[{level}*2+6][math:max_grit]`
-Mana: `INPUT[number:currentmana]`/`VIEW[{level}*2+6][math:max_mana]`
+Grit: `INPUT[number:current_grit]`/`VIEW[{level-1}*2+6][math:max_grit]`
+Mana: `INPUT[number:current_mana]`/`VIEW[{level-1}*2+6][math:max_mana]`
 
 |        | Value                  |
 | ------ | ---------------------- |
@@ -26,4 +26,3 @@ Mana: `INPUT[number:currentmana]`/`VIEW[{level}*2+6][math:max_mana]`
 | Shadow | `INPUT[number:Shadow]` |
 | Soul   | `INPUT[number:Soul]`   |
 | World  | `INPUT[number:World]`  |
-
