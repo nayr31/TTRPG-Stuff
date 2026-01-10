@@ -26,3 +26,4 @@ Mana: `INPUT[number:current_mana]`/`VIEW[{level-1}*2+6][math:max_mana]`
 | Shadow | `INPUT[number:Shadow]` |
 | Soul   | `INPUT[number:Soul]`   |
 | World  | `INPUT[number:World]`  |
+
