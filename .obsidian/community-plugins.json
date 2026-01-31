@@ -1,16 +1,12 @@
 [
-  "obsidian-kanban",
   "obsidian-style-settings",
   "obsidian-meta-bind-plugin",
   "obsidian42-brat",
   "emoji-autocomplete",
-  "obsidian-leaflet-plugin",
-  "obsidian-sortable",
   "omnisearch",
   "homepage",
-  "advanced-canvas",
   "obsidian-git",
-  "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
-  "buttons"
+  "buttons",
+  "templater-obsidian"
 ]

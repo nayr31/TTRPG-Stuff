@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Players
+    filters:
+      and:
+        - file.inFolder("10 - Player Campaigns")
+        - isMe == true
+    order:
+      - file.name
+      - Class
+    image: note.portrait
