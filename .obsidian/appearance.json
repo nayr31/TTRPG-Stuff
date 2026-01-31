@@ -9,14 +9,14 @@
     "_Th--Notion-Dataview",
     "minimal cards",
     "Cards",
-    "canvasnote",
     "cards",
     "dashboard",
     "bold_italic",
     "extended-colorschemes",
     "metabind - wound",
     "metabind - strain",
-    "kanban tag color"
+    "kanban tag color",
+    "canvasnote"
   ],
   "cssTheme": "AnuPpuccin",
   "baseFontSize": 16,

@@ -4,40 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "d2ebed98f1de06e5",
+        "id": "ec5721e28a4b2b7c",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5387565279f7de",
+            "id": "79d383fee5d85a34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "10 - Player Campaigns/From Ruins/Players/Nelo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "91 - Bases/Campaign Note Display.base",
+                "viewName": "Players"
               },
-              "icon": "lucide-file",
-              "title": "Nelo"
+              "icon": "lucide-layout-grid",
+              "title": "Campaign Note Display"
             }
           },
           {
-            "id": "5ae9c8e2a2eda3a7",
+            "id": "ab256956666da117",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Player Campaigns/From Ruins/Campaign Overview.md",
+                "file": "90 - Templates/Campaign/Campaign Overview Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Overview"
+              "title": "Campaign Overview Template"
+            }
+          },
+          {
+            "id": "7ca1a41cc5fee7aa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "91 - Bases/Vault Character Overview.base",
+                "viewName": "Players"
+              },
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "Vault Character Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"kanban-plugin\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "80 - Resources/Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -138,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - Player Campaigns/DHS - Murder of Mountains/Sessions/Session 05.md",
+                "file": "90 - Templates/Campaign/Campaign Overview Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,10 +180,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session 05"
+              "title": "Graph of Campaign Overview Template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,71 +269,68 @@
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "obsidian42-brat:BRAT": true,
-      "obsidian-leaflet-plugin:Open Leaflet Map": true,
       "omnisearch:Omnisearch": true,
-      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac5387565279f7de",
+  "active": "7ca1a41cc5fee7aa",
   "lastOpenFiles": [
-    "10 - Player Campaigns/From Ruins/Campaign Overview.md",
-    "10 - Player Campaigns/From Ruins/Players/Nelo.md",
-    "10 - Player Campaigns/From Ruins/Players/Art/nelo.jpg",
-    "10 - Player Campaigns/From Ruins/Players/Art/nelo full.jpg",
-    "90 - Templates/✏ Campaign/🧩 Dashboard.md",
-    "30 - Homebrew/Slugblaster/Van Life/Van Life.md",
-    "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
-    "10 - Player Campaigns/From Ruins/Players/Art/feline.jpg",
-    "10 - Player Campaigns/From Ruins/Players/Art/289e1f90bdb965597e149d1adcc14158.jpg",
-    "📑 Campaign Overview.md",
-    "Untitled.base",
-    "10 - Player Campaigns/From Ruins/Players/Art",
-    "10 - Player Campaigns/From Ruins/Players",
-    "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
-    "10 - Player Campaigns/Draconic Override/Players/Art/heretic.jpg",
-    "10 - Player Campaigns/Draconic Override/Players/Art/16c0b781ebdac3ecdc75ef76a9bbb1f5.jpg",
-    "10 - Player Campaigns/Draconic Override/Players/Art",
-    "10 - Player Campaigns/Draconic Override/Players/New folder",
-    "ReadMe.md",
-    "10 - Player Campaigns/From Ruins",
-    "10 - Player Campaigns/Draconic Override/Players/Stelan N..md",
-    "10 - Player Campaigns/Draconic Override/Players/Drakonym - Character Sheet (Fillable).pdf",
+    "90 - Templates/Campaign/Campaign Overview Template.md",
+    "91 - Bases/Campaign Note Display.base",
+    "91 - Bases/Vault Character Overview.base",
+    "90 - Templates/Campaign/Player Template.md",
+    "90 - Templates/Campaign/NPC Template.md",
+    "90 - Templates/NPC Template.md",
+    "90 - Templates/✏ Campaign/NPCs/👨‍🌾📚 NPC Database.md",
     "80 - Resources/Meta Bind Examples/Inline Select (Dropdown select).md",
-    "Notes.md",
-    "10 - Player Campaigns/Draconic Override/Players/Drakonym - Character Sheet (Fillable).pdf.annotations.json",
-    "10 - Player Campaigns/Draconic Override/Introduction.md",
-    "10 - Player Campaigns/Draconic Override/Resources.md",
-    "10 - Player Campaigns/Draconic Override/Rules/Status Effects (Enemy).md",
-    "10 - Player Campaigns/Draconic Override/Rules/Status Effects (Player).md",
-    "10 - Player Campaigns/Dragon Riders/Objects/Status Effects/Silenced.md",
-    "10 - Player Campaigns/Dragon Riders/Objects/Status Effects/Frightened.md",
-    "10 - Player Campaigns/Dragon Riders/Objects",
-    "10 - Player Campaigns/Draconic Override/Rules",
+    "80 - Resources/System specific",
+    "80 - Resources/Obsidian Stuff/Meta Bind CSS Slot.md",
+    "80 - Resources/Obsidian Stuff/Sticky Notes.md",
+    "80 - Resources/Obsidian Stuff/Sorting systems.md",
+    "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+    "80 - Resources/Obsidian Stuff/Canvas Snippet (Shahriar).md",
+    "80 - Resources/System specific/RealSorceror's PF2 Crafting Guide.pdf",
+    "80 - Resources/System specific/PF2e crafting time.md",
+    "80 - Resources/Notes.md",
+    "20 - GM Campaigns/Wilderfeast/Art/World map.png",
+    "20 - GM Campaigns/Wilderfeast/Art/Wilderfeast logo.png",
+    "20 - GM Campaigns/Wilderfeast/Art/Sen coast.png",
+    "20 - GM Campaigns/Wilderfeast/Art/Combat tracker.png",
+    "90 - Templates/Campaign/Session Template.md",
+    "91 - Bases",
+    "90 - Templates/Slugblaster templates/Slug Group.md",
+    "11 - Archived Player Campaigns/Operation Overtime/Players/Art/Jasper_token.png",
+    "11 - Archived Player Campaigns/Operation Overtime/Players/Art/Jasper.png",
     "11 - Archived Player Campaigns/Operation Overtime/Players/Barra Rockall.md",
     "11 - Archived Player Campaigns/Operation Overtime/Sessions/Session 03.md",
     "11 - Archived Player Campaigns/Operation Overtime/Sessions/Session 02.md",
     "11 - Archived Player Campaigns/Operation Overtime/Sessions/Session 01.md",
-    "11 - Archived Player Campaigns/Operation Overtime/Players/Art/Jasper_token.png",
-    "11 - Archived Player Campaigns/Operation Overtime/Players/Art/Jasper_token.png",
-    "11 - Archived Player Campaigns/Operation Overtime/Players/Art/Jasper.png",
-    "11 - Archived Player Campaigns/Domun/Sessions/Session 06.md",
-    "11 - Archived Player Campaigns/Domun/Sessions/🧻📚 Session Database.md",
+    "11 - Archived Player Campaigns/Operation Overtime/Operation Overtime Introduction.pdf",
+    "11 - Archived Player Campaigns/🦌 DHS/Draum_Hunting_Supply_Logo.png",
+    "12 - Archived Characters/Minuano Rojo/Minuano Rojo.md",
+    "12 - Archived Characters/Minuano Rojo/Minuano Rojo.png",
+    "12 - Archived Characters/Minuano Rojo/📃Minuano Sheet.canvas",
+    "11 - Archived Player Campaigns/DHS - Murder of Mountains/⛰️ Dashboard.md",
+    "90 - Templates/Player Template.md",
+    "90 - Templates/LookerDV.md",
+    "10 - Player Campaigns/From Ruins/Players/Nelo.md",
+    "90 - Templates/Campaign",
+    "10 - Player Campaigns/From Ruins/Campaign Overview.md",
+    "10 - Player Campaigns/From Ruins/Players/Art/nelo.jpg",
+    "10 - Player Campaigns/From Ruins/Players/Art/nelo full.jpg",
+    "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
+    "10 - Player Campaigns/From Ruins/Players/Art",
+    "10 - Player Campaigns/From Ruins/Players",
+    "10 - Player Campaigns/Draconic Override/Players/Art",
     "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.canvas",
-    "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.md",
-    "11 - Archived Player Campaigns/Domun/Sessions/Session 05.md",
-    "40 - Game Dev/Playdate/Untitled Road Game/Images/pacificdriveexmaple.png",
-    "10 - Player Campaigns/Between the Lines/Players/Charlie.md",
     "20 - GM Campaigns/Mystery Flesh Pit/Session Stuff/Session 1.canvas",
     "20 - GM Campaigns/Mystery Flesh Pit/Ideas Board.canvas",
     "10 - Player Campaigns/Conscience/Players/Kai Steele Canvas.canvas",
     "10 🧙 Player Campaigns/🎯 Carry On/Sessions/Untitled.canvas",
     "10 - Player Campaigns/Diwata's Glory/Players/Pavlo De Basi.canvas",
     "20 🌟 GM Campaigns/💭 Machine's Eye/📋 Storyboard.canvas",
-    "10 - Player Campaigns/Alstead Passage/The Chart~.canvas",
-    "20 🌟 GM Campaigns/⛰️ SSMR/Beats.canvas"
+    "10 - Player Campaigns/Alstead Passage/The Chart~.canvas"
   ]
 }

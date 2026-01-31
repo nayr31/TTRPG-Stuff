@@ -1,1 +1,0 @@
-Great for swarms of bloodwhips, better for swarms of popcorn, maser grenades explode into hot fields of microwave radiation that cook anything inside. And hey, contrary to popular belief, microwave radiation is non-ionizing, meaning it won’t cause cancer, only blistering, deadly burns! Pack of two. **(Costs 1 gem.)**

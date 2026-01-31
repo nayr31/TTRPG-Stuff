@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗄",
       "LiGamepad",
       "🥩",
       "🍖",
-      "⛩",
-      "🍃"
+      "⛩"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,11 +39,8 @@
   "11 - Archived Player Campaigns": "🗄",
   "12 - Archived Characters": "🔒",
   "20 - GM Campaigns": "⭐",
-  "20 - GM Campaigns/Slugblaster": "🐌",
-  "20 - GM Campaigns/Wilderfeast": "🍖",
   "80 - Resources": "🗃",
   "30 - Homebrew": "🛠",
   "13 - Trashed Campaigns": "LiTrash",
-  "20 - GM Campaigns/Mystery Flesh Pit": "🥩",
-  "11 - Archived Player Campaigns/Domun": "👻"
+  "91 - Bases": "🗄"
 }

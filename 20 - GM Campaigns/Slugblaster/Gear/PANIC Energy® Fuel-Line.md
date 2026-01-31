@@ -1,1 +1,0 @@
-A 42 oz plastic cup of energy that never ends! [[Wilkie's|PANIC]] claims the quantum lens in the cup jacks straight into their experimental R&D department, full of new flavours. But many suspect it actually syncs with the spill trough of the nearest PANIC soda fountain. **(Costs 1 lens.)**

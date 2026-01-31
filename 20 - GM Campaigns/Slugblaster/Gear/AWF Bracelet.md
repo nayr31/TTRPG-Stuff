@@ -1,1 +1,0 @@
-An Anti-Wet Field generator uses diamagnetics to repel water, something found plentifully in most living things. Keep slugs off your back, keep mud out of your eyes, and get a little personal space. Nope slime, tentacles, and mouths for only 1 trouble. **(Costs 2 coils.)**

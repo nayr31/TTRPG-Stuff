@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "📑 Campaign Overview",
+      "value": "91 - Bases/Vault Character Overview.base",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Keep open notes",
@@ -11,7 +11,7 @@
       "revertView": true,
       "openWhenEmpty": true,
       "refreshDataview": true,
-      "autoCreate": true,
+      "autoCreate": false,
       "autoScroll": false,
       "pin": true,
       "commands": [],

@@ -1,1 +1,0 @@
-Main hunting planet of the [[Draum Hunting Supply|DHS]], hosting their lodge.

@@ -1,1 +1,0 @@
-Thin-zones without thin enough spacetime are known as “doubles” and “triples,” and using them requires special cutting-edge technologies such as portal drills, slip foam, spacetime unravellers, or fancy Nth gear upgrades. Also grants +1d6 to Portal Discovery beats. **(Costs 1 gem, 1 coil.)**

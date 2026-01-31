@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.folder.startsWith(this.file.folder) && file.path != this.file.path
+properties:
+  note.Pronouns:
+    displayName: test
+  note.notes:
+    displayName: Notes
+views:
+  - type: cards
+    name: Players
+    order:
+      - file.name
+      - Pronouns
+    image: note.portrait
+  - type: cards
+    name: NPCs
+    order:
+      - file.name
+      - Pronouns
+      - notes
+    image: note.portrait
