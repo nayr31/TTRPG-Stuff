@@ -1,6 +1,6 @@
 ---
 Pronouns: She/Her
-Notes: ""
+Notes:
 Portrait: "[[zaya.webp]]"
 ---
 Elven Mage

@@ -33,6 +33,9 @@ views:
       - file.name
       - Pronouns
       - Notes
+    sort:
+      - property: file.mtime
+        direction: DESC
     image: note.portrait
   - type: table
     name: Sessions
