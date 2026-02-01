@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0f356f2bfc979b9c",
+        "id": "e2c1b487953430b2",
         "type": "tabs",
         "children": [
           {
-            "id": "d9feff7077b2ce79",
+            "id": "6692fd4e76bccd83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+                "file": "10 - Player Campaigns/From Ruins/Players/Nelo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "⭐ From Ruins"
+              "title": "Nelo"
             }
           }
         ]
@@ -245,11 +245,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9feff7077b2ce79",
+  "active": "6692fd4e76bccd83",
   "lastOpenFiles": [
+    "91 - Bases/Vault Character Overview.base",
+    "91 - Bases/Campaign Note Display.base",
+    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+    "80 - Resources/Obsidian Stuff/Meta Bind CSS Slot.md",
+    "90 - Templates/Campaign/Campaign Overview Template.md",
+    "test/Summary.md",
+    "test/⭐ test.md",
+    "test",
     "10 - Player Campaigns/From Ruins/Players/Nelo.md",
     "10 - Player Campaigns/From Ruins/Pitch.md",
-    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
     "80 - Resources/Notes.md",
     "10 - Player Campaigns/Draconic Override/⭐ Draconic Override.md",
     "10 - Player Campaigns/From Ruins/Players/Lyssa Valeria Brooks.md",
@@ -268,11 +275,8 @@
     "10 - Player Campaigns/From Ruins/NPCs/the black rose.webp",
     "10 - Player Campaigns/From Ruins/NPCs/sabien.webp",
     "10 - Player Campaigns/From Ruins/Session Notes/Session 2.md",
-    "91 - Bases/Campaign Note Display.base",
     "90 - Templates/Campaign/Player Template.md",
     "90 - Templates/Campaign/NPC Template.md",
-    "91 - Bases/Vault Character Overview.base",
-    "90 - Templates/Campaign/Campaign Overview Template.md",
     "10 - Player Campaigns/From Ruins/Players/From Ruins.md",
     "10 - Player Campaigns/Draconic Override/Players/Stelan N..md",
     "90 - Templates/Campaign/Session Note Template.md",
@@ -283,14 +287,10 @@
     "10 - Player Campaigns/test camp/Players",
     "10 - Player Campaigns/test camp/⭐ test camp.md",
     "10 - Player Campaigns/test camp",
-    "10 - Player Campaigns/New camp/test/⭐ test.md",
     "10 - Player Campaigns/New camp/test",
-    "10 - Player Campaigns/New camp/⭐ New camp.md",
     "10 - Player Campaigns/New camp",
-    "90 - Templates/Campaign/New Info Suggester Template.md",
     "10 - Player Campaigns/New test",
     "10 - Player Campaigns/null",
-    "From Ruins/Players",
     "20 - GM Campaigns/Wilderfeast/Art/World map.png",
     "12 - Archived Characters/Minuano Rojo/📃Minuano Sheet.canvas",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",

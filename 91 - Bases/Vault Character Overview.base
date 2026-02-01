@@ -2,7 +2,7 @@ formulas:
   Campaign: link(file.folder.split("/").slice(0, -1).join("/") + "/⭐ " + file.folder.split("/").slice(-2, -1), file.folder.split("/").slice(-2, -1))
 views:
   - type: cards
-    name: Players
+    name: My Characters
     filters:
       and:
         - file.inFolder("10 - Player Campaigns")
