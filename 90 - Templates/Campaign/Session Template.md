@@ -1,3 +1,0 @@
----
-Date: "{{date: YYYY-MM-DD}}"
----

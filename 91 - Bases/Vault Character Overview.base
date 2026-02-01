@@ -1,3 +1,5 @@
+formulas:
+  Campaign: link(file.folder.split("/").slice(0, -1).join("/") + "/⭐ " + file.folder.split("/").slice(-2, -1), file.folder.split("/").slice(-2, -1))
 views:
   - type: cards
     name: Players
@@ -8,4 +10,5 @@ views:
     order:
       - file.name
       - Class
+      - formula.Campaign
     image: note.portrait

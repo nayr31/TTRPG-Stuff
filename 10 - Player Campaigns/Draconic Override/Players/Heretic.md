@@ -1,6 +1,6 @@
 ---
 isMe: true
-portrait: "[[heretic.jpg]]"
+Portrait: "[[heretic.jpg]]"
 Class: Heretic
 ---
 

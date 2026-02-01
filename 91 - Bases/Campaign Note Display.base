@@ -3,20 +3,46 @@ filters:
     - file.folder.startsWith(this.file.folder) && file.path != this.file.path
 properties:
   note.Pronouns:
-    displayName: test
+    displayName: Pronouns
   note.notes:
     displayName: Notes
+  file.name:
+    displayName: Session
 views:
   - type: cards
     name: Players
+    filters:
+      and:
+        - file.path.contains("Players")
+        - file.fullname.contains(".md")
     order:
       - file.name
       - Pronouns
+      - Class
+    sort:
+      - property: isMe
+        direction: DESC
     image: note.portrait
   - type: cards
     name: NPCs
+    filters:
+      and:
+        - file.path.contains("NPCs")
+        - file.fullname.contains(".md")
     order:
       - file.name
       - Pronouns
-      - notes
+      - Notes
     image: note.portrait
+  - type: table
+    name: Sessions
+    filters:
+      and:
+        - file.path.contains("Session Notes")
+    order:
+      - file.name
+      - Date
+      - notes
+    sort:
+      - property: Date
+        direction: DESC

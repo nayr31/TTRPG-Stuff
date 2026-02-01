@@ -1,10 +1,9 @@
 ---
-isMe: true
-portrait: "[[nelo.jpg]]"
+Pronouns: He/Him
 Class: Nightwalker Rogue
-race: Katari
+isMe: true
+Portrait: "[[nelo.jpg]]"
+Race: Katari
 ---
-It was never Nelo's plan to participate in the ongoings of the surface (and the ongoing fight against the darkness/shadows), but after **BLANK**, Nelo never had a choice (either from a bad deal, a contract gone wrong, or blackmail - bad intentions/he doesn't want to be here/prefers the easy life).
-
----
-
+Slyborne
+is being forced into doing the whole "defend the city" and "fight the forces of darkness" thing,
