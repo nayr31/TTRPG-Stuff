@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c1b487953430b2",
+        "id": "dd1c763b7a8ba574",
         "type": "tabs",
         "children": [
           {
-            "id": "6692fd4e76bccd83",
+            "id": "d80ad32a1a946a9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "10 - Player Campaigns/From Ruins/Players/Nelo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "91 - Bases/Vault Character Overview.base",
+                "viewName": "My Characters"
               },
-              "icon": "lucide-file",
-              "title": "Nelo"
+              "icon": "lucide-layout-grid",
+              "title": "Vault Character Overview"
             }
           }
         ]
@@ -241,12 +239,12 @@
       "obsidian42-brat:BRAT": true,
       "omnisearch:Omnisearch": true,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6692fd4e76bccd83",
+  "active": "d80ad32a1a946a9c",
   "lastOpenFiles": [
+    "10 - Player Campaigns/From Ruins/Players/Nelo.md",
     "91 - Bases/Vault Character Overview.base",
     "91 - Bases/Campaign Note Display.base",
     "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
@@ -255,7 +253,6 @@
     "test/Summary.md",
     "test/⭐ test.md",
     "test",
-    "10 - Player Campaigns/From Ruins/Players/Nelo.md",
     "10 - Player Campaigns/From Ruins/Pitch.md",
     "80 - Resources/Notes.md",
     "10 - Player Campaigns/Draconic Override/⭐ Draconic Override.md",
