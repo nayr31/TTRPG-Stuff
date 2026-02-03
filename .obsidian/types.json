@@ -3,18 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "excalidraw-plugin": "text",
     "Date": "date",
-    "max_mana": "number",
-    "max_grit": "number",
-    "current_mana": "number",
-    "current_grit": "number",
-    "Body": "number",
-    "Gods": "number",
-    "Mind": "number",
-    "Shadow": "number",
-    "Soul": "number",
-    "World": "number",
-    "isMe": "checkbox"
+    "isMe": "checkbox",
+    "Stats": "multitext"
   }
 }

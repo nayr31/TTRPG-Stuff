@@ -2,6 +2,13 @@
 isMe: true
 Portrait: "[[heretic.jpg]]"
 Class: Heretic
+Stats:
+  - "1"
+  - "1"
+  - "1"
+  - "1"
+  - "1"
+  - "1"
 ---
 
 > [!NOTE] Heretic Notes
@@ -34,8 +41,6 @@ Attributes:
 *Core Perk - Wings:* You possess radiant wings. You gain flight equal to your Speed. You may fly for a number of rounds equal to your Body (minimum 1) before landing
 
 
-body:: 1
-
 > [!multi-column-clean]
 > > [!about] Attributes
 > > Body: `INPUT[number:body]` // Shadow: `INPUT[number:shadow]`
@@ -47,3 +52,17 @@ body:: 1
 > 
 > > [!fail] The third one!
 
+```meta-bind
+INPUT[list:Stats]
+```
+
+```meta-bind-button
+style: primary
+label: +1 to body
+id: upbody
+action:
+  type: updateMetadata
+  bindTarget: scores
+  evaluate: true
+  value: "x.map((val, i) => i === 0 ? val + 1 : val)"
+```
