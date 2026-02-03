@@ -18,7 +18,8 @@
     "kanban tag color",
     "canvasnote",
     "ITS - Callouts",
-    "even callout columns"
+    "even callout columns",
+    "multi callout columns"
   ],
   "cssTheme": "AnuPpuccin",
   "baseFontSize": 16,

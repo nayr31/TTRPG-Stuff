@@ -31,6 +31,19 @@ Attributes:
 *Martial Tradition:* Suppression
 *Exploit:* Potent Venom (When using a poisoned weapon to attack an enemy, you gain a Boon on your attack roll.)
 *Race:* Adaphaen
-*Core Perk - Wiou possess radiant wings. You gain flight equal to your Speed. You may fly for a number of rounds equal to your Body (minimum 1) before landi`fds``HTMLf``HTMLf``HTML
+*Core Perk - Wings:* You possess radiant wings. You gain flight equal to your Speed. You may fly for a number of rounds equal to your Body (minimum 1) before landing
 
-```
+
+body:: 1
+
+> [!multi-column-clean]
+> > [!about] Attributes
+> > Body: `INPUT[number:body]` // Shadow: `INPUT[number:shadow]`
+>> Gods: `INPUT[number:gods]` // Soul `INPUT[number:soul]`
+>> Mind: `INPUT[number:mind]` // World: `INPUT[number:world]`
+> 
+> > [!tip] A secondary part
+> > Some text
+> 
+> > [!fail] The third one!
+
