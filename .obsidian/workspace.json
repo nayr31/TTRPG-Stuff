@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dd1c763b7a8ba574",
+        "id": "ffe43bebb8ef05c3",
         "type": "tabs",
         "children": [
           {
-            "id": "d80ad32a1a946a9c",
+            "id": "fbcc7c6e11f59aa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+                "file": "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "⭐ From Ruins"
+              "title": "Heretic"
             }
           }
         ]
@@ -244,13 +244,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d80ad32a1a946a9c",
+  "active": "fbcc7c6e11f59aa0",
   "lastOpenFiles": [
-    "10 - Player Campaigns/From Ruins/Pitch.md",
-    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
     "91 - Bases/Vault Character Overview.base",
-    "91 - Bases/Campaign Note Display.base",
+    "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
     "10 - Player Campaigns/From Ruins/Players/Nelo.md",
+    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+    "10 - Player Campaigns/From Ruins/Pitch.md",
+    "91 - Bases/Campaign Note Display.base",
     "80 - Resources/Obsidian Stuff/Meta Bind CSS Slot.md",
     "90 - Templates/Campaign/Campaign Overview Template.md",
     "test/Summary.md",
@@ -279,7 +280,6 @@
     "10 - Player Campaigns/From Ruins/Players/From Ruins.md",
     "10 - Player Campaigns/Draconic Override/Players/Stelan N..md",
     "90 - Templates/Campaign/Session Note Template.md",
-    "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
     "10 - Player Campaigns/camper/⭐ camper.md",
     "10 - Player Campaigns/camper",
     "10 - Player Campaigns/test camp/Players/Untitled.md",
