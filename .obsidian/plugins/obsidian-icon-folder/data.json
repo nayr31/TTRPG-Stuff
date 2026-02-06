@@ -13,7 +13,44 @@
       "🥩"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "NPCs",
+        "icon": "👷",
+        "for": "folders",
+        "order": 0
+      },
+      {
+        "rule": "Players",
+        "icon": "🧙‍♂️",
+        "for": "folders",
+        "order": 1
+      },
+      {
+        "rule": "Session Notes",
+        "icon": "📝",
+        "for": "folders",
+        "order": 2
+      },
+      {
+        "rule": "World",
+        "icon": "🌎",
+        "for": "folders",
+        "order": 3
+      },
+      {
+        "rule": "Events",
+        "icon": "🎫",
+        "for": "folders",
+        "order": 4
+      },
+      {
+        "rule": "Places",
+        "icon": "⛰",
+        "for": "folders",
+        "order": 5
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,

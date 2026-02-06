@@ -6,5 +6,6 @@ await app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) =>
   frontmatter["Race"] = ""
   frontmatter["Class"] = ""
 })
-await tp.file.move(tp.file.folder(true) + "/Players/" + tp.file.title)
+let path = tp.file.folder(true) + (tp.file.folder(false) == "Players" ? "/" : "/Players/") + tp.file.title
+await tp.file.move(path)
 %>

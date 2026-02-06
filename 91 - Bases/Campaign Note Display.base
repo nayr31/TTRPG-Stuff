@@ -1,13 +1,20 @@
 filters:
   and:
     - file.folder.startsWith(this.file.folder) && file.path != this.file.path
+formulas:
+  name: link(file.name)
+  World Type: if(file.folder.endsWith("Places"), "Place", "Event")
 properties:
   note.Pronouns:
     displayName: Pronouns
   note.notes:
     displayName: Notes
   file.name:
-    displayName: Session
+    displayName: Name
+  formula.name:
+    displayName: Event/Place
+  file.backlinks:
+    displayName: backlinks
 views:
   - type: cards
     name: Players
@@ -49,3 +56,24 @@ views:
     sort:
       - property: Date
         direction: DESC
+  - type: table
+    name: The World
+    filters:
+      and:
+        - file.path.contains("World")
+    groupBy:
+      property: formula.World Type
+      direction: ASC
+    order:
+      - file.name
+      - Notes
+      - Related
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: formula.name
+        direction: ASC
+    columnSize:
+      formula.name: 123
+      note.Notes: 380
+    rowHeight: medium

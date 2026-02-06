@@ -4,55 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "8a78174e767c13fc",
-        "type": "split",
+        "id": "56746a8c56fa64f5",
+        "type": "tabs",
         "children": [
           {
-            "id": "82a384c0961ac3e0",
-            "type": "tabs",
-            "dimension": 63.21428571428571,
-            "children": [
-              {
-                "id": "91d38c2f9c27d469",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Heretic"
-                }
-              }
-            ]
-          },
-          {
-            "id": "fb76cad1e52c1fa6",
-            "type": "tabs",
-            "dimension": 36.78571428571429,
-            "children": [
-              {
-                "id": "3107454f79a18e55",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Stats.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Stats"
-                }
-              }
-            ]
+            "id": "40e8e9bc811940a4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🛰️ Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "🛰️ Dashboard"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,56 +244,56 @@
       "obsidian42-brat:BRAT": true,
       "omnisearch:Omnisearch": true,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "91d38c2f9c27d469",
+  "active": "40e8e9bc811940a4",
   "lastOpenFiles": [
-    "Stats.md",
-    "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
-    "92 - Buttons",
-    "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
-    "91 - Bases/Vault Character Overview.base",
-    "10 - Player Campaigns/From Ruins/Players/Nelo.md",
+    "10 - Player Campaigns/From Ruins/World/Places/Vlarios.md",
+    "91 - Bases/Vault Overview.base",
     "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
-    "10 - Player Campaigns/From Ruins/Pitch.md",
-    "91 - Bases/Campaign Note Display.base",
-    "80 - Resources/Obsidian Stuff/Meta Bind CSS Slot.md",
+    "10 - Player Campaigns/From Ruins/NPCs/Elwin Havensong.md",
+    "10 - Player Campaigns/From Ruins/NPCs/Sabien Adorus.md",
+    "10 - Player Campaigns/From Ruins/NPCs/The Black Rose.md",
+    "10 - Player Campaigns/From Ruins/NPCs/Zaya.md",
+    "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+    "10 - Player Campaigns/From Ruins/World/Events/Fall of the Old World.md",
+    "🛰️ Dashboard.md",
+    "10 - Player Campaigns/From Ruins/Players/Nelo.md",
+    "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
     "90 - Templates/Campaign/Campaign Overview Template.md",
-    "test/Summary.md",
-    "test/⭐ test.md",
-    "test",
-    "80 - Resources/Notes.md",
-    "10 - Player Campaigns/Draconic Override/⭐ Draconic Override.md",
-    "10 - Player Campaigns/From Ruins/Players/Lyssa Valeria Brooks.md",
-    "10 - Player Campaigns/From Ruins/Players/Yuger.md",
+    "90 - Templates/Campaign/Event Template.md",
+    "90 - Templates/Campaign/Place Template.md",
+    "90 - Templates/Campaign/Session Note Template.md",
+    "90 - Templates/Campaign/Player Template.md",
+    "90 - Templates/Campaign/NPC Template.md",
+    "10 - Player Campaigns/From Ruins/NPCs/guy.md",
+    "10 - Player Campaigns/From Ruins/giu.md",
+    "10 - Player Campaigns/From Ruins/guy.md",
+    "10 - Player Campaigns/From Ruins/guy.md",
+    "10 - Player Campaigns/From Ruins/gdrf.md",
+    "10 - Player Campaigns/From Ruins/guy.md",
+    "10 - Player Campaigns/From Ruins/new guy.md",
+    "10 - Player Campaigns/From Ruins/mew guy.md",
+    "10 - Player Campaigns/goog/Session Notes",
+    "10 - Player Campaigns/goog/NPCs",
+    "10 - Player Campaigns/goog/Players",
+    "10 - Player Campaigns/goog/World/Events",
+    "10 - Player Campaigns/goog/World/Places",
+    "10 - Player Campaigns/goog/World",
+    "10 - Player Campaigns/goog",
+    "10 - Player Campaigns/From Ruins/World/Events",
+    "10 - Player Campaigns/From Ruins/World/Events/World/Events",
     "10 - Player Campaigns/From Ruins/Players/lyssa.webp",
     "10 - Player Campaigns/From Ruins/Players/lyssavaleria.webp",
     "10 - Player Campaigns/From Ruins/Players/yuger.webp",
     "10 - Player Campaigns/From Ruins/Players/b7115af8a463564d6a53de9358acf3d2.webp",
-    "10 - Player Campaigns/From Ruins/NPCs/Zaya.md",
-    "10 - Player Campaigns/From Ruins/NPCs/The Black Rose.md",
-    "10 - Player Campaigns/From Ruins/NPCs/Sabien Adorus.md",
-    "10 - Player Campaigns/From Ruins/NPCs/Elwin Havensong.md",
     "10 - Player Campaigns/From Ruins/NPCs/zaya.webp",
     "10 - Player Campaigns/From Ruins/NPCs/image.webp",
     "10 - Player Campaigns/From Ruins/NPCs/elwin.webp",
     "10 - Player Campaigns/From Ruins/NPCs/the black rose.webp",
     "10 - Player Campaigns/From Ruins/NPCs/sabien.webp",
-    "10 - Player Campaigns/From Ruins/Session Notes/Session 2.md",
-    "90 - Templates/Campaign/Player Template.md",
-    "90 - Templates/Campaign/NPC Template.md",
-    "10 - Player Campaigns/From Ruins/Players/From Ruins.md",
-    "10 - Player Campaigns/Draconic Override/Players/Stelan N..md",
-    "90 - Templates/Campaign/Session Note Template.md",
-    "10 - Player Campaigns/camper/⭐ camper.md",
-    "10 - Player Campaigns/camper",
-    "10 - Player Campaigns/test camp/Players/Untitled.md",
-    "10 - Player Campaigns/test camp/Players",
-    "10 - Player Campaigns/test camp",
-    "10 - Player Campaigns/New camp/test",
-    "10 - Player Campaigns/New camp",
-    "10 - Player Campaigns/New test",
     "20 - GM Campaigns/Wilderfeast/Art/World map.png",
     "12 - Archived Characters/Minuano Rojo/📃Minuano Sheet.canvas",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",

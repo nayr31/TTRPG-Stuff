@@ -1,5 +1,8 @@
 formulas:
   Campaign: link(file.folder.split("/").slice(0, -1).join("/") + "/⭐ " + file.folder.split("/").slice(-2, -1), file.folder.split("/").slice(-2, -1))
+properties:
+  file.name:
+    displayName: Name
 views:
   - type: cards
     name: My Characters
@@ -12,3 +15,14 @@ views:
       - Class
       - formula.Campaign
     image: note.portrait
+  - type: table
+    name: Campaign List
+    filters:
+      and:
+        - file.path.startsWith("10 - Player Campaigns/")
+        - file.name.contains("⭐")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC

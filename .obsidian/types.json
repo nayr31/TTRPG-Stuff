@@ -5,6 +5,7 @@
     "tags": "tags",
     "Date": "date",
     "isMe": "checkbox",
-    "Stats": "multitext"
+    "Stats": "multitext",
+    "Related": "multitext"
   }
 }

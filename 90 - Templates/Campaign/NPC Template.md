@@ -4,5 +4,6 @@ await app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) =>
   frontmatter["Pronouns"] = ""
   frontmatter["Notes"] = ""
 })
-await tp.file.move(tp.file.folder(true) + "/NPCs/" + tp.file.title)
+let path = tp.file.folder(true) + (tp.file.folder(false) == "NPCs" ? "/" : "/NPCs/") + tp.file.title
+await tp.file.move(path)
 %>
