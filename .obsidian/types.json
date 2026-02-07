@@ -6,6 +6,7 @@
     "Date": "date",
     "isMe": "checkbox",
     "Stats": "multitext",
-    "Related": "multitext"
+    "Related": "multitext",
+    "Show": "checkbox"
   }
 }

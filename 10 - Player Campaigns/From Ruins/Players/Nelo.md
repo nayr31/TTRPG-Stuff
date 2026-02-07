@@ -4,6 +4,7 @@ Class: Nightwalker Rogue
 isMe: true
 Portrait: "[[nelo.jpg]]"
 Race: Katari
+Show: true
 ---
 Slyborne
 

@@ -29,6 +29,7 @@ views:
     order:
       - file.name
       - Status
+      - System
     sort:
       - property: file.name
         direction: ASC

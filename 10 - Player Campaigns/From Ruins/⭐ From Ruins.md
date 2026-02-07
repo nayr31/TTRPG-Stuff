@@ -1,5 +1,6 @@
 ---
 Status: 🟢 Active
+System: Daggerheart
 ---
 # Players 
 ![[Campaign Note Display.base#Players]]
