@@ -23,24 +23,8 @@
               "icon": "lucide-file",
               "title": "🛰️ Dashboard"
             }
-          },
-          {
-            "id": "583d70c9c9ddbba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "⭐ From Ruins"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,13 +248,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "583d70c9c9ddbba6",
+  "active": "40e8e9bc811940a4",
   "lastOpenFiles": [
+    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
     "🛰️ Dashboard.md",
     "10 - Player Campaigns/From Ruins/World/Places/Vlarios.md",
     "10 - Player Campaigns/From Ruins/Players/Nelo.md",
     "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
-    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
     "90 - Templates/Campaign/New Info Suggester Template.md",
     "90 - Templates/Campaign/Session Note Template.md",
     "10 - Player Campaigns/From Ruins/Session Notes/Session 2.md",
