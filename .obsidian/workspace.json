@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56746a8c56fa64f5",
+        "id": "289960ba21dd77fd",
         "type": "tabs",
         "children": [
           {
-            "id": "40e8e9bc811940a4",
+            "id": "6c0597c47897fab3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -248,12 +248,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "40e8e9bc811940a4",
+  "active": "6c0597c47897fab3",
   "lastOpenFiles": [
-    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
     "🛰️ Dashboard.md",
-    "10 - Player Campaigns/From Ruins/World/Places/Vlarios.md",
+    "10 - Player Campaigns/Draconic Override/⭐ Draconic Override.md",
+    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+    "90 - Templates/Campaign/Campaign Overview Template.md",
     "10 - Player Campaigns/From Ruins/Players/Nelo.md",
+    "10 - Player Campaigns/From Ruins/World/Places/Vlarios.md",
     "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
     "90 - Templates/Campaign/New Info Suggester Template.md",
     "90 - Templates/Campaign/Session Note Template.md",
@@ -261,7 +263,6 @@
     "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
     "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
     "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
-    "90 - Templates/Campaign/Campaign Overview Template.md",
     "91 - Bases/Vault Overview.base",
     "10 - Player Campaigns/From Ruins/NPCs/Elwin Havensong.md",
     "10 - Player Campaigns/From Ruins/NPCs/Sabien Adorus.md",

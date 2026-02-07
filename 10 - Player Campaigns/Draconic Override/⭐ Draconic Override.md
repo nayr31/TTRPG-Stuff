@@ -1,3 +1,6 @@
+---
+Status: 🟡 Inactive
+---
 # Players 
 ![[Campaign Note Display.base#Players]]
 

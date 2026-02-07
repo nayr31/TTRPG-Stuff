@@ -3,6 +3,8 @@ formulas:
 properties:
   file.name:
     displayName: Name
+  formula.Campaign:
+    displayName: Campaign
 views:
   - type: cards
     name: My Characters
@@ -21,9 +23,12 @@ views:
       and:
         - file.path.startsWith("10 - Player Campaigns/")
         - file.name.contains("⭐")
+    groupBy:
+      property: Status
+      direction: DESC
     order:
       - file.name
-      - Notes
+      - Status
     sort:
       - property: file.name
         direction: ASC
