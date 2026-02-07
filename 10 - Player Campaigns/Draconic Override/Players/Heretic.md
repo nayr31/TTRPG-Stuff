@@ -209,3 +209,9 @@ action:
   value: "x.map((val, i) => i === 5 ? Number(val) + 1 : val)"
 ```
 
+
+
+---
+
+All though the path to holy worship is laden with broken glass, I walk it barefoot all the same
+Corruption of the flesh is the least of your worries

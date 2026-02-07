@@ -23,6 +23,9 @@ views:
         - file.name.contains("⭐")
     order:
       - file.name
+      - Notes
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      file.name: 200

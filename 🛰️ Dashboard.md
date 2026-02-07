@@ -1,5 +1,6 @@
-# My Characters
+## 🧙‍♂️ My Characters
 ![[Vault Overview.base]]
 
-# My Campaigns
+## 🗺️ My Campaigns
 ![[Vault Overview.base#Campaign List]]
+
