@@ -18,6 +18,32 @@
     z-index: -1;
 }
 
+.has-banner .markdown-preview-view .banner-image:not(:empty) {
+    z-index: 1;
+}
+
+.has-banner .markdown-preview-sizer {
+  position: relative;
+  z-index: 2;
+}
+
+
+/*
+
+.markdown-preview-view .banner-image:not(:empty) {
+  z-index: 0;
+}
+
+.markdown-preview-view:has(.banner-image) .markdown-preview-sizer > * {
+  position: relative;
+  z-index: 1;
+}
+
+*/
+
+
+
+
 .workspace-split.mod-root .view-content.has-banner {
   background-color: transparent;
 }
@@ -246,9 +272,13 @@
 
 
 /* SIDE IMAGES*/
+  
+.cm-sizer,
+.mod-header {
+  container-type: inline-size;
+}
 
-
-@media (min-width: 600px) {
+@container (width >= 600px) {
   .metadata-container:has(.metadata-side-image .pp-cover-image) {
     --metadata-display-editing: grid;
     --metadata-display-reading: grid;
@@ -256,8 +286,6 @@
     grid-template-rows: auto 1fr;
   }
 }
-
-
 
 
 
@@ -343,14 +371,19 @@
 
 
 
-@media (max-width: 600px) {
+
+@container (width < 600px) {
   .metadata-side-image {
     text-align: center;
   }
-  
+
   .metadata-side-image .pp-cover-image {
+    width: var(--cover-column-width) !important;
+  }
+  
+  .is-phone .metadata-side-image .pp-cover-image {
     height: 200px !important;
-	width: auto !important;
+	  width: auto !important;
     margin: auto;
   }
 
@@ -372,7 +405,6 @@
     width: 200px !important;
   }
 }
-
 
 
 
@@ -1443,6 +1475,17 @@ body:not(.show-hidden-properties) .hover-popover .metadata-property.is-empty.pp-
 .hide-metadata-if-props-empty-reading:not(.show-hidden-properties) .markdown-preview-view .metadata-container.pp-mc-hidden,
 .hide-metadata-if-props-empty-reading.hide-all-empty-properties:not(.show-hidden-properties) .markdown-preview-view .metadata-container.pp-mc-empty-hidden {
     display: none;
+}
+
+
+.markdown-source-view .metadata-container.pp-mc-empty-hidden:focus-within,
+.markdown-source-view .metadata-container.pp-mc-empty-hidden:has(.metadata-property[data-property-key=""]) {
+  display: var(--metadata-display-editing) !important;
+}
+
+.markdown-preview-view .metadata-container.pp-mc-empty-hidden:focus-within,
+.markdown-preview-view .metadata-container.pp-mc-empty-hidden:has(.metadata-property[data-property-key=""]) {
+  display: var(--metadata-display-reading) !important;
 }
 
 

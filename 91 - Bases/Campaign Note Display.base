@@ -3,7 +3,7 @@ filters:
     - file.folder.startsWith(this.file.folder) && file.path != this.file.path
 formulas:
   name: link(file.name)
-  World Type: if(file.folder.endsWith("Places"), "Place", if(file.folder.endsWith("Events"), "Event", "Other"))
+  World Type: if(file.folder.endsWith("Places"), "⛰️ Place", if(file.folder.endsWith("Events"), "🎫 Event", "🛠 Other"))
 properties:
   note.Pronouns:
     displayName: Pronouns
@@ -52,9 +52,11 @@ views:
     order:
       - file.name
       - Date
-      - notes
+      - Notes
     sort:
       - property: Date
+        direction: DESC
+      - property: file.name
         direction: DESC
   - type: table
     name: The World
@@ -63,7 +65,7 @@ views:
         - file.path.contains("World")
     groupBy:
       property: formula.World Type
-      direction: ASC
+      direction: DESC
     order:
       - file.name
       - Notes
@@ -73,6 +75,7 @@ views:
         direction: ASC
       - property: formula.name
         direction: ASC
+    limit: 4
     columnSize:
       formula.name: 123
       note.Notes: 380

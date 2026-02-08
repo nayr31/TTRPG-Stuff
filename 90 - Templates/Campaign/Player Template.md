@@ -1,4 +1,5 @@
 <%*
+// Update the frontmatter
 await app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
   frontmatter["isMe"] = false
   frontmatter["Portrait"] = "[[playernodata.png]]"
@@ -6,6 +7,8 @@ await app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) =>
   frontmatter["Race"] = ""
   frontmatter["Class"] = ""
 })
+
+// Rename and move
 let path = tp.file.folder(true) + (tp.file.folder(false) == "Players" ? "/" : "/Players/") + tp.file.title
 await tp.file.move(path)
 %>

@@ -27,8 +27,9 @@ views:
       property: Status
       direction: DESC
     order:
-      - file.name
       - Status
+      - file.name
+      - Latest Session
       - System
     sort:
       - property: file.name

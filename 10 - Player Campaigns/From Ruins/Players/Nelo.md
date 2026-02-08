@@ -6,6 +6,11 @@ Portrait: "[[nelo.jpg]]"
 Race: Katari
 Show: true
 ---
+# Vibes
+
+
+# Background
+
 Slyborne
 
 Ekarta became the last bastion of hope against the darkness. But with every source of power and hope there will always be those who wish to take that power for their own. Nelo and his younger sister, Klem, were no strangers to these power struggles.

@@ -23,8 +23,39 @@
               "icon": "lucide-file",
               "title": "🛰️ Dashboard"
             }
+          },
+          {
+            "id": "d3151de88023cf65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "⭐ From Ruins"
+            }
+          },
+          {
+            "id": "752092779f7420b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90 - Templates/Campaign/Player Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Player Template"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,35 +279,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6c0597c47897fab3",
+  "active": "d3151de88023cf65",
   "lastOpenFiles": [
-    "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
-    "🛰️ Dashboard.md",
     "10 - Player Campaigns/From Ruins/Players/Nelo.md",
+    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+    "90 - Templates/Campaign/Player Template.md",
+    "10 - Player Campaigns/From Ruins/Players/Yuger.md",
+    "10 - Player Campaigns/From Ruins/Players/Lyssa Valeria Brooks.md",
+    "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
+    "🛰️ Dashboard.md",
+    "10 - Player Campaigns/From Ruins/NPCs/Zaya.md",
+    "90 - Templates/Campaign/New Info Suggester Template.md",
+    "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+    "80 - Resources/Notes.md",
+    "10 - Player Campaigns/From Ruins/World/Terminology.md",
+    "10 - Player Campaigns/From Ruins/Session Notes/Session 0.md",
+    "90 - Templates/Campaign/Place Template.md",
+    "90 - Templates/Campaign/Session Note Template.md",
+    "90 - Templates/Campaign/Event Template.md",
+    "90 - Templates/Campaign/NPC Template.md",
+    "10 - Player Campaigns/From Ruins/Session Notes/Session 3.md",
+    "10 - Player Campaigns/From Ruins/Session Notes/Session 2.md",
+    "10 - Player Campaigns/From Ruins/Session Notes/Session 4.md",
+    "10 - Player Campaigns/From Ruins/Session Notes/Session 3.md",
+    "10 - Player Campaigns/From Ruins/Session Notes/Session 2.md",
+    "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
     "Untitled.md",
     "10 - Player Campaigns/Draconic Override/⭐ Draconic Override.md",
-    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
-    "90 - Templates/Campaign/Campaign Overview Template.md",
-    "10 - Player Campaigns/From Ruins/World/Places/Vlarios.md",
-    "90 - Templates/Campaign/New Info Suggester Template.md",
-    "90 - Templates/Campaign/Session Note Template.md",
-    "10 - Player Campaigns/From Ruins/Session Notes/Session 2.md",
-    "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
-    "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
-    "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
     "91 - Bases/Vault Overview.base",
-    "10 - Player Campaigns/From Ruins/NPCs/Elwin Havensong.md",
-    "10 - Player Campaigns/From Ruins/NPCs/Sabien Adorus.md",
-    "10 - Player Campaigns/From Ruins/NPCs/The Black Rose.md",
-    "10 - Player Campaigns/From Ruins/NPCs/Zaya.md",
-    "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
-    "10 - Player Campaigns/From Ruins/World/Events/Fall of the Old World.md",
-    "90 - Templates/Campaign/Event Template.md",
-    "90 - Templates/Campaign/Place Template.md",
-    "90 - Templates/Campaign/Player Template.md",
-    "90 - Templates/Campaign/NPC Template.md",
-    "10 - Player Campaigns/From Ruins/NPCs/guy.md",
-    "10 - Player Campaigns/From Ruins/giu.md",
     "10 - Player Campaigns/goog/Session Notes",
     "10 - Player Campaigns/goog/NPCs",
     "10 - Player Campaigns/goog/Players",
