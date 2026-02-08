@@ -27,11 +27,12 @@ views:
       property: Status
       direction: DESC
     order:
-      - Status
       - file.name
       - Latest Session
       - System
     sort:
+      - property: file.mtime
+        direction: DESC
       - property: file.name
         direction: ASC
     columnSize:
