@@ -30,16 +30,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+                "file": "10 - Player Campaigns/From Ruins/World/Terminology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "⭐ From Ruins"
+              "title": "Terminology"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,15 +264,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6c0597c47897fab3",
+  "active": "d3151de88023cf65",
   "lastOpenFiles": [
     "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+    "🛰️ Dashboard.md",
     "10 - Player Campaigns/From Ruins/Players/Nelo.md",
     "90 - Templates/Campaign/Player Template.md",
     "10 - Player Campaigns/From Ruins/Players/Yuger.md",
     "10 - Player Campaigns/From Ruins/Players/Lyssa Valeria Brooks.md",
     "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
-    "🛰️ Dashboard.md",
     "10 - Player Campaigns/From Ruins/NPCs/Zaya.md",
     "90 - Templates/Campaign/New Info Suggester Template.md",
     "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
