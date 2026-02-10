@@ -1,5 +1,7 @@
 ---
 Notes: A list of terms.
+Related:
+  - "[[Fall of the Old World]]"
 ---
 ## Term Glossary
 **Dineri** *dih-neh-ree* (n.): Refers to a soul, energy, or life force. Generally referred to as a positive force, though it's meant to be a neutral term. 
