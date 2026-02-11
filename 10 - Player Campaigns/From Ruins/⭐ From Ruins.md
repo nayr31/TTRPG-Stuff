@@ -21,5 +21,13 @@ Latest Session:
 ```button
 name Create new connection
 type command
-action Templater: Insert YourSubfolder/YourTemplateName
+action Templates: Insert Template
+```
+
+```meta-bind-button
+style: primary
+label: Add New Connection
+action:
+  type: command
+  command: templater-obsidian:insert-template
 ```

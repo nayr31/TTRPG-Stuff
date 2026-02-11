@@ -1,7 +1,6 @@
 formulas:
   Campaign: file(link(file.folder.split("/").slice(0, -1).join("/") + "/⭐ " + file.folder.split("/").slice(-2, -1)))
   Active status: formula.Campaign.properties.Status
-  Relation: link()
 properties:
   file.name:
     displayName: Name
@@ -21,6 +20,7 @@ views:
       - file.name
       - Class
       - formula.Campaign
+      - Connections
     sort:
       - property: formula.Active status
         direction: DESC
