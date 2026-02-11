@@ -43,7 +43,10 @@ views:
     sort:
       - property: file.mtime
         direction: DESC
-    image: note.portrait
+    image: note.Portrait
+    rowHeight: tall
+    imageAspectRatio: 1
+    cardSize: 150
   - type: table
     name: Sessions
     filters:

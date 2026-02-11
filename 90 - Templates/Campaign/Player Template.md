@@ -6,6 +6,7 @@ await app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) =>
   frontmatter["Pronouns"] = ""
   frontmatter["Race"] = ""
   frontmatter["Class"] = ""
+  frontmatter["Connections"] = []
 })
 
 // Rename and move

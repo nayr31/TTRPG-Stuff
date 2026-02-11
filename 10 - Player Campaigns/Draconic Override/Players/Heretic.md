@@ -9,7 +9,6 @@ Stats:
   - "1"
   - "1"
   - "1"
-Show: true
 ---
 
 > [!NOTE] Heretic Notes

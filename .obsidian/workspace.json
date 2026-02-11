@@ -23,6 +23,73 @@
               "icon": "lucide-file",
               "title": "🛰️ Dashboard"
             }
+          },
+          {
+            "id": "af4543bcd2843753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90 - Templates/Automations/New Connection Automation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "New Connection Automation"
+            }
+          },
+          {
+            "id": "38c844b5b936fd25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90 - Templates/Campaign/Player Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Player Template"
+            }
+          },
+          {
+            "id": "f4f265e38c10ff15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "⭐ From Ruins"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "741cb6600473422b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a83eda8680a1c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 - Player Campaigns/From Ruins/Players/Nelo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Nelo"
+            }
           }
         ]
       }
@@ -206,28 +273,16 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "660c67770c8a77ed",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "📑 Campaign Overview.md"
-              },
-              "pinned": true,
-              "icon": "lucide-info",
-              "title": "File properties for 📑 Campaign Overview"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -245,37 +300,40 @@
       "omnisearch:Omnisearch": true,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "6c0597c47897fab3",
+  "active": "f4f265e38c10ff15",
   "lastOpenFiles": [
-    "80 - Resources/System specific/PF2e crafting time.md",
-    "10 - Player Campaigns/From Ruins/World/Terminology.md",
+    "90 - Templates/Automations/New Connection Automation.md",
     "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
-    "10 - Player Campaigns/From Ruins/World/Events/Fall of the Old World.md",
-    "🛰️ Dashboard.md",
     "10 - Player Campaigns/From Ruins/Players/Nelo.md",
     "90 - Templates/Campaign/Player Template.md",
+    "🛰️ Dashboard.md",
+    "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
+    "10 - Player Campaigns/From Ruins/World/Events/Untitled.md",
+    "90 - Templates/Automations",
+    "90 - Templates/Campaign/NPC Template.md",
+    "10 - Player Campaigns/From Ruins/NPCs/Klem.md",
+    "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
+    "10 - Player Campaigns/Draconic Override/⭐ Draconic Override.md",
+    "testing/Alex Mercer.md",
+    "testing",
+    "80 - Resources/System specific/PF2e crafting time.md",
+    "10 - Player Campaigns/From Ruins/World/Terminology.md",
+    "10 - Player Campaigns/From Ruins/World/Events/Fall of the Old World.md",
     "10 - Player Campaigns/From Ruins/Players/Yuger.md",
     "10 - Player Campaigns/From Ruins/Players/Lyssa Valeria Brooks.md",
     "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
     "10 - Player Campaigns/From Ruins/NPCs/Zaya.md",
     "90 - Templates/Campaign/New Info Suggester Template.md",
-    "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "80 - Resources/Notes.md",
     "10 - Player Campaigns/From Ruins/Session Notes/Session 0.md",
     "90 - Templates/Campaign/Place Template.md",
     "90 - Templates/Campaign/Session Note Template.md",
     "90 - Templates/Campaign/Event Template.md",
-    "90 - Templates/Campaign/NPC Template.md",
     "10 - Player Campaigns/From Ruins/Session Notes/Session 3.md",
-    "10 - Player Campaigns/From Ruins/Session Notes/Session 2.md",
-    "10 - Player Campaigns/From Ruins/Session Notes/Session 4.md",
-    "10 - Player Campaigns/From Ruins/Session Notes/Session 3.md",
-    "10 - Player Campaigns/From Ruins/Session Notes/Session 2.md",
-    "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
-    "Untitled.md",
     "91 - Bases/Vault Overview.base",
     "10 - Player Campaigns/goog/Session Notes",
     "10 - Player Campaigns/goog/NPCs",
@@ -284,8 +342,6 @@
     "10 - Player Campaigns/goog/World/Places",
     "10 - Player Campaigns/goog/World",
     "10 - Player Campaigns/goog",
-    "10 - Player Campaigns/From Ruins/World/Events",
-    "10 - Player Campaigns/From Ruins/World/Events/World/Events",
     "10 - Player Campaigns/From Ruins/Players/lyssa.webp",
     "10 - Player Campaigns/From Ruins/Players/lyssavaleria.webp",
     "10 - Player Campaigns/From Ruins/Players/yuger.webp",

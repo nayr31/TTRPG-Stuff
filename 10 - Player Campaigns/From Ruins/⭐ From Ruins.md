@@ -17,3 +17,9 @@ Latest Session:
 
 > [!info] 🏛 Pitch
 > ![[10 - Player Campaigns/From Ruins/Pitch|Pitch]]
+
+```button
+name Create new connection
+type command
+action Templater: Insert YourSubfolder/YourTemplateName
+```

@@ -1,5 +1,7 @@
 formulas:
-  Campaign: link(file.folder.split("/").slice(0, -1).join("/") + "/⭐ " + file.folder.split("/").slice(-2, -1), file.folder.split("/").slice(-2, -1))
+  Campaign: file(link(file.folder.split("/").slice(0, -1).join("/") + "/⭐ " + file.folder.split("/").slice(-2, -1)))
+  Active status: formula.Campaign.properties.Status
+  Relation: link()
 properties:
   file.name:
     displayName: Name
@@ -12,17 +14,25 @@ views:
       and:
         - file.inFolder("10 - Player Campaigns")
         - isMe == true
+        - or:
+            - formula["Active status"] == "🟢 Active"
+            - formula["Active status"] == "🟡 Inactive"
     order:
       - file.name
       - Class
       - formula.Campaign
+    sort:
+      - property: formula.Active status
+        direction: DESC
     image: note.portrait
   - type: table
     name: Campaign List
     filters:
       and:
-        - file.path.startsWith("10 - Player Campaigns/")
         - file.name.contains("⭐")
+        - or:
+            - file.inFolder("10 - Player Campaigns")
+            - file.inFolder("11 - Archived Player Campaigns")
     groupBy:
       property: Status
       direction: DESC
