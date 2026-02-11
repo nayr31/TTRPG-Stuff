@@ -5,7 +5,6 @@ isMe: true
 Portrait: "[[nelo.jpg]]"
 Race: Katari
 Connections:
-  - "[[Klem|Big brother of Klem]]"
 ---
 # Background
 

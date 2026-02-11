@@ -1,6 +1,7 @@
 ---
 Pronouns: She/Her
-Notes: "[[Nelo]]"
+Notes: Nelo's sister
 Portrait: "[[playernodata.png]]"
+Connections:
 ---
 

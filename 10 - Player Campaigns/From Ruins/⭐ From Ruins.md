@@ -3,6 +3,13 @@ Status: 🟢 Active
 System: Daggerheart
 Latest Session:
 ---
+```meta-bind-button
+style: default
+label: 🔗 New Connection
+action:
+  type: command
+  command: templater-obsidian:90 - Templates/Automations/New Connection Automation.md
+```
 # Players 
 ![[Campaign Note Display.base#Players]]
 
@@ -18,16 +25,4 @@ Latest Session:
 > [!info] 🏛 Pitch
 > ![[10 - Player Campaigns/From Ruins/Pitch|Pitch]]
 
-```button
-name Create new connection
-type command
-action Templates: Insert Template
-```
 
-```meta-bind-button
-style: primary
-label: Add New Connection
-action:
-  type: command
-  command: templater-obsidian:insert-template
-```

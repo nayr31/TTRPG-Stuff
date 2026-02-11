@@ -20,7 +20,6 @@ views:
       - file.name
       - Class
       - formula.Campaign
-      - Connections
     sort:
       - property: formula.Active status
         direction: DESC

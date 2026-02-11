@@ -1,6 +1,13 @@
 ---
 Status:
 ---
+```meta-bind-button
+style: default
+label: 🔗 New Connection
+action:
+  type: command
+  command: templater-obsidian:90 - Templates/Automations/New Connection Automation.md
+```
 # Players 
 ![[Campaign Note Display.base#Players]]
 
