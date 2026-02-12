@@ -1,9 +1,10 @@
 ---
 Pronouns: She/Her
 Notes: Nelo's sister
-Portrait: "[[playernodata.png]]"
+Portrait: "[[Klem_c.jpg]]"
 Connections:
-  - Test
   - "[[Nelo|Nelo → big brother of → Klem]]"
 ---
 
+# 🔗 Connections
+![[Connections.base#Character Connections]]

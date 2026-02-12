@@ -1,0 +1,33 @@
+filters:
+  and:
+    - this.file.basename != file.basename
+formulas:
+  Portrait: image(Portrait)
+  Connected by: Connections.filter(value.toString().contains(this.file.basename))
+  Number of Connections: formula["Connected by"].length
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Character Connections
+    filters:
+      and:
+        - "!Connections.isEmpty()"
+        - Connections.contains(this.file.basename)
+    groupBy:
+      property: Notes
+      direction: ASC
+    order:
+      - formula.Portrait
+      - file.name
+      - formula.Connected by
+    sort:
+      - property: formula.Number of Connections
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    indentProperties: true
+    rowHeight: tall
+    columnSize:
+      formula.Portrait: 151

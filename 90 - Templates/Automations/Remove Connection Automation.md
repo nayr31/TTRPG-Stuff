@@ -1,10 +1,23 @@
 <%*
-const currentFile = tp.config.target_file
+// Prompt for two files, listed from all character folders from within the current campaign folder
+const currentFolder = tp.file.folder(true)
+const foldersToSearch = ["Players", "NPCs"]
+
+const combinedFiles = app.vault.getMarkdownFiles().filter(file => {
+    return foldersToSearch.some(subDir => 
+        file.path.startsWith(`${currentFolder}/${subDir}`)
+    )
+})
+
+// Prompt for the file to remove
+const currentFile = await tp.system.suggester((f) => f.basename, combinedFiles, false, "Select the target file")
+
 const metadata = app.metadataCache.getFileCache(currentFile)?.frontmatter
 
 // Safeguard just in case no connections
 if (!metadata || !metadata.Connections || metadata.Connections.length === 0) {
     new Notice("No connections found in this file.")
+    console.log("No connections found in this file.")
     return
 }
 
@@ -43,4 +56,6 @@ if (otherFile){
 	new Notice("Couldn't find other file.")
 	console.log("Couldn't find other file.")
 }
+
+new Notice(`Removed Connection → ${file1.basename} and ${file2.basename}`)
 -%>

@@ -10,9 +10,11 @@ const combinedFiles = app.vault.getMarkdownFiles().filter(file => {
 })
 
 // Prompt for the two file to connect
-const file1 = await tp.system.suggester((f) => f.basename, combinedFiles, false, "Select the target file");
+const file1 = await tp.system.suggester((f) => f.basename, combinedFiles, false, "Select the target file")
 const file2 = await tp.system.suggester((f) => f.basename, combinedFiles, false, "Select the related file");
+if (!file1 || !file2) return
 const connection = await tp.system.prompt("What's the connection?")
+if (!connection) return
 const zippedForwards = `[[${file2.basename}|${file1.basename} → ` + connection + ` → ${file2.basename}]]`
 const zippedBackwards = `[[${file1.basename}|${file1.basename} → ` + connection + ` → ${file2.basename}]]`
 
@@ -26,4 +28,6 @@ await app.fileManager.processFrontMatter(file2, (frontmatter) => {
 	frontmatter["Connections"] = frontmatter["Connections"] || []
     frontmatter["Connections"].push(zippedBackwards)
 })
+
+new Notice(`New Connection! → ${file1.basename} and ${file2.basename}`)
 -%>

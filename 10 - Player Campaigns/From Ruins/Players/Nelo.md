@@ -6,6 +6,8 @@ Portrait: "[[nelo.jpg]]"
 Race: Katari
 Connections:
   - "[[Klem|Nelo → big brother of → Klem]]"
+  - "[[Lyssa Valeria Brooks|Nelo → in a party with → Lyssa Valeria Brooks]]"
+  - "[[Yuger|Nelo → in a party with → Yuger]]"
 ---
 # Background
 
@@ -59,3 +61,5 @@ They always knew Klem's time was short. This led both of them (mostly Klem) to c
 
 Due to her nature, even those last few days together Klem was making jokes (bad, dark humor) to try and make light of the situation for Nelo. "The world was silent without her commentary" (yes I stole that line)
 
+# 🔗 Connections
+![[Connections.base#Character Connections]]

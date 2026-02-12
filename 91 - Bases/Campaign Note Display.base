@@ -4,6 +4,7 @@ filters:
 formulas:
   name: link(file.name)
   World Type: if(file.folder.endsWith("Places"), "⛰️ Place", if(file.folder.endsWith("Events"), "🎫 Event", "🛠 Other"))
+  Most Recent Session: file.backlinks.filter(value.contains("Session")).reverse()[0]
 properties:
   note.Pronouns:
     displayName: Pronouns
@@ -40,7 +41,10 @@ views:
       - file.name
       - Pronouns
       - Notes
+      - formula.Most Recent Session
     sort:
+      - property: formula.Most Recent Session
+        direction: DESC
       - property: file.mtime
         direction: DESC
     image: note.Portrait

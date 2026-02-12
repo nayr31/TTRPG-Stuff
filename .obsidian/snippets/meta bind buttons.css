@@ -1,0 +1,56 @@
+/* 1. Remove the title (from before) */
+.pretty-inserts .markdown-embed-title {
+    display: none !important;
+}
+
+/* 2. Remove the border and the indent (margin/padding) */
+.pretty-inserts .markdown-embed, .internal-embed {
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+}
+
+/* 3. Ensure the content inside goes edge-to-edge */
+.pretty-inserts .markdown-embed-content,
+.markdown-embed-content > .markdown-rendered {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* 4. Optional: Hide the link icon in the top right */
+.pretty-inserts .markdown-embed-link {
+    display: none !important;
+}
+
+
+/* --------------------------------------- */
+
+
+/* New connection */
+.new-connection .mb-button-inner {
+    background-color: #238636 !important; /* Change to your hex code */
+    color: white !important;               /* Text color */
+    border: none !important;
+}
+
+/* Change color when hovering */
+.new-connection .mb-button-inner:hover {
+    background-color: #2da44e !important;
+    transform: translateY(-1px); 
+}
+
+
+
+/* Remove connection */
+.remove-connection .mb-button-inner {
+    background-color: #da3633 !important; /* Change to your hex code */
+    color: white !important;               /* Text color */
+    border: none !important;
+}
+
+/* Change color when hovering */
+.remove-connection .mb-button-inner:hover {
+    background-color: #f85149 !important;
+    transform: translateY(-1px); 
+}
