@@ -22,8 +22,8 @@ const otherFile = app.vault.getMarkdownFiles().find(f => f.basename === otherFil
 if (otherFile){
 	// Remove from this file
 	await app.fileManager.processFrontMatter(currentFile, (fm) => {
-		console.log("Ready to remove (1)")
-	    //fm.Connections.splice(indexToRemove, 1)
+		console.log("Removing connection from file origin...")
+	    fm.Connections.splice(indexToRemove, 1)
 	})
 	
 	//Remove from the connected file
@@ -33,8 +33,10 @@ if (otherFile){
         const backIndex = fm.Connections.indexOf(backLink)
         
         if (backIndex !== -1) {
-            console.log("Ready to remove (2)")
-            //fm.Connections.splice(backIndex, 1)
+            console.log("Removing connection from back file...")
+            fm.Connections.splice(backIndex, 1)
+        } else {
+	        console.log("Failed to find back file.")
         }
     });
 } else {
