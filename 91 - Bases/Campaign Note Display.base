@@ -2,7 +2,6 @@ filters:
   and:
     - file.folder.startsWith(this.file.folder) && file.path != this.file.path
 formulas:
-  name: link(file.name)
   World Type: if(file.folder.endsWith("Places"), "⛰️ Place", if(file.folder.endsWith("Events"), "🎫 Event", "🛠 Other"))
   Most Recent Session: file.backlinks.filter(value.contains("Session")).reverse()[0]
 properties:
@@ -12,8 +11,6 @@ properties:
     displayName: Notes
   file.name:
     displayName: Name
-  formula.name:
-    displayName: Event/Place
   file.backlinks:
     displayName: backlinks
 views:
@@ -79,8 +76,6 @@ views:
       - Related
     sort:
       - property: file.name
-        direction: ASC
-      - property: formula.name
         direction: ASC
     limit: 4
     columnSize:

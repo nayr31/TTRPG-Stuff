@@ -1,4 +1,4 @@
-> [!tip] Actions
+> [!tip]- Actions
 > `BUTTON[addCon]` `BUTTON[rmCon]`
 > ```meta-bind-button
 style: default
