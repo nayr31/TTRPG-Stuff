@@ -33,14 +33,11 @@
     color: white !important;               /* Text color */
     border: none !important;
 }
-
 /* Change color when hovering */
 .new-connection .mb-button-inner:hover {
     background-color: #2da44e !important;
     transform: translateY(-1px); 
 }
-
-
 
 /* Remove connection */
 .remove-connection .mb-button-inner {
@@ -48,9 +45,92 @@
     color: white !important;               /* Text color */
     border: none !important;
 }
-
 /* Change color when hovering */
 .remove-connection .mb-button-inner:hover {
     background-color: #f85149 !important;
+    transform: translateY(-1px); 
+}
+
+/* New Campaign */
+.new-campaign .mb-button-inner {
+    background-color: #1d4ed8 !important; /* Change to your hex code */
+    color: white !important;               /* Text color */
+    border: none !important;
+}
+/* Change color when hovering */
+.new-campaign .mb-button-inner:hover {
+    background-color: #3b82f6 !important;
+    transform: translateY(-1px); 
+}
+
+/* New info */
+.new-info .mb-button-inner {
+    background-color: #7c3aed !important; /* Change to your hex code */
+    color: white !important;               /* Text color */
+    border: none !important;
+}
+/* Change color when hovering */
+.new-info .mb-button-inner:hover {
+    background-color: #a78bfa !important;
+    transform: translateY(-1px); 
+}
+
+/* New player */
+.new-player .mb-button-inner {
+    background-color: #0891b2 !important; /* Change to your hex code */
+    color: white !important;               /* Text color */
+    border: none !important;
+}
+/* Change color when hovering */
+.new-player .mb-button-inner:hover {
+    background-color: #22d3ee !important;
+    transform: translateY(-1px); 
+}
+
+/* New NPC */
+.new-npc .mb-button-inner {
+    background-color: #d97706 !important; /* Change to your hex code */
+    color: white !important;               /* Text color */
+    border: none !important;
+}
+/* Change color when hovering */
+.new-npc .mb-button-inner:hover {
+    background-color: #f59e0b !important;
+    transform: translateY(-1px); 
+}
+
+/* New Session note */
+.new-sessionnote .mb-button-inner {
+    background-color: #4b5563 !important; /* Change to your hex code */
+    color: white !important;               /* Text color */
+    border: none !important;
+}
+/* Change color when hovering */
+.new-sessionnote .mb-button-inner:hover {
+    background-color: #6b7280 !important;
+    transform: translateY(-1px); 
+}
+
+/* New place */
+.new-place .mb-button-inner {
+    background-color: #15803d !important; /* Change to your hex code */
+    color: white !important;               /* Text color */
+    border: none !important;
+}
+/* Change color when hovering */
+.new-place .mb-button-inner:hover {
+    background-color: #22c55e !important;
+    transform: translateY(-1px); 
+}
+
+/* New event */
+.new-event .mb-button-inner {
+    background-color: #ea580c !important; /* Change to your hex code */
+    color: white !important;               /* Text color */
+    border: none !important;
+}
+/* Change color when hovering */
+.new-event .mb-button-inner:hover {
+    background-color: #fb923c !important;
     transform: translateY(-1px); 
 }

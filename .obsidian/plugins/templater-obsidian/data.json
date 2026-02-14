@@ -13,20 +13,7 @@
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "10 - Player Campaigns",
-      "template": "90 - Templates/Campaign/Campaign Overview Template.md"
-    },
-    {
-      "folder": "10 - Player Campaigns/From Ruins",
-      "template": "90 - Templates/Campaign/New Info Suggester Template.md"
-    },
-    {
-      "folder": "10 - Player Campaigns/Draconic Override",
-      "template": "90 - Templates/Campaign/New Info Suggester Template.md"
-    }
-  ],
+  "folder_templates": [],
   "enable_file_templates": false,
   "file_templates": [
     {
@@ -39,7 +26,13 @@
   "enabled_templates_hotkeys": [
     "90 - Templates/Automations/New Connection Automation.md",
     "90 - Templates/Automations/Remove Connection Automation.md",
-    ""
+    "90 - Templates/Campaign/New Info Suggester Template.md",
+    "90 - Templates/Campaign/Campaign Overview Template.md",
+    "90 - Templates/Campaign/Player Template.md",
+    "90 - Templates/Campaign/NPC Template.md",
+    "90 - Templates/Campaign/Event Template.md",
+    "90 - Templates/Campaign/Place Template.md",
+    "90 - Templates/Campaign/Session Note Template.md"
   ],
   "startup_templates": [
     ""

@@ -5,8 +5,9 @@ Latest Session:
 cssclasses:
   - pretty-inserts
 ---
-![[Campaign Actions]]
-# Players 
+> [!tip]- Actions
+> ![[Campaign Actions]]
+# Players `BUTTON[newPlayer]`
 ![[Campaign Note Display.base#Players]]
 
 # NPCs

@@ -1,10 +1,12 @@
 <%*
-// Update the frontmatter
-await app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
-  frontmatter["Portrait"] = "[[playernodata.png]]"
-  frontmatter["Pronouns"] = ""
-  frontmatter["Notes"] = ""
-  frontmatter["Connections"] = []
+tp.hooks.on_all_templates_executed(async () => {
+	// Update the frontmatter
+	await app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
+		  frontmatter["Portrait"] = "[[playernodata.png]]"
+		  frontmatter["Pronouns"] = ""
+		  frontmatter["Notes"] = ""
+		  frontmatter["Connections"] = []
+	})
 })
 
 // Rename and move

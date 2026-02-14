@@ -3,21 +3,22 @@ Status:
 cssclasses:
   - pretty-inserts
 ---
+`BUTTON[newInfo]`
 ![[Campaign Actions]]
-# Players 
+# `BUTTON[newPlayer]` Players 
 ![[Campaign Note Display.base#Players]]
 
-# NPCs
+# `BUTTON[newNPC]` NPCs
 ![[Campaign Note Display.base#NPCs]]
 
-# Sessions
+# `BUTTON[newSesh]` Sessions
 ![[Campaign Note Display.base#Sessions]]
 
-# World
+# `BUTTON[newPlace]` `BUTTON[newEvent]` World
 ![[Campaign Note Display.base#The World]]
 <%*
 const campaignName = await tp.system.prompt("What is the name of the Campaign?")
-await tp.file.move(tp.file.folder(true) + "/" + campaignName + "/⭐ " + campaignName)
+await tp.file.move("10 - Player Campaigns" + "/" + campaignName + "/⭐ " + campaignName)
 
 const currentFolder = tp.file.folder(true)
 
@@ -38,3 +39,73 @@ const pitch = `${currentFolder}/` + "Pitch.md"
 
 > [!info] Pitch
 > ![[<% pitch %>]]
+
+
+> [!danger]- Button data
+> 
+>```meta-bind-button
+style: default
+tooltip: Adds a new connection between people.
+label: ✨ New Info
+hidden: false
+class: new-info
+id: newInfo
+action:
+  type: command
+  command: templater-obsidian:create-90 - Templates/Campaign/Event Template.md
+>```
+>```meta-bind-button
+style: default
+tooltip: Adds a new connection between people.
+label: 🤝
+hidden: false
+class: new-player
+id: newPlayer
+action:
+  type: command
+  command: templater-obsidian:create-90 - Templates/Campaign/Player Template.md
+>```
+>```meta-bind-button
+style: default
+tooltip: Adds a new connection between people.
+label: 🎭
+hidden: false
+class: new-npc
+id: newNPC
+action:
+  type: command
+  command: templater-obsidian:create-90 - Templates/Campaign/NPC Template.md
+>```
+>```meta-bind-button
+style: default
+tooltip: Adds a new connection between people.
+label: 📝
+hidden: false
+class: new-sessionnote
+id: newSesh
+action:
+  type: command
+  command: templater-obsidian:create-90 - Templates/Campaign/Session Note Template.md
+>```
+>```meta-bind-button
+style: default
+tooltip: Adds a new connection between people.
+label: 🏔️
+hidden: false
+class: new-place
+id: newPlace
+action:
+  type: command
+  command: templater-obsidian:create-90 - Templates/Campaign/Place Template.md
+>```
+>```meta-bind-button
+style: default
+tooltip: Adds a new connection between people.
+label: ⏳
+hidden: false
+class: new-event
+id: newEvent
+action:
+  type: command
+  command: templater-obsidian:create-90 - Templates/Campaign/Event Template.md
+>```

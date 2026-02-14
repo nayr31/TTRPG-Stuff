@@ -1,6 +1,5 @@
-> [!tip]- Actions
-> `BUTTON[addCon]` `BUTTON[rmCon]`
-> ```meta-bind-button
+`BUTTON[addCon]` `BUTTON[rmCon]` 
+```meta-bind-button
 style: default
 label: ⛓️‍💥 Remove Connection
 hidden: true
@@ -10,8 +9,8 @@ tooltip: Removes a connection.
 action:
   type: command
   command: templater-obsidian:90 - Templates/Automations/Remove Connection Automation.md
->```
->```meta-bind-button
+```
+```meta-bind-button
 style: default
 tooltip: Adds a new connection between people.
 label: 🔗 New Connection
@@ -21,4 +20,4 @@ id: addCon
 action:
   type: command
   command: templater-obsidian:90 - Templates/Automations/New Connection Automation.md
->```
+```

@@ -1,8 +1,10 @@
 <%*
-// Update the frontmatter
-await app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
-  frontmatter["Notes"] = ""
-  frontmatter["Related"] = []
+tp.hooks.on_all_templates_executed(async () => {
+	// Update the frontmatter
+	await app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
+	  frontmatter["Notes"] = ""
+	  frontmatter["Related"] = []
+	})
 })
 
 // Rename and move
