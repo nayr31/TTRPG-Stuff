@@ -7,7 +7,7 @@ cssclasses:
 ---
 > [!tip]- Actions
 > ![[Campaign Actions]]
-# Players `BUTTON[newPlayer]`
+# Players
 ![[Campaign Note Display.base#Players]]
 
 # NPCs
@@ -22,4 +22,15 @@ cssclasses:
 > [!info] 🏛 Pitch
 > ![[10 - Player Campaigns/From Ruins/Pitch|Pitch]]
 
+```button
+name Connect
+type command
+action Templater: Insert 90 - Templates/Automations/New Connection Automation
+```
+^button-connect
 
+```button
+name connect2
+type template
+action New Connection Automation
+```

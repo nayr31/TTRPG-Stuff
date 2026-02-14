@@ -21,3 +21,4 @@ action:
   type: command
   command: templater-obsidian:90 - Templates/Automations/New Connection Automation.md
 ```
+
