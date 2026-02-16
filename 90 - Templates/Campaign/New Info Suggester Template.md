@@ -3,8 +3,8 @@ const templates = [
 	{ name: "🧙‍♂️ Player", path: "90 - Templates/Campaign/Player Template" },
 	{ name: "👷 NPC", path: "90 - Templates/Campaign/NPC Template" },
 	{ name: "📝 Session Note", path: "90 - Templates/Campaign/Session Note Template" },
-	{ name: "⛰️ Place", path: "90 - Templates/Campaign/Place Template" },
-	{ name: "🎫 Event", path: "90 - Templates/Campaign/Event Template" }
+	{ name: "🎫 Event", path: "90 - Templates/Campaign/Event Template" },
+	{ name: "⛰️ Place", path: "90 - Templates/Campaign/Place Template" }
 ]
 
 // Ask which type of new data file it is

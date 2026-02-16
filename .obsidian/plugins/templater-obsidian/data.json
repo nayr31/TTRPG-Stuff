@@ -13,7 +13,12 @@
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [],
+  "folder_templates": [
+    {
+      "folder": "10 - Player Campaigns",
+      "template": "90 - Templates/Campaign/New Info Suggester Template.md"
+    }
+  ],
   "enable_file_templates": false,
   "file_templates": [
     {

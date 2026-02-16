@@ -1,0 +1,30 @@
+/* --- 1. Your Custom TTRPG Callouts --- */
+
+.callout[data-callout="players"] { --callout-color: 0, 200, 80; --callout-icon: lucide-users; }
+.callout[data-callout="npcs"] { --callout-color: 155, 89, 182; --callout-icon: lucide-user-cog; }
+.callout[data-callout="session"] { --callout-color: 218, 165, 32; --callout-icon: lucide-book-open; }
+.callout[data-callout="world"] { --callout-color: 200, 30, 30; --callout-icon: lucide-globe; }
+
+/* --- 2. Scaling the Icons and Title Text --- */
+
+/* This targets only your 4 custom TTRPG callouts */
+.callout[data-callout="players"], 
+.callout[data-callout="npcs"], 
+.callout[data-callout="session"], 
+.callout[data-callout="world"] {
+    /* Increases the title font size */
+    --callout-title-size: 1.4em; 
+    
+    /* Makes the title bold and more readable */
+    --callout-title-padding: 12px 15px; 
+}
+
+/* Target only the SVG icons within your specific TTRPG callouts */
+.callout[data-callout="players"] .callout-icon svg,
+.callout[data-callout="npcs"] .callout-icon svg,
+.callout[data-callout="session"] .callout-icon svg,
+.callout[data-callout="world"] .callout-icon svg {
+    width: 32px;  /* Adjust this number to your liking */
+    height: 32px;
+    min-width: 32px; /* Prevents the icon from squishing */
+}

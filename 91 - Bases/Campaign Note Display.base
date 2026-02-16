@@ -75,9 +75,10 @@ views:
       - Notes
       - Related
     sort:
+      - property: Notes
+        direction: ASC
       - property: file.name
         direction: ASC
-    limit: 4
     columnSize:
       formula.name: 123
       note.Notes: 380
