@@ -5,17 +5,18 @@ cssclasses:
 ---
 > [!tip]- Actions
 > ![[Campaign Actions]]
-# 🤝 Players 
-![[Campaign Note Display.base#Players]]
 
-# 🎭 NPCs
-![[Campaign Note Display.base#NPCs]]
+> [!players] 🤝 Players 
+> ![[Campaign Note Display.base#Players]]
 
-# 📝 Sessions
-![[Campaign Note Display.base#Sessions]]
+> [!npcs] 🎭 NPCs
+> ![[Campaign Note Display.base#NPCs]]
 
-# ⏳ World
-![[Campaign Note Display.base#The World]]
+> [!session] 📝 Session Notes
+> ![[Campaign Note Display.base#Sessions]]
+
+> [!world] ⏳ World
+> ![[Campaign Note Display.base#The World]]
 <%*
 const campaignName = await tp.system.prompt("What is the name of the Campaign?")
 await tp.file.move("10 - Player Campaigns" + "/" + campaignName + "/⭐ " + campaignName)

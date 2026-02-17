@@ -28,3 +28,21 @@
     height: 32px;
     min-width: 32px; /* Prevents the icon from squishing */
 }
+
+/* --- Bases Card Customization --- */
+
+/* --- 1. Base Styles for all Cards --- */
+.bases-cards-item {
+    border-radius: 8px !important;
+    border: 1px solid var(--background-modifier-border) !important;
+    transition: transform 0.15s ease-in-out, box-shadow 0.15s ease-in-out !important;
+    overflow: hidden;
+}
+
+/* Hover "Lift" Effect */
+.bases-cards-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+    z-index: 10; /* Ensures the hovered card stays on top */
+}
+
