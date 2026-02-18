@@ -6,5 +6,6 @@ Connections:
   - "[[Nelo|Nelo → big brother of → Klem]]"
 ---
 
+
 # 🔗 Connections
 ![[Connections.base#Character Connections]]
