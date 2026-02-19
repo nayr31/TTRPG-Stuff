@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - hide-controls
+---
 ## 🧙‍♂️ My Characters
 ![[Vault Overview.base]]
 
