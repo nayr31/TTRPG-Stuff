@@ -1,6 +1,9 @@
 formulas:
   Campaign: file(link(file.folder.split("/").slice(0, -1).join("/") + "/⭐ " + file.folder.split("/").slice(-2, -1)))
   Active status: formula.Campaign.properties.Status
+  Last Session: |-
+    if(note["Latest Session"], link(note["Latest Session"], 
+    file(note["Latest Session"]).basename + " - " + file(note["Latest Session"]).properties.Date.format("MMM Do") + " (" + (today() - file(note["Latest Session"]).properties.Date).days + " days ago)"), "No Session yet!")
 properties:
   file.name:
     displayName: Name
@@ -37,8 +40,8 @@ views:
       direction: DESC
     order:
       - file.name
-      - Latest Session
       - System
+      - formula.Last Session
     sort:
       - property: file.mtime
         direction: DESC
@@ -46,3 +49,4 @@ views:
         direction: ASC
     columnSize:
       file.name: 200
+      note.System: 162

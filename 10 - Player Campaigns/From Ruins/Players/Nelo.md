@@ -1,7 +1,7 @@
 ---
+isMe: true
 Pronouns: He/Him
 Class: Nightwalker Rogue
-isMe: true
 Portrait: "[[nelo.jpg]]"
 Race: Katari
 Connections:

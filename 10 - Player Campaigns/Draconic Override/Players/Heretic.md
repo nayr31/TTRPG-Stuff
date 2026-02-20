@@ -1,10 +1,11 @@
 ---
 isMe: true
-Portrait: "[[heretic.jpg]]"
-Race:
+Pronouns: He/Him
 Class: Heretic
+Portrait: "[[heretic.jpg]]"
+Race: (The angel one?)
+Connections: []
 ---
-
 > [!NOTE] Heretic Notes
 > Heretics seem to be spellcasters that can either be stationed in the frontlines, or among allies. Able to augment their spells and debuff enemies, *page 267* will be of great use.
 

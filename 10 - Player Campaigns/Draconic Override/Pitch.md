@@ -1,10 +1,1 @@
-**Welcome to Taloreth**
-
-The year is 1796 in the Age of Zaldry.  
-Across the world of Maexiroth, dragons rule the land. Under their guidance, the other beings that live here prosper with food and security. The ancient knowledge that these dragons hold has advanced the magical and nonmagical communities, giving rise to a multitude of new spells as well as technology like airships. A large portion of the world is unexplored, yet most of it is claimed by one country or another. Each of the nations in this land are simultaneously vying for power amongst themselves and land for resources and wealth, as the Dragons have delegated ruling to varying factions. However no conquest compares to one that calls and affects each living soul; Magic. After centuries, the magic that flows through and surrounds each and every being is starting to wane, and no one knows why. 
-
-Among the various lands is Novroth, a land named for the first documented dragon to make himself known to the world. Novroth boasts a diverse amount of climates, from the deserts that Red dragons roam to the dense forests that Black dragons call home. It has the biggest Neutral Territory in all of Maexiroth, where dragons and creatures of all kinds walk together. 
-
-Nestled in a large mountain that borders the Red territory and the Neutral Territory is Taloreth. The unassuming mountain is home to a bustling city that boasts a diverse landscape. Not only that but Taloreth's market is the best in the land, anything one might desire can be found within the city. However this all pales in comparison to the shining jewel of Taloreth; The Riding Guilds. 
-
-In the last moon cycle, the Riding Guilds have released an announcement for a competition. The Flights of Fancy, a festival and competition for those of all talents. The prize? Information on the location of the rumored Font of Flourishing, one sip is said to sustain your magical ability for life.
+Put the campaign pitch here!

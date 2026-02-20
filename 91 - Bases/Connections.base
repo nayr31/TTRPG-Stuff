@@ -15,12 +15,10 @@ views:
       and:
         - "!Connections.isEmpty()"
         - Connections.contains(this.file.basename)
-    groupBy:
-      property: Notes
-      direction: ASC
     order:
       - formula.Portrait
       - file.name
+      - Notes
       - formula.Connected by
     sort:
       - property: formula.Number of Connections
@@ -31,3 +29,4 @@ views:
     rowHeight: tall
     columnSize:
       formula.Portrait: 151
+      note.Notes: 291

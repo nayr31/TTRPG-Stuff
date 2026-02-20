@@ -22,7 +22,8 @@
     "multi callout columns",
     "meta bind buttons",
     "campaign callouts",
-    "hide bases headers"
+    "hide bases headers",
+    "bases customization"
   ],
   "cssTheme": "AnuPpuccin",
   "baseFontSize": 16,

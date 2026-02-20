@@ -1,6 +1,5 @@
 ---
 cssclasses:
-  - hide-controls
 ---
 ## 🧙‍♂️ My Characters
 ![[Vault Overview.base]]
@@ -18,3 +17,4 @@ action:
 ```
 ## 🗺️ My Campaigns
 ![[Vault Overview.base#Campaign List]]
+

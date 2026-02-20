@@ -1,13 +1,23 @@
 ---
 Status: 🟡 Inactive
-System: Draconic Override
+cssclasses:
+  - pretty-inserts
+System: "[🐲 Drakonym](file:///Y:%5CTTRPG%20Stuff%5CDrakonym)"
 ---
-# Players 
-![[Campaign Note Display.base#Players]]
+> [!tip]- Actions
+> ![[Campaign Actions]]
 
-# NPCs
-![[Campaign Note Display.base#NPCs]]
+> [!players] 🤝 Players 
+> ![[Campaign Note Display.base#Players]]
 
-# Sessions
-![[Campaign Note Display.base#Sessions]]
+> [!npcs] 🎭 NPCs
+> ![[Campaign Note Display.base#NPCs]]
 
+> [!session] 📝 Session Notes
+> ![[Campaign Note Display.base#Sessions]]
+
+> [!world] ⏳ World
+> ![[Campaign Note Display.base#The World]]
+
+> [!info] Pitch
+> ![[10 - Player Campaigns/Draconic Override/Pitch.md]]
