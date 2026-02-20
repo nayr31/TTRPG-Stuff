@@ -1,14 +1,8 @@
 ---
 isMe: true
 Portrait: "[[heretic.jpg]]"
+Race:
 Class: Heretic
-Stats:
-  - 2
-  - 5
-  - "1"
-  - "1"
-  - "1"
-  - "1"
 ---
 
 > [!NOTE] Heretic Notes
@@ -40,26 +34,6 @@ Attributes:
 *Race:* Adaphaen
 *Core Perk - Wings:* You possess radiant wings. You gain flight equal to your Speed. You may fly for a number of rounds equal to your Body (minimum 1) before landing
 
-
-> [!multi-column-clean]
-> > [!about] Attributes
-> > Body: `BUTTON[statdown0]` `VIEW[{Stats[0]}]` `BUTTON[statup0]` 
->> Shadow: `INPUT[number:shadow]` 
-> 
-> > [!tip] A secondary part
-> > Gods: `INPUT[number:gods]`
-> > Soul `INPUT[number:soul]`
-> 
-> > [!fail] The third one!
-> > Mind: `INPUT[number:mind]`
-> > World: `INPUT[number:world]`
-
-```meta-bind
-INPUT[list:Stats]
-```
-
-
----
 
 All though the path to holy worship is laden with broken glass, I walk it barefoot all the same
 Corruption of the flesh is the least of your worries
