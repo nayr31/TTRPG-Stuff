@@ -2,22 +2,31 @@ filters:
   and:
     - file.path.contains("30 -")
     - '!file.name.contains("💡")'
+    - file.path.contains(".md")
 formulas:
-  Writing Progress: '"Backstory/Depth " + Progress[0] + " Complexity " + Progress[1]'
+  Writing Progress: (if(Progress[0] == 1, "📃✖️✖️", (if(Progress[0] == 2, "📃📃✖️", "📃📃📃"))))
+  Untitled: if(Hype == 1, "🔥", (if(Hype == 2, "🔥🔥", "🔥🔥🔥")))
+  Compexity: (if(Progress[1] == 1, "🧶✖️✖️", (if(Progress[1] == 2, "🧶🧶✖️", "🧶🧶🧶"))))
 properties:
   note.Archetype:
     displayName: 👑 Archetype
+  formula.Untitled:
+    displayName: Potential
+  formula.Writing Progress:
+    displayName: Backstory/Depth
 views:
   - type: cards
     name: Gallery
-    groupBy:
-      property: Potential
-      direction: ASC
     order:
       - file.name
       - Archetype
-      - Hype
+      - formula.Untitled
       - formula.Writing Progress
+      - formula.Compexity
     sort:
+      - property: Hype
+        direction: DESC
       - property: file.mtime
         direction: DESC
+    cardSize: 150
+    image: note.Portrait

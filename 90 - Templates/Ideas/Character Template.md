@@ -1,8 +1,9 @@
 ---
 Archetype:
 Pronouns:
-Hype: 🔥🔥🔥
+Hype:
 Progress:
-  - 📜✖️✖️
-  - 🧶✖️✖️
+  - "1"
+  - "1"
+Portrait:
 ---
