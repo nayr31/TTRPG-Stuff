@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.path.contains("30 -")
+    - '!file.name.contains("💡")'
+formulas:
+  Writing Progress: '"Backstory/Depth " + Progress[0] + " Complexity " + Progress[1]'
+properties:
+  note.Archetype:
+    displayName: 👑 Archetype
+views:
+  - type: cards
+    name: Gallery
+    groupBy:
+      property: Potential
+      direction: ASC
+    order:
+      - file.name
+      - Archetype
+      - Hype
+      - formula.Writing Progress
+    sort:
+      - property: file.mtime
+        direction: DESC

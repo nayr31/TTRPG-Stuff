@@ -1,7 +1,16 @@
 {
   "hiddenProperties": [],
   "propertyPillColors": {},
-  "propertyLongtextColors": {},
+  "propertyLongtextColors": {
+    "The Fallen Star": {
+      "pillColor": "none",
+      "textColor": "default"
+    },
+    "The Fallen Star 🌠": {
+      "pillColor": "none",
+      "textColor": "default"
+    }
+  },
   "tagColors": {},
   "enableBanner": true,
   "enableIcon": true,
@@ -20,6 +29,7 @@
   "coverDefaultWidth2": 250,
   "coverDefaultWidth3": 300,
   "coverMaxHeight": 500,
+  "coverMaxHeightTopBottom": 400,
   "coverVerticalWidth": 200,
   "coverHorizontalWidth": 300,
   "coverSquareWidth": 250,
@@ -40,6 +50,7 @@
   "showColorSettings": false,
   "showTextColorSettings": false,
   "showHiddenSettings": false,
+  "showHiddenEmptySettings": false,
   "iconsFolder": "",
   "iconSize": 70,
   "iconTopMargin": 70,
@@ -116,5 +127,6 @@
   "imageLinkFormat": "link",
   "hideMetadataContainerIfAllPropertiesHiddenEditing": false,
   "hideMetadataContainerIfAllPropertiesHiddenReading": false,
-  "autoHidePropertiesWithBanner": false
+  "autoHidePropertiesWithBanner": false,
+  "hideCoverCollapsed": false
 }
