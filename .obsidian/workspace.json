@@ -38,6 +38,21 @@
               "icon": "lucide-file",
               "title": "⭐ From Ruins"
             }
+          },
+          {
+            "id": "129051f7e92c3e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 - Character Ideas/💡 Idea Collection.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "💡 Idea Collection"
+            }
           }
         ]
       }
@@ -253,10 +268,10 @@
   },
   "active": "98e5279d8099caad",
   "lastOpenFiles": [
-    "🛰️ Dashboard.md",
-    "30 - Character Ideas/💡 Idea Collection.md",
-    "91 - Bases/Connections.base",
     "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+    "30 - Character Ideas/💡 Idea Collection.md",
+    "🛰️ Dashboard.md",
+    "91 - Bases/Connections.base",
     "90 - Templates/Automations/Remove Connection Automation.md",
     "90 - Templates/Inserts/Campaign Actions.md",
     "90 - Templates/Inserts/New Character Actions.md",

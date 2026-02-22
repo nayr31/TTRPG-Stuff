@@ -18,3 +18,4 @@ action:
 ## 🗺️ My Campaigns
 ![[Vault Overview.base#Campaign List]]
 
+![[💡 Idea Collection]]
