@@ -1,5 +1,6 @@
 ---
 cssclasses:
+  - pretty-inserts
 ---
 ## 🧙‍♂️ My Characters
 ![[Vault Overview.base]]
@@ -18,4 +19,5 @@ action:
 ## 🗺️ My Campaigns
 ![[Vault Overview.base#Campaign List]]
 
+# 💡 Character Ideas
 ![[💡 Idea Collection]]
