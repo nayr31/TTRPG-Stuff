@@ -61,5 +61,9 @@ They always knew Klem's time was short. This led both of them (mostly Klem) to c
 
 Due to her nature, even those last few days together Klem was making jokes (bad, dark humor) to try and make light of the situation for Nelo. "The world was silent without her commentary" (yes I stole that line)
 
+## Voice
+
+He is barely holding on. Klem holds himself up from beyond and as such he holds his head high.
+
 # 🔗 Connections
 ![[Connections.base#Character Connections]]
