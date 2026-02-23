@@ -63,7 +63,11 @@ Due to her nature, even those last few days together Klem was making jokes (bad,
 
 ## Voice
 
-He is barely holding on. Klem holds himself up from beyond and as such he holds his head high.
+He is barely holding on. Klem holds himself up from beyond and as such he holds his head high. For others, he is a well manned person but isn't afraid to be forceful to get what he wants (although death and pain will usually not be on his list of motivators). 
+
+"Testing people" is the thing he does the most. Although it comes off crass and like an asshole, its just his way of making bonds. Testing Competence, Establishing Boundaries, and Testing Moralities would be three big things when it comes to quipping (I can't help it).
+
+Talking with [[Klem]] in the present tense.
 
 # 🔗 Connections
 ![[Connections.base#Character Connections]]
