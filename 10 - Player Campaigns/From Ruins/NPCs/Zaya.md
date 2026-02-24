@@ -2,6 +2,7 @@
 Pronouns: She/Her
 Notes:
 Portrait: "[[zaya.webp]]"
+Connections: []
 ---
 Elven Mage
 Runs a pawn shop in Vlarios, called The Arcane Exchange

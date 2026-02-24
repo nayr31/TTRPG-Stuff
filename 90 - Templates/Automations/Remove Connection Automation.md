@@ -57,5 +57,5 @@ if (otherFile){
 	console.log("Couldn't find other file.")
 }
 
-new Notice(`Removed Connection → ${file1.basename} and ${file2.basename}`)
+new Notice(`Removed Connection → ${currentFile.basename} and ${otherFile.basename}`)
 -%>
