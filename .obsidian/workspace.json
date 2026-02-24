@@ -25,21 +25,22 @@
             }
           },
           {
-            "id": "b1e7433faf8919d9",
+            "id": "7939513d1317c2ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90 - Templates/Automations/New Connection Automation.md",
+                "file": "10 - Player Campaigns/From Ruins/Players/Nelo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "New Connection Automation"
+              "title": "Nelo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,20 +252,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "98e5279d8099caad",
+  "active": "96c5404588fc3b4a",
   "lastOpenFiles": [
-    "90 - Templates/Campaign/Campaign Overview Template.md",
+    "10 - Player Campaigns/From Ruins/Players/Nelo_token.png",
+    "10 - Player Campaigns/From Ruins/Players/nelo full.jpg",
+    "10 - Player Campaigns/From Ruins/Players/Nelo.md",
+    "🛰️ Dashboard.md",
+    "90 - Templates/Automations/New Connection Automation.md",
+    "10 - Player Campaigns/From Ruins/Players/Yuger.md",
     "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+    "90 - Templates/Campaign/Campaign Overview Template.md",
     "90 - Templates/Automations/Remove Connection Automation.md",
     "10 - Player Campaigns/From Ruins/NPCs/Zaya.md",
-    "10 - Player Campaigns/From Ruins/Players/Nelo.md",
     "90 - Templates/Inserts/Campaign Actions.md",
-    "🛰️ Dashboard.md",
     "10 - Player Campaigns/From Ruins/Players/Lyssa Valeria Brooks.md",
     "30 - Character Ideas/💡 Idea Collection.md",
     "91 - Bases/Connections.base",
     "90 - Templates/Inserts/New Character Actions.md",
-    "90 - Templates/Automations/New Connection Automation.md",
     "30 - Character Ideas/Ideas/Lyra.md",
     "30 - Character Ideas/Ideas/Lyra.jpg",
     "90 - Templates/Ideas/Character Template.md",
@@ -289,8 +293,6 @@
     "10 - Player Campaigns/Draconic Override/Players",
     "10 - Player Campaigns/Draconic Override/Pitch.md",
     "90 - Templates/Campaign/Place Template.md",
-    "10 - Player Campaigns/From Ruins/Players/Yuger.md",
-    "80 - Resources/Obsidian Stuff/Checkboxes, Callouts, & Speech Bubbles.md",
     "10 - Player Campaigns/From Ruins/Players/Klem_c.jpg",
     "10 - Player Campaigns/From Ruins/Players/Klem.jpg",
     "10 - Player Campaigns/From Ruins/Players/lyssa.webp",
@@ -298,7 +300,6 @@
     "10 - Player Campaigns/From Ruins/Players/yuger.webp",
     "10 - Player Campaigns/From Ruins/Players/b7115af8a463564d6a53de9358acf3d2.webp",
     "10 - Player Campaigns/From Ruins/NPCs/zaya.webp",
-    "10 - Player Campaigns/From Ruins/NPCs/image.webp",
     "12 - Archived Characters/Minuano Rojo/📃Minuano Sheet.canvas",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.canvas",
