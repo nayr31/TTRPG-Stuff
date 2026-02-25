@@ -42,4 +42,18 @@ Screaming?
 A skeleton with a sword, standing over a body of a young merchant
 
 *combat~*
+some skeletons, an ethereal archer
 
+The leaders usher us inside
+This is going to be a pain
+[[Elwin Havensong]] is here too
+
+[[Nelo]] leaves early
+Weird alleyway
+Did I get pickpocketed?
+Weird scratches on the wall, familiar
+A mark of [[Vlarios#The Fallenshroud|The Fallenshroud]]? Although he wouldn't know that.
+[[Klem]] pushes him to reach out, even if he may dismiss the idea at first.
+
+So many people praying
+[[Borgo]] sad

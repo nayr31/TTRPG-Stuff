@@ -37,7 +37,7 @@ _"Nothing is wasted. Everything can have a second life."_
 Cosstore began as a storage and supply district, once known as Cozy Store. Now it's the industrial backbone of Vlarios, fueled by salvage, manufacture, and unyielding ingenuity. Forges burn, and workshops hum with both mundane labor and unstable magic reclaimed from the Old World  
 Accidents are common, and water contamination has occurred often enough that whether or not one is safe after drinking often becomes a game. Despite this, Cosstore provides steady work and reliable pay, making it indispensable to the city. Behind the noise and smoke, multiple companies quietly compete for control over production, stockpiles, and experimental devices; Each claiming their efforts are necessary for the city’s defense.  
   
-#### **Crossroad Burn**  
+#### Crossroad Burn  
 _"The fire never truly went out."_  
 Crossroad Burn marks the site of Vlarios’s greatest early devastation. When the encampment was nearly overrun during the Terminus, fire swept through this district, killing thousands and leaving scars that never fully healed. Charred foundations still surface during construction, and some streets refuse to stay repaired.  
 Rebuilt out of necessity rather than care, Crossroad Burn exists on the city’s margins. Law enforcement is minimal, and residents rely on personal justice and community bonds. Radical ideas spread quickly here, and the Fallenshroud finds no shortage of recruits among those who feel forgotten or betrayed. Fires still break out without a clear cause, and many believe something beneath the ashes resents being left behind.
