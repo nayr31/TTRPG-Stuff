@@ -8,7 +8,11 @@ Connections:
   - "[[Nelo|Nelo → in a party with → Lyssa Valeria Brooks]]"
   - "[[Yuger|Yuger → in a party with → Lyssa Valeria Brooks]]"
 Notes: Party member
+aliases:
+  - Lyssa
 ---
+Hears voices?
+
 
 # 🔗 Connections
 ![[Connections.base#Character Connections]]

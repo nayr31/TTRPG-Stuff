@@ -1,7 +1,7 @@
 <%*
 // Prompt for two files, listed from all character folders from within the current campaign folder
 const currentFolder = tp.file.folder(true)
-const foldersToSearch = ["Players", "NPCs"]
+const foldersToSearch = ["Players", "NPCs", "World"]
 
 const combinedFiles = app.vault.getMarkdownFiles().filter(file => {
     return foldersToSearch.some(subDir => 

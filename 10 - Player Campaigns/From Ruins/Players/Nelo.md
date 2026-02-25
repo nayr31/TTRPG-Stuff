@@ -8,6 +8,7 @@ Connections:
   - "[[Klem|Nelo → big brother of → Klem]]"
   - "[[Lyssa Valeria Brooks|Nelo → in a party with → Lyssa Valeria Brooks]]"
   - "[[Yuger|Nelo → in a party with → Yuger]]"
+  - "[[Borgo|Nelo → in a party with → Borgo]]"
 ---
 # Background
 

@@ -1,6 +1,6 @@
 ---
 Pronouns: He/Him
-Notes: ""
+Notes: Merchant Guildmaster
 Portrait: "[[elwin.webp]]"
 ---
 Currently Guildmaster for the Merchant's Union

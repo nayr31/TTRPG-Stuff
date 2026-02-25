@@ -1,6 +1,6 @@
 ---
 Pronouns: She/Her
-Notes:
+Notes: Pawn Shop owner
 Portrait: "[[zaya.webp]]"
 Connections: []
 ---

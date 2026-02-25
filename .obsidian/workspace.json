@@ -4,43 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "a8b49f998d250f04",
-        "type": "tabs",
+        "id": "e965fb6bc9a3b3c3",
+        "type": "split",
         "children": [
           {
-            "id": "98e5279d8099caad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🛰️ Dashboard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+            "id": "a8b49f998d250f04",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "98e5279d8099caad",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🛰️ Dashboard.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "🛰️ Dashboard"
+                }
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "🛰️ Dashboard"
-            }
+              {
+                "id": "0778e375733188d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "⭐ From Ruins"
+                }
+              },
+              {
+                "id": "a10e74a61dc20559",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10 - Player Campaigns/From Ruins/World/Places/Vlarios.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vlarios"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "7939513d1317c2ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Player Campaigns/From Ruins/Players/Nelo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Nelo"
-            }
+            "id": "9009445229e2a85d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b0820fb9d1ddbb60",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 1"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -252,20 +295,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "96c5404588fc3b4a",
+  "active": "b0820fb9d1ddbb60",
   "lastOpenFiles": [
+    "10 - Player Campaigns/From Ruins/World/Places/Vlarios.md",
+    "10 - Player Campaigns/From Ruins/World/Places/Ekatra.md",
+    "90 - Templates/Automations/Remove Connection Automation.md",
+    "90 - Templates/Automations/New Connection Automation.md",
+    "10 - Player Campaigns/From Ruins/NPCs/Shalara Vassan.md",
+    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
+    "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
+    "10 - Player Campaigns/From Ruins/World/Reclaimers Accord.md",
+    "🛰️ Dashboard.md",
+    "10 - Player Campaigns/From Ruins/World/Places/Untitled.md",
+    "90 - Templates/Inserts/Campaign Actions.md",
+    "90 - Templates/Campaign/Campaign Overview Template.md",
+    "10 - Player Campaigns/From Ruins/Players/Lyssa Valeria Brooks.md",
+    "10 - Player Campaigns/From Ruins/Players/Nelo.md",
+    "10 - Player Campaigns/From Ruins/NPCs/Elwin Havensong.md",
+    "10 - Player Campaigns/From Ruins/NPCs/Zaya.md",
+    "10 - Player Campaigns/From Ruins/Players/Borgo.md",
+    "10 - Player Campaigns/From Ruins/Players/Borgo_c.png",
+    "10 - Player Campaigns/From Ruins/Players/Borgo.webp",
+    "10 - Player Campaigns/From Ruins/Players/Borgo.webp",
+    "10 - Player Campaigns/From Ruins/NPCs/Shalara_c.png",
+    "10 - Player Campaigns/From Ruins/NPCs/Shalara.webp",
+    "10 - Player Campaigns/From Ruins/World/Events/Fall of the Old World.md",
     "10 - Player Campaigns/From Ruins/Players/Nelo_token.png",
     "10 - Player Campaigns/From Ruins/Players/nelo full.jpg",
-    "10 - Player Campaigns/From Ruins/Players/Nelo.md",
-    "🛰️ Dashboard.md",
-    "90 - Templates/Automations/New Connection Automation.md",
     "10 - Player Campaigns/From Ruins/Players/Yuger.md",
-    "10 - Player Campaigns/From Ruins/⭐ From Ruins.md",
-    "90 - Templates/Campaign/Campaign Overview Template.md",
-    "90 - Templates/Automations/Remove Connection Automation.md",
-    "10 - Player Campaigns/From Ruins/NPCs/Zaya.md",
-    "90 - Templates/Inserts/Campaign Actions.md",
-    "10 - Player Campaigns/From Ruins/Players/Lyssa Valeria Brooks.md",
     "30 - Character Ideas/💡 Idea Collection.md",
     "91 - Bases/Connections.base",
     "90 - Templates/Inserts/New Character Actions.md",
@@ -276,30 +333,16 @@
     "30 - Character Ideas/Ideas/3455.md",
     "91 - Bases/Character Ideas.base",
     "30 - Character Ideas/Lyra.md",
-    "90 - Templates/Campaign/Player Template.md",
     "90 - Templates/Ideas",
     "30 - Character Ideas/Ideas",
     "30 - Character Ideas",
-    "10 - Player Campaigns/From Ruins/Session Notes/Session 1.md",
-    "10 - Player Campaigns/Draconic Override/⭐ Draconic Override.md",
-    "10 - Player Campaigns/Draconic Override/Players/Heretic.md",
-    "10 - Player Campaigns/Draconic Override/World/Status Effects (Player).md",
-    "10 - Player Campaigns/Draconic Override/World/Status Effects (Enemy).md",
     "10 - Player Campaigns/Draconic Override/Players/Drakonym - Character Sheet (Fillable).pdf.annotations.json",
     "10 - Player Campaigns/Draconic Override/Players/Drakonym - Character Sheet (Fillable).pdf",
     "10 - Player Campaigns/Draconic Override/Players/heretic.jpg",
     "10 - Player Campaigns/Draconic Override/Session Notes",
     "10 - Player Campaigns/Draconic Override/NPCs",
     "10 - Player Campaigns/Draconic Override/Players",
-    "10 - Player Campaigns/Draconic Override/Pitch.md",
-    "90 - Templates/Campaign/Place Template.md",
     "10 - Player Campaigns/From Ruins/Players/Klem_c.jpg",
-    "10 - Player Campaigns/From Ruins/Players/Klem.jpg",
-    "10 - Player Campaigns/From Ruins/Players/lyssa.webp",
-    "10 - Player Campaigns/From Ruins/Players/lyssavaleria.webp",
-    "10 - Player Campaigns/From Ruins/Players/yuger.webp",
-    "10 - Player Campaigns/From Ruins/Players/b7115af8a463564d6a53de9358acf3d2.webp",
-    "10 - Player Campaigns/From Ruins/NPCs/zaya.webp",
     "12 - Archived Characters/Minuano Rojo/📃Minuano Sheet.canvas",
     "30 - Homebrew/Slugblaster/Van Life/Van Life.canvas",
     "40 - Game Dev/Playdate/Untitled Road Game/Untitled Road Game.canvas",
