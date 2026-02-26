@@ -1,9 +1,9 @@
 ---
 Notes: The last standing city (our starting point).
-Related:
-  - "[[Ekatra]]"
 aliases:
   - The City that Refused to Die
+Connections:
+  - "[[Ekatra|Vlarios → located in → Ekatra]]"
 ---
 [World Anvil link](https://www.worldanvil.com/w/narrando-bunberri/a/vlarios-settlement)
 

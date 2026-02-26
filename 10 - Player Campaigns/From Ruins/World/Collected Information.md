@@ -1,3 +1,6 @@
+---
+Notes: Random information that was collected
+---
 PBP after [[Session 1]]
 
 Nelo found a mark, it belongs to the "**Burdened Blade**"

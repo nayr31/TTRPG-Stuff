@@ -5,8 +5,7 @@ Latest Session: "[[10 - Player Campaigns/From Ruins/Session Notes/Session 1|Sess
 cssclasses:
   - pretty-inserts
 ---
-> [!tip]- Actions
-> ![[Campaign Actions]]
+
 
 > [!players] 🤝 Players 
 > ![[Campaign Note Display.base#Players]]

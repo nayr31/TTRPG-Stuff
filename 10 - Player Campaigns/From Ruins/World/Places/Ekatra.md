@@ -1,6 +1,6 @@
 ---
 Notes: The country that the campaign takes place in.
-Related:
-  - "[[Vlarios]]"
+Connections:
+  - "[[Vlarios|Vlarios → located in → Ekatra]]"
 ---
 Located in [[Vlarios]].

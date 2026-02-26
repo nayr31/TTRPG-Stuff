@@ -73,7 +73,7 @@ views:
     order:
       - file.name
       - Notes
-      - Related
+      - Connections
     sort:
       - property: Notes
         direction: ASC

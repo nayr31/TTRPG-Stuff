@@ -1,6 +1,6 @@
 ---
 Date: 2026-02-24
-Notes: ""
+Notes: Skeletons attack the Reclaimers!
 Campaign: From Ruins
 ---
 [[Fall of the Old World|Terminus]] ended the world.
