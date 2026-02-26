@@ -39,16 +39,16 @@
         "order": 3
       },
       {
-        "rule": "World",
-        "icon": "🌎",
-        "for": "folders",
-        "order": 5
-      },
-      {
         "rule": "Places",
         "icon": "⛰",
         "for": "folders",
         "order": 4
+      },
+      {
+        "rule": "World",
+        "icon": "🌎",
+        "for": "folders",
+        "order": 5
       }
     ],
     "extraMargin": {

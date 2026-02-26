@@ -2,7 +2,7 @@
 // Update the frontmatter
 await app.fileManager.processFrontMatter(tp.config.target_file, (frontmatter) => {
   frontmatter["Notes"] = ""
-  frontmatter["Related"] = []
+  frontmatter["Connections"] = []
 })
 
 // Rename and move

@@ -1,7 +1,6 @@
 ---
 Notes: Pretty big fucking deal.
-Related: []
+Connections:
 aliases:
   - Terminus
 ---
-
