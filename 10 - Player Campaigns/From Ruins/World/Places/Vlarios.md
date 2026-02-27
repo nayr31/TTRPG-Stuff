@@ -4,6 +4,9 @@ aliases:
   - The City that Refused to Die
 Connections:
   - "[[Ekatra|Vlarios → located in → Ekatra]]"
+  - "[[Elwin Havensong|Elwin Havensong → merchant guildmaster of → Vlarios]]"
+  - "[[Shalara Vassan|Shalara Vassan → Gilded Exchange guildmaster → Vlarios]]"
+Portrait: "[[Vlarios.png]]"
 ---
 [World Anvil link](https://www.worldanvil.com/w/narrando-bunberri/a/vlarios-settlement)
 

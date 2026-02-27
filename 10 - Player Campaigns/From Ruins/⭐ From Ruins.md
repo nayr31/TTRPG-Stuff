@@ -6,6 +6,8 @@ cssclasses:
   - pretty-inserts
 ---
 
+> [!tip]- Actions
+> ![[Campaign Actions]]
 
 > [!players] 🤝 Players 
 > ![[Campaign Note Display.base#Players]]
