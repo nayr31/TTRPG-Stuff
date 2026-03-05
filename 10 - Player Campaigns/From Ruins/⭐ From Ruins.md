@@ -1,13 +1,11 @@
 ---
 Status: 🟢 Active
 System: "[🏛 Daggerheart](file:///Y:%5CTTRPG%20Stuff%5CDaggerheart)"
-Latest Session: "[[10 - Player Campaigns/From Ruins/Session Notes/Session 1|Session 1]]"
+Latest Session: "[[10 - Player Campaigns/From Ruins/Session Notes/Session 2|Session 2]]"
 cssclasses:
   - pretty-inserts
 ---
-
-> [!tip]- Actions
-> ![[Campaign Actions]]
+![[Campaign Actions]]
 
 > [!players] 🤝 Players 
 > ![[Campaign Note Display.base#Players]]

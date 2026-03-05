@@ -7,6 +7,7 @@ Race: Human
 Connections:
   - "[[Nelo|Nelo → in a party with → Lyssa Valeria Brooks]]"
   - "[[Yuger|Yuger → in a party with → Lyssa Valeria Brooks]]"
+  - "[[Borgo|Borgo → in a party with → Lyssa Valeria Brooks]]"
 Notes: Party member
 aliases:
   - Lyssa

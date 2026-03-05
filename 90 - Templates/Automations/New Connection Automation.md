@@ -30,4 +30,4 @@ await app.fileManager.processFrontMatter(file2, (frontmatter) => {
 })
 
 new Notice(`New Connection! → ${file1.basename} and ${file2.basename}`)
--%>
+%>

@@ -59,4 +59,4 @@ if (otherFile){
 }
 
 new Notice(`Removed Connection → ${currentFile.basename} and ${otherFile.basename}`)
--%>
+%>

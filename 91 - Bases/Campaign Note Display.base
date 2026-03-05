@@ -67,6 +67,7 @@ views:
     filters:
       and:
         - file.path.contains("World")
+        - file.fullname.contains(".md")
     groupBy:
       property: formula.World Type
       direction: DESC

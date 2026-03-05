@@ -1,7 +1,6 @@
 ---
 Notes: A list of terms.
 ---
-## Term Glossary
 **Dineri** *dih-neh-ree* (n.): Refers to a soul, energy, or life force. Generally referred to as a positive force, though it's meant to be a neutral term. 
 **Rift, The** (n.): A visible tear within the sky. Though closed, the scar left along the stars that still glows with a sickly yellow.
 **Shadows** (n.): Refers to the lingering dark energy left by the Terminus. Can be manifested in multiple ways, spanning corruption, infection, and physical manifestation. 
